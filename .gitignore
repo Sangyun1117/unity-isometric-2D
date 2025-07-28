@@ -1,0 +1,62 @@
+# Unity 관련 기본 무시 파일
+
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Mm]emoryCaptures/
+
+# 사용자별 설정 파일 무시 (IDE 설정, 개인환경)
+UserSettings/
+*.csproj
+*.unityproj
+*.sln
+*.suo
+*.tmp
+*.user
+*.userprefs
+*.pidb
+*.booproj
+*.svd
+
+# 자동 생성되는 파일들
+*.pidb.meta
+*.pdb
+*.mdb
+*.opendb
+*.VC.db
+*.pidb
+
+# 캐시 및 패키지 관련
+*.cache
+*.unitypackage
+
+# Visual Studio Code 설정
+.vscode/
+
+# OS별 무시 파일
+.DS_Store
+Thumbs.db
+
+# Crashlytics (Firebase 등)
+crashlytics-build.properties
+
+# JetBrains Rider
+.idea/
+
+# 기타 빌드 캐시
+*.apk
+*.aab
+*.app
+*.exe
+*.dll
+*.so
+*.dylib
+*.lib
+
+# Addressable Asset System 캐시 폴더 (필요에 따라)
+[Aa]ssets/AddressableAssetsData/aa/*
+
+# 프로젝트 내에 있는 로컬 환경 관련 설정 (원한다면 추가)
