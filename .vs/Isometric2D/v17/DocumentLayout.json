@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Workspace\\UnityProject\\Isometric2D\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{31D5A6FE-CEA3-20E2-887C-FA2CD49B2A27}|Assembly-CSharp.csproj|c:\\workspace\\unityproject\\isometric2d\\assets\\scripts\\objectmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31D5A6FE-CEA3-20E2-887C-FA2CD49B2A27}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\objectmovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{31D5A6FE-CEA3-20E2-887C-FA2CD49B2A27}|Assembly-CSharp.csproj|c:\\workspace\\unityproject\\isometric2d\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D5A6FE-CEA3-20E2-887C-FA2CD49B2A27}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31D5A6FE-CEA3-20E2-887C-FA2CD49B2A27}|Assembly-CSharp.csproj|C:\\Workspace\\UnityProject\\Isometric2D\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31D5A6FE-CEA3-20E2-887C-FA2CD49B2A27}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Workspace\\UnityProject\\Isometric2D\\Assets\\Scripts\\ObjectMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\ObjectMovement.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 291,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,29 +26,42 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "ObjectMovement.cs",
               "DocumentMoniker": "C:\\Workspace\\UnityProject\\Isometric2D\\Assets\\Scripts\\ObjectMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ObjectMovement.cs",
               "ToolTip": "C:\\Workspace\\UnityProject\\Isometric2D\\Assets\\Scripts\\ObjectMovement.cs",
               "RelativeToolTip": "Assets\\Scripts\\ObjectMovement.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAADwvwIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-27T09:04:21.842Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-27T09:04:21.842Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "C:\\Workspace\\UnityProject\\Isometric2D\\Assets\\Scripts\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
               "ToolTip": "C:\\Workspace\\UnityProject\\Isometric2D\\Assets\\Scripts\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwEQAAAAiAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-27T09:01:45.741Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 21,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
             }
           ]
         }
