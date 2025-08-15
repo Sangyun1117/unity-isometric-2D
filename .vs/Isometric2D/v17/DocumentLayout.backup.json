@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "C:\\Workspace\\UnityProject\\Isometric2D\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{31D5A6FE-CEA3-20E2-887C-FA2CD49B2A27}|Assembly-CSharp.csproj|c:\\workspace\\unityproject\\isometric2d\\assets\\smallscaleint\\character creator - modern\\example scene\\scripts\\animationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D5A6FE-CEA3-20E2-887C-FA2CD49B2A27}|Assembly-CSharp.csproj|solutionrelative:assets\\smallscaleint\\character creator - modern\\example scene\\scripts\\animationcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D5A6FE-CEA3-20E2-887C-FA2CD49B2A27}|Assembly-CSharp.csproj|c:\\workspace\\unityproject\\isometric2d\\assets\\smallscaleint\\character creator - modern\\example scene\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D5A6FE-CEA3-20E2-887C-FA2CD49B2A27}|Assembly-CSharp.csproj|solutionrelative:assets\\smallscaleint\\character creator - modern\\example scene\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{31D5A6FE-CEA3-20E2-887C-FA2CD49B2A27}|Assembly-CSharp.csproj|c:\\workspace\\unityproject\\isometric2d\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31D5A6FE-CEA3-20E2-887C-FA2CD49B2A27}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -18,7 +26,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 291,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -26,7 +34,33 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnimationController.cs",
+              "DocumentMoniker": "C:\\Workspace\\UnityProject\\Isometric2D\\Assets\\SmallScaleInt\\Character creator - Modern\\Example Scene\\Scripts\\AnimationController.cs",
+              "RelativeDocumentMoniker": "Assets\\SmallScaleInt\\Character creator - Modern\\Example Scene\\Scripts\\AnimationController.cs",
+              "ToolTip": "C:\\Workspace\\UnityProject\\Isometric2D\\Assets\\SmallScaleInt\\Character creator - Modern\\Example Scene\\Scripts\\AnimationController.cs",
+              "RelativeToolTip": "Assets\\SmallScaleInt\\Character creator - Modern\\Example Scene\\Scripts\\AnimationController.cs",
+              "ViewState": "AgIAADwAAAAAAAAAAAAIwEYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T05:26:33.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Workspace\\UnityProject\\Isometric2D\\Assets\\SmallScaleInt\\Character creator - Modern\\Example Scene\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\SmallScaleInt\\Character creator - Modern\\Example Scene\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Workspace\\UnityProject\\Isometric2D\\Assets\\SmallScaleInt\\Character creator - Modern\\Example Scene\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\SmallScaleInt\\Character creator - Modern\\Example Scene\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAF4AAAAAAAAAAAAtwGQAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-14T05:24:58.06Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "ObjectMovement.cs",
               "DocumentMoniker": "C:\\Workspace\\UnityProject\\Isometric2D\\Assets\\Scripts\\ObjectMovement.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\ObjectMovement.cs",
@@ -38,13 +72,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "PlayerController.cs",
               "DocumentMoniker": "C:\\Workspace\\UnityProject\\Isometric2D\\Assets\\Scripts\\PlayerController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
               "ToolTip": "C:\\Workspace\\UnityProject\\Isometric2D\\Assets\\Scripts\\PlayerController.cs",
               "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
-              "ViewState": "AgIAADgAAAAAAAAAAAAIwEQAAAAiAAAAAAAAAA==",
+              "ViewState": "AgIAADgAAAAAAAAAAAAIwEQAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-27T09:01:45.741Z",
               "EditorCaption": ""

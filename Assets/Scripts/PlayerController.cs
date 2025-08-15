@@ -9,6 +9,7 @@ public class PlayerController : MonoBehaviour
     private float x;
     private float y;
     private Vector2 lastDirection = Vector2.zero; // 마지막 이동 방향
+    [SerializeField] private int spriteIndex = 0;
 
     public void Awake()
     {
@@ -45,7 +46,6 @@ public class PlayerController : MonoBehaviour
         float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
         
         // 8방향으로 분할 (각 45도씩)
-        int spriteIndex = 0;
         
         if (angle >= -22.5f && angle < 22.5f)
         {
@@ -88,11 +88,5 @@ public class PlayerController : MonoBehaviour
             Debug.Log($"SouthEast");
         }
         
-        // 스프라이트 변경
-        // if (spriteIndex >= 0 && spriteIndex < idleSprites.Length && idleSprites[spriteIndex] != null)
-        // {
-        //     Debug.Log($"spriteIndex: {spriteIndex}");
-        //     spriteRenderer.sprite = idleSprites[spriteIndex];
-        // }
     }
 }

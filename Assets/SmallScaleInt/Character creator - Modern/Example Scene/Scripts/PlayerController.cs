@@ -1,6 +1,6 @@
 using UnityEngine;
-using UnityEngine.UI;             // For UI elements
-using UnityEngine.SceneManagement; // For reloading the scene
+using UnityEngine.UI;             // UI 요소용
+using UnityEngine.SceneManagement; // 씬 리로드용
 using System.Collections;
 using TMPro;
 using System.Collections.Generic;
@@ -11,26 +11,26 @@ namespace SmallScaleInc.CharacterCreatorModern
     {
         public AnimationController animationController;
         private CircleCollider2D circleCollider;
-        public float speed = 1.0f; // the movement speed of the player
+        public float speed = 1.0f; // 플레이어의 이동 속도
         private Rigidbody2D rb;
         public bool isMounted = false;
         private Vector2 movementDirection;
-        private bool isOnStairs = false; // when on stairs, the player moves in a different angle.
-        public bool isCrouching = false; // when crouching, the player moves slower
+        private bool isOnStairs = false; // 계단에 있을 때 플레이어가 다른 각도로 이동
+        public bool isCrouching = false; // 앉아있을 때 플레이어가 더 느리게 이동
         private SpriteRenderer spriteRenderer;
-        private float lastAngle;  // Store the last calculated angle
+        private float lastAngle;  // 마지막으로 계산된 각도 저장
         private bool isRunning = false;
         private Color originalColor;
 
-        // Add this field at the top where other variables are declared
+        // 상단에 다른 변수들과 함께 이 필드를 추가
         private AudioSource gunfireAudioSource;
 
 
 
-        // Archer specifics
-        public bool isActive; // If the character is active
-        public bool isRanged; // If the character is an archer OR caster character
-        public bool isStealth; // If true, Makes the player transparent when crouched
+        // 궁수 전용 설정
+        public bool isActive; // 캐릭터가 활성 상태인지
+        public bool isRanged; // 캐릭터가 궁수나 마법사인지
+        public bool isStealth; // true일 경우 웅크릴 때 플레이어를 투명하게 만듦
         public bool isShapeShifter;
         public bool isSummoner;
         public GameObject projectilePrefab;
@@ -41,34 +41,34 @@ namespace SmallScaleInc.CharacterCreatorModern
         public float projectileSpeed = 10.0f;
         public float shootDelay = 0.5f;
 
-        // Melee specifics
+        // 근접 전투 전용 설정
         public bool isMelee;
         public GameObject meleePrefab;
 
-        // Damage and fire rate settings
-        [Header("Damage Settings")]
+        // 데미지 및 발사 속도 설정
+        [Header("데미지 설정")]
         public float bulletDamage = 1f;
         public float bulletsPerSecond = 3f;
         private float nextFireTime = 0f;
 
-        [Header("Line Renderer / Bullet Trace")]
+        [Header("선 렌더러 / 탄환 궤적")]
         public GameObject bulletLinePrefab;
         public float lineDisplayTime = 0.05f;
 
-        [Header("Shot Origin Offsets")]
+        [Header("발사 원점 오프셋")]
         public float muzzleForwardOffset = 0.5f;
         public float muzzleUpOffset = 0.2f;
 
-        // -------------------- Health & UI --------------------
+        // -------------------- 체력 및 UI --------------------
         public int maxHealth = 100;
         public int currentHealth;
         public bool isDead = false;
-        public Slider healthSlider;     // Assign your UI Slider in the Inspector
-        public GameObject gameOver;     // Assign your GAMEOVER UI GameObject in the Inspector
+        public Slider healthSlider;     // 인스펙터에서 UI 슬라이더를 할당하세요
+        public GameObject gameOver;     // 인스펙터에서 GAMEOVER UI GameObject를 할당하세요
 
-        // --- Score / Kill Count ---
+        // --- 점수 / 킬 카운트 ---
         public int killCount = 0;
-        public TextMeshProUGUI killCountText; // Assign this in the Inspector with your score UI element
+        public TextMeshProUGUI killCountText; // 인스펙터에서 점수 UI 요소와 함께 할당하세요
 
 
         void Start()
@@ -78,45 +78,46 @@ namespace SmallScaleInc.CharacterCreatorModern
             animationController = GetComponent<AnimationController>();
             circleCollider = GetComponent<CircleCollider2D>();
             originalColor = spriteRenderer.color;
-            // Initialize health
+            // 체력 초기화
             currentHealth = maxHealth;
             if (healthSlider != null)
             {
                 healthSlider.maxValue = maxHealth;
                 healthSlider.value = currentHealth;
             }
-            // Setup AudioSource for gunfire
+            // 총성 AudioSource 설정
             gunfireAudioSource = GetComponent<AudioSource>();
             if (killCountText != null)
             {
-                originalScale = killCountText.transform.localScale; // Save the original size
+                originalScale = killCountText.transform.localScale; // 원래 크기 저장
             }
         }
 
         void Update()
         {
-            // Existing movement and input code...
+            // 기존 이동 및 입력 코드...
             if(isDead)
             {
                 return;
             }
-            Vector2 mousePosition = Camera.main.ScreenToWorldPoint(Input.mousePosition);
-            Vector2 directionToMouse = (mousePosition - (Vector2)transform.position).normalized;
-            isMounted = animationController.isMounted;
-            float angle = Mathf.Atan2(directionToMouse.y, directionToMouse.x) * Mathf.Rad2Deg;
-            lastAngle = SnapAngleToEightDirections(angle);
+            Vector2 mousePosition = Camera.main.ScreenToWorldPoint(Input.mousePosition); //마우스 스크린 좌표를 월드좌표로 변환환
+            Vector2 directionToMouse = (mousePosition - (Vector2)transform.position).normalized; //플레이어 위치에서 마우스위치까지의 방향벡터 정규화
+            isMounted = animationController.isMounted; //애니메이션 컨트롤러에서 탑승 상태 확인
+            float angle = Mathf.Atan2(directionToMouse.y, directionToMouse.x) * Mathf.Rad2Deg; //마우스 방향에 따른 각도 계산
+            lastAngle = SnapAngleToEightDirections(angle); //8방향 각도로 스냅
 
-            movementDirection = new Vector2(Mathf.Cos(lastAngle * Mathf.Deg2Rad), Mathf.Sin(lastAngle * Mathf.Deg2Rad));
+            movementDirection = new Vector2(Mathf.Cos(lastAngle * Mathf.Deg2Rad), Mathf.Sin(lastAngle * Mathf.Deg2Rad)); //마지막 각도에 따른 이동 방향 벡터 계산
 
+            // 이동, 데미지, 사격, 탐승처리 핸들러러
             HandleMovement();
             HandleDamage();
-            HandleShooting(); // for playing sound
+            HandleShooting(); // 사운드 재생용
             HandleRiding();
 
             bool isMoving = Input.GetKey(KeyCode.W) || Input.GetKey(KeyCode.A) ||
-                             Input.GetKey(KeyCode.S) || Input.GetKey(KeyCode.D);
+                             Input.GetKey(KeyCode.S) || Input.GetKey(KeyCode.D);//wasd 중 하나라도 눌려있으면 이동중
 
-            if (isMoving && !isRunning)
+            if (isMoving && !isRunning) 
             {
                 isRunning = true;
             }
@@ -127,7 +128,7 @@ namespace SmallScaleInc.CharacterCreatorModern
 
             if (Input.GetKeyDown(KeyCode.C))
             {
-                if (isShapeShifter && isActive)
+                if (isShapeShifter && isActive) //변신 캐릭터이고 활성화상태면면
                 {
                     StartCoroutine(ShapeShiftDelayed());
                 }
@@ -136,14 +137,14 @@ namespace SmallScaleInc.CharacterCreatorModern
 
             if (isActive)
             {
-                // Check for missing prefabs (projectile, AoE, etc.)
+                // 누락된 프리팹들(projectile, AoE 등) 확인, 필요한 프리팹들이 하나라도 없으면 종료료
                 if (projectilePrefab == null || AoEPrefab == null ||
                     Special1Prefab == null || HookPrefab == null)
                 {
                     return;
-                }
+                } 
 
-                if (isRanged)
+                if (isRanged) //원거리 캐릭터터
                 {
                     if (Input.GetMouseButtonDown(1))
                     {
@@ -174,7 +175,7 @@ namespace SmallScaleInc.CharacterCreatorModern
                     }
                 }
 
-                if (isMelee)
+                if (isMelee) //근접 캐릭터
                 {
                     if (Input.GetKeyDown(KeyCode.Alpha1))
                     {
@@ -189,7 +190,7 @@ namespace SmallScaleInc.CharacterCreatorModern
                         Invoke(nameof(DelayedShoot), shootDelay);
                     }
                 }
-                else if (Input.GetKeyDown(KeyCode.LeftControl) && isRunning)
+                else if (Input.GetKeyDown(KeyCode.LeftControl) && isRunning) //캐릭터가 뛰고 있고 컨트롤키를 누르면
                 {
                     if (isShapeShifter && isActive)
                     {
@@ -201,7 +202,7 @@ namespace SmallScaleInc.CharacterCreatorModern
 
         void FixedUpdate()
         {
-            if (movementDirection != Vector2.zero)
+            if (movementDirection != Vector2.zero) //이동방향이 0이 아니면 이동동
             {
                 rb.MovePosition(rb.position + movementDirection * speed * Time.fixedDeltaTime);
             }
@@ -209,50 +210,50 @@ namespace SmallScaleInc.CharacterCreatorModern
 
         private void HandleShooting()
         {
-            if (Input.GetMouseButtonDown(1)) // Right mouse button pressed
+            if (Input.GetMouseButtonDown(1)) // 마우스 우클릭 시
             {
-                PlayGunfireSound(); // Play gunfire sound allowing overlapping
+                PlayGunfireSound(); // 겹쳐서 재생 가능한 총성 사운드 재생
             }
         }
 
         private void PlayGunfireSound()
         {
-            // // Create a new GameObject for the sound and add an AudioSource
+            // // 사운드용 새 GameObject 생성하고 AudioSource 추가
             // GameObject gunfireSoundObject = new GameObject("GunfireSound");
             // AudioSource newGunfireSource = gunfireSoundObject.AddComponent<AudioSource>();
 
-            // // Set the AudioSource properties
-            // newGunfireSource.clip = gunfireAudioSource.clip; // Use the existing gunfire sound clip
-            // newGunfireSource.outputAudioMixerGroup = gunfireAudioSource.outputAudioMixerGroup; // Maintain mixer settings
+            // // AudioSource 속성 설정
+            // newGunfireSource.clip = gunfireAudioSource.clip; // 기존 총성 사운드 클립 사용
+            // newGunfireSource.outputAudioMixerGroup = gunfireAudioSource.outputAudioMixerGroup; // 믹서 설정 유지
             // newGunfireSource.volume = gunfireAudioSource.volume;
-            // newGunfireSource.spatialBlend = 0; // Set to 0 for 2D sound (if using 3D sounds, adjust accordingly)
+            // newGunfireSource.spatialBlend = 0; // 2D 사운드의 경우 0으로 설정 (3D 사운드 사용 시 적절히 조정)
 
-            // // Play the sound
+            // // 사운드 재생
             // newGunfireSource.Play();
 
-            // // Destroy the sound object after the clip finishes playing
+            // // 클립 재생 완료 후 사운드 객체 제거
             // Destroy(gunfireSoundObject, newGunfireSource.clip.length);
         }
 
-                /// <summary>
-        /// Allows the gunfire sound to finish naturally if a single shot was fired.
-        /// If the button is held, it loops.
+        /// <summary>
+        /// 단발 사격 시 총성 사운드가 자연스럽게 끝날 수 있도록 합니다.
+        /// 버튼을 누르고 있으면 반복 재생됩니다.
         /// </summary>
         private IEnumerator StopGunfireSoundAfterDelay()
         {
-            yield return new WaitForSeconds(0.25f); // Small delay to allow natural fade-out
-            if (!Input.GetMouseButton(1)) // Check if the button is still being held
+            yield return new WaitForSeconds(0.25f); // 자연스러운 페이드아웃을 위한 짧은 지연
+            if (!Input.GetMouseButton(1)) // 버튼이 여전히 눌려있는지 확인
             {
                 gunfireAudioSource.Stop();
             }
         }
 
         /// <summary>
-        /// Reduces the player's health, updates the UI slider, and checks for death.
+        /// 플레이어의 체력을 감소시키고, UI 슬라이더를 업데이트하며, 사망을 확인합니다.
         /// </summary>
         public void TakeDamage(int damageAmount)
         {
-            if (isDead) return; // Ignore damage if already dead
+            if (isDead) return; // 이미 죽어있으면 데미지 무시
 
             currentHealth -= damageAmount;
             // Debug.Log($"Player took {damageAmount} damage. Current Health: {currentHealth}");
@@ -273,8 +274,8 @@ namespace SmallScaleInc.CharacterCreatorModern
         }
 
         /// <summary>
-        /// Called when the player's health falls to 0. Plays the death animation,
-        /// disables movement, shows the GAMEOVER screen, and restarts the scene after a delay.
+        /// 플레이어의 체력이 0이 될 때 호출됩니다. 죽음 애니메이션을 재생하고,
+        /// 이동을 비활성화하며, GAMEOVER 화면을 표시하고, 지연 후 씬을 다시 시작합니다.
         /// </summary>
         private void Die()
         {
@@ -288,14 +289,14 @@ namespace SmallScaleInc.CharacterCreatorModern
 
             animationController.TriggerDie();
 
-            // Prevent the player body from being pushed
+            // 플레이어 몸체가 밀려나지 않도록 방지
             Rigidbody2D rb = GetComponent<Rigidbody2D>();
             if (rb != null)
             {
-                rb.bodyType = RigidbodyType2D.Static; // Makes the body completely immovable
+                rb.bodyType = RigidbodyType2D.Static; // 몸체를 완전히 움직이지 않게 만듦
             }
 
-            // Show the GAMEOVER UI for 3 seconds
+            // GAMEOVER UI를 3초간 표시
             if (gameOver != null)
             {
                 gameOver.SetActive(true);
@@ -305,9 +306,9 @@ namespace SmallScaleInc.CharacterCreatorModern
 
 
         /// <summary>
-        /// Waits for the specified delay and then restarts the current scene.
+        /// 지정된 지연 시간을 기다린 후 현재 씬을 다시 시작합니다.
         /// </summary>
-        /// <param name="delay">Delay in seconds before restarting.</param>
+        /// <param name="delay">다시 시작하기 전 지연 시간(초)</param>
         private IEnumerator RestartSceneAfterDelay(float delay)
         {
             yield return new WaitForSeconds(delay);
@@ -316,10 +317,10 @@ namespace SmallScaleInc.CharacterCreatorModern
 
 
      // ---------------------------------------------------------------
-        // NEW: Damaging thing under the mouse if right mouse held
+        // 새로 추가: 마우스 우클릭 시 마우스 아래 객체에 데미지 주기
         // ---------------------------------------------------------------
         private Coroutine pulseCoroutine; 
-        private Vector3 originalScale; // Stores the original size at game start
+        private Vector3 originalScale; // 게임 시작 시 원래 크기 저장
 
 
 public void IncrementKillCount()
@@ -329,26 +330,26 @@ public void IncrementKillCount()
     {
         killCountText.text = killCount.ToString();
 
-        // Stop any ongoing pulse effect before starting a new one
+        // 새로운 펄스 효과 시작 전 진행 중인 효과 중지
         if (pulseCoroutine != null)
         {
             StopCoroutine(pulseCoroutine);
         }
 
-        // Start a new pulse effect
+        // 새 펄스 효과 시작
         pulseCoroutine = StartCoroutine(PulseTextEffect(killCountText));
     }
 }
 
 private IEnumerator PulseTextEffect(TextMeshProUGUI text)
 {
-    float duration = 0.2f; // Total pulse duration
-    float maxScaleFactor = 1.5f; // How much larger it grows
+    float duration = 0.2f; // 전체 펄스 지속 시간
+    float maxScaleFactor = 1.5f; // 얼마나 크게 만들지
     float time = 0f;
 
-    Vector3 maxScale = originalScale * maxScaleFactor; // Calculate target size
+    Vector3 maxScale = originalScale * maxScaleFactor; // 목표 크기 계산
 
-    // Enlarge the text
+    // 텍스트 확대
     while (time < duration / 2)
     {
         text.transform.localScale = Vector3.Lerp(text.transform.localScale, maxScale, time / (duration / 2));
@@ -358,7 +359,7 @@ private IEnumerator PulseTextEffect(TextMeshProUGUI text)
     text.transform.localScale = maxScale;
     time = 0f;
 
-    // Shrink back to original size
+    // 원래 크기로 축소
     while (time < duration / 2)
     {
         text.transform.localScale = Vector3.Lerp(text.transform.localScale, originalScale, time / (duration / 2));
@@ -366,14 +367,14 @@ private IEnumerator PulseTextEffect(TextMeshProUGUI text)
         yield return null;
     }
 
-    text.transform.localScale = originalScale; // Ensure final reset
+    text.transform.localScale = originalScale; // 최종 리셋 보장
     pulseCoroutine = null;
 }
 private void HandleDamage()
 {
     if (Input.GetMouseButton(1))
     {
-        float timeBetweenShots = 1f / bulletsPerSecond; // Fire rate control
+        float timeBetweenShots = 1f / bulletsPerSecond; // 발사 속도 제어
         if (Time.time >= nextFireTime)
         {
             speed = 0.5f;
@@ -389,14 +390,14 @@ private void HandleDamage()
                 maxDistance = 1f; 
             }
 
-            // Continue raycasting as long as we are hitting 
+            // 계속 히트하는 동안 레이캐스트 지속
             Vector2 rayOrigin = muzzleOrigin;
             bool shouldContinue = true;
-            List<Vector2> hitPoints = new List<Vector2> { muzzleOrigin }; // Store hit points for the tracer
+            List<Vector2> hitPoints = new List<Vector2> { muzzleOrigin }; // 트레이서용 히트 포인트 저장
 
             if(isMelee == false)
             {
-                // Show tracer line for the full bullet path
+                // 전체 탄환 경로에 대한 트레이서 선 표시
                 StartCoroutine(ShowShotLine(hitPoints));
             }
         }
@@ -409,7 +410,7 @@ private void HandleDamage()
 }
 
 // -------------------------------------------------------------
-// COROUTINE: Instantiates a line prefab and shows the bullet path
+// 코루틴: 선 프리팹을 인스턴스화하고 탄환 경로를 표시
 // -------------------------------------------------------------
 private IEnumerator ShowShotLine(List<Vector2> hitPoints)
 {
@@ -428,12 +429,12 @@ private IEnumerator ShowShotLine(List<Vector2> hitPoints)
 
 float SnapAngleToEightDirections(float angle)
 {
-    angle = (angle + 360) % 360; // Normalize angle to [0..360)
+    angle = (angle + 360) % 360; // 각도를 [0..360)으로 정규화
 
     if (isOnStairs)
     {
-        // -- If you have special "stairs" angles, adjust them likewise.
-        //    (Below is just an example of how you might do it.)
+        // -- 특별한 "계단" 각도가 있다면, 마찬가지로 조정.
+        //    (아래는 어떻게 할 수 있는지 예시입니다.)
         if (angle < 30 || angle >= 330)
             return 0;
         else if (angle >= 30 && angle < 75)
@@ -453,24 +454,24 @@ float SnapAngleToEightDirections(float angle)
     }
     else
     {
-        // -- Normal isometric 8 directions
-        //    Adjusted so diagonals fall at 30°, 150°, 210°, and 330°.
+        // -- 일반적인 아이소메트릭 8방향
+        //    대각선이 30°, 150°, 210°, 330°에 오도록 조정.
         if (angle < 15 || angle >= 345)
-            return 0;    // East
+            return 0;    // 동쪽
         else if (angle >= 15 && angle < 75)
-            return 30;   // NE
+            return 30;   // 북동
         else if (angle >= 75 && angle < 105)
-            return 90;   // North
+            return 90;   // 북쪽
         else if (angle >= 105 && angle < 165)
-            return 150;  // NW
+            return 150;  // 북서
         else if (angle >= 165 && angle < 195)
-            return 180;  // West
+            return 180;  // 서쪽
         else if (angle >= 195 && angle < 255)
-            return 210;  // SW
+            return 210;  // 남서
         else if (angle >= 255 && angle < 285)
-            return 270;  // South
+            return 270;  // 남쪽
         else if (angle >= 285 && angle < 345)
-            return 330;  // SE
+            return 330;  // 남동
     }
 
     return 0;
@@ -495,11 +496,11 @@ float SnapAngleToEightDirections(float angle)
 
         float GetPerpendicularAngle(float angle, bool isLeft)
         {
-            // Calculate the base perpendicular angle (90 degrees offset)
+            // 기본 수직 각도 계산 (90도 오프셋)
             float perpendicularAngle = isLeft ? angle - 90 : angle + 90;
-            perpendicularAngle = (perpendicularAngle + 360) % 360; // Normalize the angle
+            perpendicularAngle = (perpendicularAngle + 360) % 360; // 각도 정규화
 
-            // Use your SnapAngleToEightDirections function to snap to the nearest valid angle
+            // SnapAngleToEightDirections 함수를 사용하여 가장 가까운 유효한 각도로 스냅
             return SnapAngleToEightDirections(perpendicularAngle);
         }
 
@@ -509,11 +510,11 @@ float SnapAngleToEightDirections(float angle)
             {
                 return;
             }
-            else if (!isCrouching || !isMounted) // Allow strafing only when not crouching or mounted, if desired
+            else if (!isCrouching || !isMounted) // 웅크리지 않았거나 탑승하지 않았을 때만 스트레이핑 허용
             {
                 if (Input.GetKey(KeyCode.S))
                 {
-                    movementDirection = -movementDirection; // Move backwards
+                    movementDirection = -movementDirection; // 뒤로 이동
                 }
 
                 else if (Input.GetKey(KeyCode.A))
@@ -530,12 +531,12 @@ float SnapAngleToEightDirections(float angle)
                 }
                 else
                 {
-                    movementDirection = Vector2.zero; // No movement input
+                    movementDirection = Vector2.zero; // 이동 입력 없음
                 }
             }
             else
             {
-                movementDirection = Vector2.zero; // No movement input
+                movementDirection = Vector2.zero; // 이동 입력 없음
             }
         }
 
@@ -543,12 +544,12 @@ float SnapAngleToEightDirections(float angle)
         {
             if (Input.GetKeyDown(KeyCode.C))
             {
-                isCrouching = !isCrouching; // Toggle crouching
-                // speed = isCrouching ? 1.0f : 2.0f; // Adjust speed based on crouch state if needed
+                isCrouching = !isCrouching; // 웅크리기 토글
+                // speed = isCrouching ? 1.0f : 2.0f; // 웅크린 상태에 따라 속도 조정 (필요시)
 
                 if (isCrouching && isStealth)
                 {
-                    // Set the color to dark gray and reduce opacity to 50%
+                    // 색상을 어두운 회색으로 설정하고 투명도를 50%로 감소
                     spriteRenderer.color = new Color(0.5f, 0.5f, 0.5f, 0.5f);
                 }
 
@@ -557,10 +558,10 @@ float SnapAngleToEightDirections(float angle)
 
         void HandleRiding()
         {
-                speed = isMounted ? 2.0f : 1.0f; // Adjust speed based on crouch state if needed
+                speed = isMounted ? 2.0f : 1.0f; // 탑승 상태에 따라 속도 조정
         }
 
-        //Ranged character specific methods:
+        // 원거리 캐릭터 전용 메서드:
 
         public void SetArcherStatus(bool status)
         {
@@ -592,22 +593,22 @@ float SnapAngleToEightDirections(float angle)
             {
                 rbProjectile.linearVelocity = direction * projectileSpeed;
             }
-            // Destroy the instantiated prefab after another 1.5 seconds
+            // 인스턴스화된 프리팹을 1.5초 후에 제거
             Destroy(projectileInstance, 1.5f);
         }
 
         IEnumerator Quickshot()
         {
-            // Initial small delay before starting the quickshot sequence
+            // 퀵샷 시퀀스 시작 전 초기 짧은 지연
             yield return new WaitForSeconds(0.1f);
 
-            // Loop to fire five projectiles in the facing direction
+            // 바라보는 방향으로 5개의 투사체 발사
             for (int i = 0; i < 5; i++)
             {
                 Vector2 fireDirection = new Vector2(Mathf.Cos(lastAngle * Mathf.Deg2Rad), Mathf.Sin(lastAngle * Mathf.Deg2Rad));
                 ShootProjectile(fireDirection);
 
-                // Wait for 0.18 seconds before firing the next projectile
+                // 다음 투사체 발사 전 0.18초 대기
                 yield return new WaitForSeconds(0.18f);
             }
         }
@@ -615,15 +616,15 @@ float SnapAngleToEightDirections(float angle)
         IEnumerator CircleShot()
         {
             float initialDelay = 0.1f;
-            float timeBetweenShots = 0.9f / 8;  // Total time divided by the number of shots
+            float timeBetweenShots = 0.9f / 8;  // 전체 시간을 샷 수로 나눔
 
             yield return new WaitForSeconds(initialDelay);
 
-            // Use the lastAngle as the start angle and generate projectiles in 8 directions
+            // lastAngle을 시작 각도로 사용하고 8방향으로 투사체 생성
             for (int i = 0; i < 8; i++)
             {
-                float angle = lastAngle + i * 45;  // Increment by 45 degrees for each direction
-                angle = Mathf.Deg2Rad * angle;  // Convert to radians for direction calculation
+                float angle = lastAngle + i * 45;  // 각 방향마다 45도씩 증가
+                angle = Mathf.Deg2Rad * angle;  // 방향 계산을 위해 라디안으로 변환
                 Vector2 fireDirection = new Vector2(Mathf.Cos(angle), Mathf.Sin(angle));
                 ShootProjectile(fireDirection);
 
@@ -635,17 +636,17 @@ float SnapAngleToEightDirections(float angle)
         {
             if (AoEPrefab != null)
             {
-                GameObject aoeInstance; // Declare outside to ensure visibility for later destruction
+                GameObject aoeInstance; // 나중에 제거할 수 있도록 외부에 선언
 
                 if (isSummoner)
                 {
-                    // Get mouse position and convert it to world coordinates
+                    // 마우스 위치를 가져와서 월드 좌표로 변환
                     Vector3 mouseScreenPosition = Input.mousePosition;
-                    mouseScreenPosition.z = Camera.main.nearClipPlane; // Set this to your camera's near clip plane
+                    mouseScreenPosition.z = Camera.main.nearClipPlane; // 카메라의 near clip plane으로 설정
                     Vector3 mouseWorldPosition = Camera.main.ScreenToWorldPoint(mouseScreenPosition);
 
-                    yield return new WaitForSeconds(0.3f); // Wait before instantiating (adjust time as needed)
-                    // Instantiate the AoE prefab at the mouse's world position
+                    yield return new WaitForSeconds(0.3f); // 인스턴스화 전 대기 (필요에 따라 시간 조정)
+                    // AoE 프리팹을 마우스의 월드 위치에 인스턴스화
                     aoeInstance = Instantiate(AoEPrefab, new Vector3(mouseWorldPosition.x, mouseWorldPosition.y, 0), Quaternion.identity);
 
                     Destroy(aoeInstance, 8.7f);
@@ -664,12 +665,12 @@ float SnapAngleToEightDirections(float angle)
                     {
                         yield return new WaitForSeconds(0.3f);
                     }
-                    // Instantiate the AoE prefab at the player's position
+                    // AoE 프리팹을 플레이어 위치에 인스턴스화
                     aoeInstance = Instantiate(AoEPrefab, transform.position, Quaternion.identity);
                     Destroy(aoeInstance, 0.9f);
                 }
 
-                // Destroy the AoE instance after 0.9 seconds
+                // AoE 인스턴스를 0.9초 후에 제거
                 
             }
         }
@@ -682,11 +683,11 @@ float SnapAngleToEightDirections(float angle)
 
                 yield return new WaitForSeconds(0.001f);
                 
-                // Instantiate the AoE prefab at the player's position
+                // ShapeShift 프리팹을 플레이어 위치에 인스턴스화
                 GameObject shapeShiftInstance = Instantiate(ShapeShiftPrefab, transform.position, Quaternion.identity);
 
                 
-                // Destroy the instantiated prefab after another 0.5 seconds
+                // 인스턴스화된 프리팹을 0.5초 후에 제거
                 Destroy(shapeShiftInstance, 0.9f);
             }
         }
@@ -694,17 +695,17 @@ float SnapAngleToEightDirections(float angle)
         {
             if (Special1Prefab != null)
             {
-                GameObject Special1PrefabInstance; // Declare outside to ensure visibility for later destruction
+                GameObject Special1PrefabInstance; // 나중에 제거할 수 있도록 외부에 선언
 
                 if (isSummoner)
                 {
-                    // Get mouse position and convert it to world coordinates
+                    // 마우스 위치를 가져와서 월드 좌표로 변환
                     Vector3 mouseScreenPosition = Input.mousePosition;
-                    mouseScreenPosition.z = Camera.main.nearClipPlane; // Set this to your camera's near clip plane
+                    mouseScreenPosition.z = Camera.main.nearClipPlane; // 카메라의 near clip plane으로 설정
                     Vector3 mouseWorldPosition = Camera.main.ScreenToWorldPoint(mouseScreenPosition);
 
-                    yield return new WaitForSeconds(0.6f); // Wait before instantiating (adjust time as needed)
-                    // Instantiate the Special1 prefab at the mouse's world position
+                    yield return new WaitForSeconds(0.6f); // 인스턴스화 전 대기 (필요에 따라 시간 조정)
+                    // Special1 프리팹을 마우스의 월드 위치에 인스턴스화
                     Special1PrefabInstance = Instantiate(Special1Prefab, new Vector3(mouseWorldPosition.x, mouseWorldPosition.y, 0), Quaternion.identity);
                 }
                 else
@@ -717,11 +718,11 @@ float SnapAngleToEightDirections(float angle)
                     {
                         yield return new WaitForSeconds(0.6f);
                     }
-                    // Instantiate the Special1 prefab at the player's position
+                    // Special1 프리팹을 플레이어 위치에 인스턴스화
                     Special1PrefabInstance = Instantiate(Special1Prefab, transform.position, Quaternion.identity);
                 }
 
-                // Destroy the Special1 instance after 1.0 seconds
+                // Special1 인스턴스를 1.0초 후에 제거
                 Destroy(Special1PrefabInstance, 1.0f);
             }
         }
@@ -731,13 +732,13 @@ float SnapAngleToEightDirections(float angle)
             GameObject hookInstance;
             if (isSummoner)
                 {
-                    // Get mouse position and convert it to world coordinates
+                    // 마우스 위치를 가져와서 월드 좌표로 변환
                     Vector3 mouseScreenPosition = Input.mousePosition;
-                    mouseScreenPosition.z = Camera.main.nearClipPlane; // Set this to your camera's near clip plane
+                    mouseScreenPosition.z = Camera.main.nearClipPlane; // 카메라의 near clip plane으로 설정
                     Vector3 mouseWorldPosition = Camera.main.ScreenToWorldPoint(mouseScreenPosition);
 
-                    yield return new WaitForSeconds(0.6f); // Wait before instantiating (adjust time as needed)
-                    // Instantiate the Special1 prefab at the mouse's world position
+                    yield return new WaitForSeconds(0.6f); // 인스턴스화 전 대기 (필요에 따라 시간 조정)
+                    // Hook 프리팹을 마우스의 월드 위치에 인스턴스화
                     hookInstance = Instantiate(HookPrefab, new Vector3(mouseWorldPosition.x, mouseWorldPosition.y, 0), Quaternion.identity);
 
                     Destroy(hookInstance, 5.2f);
@@ -749,10 +750,10 @@ float SnapAngleToEightDirections(float angle)
                         Vector2 direction = new Vector2(Mathf.Cos(lastAngle * Mathf.Deg2Rad), Mathf.Sin(lastAngle * Mathf.Deg2Rad));
                         float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
                         hookInstance = Instantiate(HookPrefab, transform.position, Quaternion.Euler(0, 0, angle));
-                        // Destroy the instantiated prefab after another 1.0 seconds
+                        // 인스턴스화된 프리팹을 1.0초 후에 제거
                         Destroy(hookInstance, 1.0f);
                     }
-                    yield return null; // Ensures the method correctly implements IEnumerator
+                    yield return null; // 메서드가 IEnumerator를 올바르게 구현하도록 보장
                 }
         }
 
@@ -763,13 +764,13 @@ float SnapAngleToEightDirections(float angle)
 
         private IEnumerator FlashEffect()
         {
-            spriteRenderer.color = Color.green; // Change to green
-            yield return new WaitForSeconds(0.7f); // Wait for 0.2 seconds
-            spriteRenderer.color = originalColor; // Restore original color
+            spriteRenderer.color = Color.green; // 녹색으로 변경
+            yield return new WaitForSeconds(0.7f); // 0.2초 대기
+            spriteRenderer.color = originalColor; // 원래 색상으로 복원
         }
 
 
-        // Melee attack method
+        // 근접 공격 메서드
         // void MeleeAttack()
         // {
         //     if (meleePrefab != null)
@@ -780,21 +781,21 @@ float SnapAngleToEightDirections(float angle)
 
         // IEnumerator DelayedMeleeAttack()
         // {
-        //     // Wait for 0.5 seconds before initiating the melee attack
+        //     // 근접 공격 시작 전 0.5초 대기
         //     yield return new WaitForSeconds(0.5f);
 
         //     Vector2 direction = new Vector2(Mathf.Cos(lastAngle * Mathf.Deg2Rad), Mathf.Sin(lastAngle * Mathf.Deg2Rad));
-        //     // Calculate the rotation angle for the melee attack
+        //     // 근접 공격용 회전 각도 계산
         //     float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
 
-        //     // Instantiate the melee attack prefab at the player's position
+        //     // 근접 공격 프리팹을 플레이어 위치에 인스턴스화
         //     GameObject meleeInstance = Instantiate(meleePrefab, transform.position, Quaternion.Euler(0, 0, angle));
 
-        //     // Set the instantiated melee attack prefab as a child of the player
+        //     // 인스턴스화된 근접 공격 프리팹을 플레이어의 자식으로 설정
         //     meleeInstance.transform.SetParent(transform);
 
-        //     // Optionally, destroy the melee attack prefab after a short duration
-        //     Destroy(meleeInstance, 0.1f); // Adjust the duration as needed
+        //     // 선택사항: 짧은 지속시간 후 근접 공격 프리팹 제거
+        //     Destroy(meleeInstance, 0.1f); // 필요에 따라 지속시간 조정
         // }
 
     }
