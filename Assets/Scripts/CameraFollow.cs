@@ -7,7 +7,7 @@ public class CameraFollow : MonoBehaviour
     
     [Header("Follow Settings")]
     [SerializeField] private Vector3 offset = new Vector3(0, 0, -10);  // 카메라와 타겟의 거리
-    [SerializeField] private float smoothSpeed = 3f;  // 부드러운 움직임 속도 (더 느리게)
+    [SerializeField] private float smoothSpeed = 5f;  // 부드러운 움직임 속도 (더 느리게)
     
     [Header("Bounds")]
     [SerializeField] private bool useBounds = true;  // 경계 사용 여부 (기본 활성화)
@@ -35,14 +35,14 @@ public class CameraFollow : MonoBehaviour
 
         // 목표 위치 계산
         Vector3 desiredPosition = target.position + offset;
-        
+
         // 경계 적용
         if (useBounds)
         {
             desiredPosition.x = Mathf.Clamp(desiredPosition.x, minX, maxX);
             desiredPosition.y = Mathf.Clamp(desiredPosition.y, minY, maxY);
         }
-        
+
         // 부드러운 이동
         Vector3 smoothedPosition = Vector3.Lerp(transform.position, desiredPosition, smoothSpeed * Time.deltaTime);
         transform.position = smoothedPosition;

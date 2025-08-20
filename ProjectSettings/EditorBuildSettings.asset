@@ -6,8 +6,14 @@ EditorBuildSettings:
   serializedVersion: 2
   m_Scenes:
   - enabled: 1
-    path: Assets/Scenes/SampleScene.unity
+    path: Assets/Scenes/Seoul_GamePlay_Scene.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
+  - enabled: 1
+    path: Assets/Scenes/HomeScene.unity
+    guid: 1e3a8a964eaefe84480b5d0dee9dbe80
+  - enabled: 1
+    path: Assets/Scenes/Yongin_GamePlay_Scene.unity
+    guid: b1e5580480b844346a69475f760b583f
   m_configObjects:
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
   m_UseUCBPForAssetBundles: 0
