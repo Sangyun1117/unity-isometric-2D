@@ -2,48 +2,48 @@ using UnityEngine;
 using UnityEngine.UI;
 using UnityEngine.EventSystems;
 using System.Collections.Generic;
-using TMPro; // TextMeshPro에 필요
+using TMPro; // Required for TextMeshPro
 
 namespace SmallScaleInc.CharacterCreatorModern
 {
     public class AnimatorGearSwitcher : MonoBehaviour
     {
-        [Header("장비용 애니메이터 컨트롤러")]
+        [Header("Animator Controllers for Gear")]
         public List<RuntimeAnimatorController> animatorControllers;
 
-        [Header("UI 버튼")]
+        [Header("UI Buttons")]
         public Button nextButton;
         public Button previousButton;
-        public Button randomButton; // 랜덤 버튼 추가됨
+        public Button randomButton; // Random button added
 
-        [Header("색상 토글")]
+        [Header("Color Toggles")]
         public Toggle[] colorToggles = new Toggle[5];
         public Color[] toggleColors = new Color[5];
-        // 새로운 스킨 컬러 플래그: true이면 위 리스트에서 랜덤 토글이 선택됨
+        // New Skin Color flag: if true, a random toggle from the above list is chosen.
         public bool isSkinColor;
 
-        [Header("무기 설정")]
-        public bool isWeapon; // 이 장비 부위가 무기인 경우 true로 설정
-        public Toggle[] weaponToggles; // 무기용 토글 리스트
+        [Header("Weapon Settings")]
+        public bool isWeapon; // Set true if this gear piece is a weapon.
+        public Toggle[] weaponToggles; // List of toggles for weapons.
 
-        [Header("가방 설정")]
-        public bool isBag; // 이 장비 부위가 배낭인 경우 true로 설정
-        public Toggle[] bagToggles; // 배낭용 토글 리스트
+        [Header("Bag Settings")]
+        public bool isBag; // Set true if this gear piece is a backpack.
+        public Toggle[] bagToggles; // List of toggles for backpacks.
 
-        [Header("방패 설정")]
-        public bool isShield; // 이 장비 부위가 방패인 경우 true로 설정
-        public Toggle[] shieldToggles; // 방패용 토글 리스트
+        [Header("Shield Settings")]
+        public bool isShield; // Set true if this gear piece is a shield.
+        public Toggle[] shieldToggles; // List of toggles for shields.
 
-        [Header("전역 색상 견본 패널 (모든 장비 부위가 공유)")]
-        public GameObject colorSwatchPanel; // 모든 장비 부위가 공유하는 패널
-        public Button[] colorSwatchButtons; // 지정된 색상을 가진 견본 버튼들
-        public Button closeColorPickerButton; // 작업 없이 패널을 닫는 버튼
+        [Header("Global Color Swatch Panel (shared by all gear pieces)")]
+        public GameObject colorSwatchPanel; // Shared panel for all gear pieces
+        public Button[] colorSwatchButtons; // Swatch buttons with their assigned colors
+        public Button closeColorPickerButton; // Button to close the panel without action
 
-        [Header("UI 색상 정보")]
-        public TextMeshProUGUI colorInfoText; // 견본 정보를 표시할 TextMeshPro 객체
+        [Header("UI Color Info")]
+        public TextMeshProUGUI colorInfoText; // TextMeshPro object to display swatch info
 
-        [Header("무기 색상 선택기")]
-        // 무기 색상 선택기를 사용할 때 모두 업데이트되어야 하는 무기 SpriteRenderer 리스트
+        [Header("Weapon Color Picker")]
+        // List of weapon SpriteRenderers that should all update when the weapon color picker is used.
         public List<SpriteRenderer> weaponSpriteRenderers;
 
         public AnimationController animationController;
@@ -52,25 +52,25 @@ namespace SmallScaleInc.CharacterCreatorModern
         private SpriteRenderer spriteRenderer;
         private int currentAnimatorIndex = 0;
 
-        // 색상 변경을 위한 활성 대상을 저장하는 정적 변수들
-        public static SpriteRenderer currentTarget; // 장비용 (단일 대상)
-        public static List<SpriteRenderer> currentWeaponTargets; // 무기용 (다중 대상)
+        // Static variables to hold the active target(s) for color changes.
+        public static SpriteRenderer currentTarget; // for gear (single target)
+        public static List<SpriteRenderer> currentWeaponTargets; // for weapons (multiple targets)
         public static bool globalSwatchSetup = false;
         public static GameObject globalColorSwatchPanel;
 
-        // 스크립트가 부착된 신체 부위는? 시작 시 장비와 색상을 랜덤화하는 데 사용됨
-        public bool isHead;
+        // What part of the body is the script attached to? Used on start to randomize the gear and color.
+        public bool isHead; 
         public bool isChest;
         public bool isLegs;
         public bool isShoes;
-        // 이전 "isSkin" 필드는 유지됨 (다른 곳에서 사용되는 경우) 하지만 이제 스킨 색상 랜덤화에는 isSkinColor를 사용
+        // The previous "isSkin" field remains (if used elsewhere) but now we use isSkinColor for skin color randomization.
 
         void Start()
         {
             animator = GetComponent<Animator>();
             spriteRenderer = GetComponent<SpriteRenderer>();
 
-            // 애니메이터 버튼 설정
+            // Setup animator buttons.
             if (nextButton != null)
                 nextButton.onClick.AddListener(NextAnimator);
             if (previousButton != null)
@@ -78,14 +78,14 @@ namespace SmallScaleInc.CharacterCreatorModern
             if (randomButton != null)
                 randomButton.onClick.AddListener(RandomGear);
 
-            // 첫 번째 애니메이터 컨트롤러 초기화
+            // Initialize the first animator controller.
             if (animatorControllers.Count > 0)
                 animator.runtimeAnimatorController = animatorControllers[currentAnimatorIndex];
 
-            // 색상 토글 설정
+            // Setup color toggles.
             for (int i = 0; i < colorToggles.Length; i++)
             {
-                int index = i; // 클로저를 위한 지역 복사본
+                int index = i; // Local copy for the closure.
                 if (colorToggles[index] != null)
                 {
                     colorToggles[index].onValueChanged.AddListener(isOn =>
@@ -95,7 +95,7 @@ namespace SmallScaleInc.CharacterCreatorModern
                     });
                 }
             }
-            // 토글의 색상 설정
+            // Set colors of toggles.
             for (int i = 0; i < colorToggles.Length; i++)
             {
                 if (colorToggles[i] != null && i < toggleColors.Length && colorToggles[i].targetGraphic != null)
@@ -103,19 +103,19 @@ namespace SmallScaleInc.CharacterCreatorModern
                     colorToggles[i].targetGraphic.color = toggleColors[i];
                 }
             }
-
-            // 전역 색상 견본 패널과 버튼들을 한 번만 설정
+            
+            // Setup the global color swatch panel and buttons only once.
             if (!globalSwatchSetup && colorSwatchPanel != null && colorSwatchButtons != null)
             {
                 globalColorSwatchPanel = colorSwatchPanel;
                 SetupColorSwatchButtons();
                 SetupCloseButton();
                 globalSwatchSetup = true;
-                // 선택적으로, 기본적으로 패널을 숨김
+                // Optionally, hide the panel by default.
                 globalColorSwatchPanel.SetActive(false);
             }
 
-            // 이 장비 부위가 시작 시 자동으로 랜덤화되어야 하는 경우, 모든 가능한 유형 포함
+            // If this gear piece should automatically randomize on start, include all possible types.
             if (isHead || isChest || isLegs || isShoes || isWeapon || isBag || isShield || isSkinColor)
             {
                 RandomGear();
@@ -146,12 +146,12 @@ namespace SmallScaleInc.CharacterCreatorModern
             }
         }
 
-        // 랜덤 애니메이터/색상 또는 해당되는 경우 랜덤 토글(무기, 가방, 방패, 스킨 색상)을 선택
+        // Picks a random animator/color or random toggle (weapon, bag, shield, skin color) if applicable.
         public void RandomGear()
         {
             bool randomizationApplied = false;
 
-            // 무기 랜덤화
+            // Weapon randomization.
             if (isWeapon && weaponToggles != null && weaponToggles.Length > 0)
             {
                 foreach (Toggle toggle in weaponToggles)
@@ -165,7 +165,7 @@ namespace SmallScaleInc.CharacterCreatorModern
                 randomizationApplied = true;
             }
 
-            // 가방 랜덤화
+            // Bag randomization.
             if (isBag && bagToggles != null && bagToggles.Length > 0)
             {
                 foreach (Toggle toggle in bagToggles)
@@ -179,7 +179,7 @@ namespace SmallScaleInc.CharacterCreatorModern
                 randomizationApplied = true;
             }
 
-            // 방패 랜덤화
+            // Shield randomization.
             if (isShield && shieldToggles != null && shieldToggles.Length > 0)
             {
                 foreach (Toggle toggle in shieldToggles)
@@ -193,7 +193,7 @@ namespace SmallScaleInc.CharacterCreatorModern
                 randomizationApplied = true;
             }
 
-            // isSkinColor가 true인 경우 colorToggles를 사용한 스킨 색상 랜덤화
+            // Skin Color randomization using the colorToggles if isSkinColor is true.
             if (isSkinColor && colorToggles != null && colorToggles.Length > 0)
             {
                 foreach (Toggle toggle in colorToggles)
@@ -207,7 +207,7 @@ namespace SmallScaleInc.CharacterCreatorModern
                 randomizationApplied = true;
             }
 
-            // 토글 유형들이 활성화되지 않은 경우, 기본 의류/장비 랜덤화 수행
+            // If none of the toggle types are active, perform the default clothing/gear randomization.
             if (!randomizationApplied)
             {
                 if (animatorControllers.Count > 0)
@@ -223,7 +223,7 @@ namespace SmallScaleInc.CharacterCreatorModern
             }
         }
 
-        // 견본 버튼들이 현재 활성 대상들을 업데이트하도록 설정
+        // Sets up the swatch buttons to update the currently active target(s).
         void SetupColorSwatchButtons()
         {
             foreach (Button swatchButton in colorSwatchButtons)
@@ -231,11 +231,11 @@ namespace SmallScaleInc.CharacterCreatorModern
                 if (swatchButton != null && swatchButton.targetGraphic != null)
                 {
                     Color swatchColor = swatchButton.targetGraphic.color;
-
-                    // 클릭 리스너 추가: 클릭 시 적절한 대상들을 업데이트
+                    
+                    // Add click listener: when clicked, update the appropriate target(s).
                     swatchButton.onClick.AddListener(() =>
                     {
-                        // 무기 대상들이 활성화된 경우, 모두 업데이트
+                        // If weapon targets are active, update them all.
                         if (currentWeaponTargets != null && currentWeaponTargets.Count > 0)
                         {
                             foreach (SpriteRenderer sr in currentWeaponTargets)
@@ -245,24 +245,24 @@ namespace SmallScaleInc.CharacterCreatorModern
                             }
                             currentWeaponTargets = null;
                         }
-                        // 그렇지 않고 단일 장비 대상이 활성화된 경우, 업데이트
+                        // Otherwise, if a single gear target is active, update it.
                         else if (currentTarget != null)
                         {
                             currentTarget.color = swatchColor;
                             currentTarget = null;
                         }
-                        // 선택 후 견본 패널 숨김
+                        // Hide the swatch panel after selection.
                         globalColorSwatchPanel.SetActive(false);
                     });
 
-                    // 견본 정보 표시를 위한 포인터 진입 및 이탈 이벤트 설정
+                    // Set up pointer enter and exit events for showing swatch info.
                     EventTrigger trigger = swatchButton.gameObject.GetComponent<EventTrigger>();
                     if (trigger == null)
                     {
                         trigger = swatchButton.gameObject.AddComponent<EventTrigger>();
                     }
 
-                    // 포인터 진입 이벤트: 버튼 이름과 16진수 코드 표시
+                    // Pointer Enter event: display button name and hex code.
                     EventTrigger.Entry entryEnter = new EventTrigger.Entry();
                     entryEnter.eventID = EventTriggerType.PointerEnter;
                     entryEnter.callback.AddListener((data) =>
@@ -275,7 +275,7 @@ namespace SmallScaleInc.CharacterCreatorModern
                     });
                     trigger.triggers.Add(entryEnter);
 
-                    // 포인터 이탈 이벤트: 텍스트 지움
+                    // Pointer Exit event: clear the text.
                     EventTrigger.Entry entryExit = new EventTrigger.Entry();
                     entryExit.eventID = EventTriggerType.PointerExit;
                     entryExit.callback.AddListener((data) =>
@@ -290,7 +290,7 @@ namespace SmallScaleInc.CharacterCreatorModern
             }
         }
 
-        // 견본 패널을 숨기는 닫기 버튼 설정
+        // Sets up the close button to hide the swatch panel.
         void SetupCloseButton()
         {
             if (closeColorPickerButton != null)
@@ -299,38 +299,38 @@ namespace SmallScaleInc.CharacterCreatorModern
             }
         }
 
-        // 장비 부위의 자체 "색상 선택기 열기" 버튼에서 이 메서드를 호출
-        // 해당 장비 부위를 현재 대상으로 표시하고 견본 패널을 표시
+        // Call this method from a gear piece’s own "Open Color Picker" button.
+        // It marks that gear piece as the current target and shows the swatch panel.
         public void OpenColorPicker()
         {
             currentTarget = spriteRenderer;
-            currentWeaponTargets = null; // 무기 대상 지움
+            currentWeaponTargets = null; // Clear any weapon target
             if (globalColorSwatchPanel != null)
             {
                 globalColorSwatchPanel.SetActive(true);
             }
         }
 
-        // 무기 색상 선택기 버튼에서 이 메서드를 호출
-        // 무기 SpriteRenderers 리스트를 정적 무기 대상에 할당하고 견본 패널을 열음
+        // Call this method from the weapon color picker button.
+        // It assigns the weapon SpriteRenderers list to the static weapon targets and opens the swatch panel.
         public void OpenWeaponColorPicker()
         {
             currentWeaponTargets = weaponSpriteRenderers;
-            currentTarget = null; // 장비 대상이 지워짐을 보장
+            currentTarget = null; // Ensure the gear target is cleared.
             if (globalColorSwatchPanel != null)
             {
                 globalColorSwatchPanel.SetActive(true);
             }
         }
 
-        // 색상을 적용하지 않고 색상 견본 패널을 닫음
+        // Closes the color swatch panel without applying any color.
         public void CloseColorPicker()
         {
             if (globalColorSwatchPanel != null)
             {
                 globalColorSwatchPanel.SetActive(false);
             }
-            // 두 대상 모두 지움
+            // Clear both targets.
             currentTarget = null;
             if (currentWeaponTargets != null)
                 currentWeaponTargets = null;

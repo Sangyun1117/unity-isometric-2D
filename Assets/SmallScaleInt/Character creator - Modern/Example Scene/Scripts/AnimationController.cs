@@ -9,29 +9,29 @@ namespace SmallScaleInc.CharacterCreatorModern
     public class AnimationController : MonoBehaviour
     {
         public Animator animator;
-        public Animator muzzleAnimator;
+        public Animator muzzleAnimator; 
         public SpriteRenderer muzzleFlashRenderer;
         private SpriteRenderer spriteRenderer;
 
-        public string currentDirection = "isEast"; // 기본 방향
-        public bool isCurrentlyRunning; // 디버깅 목적용
+        public string currentDirection = "isEast"; // Default direction
+        public bool isCurrentlyRunning; //for debugging purposes
         public bool isCrouching = false;
 
         public bool isMounted = false;
-        public Toggle isNotMountedToggle; // 이것이 ON이면 isMounted가 false여야 함을 의미
+        public Toggle isNotMountedToggle; //If this is ON, it means isMounted should be false. 
 
         public bool isDying = false;
         public PlayerController playerController;
-        // 프리팹 리스트들
+            // Lists for prefabs
         [SerializeField] private List<GameObject> bloodPrefabs = new List<GameObject>();
         [SerializeField] private List<GameObject> radiatedPrefabs = new List<GameObject>();
 
-        public bool isRadiated = false; // 방사능 효과 사용 여부 결정
+        public bool isRadiated = false; // Determines whether to use radiated effects
 
 
-        public float rollTime = 0.5f; // 기본 애니메이션으로 다시 전환하기 전 구르기를 수행하는 시간
+        public float rollTime = 0.5f; //the time it takes to peform a roll before swtiching back to default animation.
 
-        [Header("기본 색상 설정")]
+        [Header("Default Color Settings")]
         public Color defaultColor = Color.white;
 
         void Start()
@@ -43,12 +43,12 @@ namespace SmallScaleInc.CharacterCreatorModern
                 isNotMountedToggle = toggleObj.GetComponent<Toggle>();
             }
 
-            // 안전성 검사
+            // Safety check
             if (isNotMountedToggle == null)
             {
-                Debug.LogWarning("isNotMountedToggle을 찾을 수 없습니다. GameObject의 이름이 'IsNotMountedToggle'이고 Toggle 컴포넌트가 있는지 확인하세요.");
+                Debug.LogWarning("isNotMountedToggle was not found. Ensure the GameObject is named 'IsNotMountedToggle' and has a Toggle component.");
             }
-            // animator.SetBool("isEast", true); // 기본 방향을 동쪽으로 설정
+            // animator.SetBool("isEast", true); //Sets the default direction to east.
             // animator.SetBool("isRunning", false);
             // animator.SetBool("isAttacking", false);
             // animator.SetBool("isWalking", false);
@@ -58,12 +58,12 @@ namespace SmallScaleInc.CharacterCreatorModern
         {
             if (animator != null && animator.runtimeAnimatorController != null)
             {
-                animator.Rebind();     // 모든 애니메이터 매개변수와 상태를 리셋
-                animator.Update(0f);   // 리셋을 즉시 적용
+                animator.Rebind();     // Resets all animator parameters and states
+                animator.Update(0f);   // Applies the reset immediately
                 ResetMountIdleParameters();
                 isMounted = false;
                 isCrouching = false;
-                animator.SetBool("isEast", true); // 기본 방향을 동쪽으로 설정
+                animator.SetBool("isEast", true); // Sets the default direction to east.
             }
         }
 
@@ -78,14 +78,14 @@ namespace SmallScaleInc.CharacterCreatorModern
             {
                 return;
             }
-            // 작동함
+            //WORKS
             // if(isAttacking == false)
             // {
             //     HandleMovement();
             // }            
             if (isNotMountedToggle != null)
             {
-                // 토글 값이 변경되었는지 확인
+                // Check if toggle value changed
                 if (!isNotMountedToggle.isOn)
                 {
                     if (!isMounted)
@@ -106,8 +106,8 @@ namespace SmallScaleInc.CharacterCreatorModern
             }
             HandleAttackAttack();
             HandleMovement();
-            // 기타 입력 액션들:
-            if (isMounted)
+            //Other input actions:
+            if(isMounted)
             {
                 return;
             }
@@ -124,7 +124,7 @@ namespace SmallScaleInc.CharacterCreatorModern
                     else
                     {
                         isCrouching = false;
-                        // 지연 후 또는 애니메이션 끝에서 웅크리기 유휴 매개변수들을 리셋
+                        // Reset the crouch idle parameters after a delay or at the end of the animation
                         ResetCrouchIdleParameters();
                     }
                 }
@@ -173,8 +173,8 @@ namespace SmallScaleInc.CharacterCreatorModern
         }
 
         /// <summary>
-        /// SpriteRenderer의 색상을 기본 색상으로 설정합니다.
-        /// 어디서든 호출할 수 있는 공개 메서드입니다.
+        /// Sets the SpriteRenderer's color to the default color.
+        /// Public method to be called from anywhere.
         /// </summary>
         public void SetDefaultColor()
         {
@@ -189,23 +189,23 @@ namespace SmallScaleInc.CharacterCreatorModern
 
         public void UpdateDirection(string newDirection)
         {
-            // 모든 가능한 방향 이름들을 반복
+            // Iterate through all possible direction names
             string[] directions = { "isWest", "isEast", "isSouth", "isSouthWest", "isNorthEast", "isSouthEast", "isNorth", "isNorthWest" };
 
             foreach (string direction in directions)
             {
-                // 새로운 방향을 제외하고 모든 방향을 false로 설정
+                // Set all directions to false except the new direction
                 animator.SetBool(direction, direction == newDirection);
             }
 
-            if (currentDirection != newDirection)
+            if(currentDirection != newDirection)
             {
                 isAttacking = false;
                 ResetAttackAttackParameters();
             }
-            // 현재 방향 업데이트
+            // Update the current direction
             currentDirection = newDirection;
-            // 새로운 방향에서 애니메이션을 다시 시작하기 위해 매개변수들을 리셋
+            // Reset the parameters to restart animations from new directions
         }
 
         public bool isRunning;
@@ -218,49 +218,49 @@ namespace SmallScaleInc.CharacterCreatorModern
         void HandleMovement()
         {
 
-            // 마우스 위치를 기반으로 방향 계산
+            // Calculate direction based on mouse position
             Vector3 mouseScreenPosition = Input.mousePosition;
             mouseScreenPosition.z = Camera.main.transform.position.z - transform.position.z;
             Vector3 mouseWorldPosition = Camera.main.ScreenToWorldPoint(mouseScreenPosition);
             Vector3 directionToMouse = mouseWorldPosition - transform.position;
-            directionToMouse.Normalize(); // 방향 벡터를 정규화
+            directionToMouse.Normalize(); // Normalize the direction vector
 
-            // 가장 가까운 기본 또는 중간 기본 방향 결정
+            // Determine the closest cardinal or intercardinal direction
             float angle = Mathf.Atan2(directionToMouse.y, directionToMouse.x) * Mathf.Rad2Deg;
             if (angle < 0) angle += 360;
 
             string newDirection = DetermineDirectionFromAngle(angle);
 
-            if (newDirection != currentDirection)
+            if(newDirection != currentDirection)
             {
                 UpdateDirection(newDirection);
             }
-            string movementDirection = newDirection.Substring(2); // 방향 이름에서 "is" 제거
+            string movementDirection = newDirection.Substring(2); // Remove "is" from the direction name
 
-            // 이동 입력 상태들 캡처
+            // Capture movement input states
             isRunning = Input.GetKey(KeyCode.W);
             isRunningBackwards = Input.GetKey(KeyCode.S);
             isStrafingLeft = Input.GetKey(KeyCode.A);
             isStrafingRight = Input.GetKey(KeyCode.D);
 
-            // 일반적인 이동 불린 설정
+            // Set general movement boolean
             isCurrentlyRunning = isRunning || isRunningBackwards || isStrafingLeft || isStrafingRight;
-
-            // 모든 방향 이동 매개변수들 리셋
+            
+            // Reset all directional movement parameters
             ResetAllMovementBools();
-
-
-            // 이동 조건들로 애니메이터 업데이트
+            
+            
+            // Update animator with movement conditions
             animator.SetBool("isRunning", isRunning);
             animator.SetBool("isRunningBackwards", isRunningBackwards);
             animator.SetBool("isStrafingLeft", isStrafingLeft);
             animator.SetBool("isStrafingRight", isStrafingRight);
-            if (isMounted)
-            { animator.SetBool("isRideRunning", isRunning); }
-            if (isCrouching)
-            { animator.SetBool("isCrouchRunning", isRunning); }
+            if(isMounted)
+            {animator.SetBool("isRideRunning", isRunning);}
+            if(isCrouching)
+            {animator.SetBool("isCrouchRunning", isRunning);}
 
-            // 특정 이동 애니메이션들 설정
+            // Set specific movement animations
             if (isMounted)
             {
                 SetMovementAnimation(isRunning, "RideRun", movementDirection);
@@ -322,27 +322,27 @@ namespace SmallScaleInc.CharacterCreatorModern
 
         string DetermineDirectionFromAngle(float angle)
         {
-            // 각도를 [0..360)으로 정규화
+            // Normalize angle to [0..360)
             angle = (angle + 360) % 360;
 
             if (angle < 15f || angle >= 345f)
-                return "isEast";        // ~0°에 해당
+                return "isEast";        // corresponds to ~0°
             else if (angle >= 15f && angle < 75f)
-                return "isNorthEast";   // ~30°에 해당
+                return "isNorthEast";   // corresponds to ~30°
             else if (angle >= 75f && angle < 105f)
-                return "isNorth";       // 90°에 해당
+                return "isNorth";       // corresponds to 90°
             else if (angle >= 105f && angle < 165f)
-                return "isNorthWest";   // 150°에 해당
+                return "isNorthWest";   // corresponds to 150°
             else if (angle >= 165f && angle < 195f)
-                return "isWest";        // 180°에 해당
+                return "isWest";        // corresponds to 180°
             else if (angle >= 195f && angle < 255f)
-                return "isSouthWest";   // 210°에 해당
+                return "isSouthWest";   // corresponds to 210°
             else if (angle >= 255f && angle < 285f)
-                return "isSouth";       // 270°에 해당
+                return "isSouth";       // corresponds to 270°
             else if (angle >= 285f && angle < 345f)
-                return "isSouthEast";   // 330°에 해당
+                return "isSouthEast";   // corresponds to 330°
 
-            // 폴백 (위의 조건들이 0..360을 다 커버하면 여기까지 거의 도달하지 않음)
+            // Fallback (should rarely reach here if the above covers 0..360)
             return "isEast";
         }
 
@@ -361,18 +361,18 @@ namespace SmallScaleInc.CharacterCreatorModern
         }
 
 
-        // 기본 공격들:
+        //Default Attacks:
 
-        void HandleAttackAttack()
+void HandleAttackAttack()
         {
-            if (isMounted)
+            if(isMounted)
             {
                 return;
             }
 
             if (Input.GetMouseButton(1))
             {
-                if (playerController.isMelee)
+                if(playerController.isMelee)
                 {
                     TriggerAttackSpinAnimation();
                     return;
@@ -383,15 +383,15 @@ namespace SmallScaleInc.CharacterCreatorModern
                 // }
                 isAttacking = true;
 
-                if (playerController.isMelee == false)
+                if(playerController.isMelee == false)
                 {
-                    // 머즐 플래시 스프라이트를 높은 레이어로 이동하여 보이게 만듦
+                    // Move muzzle flash sprite to a high layer so it becomes visible
                     muzzleFlashRenderer.sortingOrder = 150;
                 }
-                // 발사를 시작할 때마다 새로운 머즐 애니메이션을 원한다면,
-                // 애니메이터 상태를 리셋하거나 불린들을 토글할 수도 있음.
+                // If you want to ensure a fresh muzzle animation each time we start firing,
+                // you can also reset the animator state or just keep toggling booleans.
 
-                // 마우스로부터 방향 파악
+                // Figure out direction from mouse
                 Vector3 mouseScreenPosition = Input.mousePosition;
                 mouseScreenPosition.z = Camera.main.transform.position.z - transform.position.z;
                 Vector3 mouseWorldPosition = Camera.main.ScreenToWorldPoint(mouseScreenPosition);
@@ -408,20 +408,20 @@ namespace SmallScaleInc.CharacterCreatorModern
                 //     UpdateDirection(newDirection);
                 // }
 
-                // 달리는 중인지 확인
-                bool isRunning =
+                // Check if running
+                bool isRunning = 
                     Input.GetKey(KeyCode.W) ||
                     Input.GetKey(KeyCode.S) ||
                     Input.GetKey(KeyCode.A) ||
                     Input.GetKey(KeyCode.D);
 
-                // 메인 애니메이터에서 달리기-공격 vs 정지-공격
+                // Run-attack vs stationary-attack in the main animator
                 if (isRunning)
                 {
                     animator.SetBool("isAttackRunning", false);
                     animator.SetBool("isAttackAttacking", false);
 
-                    // // 머즐 애니메이터 로직
+                    // // Muzzle Animator logic
                     // if(playerController.isMelee == false)
                     // {
                     //     ResetAllGunFireBools();
@@ -436,31 +436,31 @@ namespace SmallScaleInc.CharacterCreatorModern
 
                     // if(playerController.isMelee == false)
                     // {
-                    //     // 머즐 애니메이터 로직
+                    //     // Muzzle Animator logic
                     //     ResetAllGunFireBools();
                     //     string muzzleState = "Gunfire" + newDirection.Substring(2);
                     //     muzzleAnimator.SetBool(muzzleState, true);
                     // }
                 }
 
-                // 메인 애니메이터용 AttackAttack 매개변수들도 수행
+                // Also do any AttackAttack parameters for main animator
                 TriggerAttack(isRunning, newDirection.Substring(2));
             }
             else if (Input.GetMouseButtonUp(1))
             {
-                // 마우스가 떼어짐 => 공격 중지
+                // Mouse was released => Stop attacking
                 isAttacking = false;
 
-                // 메인 애니메이터의 불린들 리셋
+                // Reset main animator’s booleans
                 ResetAttackAttackParameters();
                 RestoreDirectionAfterAttack();
 
-                if (playerController.isMelee == false)
+                if(playerController.isMelee == false)
                 {
-                    // 머즐 플래시 스프라이트를 정렬 순서 0으로 이동하여 효과적으로 숨김
+                    // Move muzzle flash sprite to sorting order 0 so it’s effectively hidden
                     muzzleFlashRenderer.sortingOrder = -5;
 
-                    // 머즐 애니메이터 불린들 리셋
+                    // Reset muzzle animator booleans
                     // ResetAllGunFireBools();
                 }
             }
@@ -468,28 +468,28 @@ namespace SmallScaleInc.CharacterCreatorModern
 
 
 
-        // 이것은 당신의 일반적인 메서드이지만, 방향을 매개변수로 추가하고
-        // 랜덤 공격 부분을 단순화했습니다. (원하는 대로 조정할 수 있습니다.)
+        // This is your normal method, but we added the direction as a param
+        // and simplified the random attack part. (You can adapt as you wish.)
         void TriggerAttack(bool isRunning, string direction)
         {
-            if (isCurrentlyRunning)
-            { return; }
-            // 예: "AttackAttackEast" / "AttackAttackSouth" 등
+            if(isCurrentlyRunning)
+            {return;}
+            // Example: “AttackAttackEast” / “AttackAttackSouth” etc.
             string attackParam = "AttackAttack" + direction;
             animator.SetBool(attackParam, true);
 
-            // isRunning? "isAttackRunning" 설정, 아니면 "isAttackAttacking"
-            animator.SetBool("isAttackRunning", isRunning);
+            // isRunning? set “isAttackRunning”, else “isAttackAttacking”
+            animator.SetBool("isAttackRunning",   isRunning);
             animator.SetBool("isAttackAttacking", !isRunning);
         }
 
         // -------------------------------------------------------------------
-        // 머즐 애니메이터 메서드들
+        // MUZZLE ANIMATOR METHODS
         // -------------------------------------------------------------------
         void ResetAllGunFireBools()
         {
-            // 머즐 애니메이터에서 모든 8방향 끄기
-            // 예: GunFireNorth, GunFireSouth, GunFireEast, ...
+            // Turn off all 8 directions in the muzzle animator
+            // e.g. GunFireNorth, GunFireSouth, GunFireEast, ...
             string[] muzzleDirs = {
                 "GunfireNorth","GunfireSouth","GunfireEast","GunfireWest",
                 "GunfireNorthEast","GunfireNorthWest","GunfireSouthEast","GunfireSouthWest"
@@ -512,19 +512,19 @@ namespace SmallScaleInc.CharacterCreatorModern
             foreach (string dir in directions)
             {
                 animator.SetBool("AttackAttack" + dir, false);
-                animator.SetBool("Attack2" + dir, false);
-                animator.SetBool("AttackRun" + dir, false);
+                animator.SetBool("Attack2"      + dir, false);
+                animator.SetBool("AttackRun"    + dir, false);
             }
         }
 
         void RestoreDirectionAfterAttack()
         {
             animator.SetBool("isAttackAttacking", false);
-            animator.SetBool("isAttackRunning", false);
-            animator.SetBool("isRunning", false);
+            animator.SetBool("isAttackRunning",   false);
+            animator.SetBool("isRunning",         false);
         }
 
-        // 데미지 받기:
+        //Take Damage:
 
         public void TriggerTakeDamageAnimation()
         {
@@ -537,10 +537,10 @@ namespace SmallScaleInc.CharacterCreatorModern
                 return;
             }
 
-            // // 데미지 받기 애니메이션을 시작하기 위해 'isTakeDamage'를 true로 설정
+            // // Set 'isTakeDamage' to true to initiate the take damage animation
             // animator.SetBool("isTakeDamage", true);
 
-            // // 현재 방향을 결정하고 적절한 데미지 받기 애니메이션 트리거
+            // // Determine the current direction and trigger the appropriate take damage animation
             // if (animator.GetBool("isNorth")) animator.SetBool("TakeDamageNorth", true);
             // else if (animator.GetBool("isSouth")) animator.SetBool("TakeDamageSouth", true);
             // else if (animator.GetBool("isEast")) animator.SetBool("TakeDamageEast", true);
@@ -550,37 +550,37 @@ namespace SmallScaleInc.CharacterCreatorModern
             // else if (animator.GetBool("isSouthEast")) animator.SetBool("TakeDamageSouthEast", true);
             // else if (animator.GetBool("isSouthWest")) animator.SetBool("TakeDamageSouthWest", true);
 
-            // 캐릭터 위치에 적절한 효과 생성
+            // Spawn the appropriate effect at the character's position
             SpawnEffect();
 
-            // // 선택사항으로, 지연 후 또는 애니메이션 끝에서 데미지 받기 매개변수들을 리셋
+            // // Optionally, reset the take damage parameters after a delay or at the end of the animation
             // StartCoroutine(ResetTakeDamageParameters());
         }
 
         private void SpawnEffect()
         {
-            // isRadiated 플래그를 기반으로 사용할 프리팹 리스트 결정
+            // Determine the list of prefabs to use based on the isRadiated flag
             List<GameObject> prefabsToUse = isRadiated ? radiatedPrefabs : bloodPrefabs;
 
             if (prefabsToUse == null || prefabsToUse.Count == 0)
             {
-                Debug.LogWarning("선택된 리스트에 사용 가능한 프리팹이 없습니다!");
+                Debug.LogWarning("No prefabs available in the selected list!");
                 return;
             }
 
-            // 선택된 리스트에서 랜덤 프리팹 선택
+            // Pick a random prefab from the selected list
             GameObject selectedPrefab = prefabsToUse[Random.Range(0, prefabsToUse.Count)];
 
             if (selectedPrefab == null)
             {
-                Debug.LogWarning("선택된 프리팹이 null입니다!");
+                Debug.LogWarning("Selected prefab is null!");
                 return;
             }
 
-            // 선택된 프리팹을 캐릭터의 위치와 방향에 인스턴스화
+            // Instantiate the selected prefab at the character's position and orientation
             GameObject effectInstance = Instantiate(selectedPrefab, transform.position, Quaternion.identity);
 
-            // 0.5초 후 Order in Layer를 수정하기 위한 코루틴 시작
+            // Start a coroutine to modify the Order in Layer after 0.5 seconds
             StartCoroutine(UpdateSpriteOrder(effectInstance));
         }
 
@@ -591,20 +591,20 @@ namespace SmallScaleInc.CharacterCreatorModern
                 yield break;
             }
 
-            // 0.5초 대기
+            // Wait for 0.5 seconds
             yield return new WaitForSeconds(0.5f);
 
-            // 효과 인스턴스의 SpriteRenderer 컴포넌트 가져오기
+            // Get the SpriteRenderer component on the effect instance
             SpriteRenderer spriteRenderer = effectInstance.GetComponent<SpriteRenderer>();
             if (spriteRenderer != null)
             {
-                // Order in Layer를 40으로 설정
+                // Set the Order in Layer to 40
                 spriteRenderer.sortingOrder = 40;
                 // Debug.Log($"Updated sorting order to 40 for {effectInstance.name}");
             }
             else
             {
-                Debug.LogWarning("효과 인스턴스에서 SpriteRenderer를 찾을 수 없습니다!");
+                Debug.LogWarning("SpriteRenderer not found on the effect instance!");
             }
         }
 
@@ -612,10 +612,10 @@ namespace SmallScaleInc.CharacterCreatorModern
 
         IEnumerator ResetTakeDamageParameters()
         {
-            // 리셋하기 전에 애니메이션 길이만큼 대기
-            yield return new WaitForSeconds(0.5f); // 애니메이션 길이에 따라 대기 시간 조정
+            // Wait for the length of the animation before resetting
+            yield return new WaitForSeconds(0.5f); // Adjust the wait time based on your animation length
 
-            // 모든 데미지 받기 매개변수들을 false로 리셋
+            // Reset all take damage parameters to false
             animator.SetBool("isTakeDamage", false);
             animator.SetBool("TakeDamageNorth", false);
             animator.SetBool("TakeDamageSouth", false);
@@ -626,21 +626,21 @@ namespace SmallScaleInc.CharacterCreatorModern
             animator.SetBool("TakeDamageSouthEast", false);
             animator.SetBool("TakeDamageSouthWest", false);
 
-            // 캐릭터가 올바른 유휴 상태로 돌아가도록 방향 복원
+            // Restore the direction to ensure the character returns to the correct idle state
             RestoreDirectionAfterAttack();
         }
 
-        // 웅크리기:
+        //Crouch:
         public void TriggerCrouchIdleAnimation()
         {
             if (!gameObject.activeInHierarchy)
             {
                 return;
             }
-            // 웅크리기 유휴 애니메이션을 시작하기 위해 'isCrouchIdling'을 true로 설정
+            // Set 'isCrouchIdling' to true to initiate the crouch idle animation
             animator.SetBool("isCrouchIdling", true);
 
-            // 현재 방향을 결정하고 적절한 웅크리기 유휴 애니메이션 트리거
+            // Determine the current direction and trigger the appropriate crouch idle animation
             if (animator.GetBool("isNorth")) animator.SetBool("CrouchIdleNorth", true);
             else if (animator.GetBool("isSouth")) animator.SetBool("CrouchIdleSouth", true);
             else if (animator.GetBool("isEast")) animator.SetBool("CrouchIdleEast", true);
@@ -654,7 +654,7 @@ namespace SmallScaleInc.CharacterCreatorModern
 
         public void ResetCrouchIdleParameters()
         {
-            // 모든 웅크리기 유휴 매개변수들을 false로 리셋
+            // Reset all crouch idle parameters to false
             animator.SetBool("isCrouchIdling", false);
             animator.SetBool("CrouchIdleNorth", false);
             animator.SetBool("CrouchIdleSouth", false);
@@ -665,21 +665,21 @@ namespace SmallScaleInc.CharacterCreatorModern
             animator.SetBool("CrouchIdleSouthEast", false);
             animator.SetBool("CrouchIdleSouthWest", false);
 
-            // 선택사항으로, 캐릭터가 올바른 유휴 상태로 돌아가도록 방향 복원
+            // Optionally, restore the direction to ensure the character returns to the correct idle state
             RestoreDirectionAfterAttack();
         }
 
-        // 탑승:
+        // Ride:
         public void TriggerMountIdleAnimation()
         {
             if (!gameObject.activeInHierarchy)
             {
                 return;
             }
-            // 탑승 유휴 애니메이션을 시작하기 위해 'isRideIdling'을 true로 설정
+            // Set 'isRideIdling' to true to initiate the ride idle animation
             animator.SetBool("isRideIdling", true);
 
-            // 현재 방향을 결정하고 적절한 탑승 유휴 애니메이션 트리거
+            // Determine the current direction and trigger the appropriate ride idle animation
             if (animator.GetBool("isNorth")) animator.SetBool("RideIdleNorth", true);
             else if (animator.GetBool("isSouth")) animator.SetBool("RideIdleSouth", true);
             else if (animator.GetBool("isEast")) animator.SetBool("RideIdleEast", true);
@@ -692,7 +692,7 @@ namespace SmallScaleInc.CharacterCreatorModern
 
         public void ResetMountIdleParameters()
         {
-            // 모든 탑승 유휴 매개변수들을 false로 리셋
+            // Reset all ride idle parameters to false
             animator.SetBool("isRideIdling", false);
             animator.SetBool("RideIdleNorth", false);
             animator.SetBool("RideIdleSouth", false);
@@ -703,12 +703,12 @@ namespace SmallScaleInc.CharacterCreatorModern
             animator.SetBool("RideIdleSouthEast", false);
             animator.SetBool("RideIdleSouthWest", false);
 
-            // 선택사항으로, 캐릭터가 올바른 유휴 상태로 돌아가도록 방향 복원
+            // Optionally, restore the direction to ensure the character returns to the correct idle state
             RestoreDirectionAfterAttack();
         }
 
 
-        // 죽음
+        //Die
         public void TriggerDie()
         {
             if (!gameObject.activeInHierarchy)
@@ -716,8 +716,8 @@ namespace SmallScaleInc.CharacterCreatorModern
                 return;
             }
 
-            isDying = true;
-            // 현재 방향을 확인하고 적절한 죽음 애니메이션 트리거
+            isDying = true; 
+            // Check the current direction and trigger the appropriate die animation
             if (currentDirection.Equals("isNorth")) TriggerDeathAnimation("dieNorth");
             else if (currentDirection.Equals("isSouth")) TriggerDeathAnimation("dieSouth");
             else if (currentDirection.Equals("isEast")) TriggerDeathAnimation("dieEast");
@@ -730,11 +730,11 @@ namespace SmallScaleInc.CharacterCreatorModern
 
         private void TriggerDeathAnimation(string deathDirectionTrigger)
         {
-            // 특정 죽음 방향 트리거
+            // Trigger the specific death direction
             animator.SetTrigger(deathDirectionTrigger);
 
-            if (playerController.isDead == false)
-                StartCoroutine(ResetDieParameters());
+            if(playerController.isDead == false)
+            StartCoroutine(ResetDieParameters());
         }
 
 
@@ -752,24 +752,24 @@ namespace SmallScaleInc.CharacterCreatorModern
 
             animator.SetBool("isDie", false);
 
-            // Animator를 기본 상태로 강제 복귀
+            // Force the Animator back to the default state
             animator.Play("IdleEast", 0);
-            // 캐릭터가 올바른 유휴 상태로 돌아가도록 방향 복원
+            // Restore the direction to ensure the character returns to the correct idle state
             RestoreDirectionAfterAttack();
-            isDying = false;
+            isDying = false; 
         }
 
-        // 특수 능력 1:
+        // Special Ability 1:
         public void TriggerSpecialAbility1Animation()
         {
             if (!gameObject.activeInHierarchy)
             {
                 return;
             }
-            // 특수 능력 애니메이션을 시작하기 위해 'isSpecialAbility1'을 true로 설정
+            // Set 'isSpecialAbility1' to true to initiate the special ability animation
             animator.SetBool("isSpecialAbility1", true);
 
-            // 현재 방향을 결정하고 적절한 특수 능력 애니메이션 트리거
+            // Determine the current direction and trigger the appropriate special ability animation
             if (animator.GetBool("isNorth")) animator.SetBool("SpecialAbility1North", true);
             else if (animator.GetBool("isSouth")) animator.SetBool("SpecialAbility1South", true);
             else if (animator.GetBool("isEast")) animator.SetBool("SpecialAbility1East", true);
@@ -779,16 +779,16 @@ namespace SmallScaleInc.CharacterCreatorModern
             else if (animator.GetBool("isSouthEast")) animator.SetBool("SpecialAbility1SouthEast", true);
             else if (animator.GetBool("isSouthWest")) animator.SetBool("SpecialAbility1SouthWest", true);
 
-            // 지연 후 또는 애니메이션 끝에서 특수 능력 매개변수들을 리셋
+            // Reset the special ability parameters after a delay or at the end of the animation
             StartCoroutine(ResetSpecialAbility1Parameters());
         }
 
         IEnumerator ResetSpecialAbility1Parameters()
         {
-            // 리셋하기 전에 애니메이션 길이만큼 대기
-            yield return new WaitForSeconds(0.5f); // 애니메이션 길이에 따라 대기 시간 조정
+            // Wait for the length of the animation before resetting
+            yield return new WaitForSeconds(0.5f); // Adjust the wait time based on your animation length
 
-            // 모든 특수 능력 매개변수들을 false로 리셋
+            // Reset all special ability parameters to false
             animator.SetBool("isSpecialAbility1", false);
             animator.SetBool("SpecialAbility1North", false);
             animator.SetBool("SpecialAbility1South", false);
@@ -799,21 +799,21 @@ namespace SmallScaleInc.CharacterCreatorModern
             animator.SetBool("SpecialAbility1SouthEast", false);
             animator.SetBool("SpecialAbility1SouthWest", false);
 
-            // 선택사항으로, 캐릭터가 올바른 유휴 상태로 돌아가도록 방향 복원
+            // Optionally, restore the direction to ensure the character returns to the correct idle state
             RestoreDirectionAfterAttack();
         }
 
-        // 특수 능력 2:
+        // Special Ability 2:
         public void TriggerSpecialAbility2Animation()
         {
             if (!gameObject.activeInHierarchy)
             {
                 return;
             }
-            // 특수 능력 애니메이션을 시작하기 위해 'isSpecialAbility2'를 true로 설정
+            // Set 'isSpecialAbility1' to true to initiate the special ability animation
             animator.SetBool("isSpecialAbility2", true);
 
-            // 현재 방향을 결정하고 적절한 특수 능력 애니메이션 트리거
+            // Determine the current direction and trigger the appropriate special ability animation
             if (animator.GetBool("isNorth")) animator.SetBool("SpecialAbility2North", true);
             else if (animator.GetBool("isSouth")) animator.SetBool("SpecialAbility2South", true);
             else if (animator.GetBool("isEast")) animator.SetBool("SpecialAbility2East", true);
@@ -823,16 +823,16 @@ namespace SmallScaleInc.CharacterCreatorModern
             else if (animator.GetBool("isSouthEast")) animator.SetBool("SpecialAbility2SouthEast", true);
             else if (animator.GetBool("isSouthWest")) animator.SetBool("SpecialAbility2SouthWest", true);
 
-            // 지연 후 또는 애니메이션 끝에서 특수 능력 매개변수들을 리셋
+            // Reset the special ability parameters after a delay or at the end of the animation
             StartCoroutine(ResetSpecialAbility2Parameters());
         }
 
         IEnumerator ResetSpecialAbility2Parameters()
         {
-            // 리셋하기 전에 애니메이션 길이만큼 대기
-            yield return new WaitForSeconds(0.5f); // 애니메이션 길이에 따라 대기 시간 조정
+            // Wait for the length of the animation before resetting
+            yield return new WaitForSeconds(0.5f); // Adjust the wait time based on your animation length
 
-            // 모든 특수 능력 매개변수들을 false로 리셋
+            // Reset all special ability parameters to false
             animator.SetBool("isSpecialAbility2", false);
             animator.SetBool("SpecialAbility2North", false);
             animator.SetBool("SpecialAbility2South", false);
@@ -843,22 +843,22 @@ namespace SmallScaleInc.CharacterCreatorModern
             animator.SetBool("SpecialAbility2SouthEast", false);
             animator.SetBool("SpecialAbility2SouthWest", false);
 
-            // 선택사항으로, 캐릭터가 올바른 유휴 상태로 돌아가도록 방향 복원
+            // Optionally, restore the direction to ensure the character returns to the correct idle state
             RestoreDirectionAfterAttack();
         }
 
 
-        // 마법 시전
+        //Cast spell
         public void TriggerCastSpellAnimation()
         {
             if (!gameObject.activeInHierarchy)
             {
                 return;
             }
-            // 마법 시전 애니메이션을 시작하기 위해 'isCastingSpell'을 true로 설정
+            // Set 'isCastingSpell' to true to initiate the spell casting animation
             animator.SetBool("isCastingSpell", true);
 
-            // 현재 방향을 결정하고 적절한 마법 시전 애니메이션 트리거
+            // Determine the current direction and trigger the appropriate cast spell animation
             if (animator.GetBool("isNorth")) animator.SetBool("CastSpellNorth", true);
             else if (animator.GetBool("isSouth")) animator.SetBool("CastSpellSouth", true);
             else if (animator.GetBool("isEast")) animator.SetBool("CastSpellEast", true);
@@ -868,16 +868,16 @@ namespace SmallScaleInc.CharacterCreatorModern
             else if (animator.GetBool("isSouthEast")) animator.SetBool("CastSpellSouthEast", true);
             else if (animator.GetBool("isSouthWest")) animator.SetBool("CastSpellSouthWest", true);
 
-            // 지연 후 또는 애니메이션 끝에서 마법 시전 매개변수들을 리셋
+            // Reset the cast spell parameters after a delay or at the end of the animation
             StartCoroutine(ResetCastSpellParameters());
         }
 
         IEnumerator ResetCastSpellParameters()
         {
-            // 리셋하기 전에 애니메이션 길이만큼 대기
-            yield return new WaitForSeconds(0.5f); // 애니메이션 길이에 따라 대기 시간 조정
+            // Wait for the length of the animation before resetting
+            yield return new WaitForSeconds(0.5f); // Adjust the wait time based on your animation length
 
-            // 모든 마법 시전 매개변수들을 false로 리셋
+            // Reset all cast spell parameters to false
             animator.SetBool("isCastingSpell", false);
             animator.SetBool("CastSpellNorth", false);
             animator.SetBool("CastSpellSouth", false);
@@ -888,21 +888,21 @@ namespace SmallScaleInc.CharacterCreatorModern
             animator.SetBool("CastSpellSouthEast", false);
             animator.SetBool("CastSpellSouthWest", false);
 
-            // 선택사항으로, 캐릭터가 올바른 유휴 상태로 돌아가도록 방향 복원
-            RestoreDirectionAfterAttack();
+            // Optionally, restore the direction to ensure the character returns to the correct idle state
+            RestoreDirectionAfterAttack(); 
         }
 
-        // 발차기:
+        //Kick:
         public void TriggerKickAnimation()
         {
             if (!gameObject.activeInHierarchy)
             {
                 return;
             }
-            // 발차기 애니메이션을 시작하기 위해 'isKicking'을 true로 설정
+            // Set 'isKicking' to true to initiate the kick animation
             animator.SetBool("isKicking", true);
 
-            // 현재 방향을 결정하고 적절한 발차기 애니메이션 트리거
+            // Determine the current direction and trigger the appropriate kick animation
             if (animator.GetBool("isNorth")) animator.SetBool("KickNorth", true);
             else if (animator.GetBool("isSouth")) animator.SetBool("KickSouth", true);
             else if (animator.GetBool("isEast")) animator.SetBool("KickEast", true);
@@ -912,16 +912,16 @@ namespace SmallScaleInc.CharacterCreatorModern
             else if (animator.GetBool("isSouthEast")) animator.SetBool("KickSouthEast", true);
             else if (animator.GetBool("isSouthWest")) animator.SetBool("KickSouthWest", true);
 
-            // 지연 후 또는 애니메이션 끝에서 발차기 매개변수들을 리셋
+            // Reset the kick parameters after a delay or at the end of the animation
             StartCoroutine(ResetKickParameters());
         }
 
         IEnumerator ResetKickParameters()
         {
-            // 리셋하기 전에 애니메이션 길이만큼 대기
-            yield return new WaitForSeconds(0.5f); // 애니메이션 길이에 따라 대기 시간 조정
+            // Wait for the length of the animation before resetting
+            yield return new WaitForSeconds(0.5f); // Adjust the wait time based on your animation length
 
-            // 모든 발차기 매개변수들을 false로 리셋
+            // Reset all kick parameters to false
             animator.SetBool("isKicking", false);
             animator.SetBool("KickNorth", false);
             animator.SetBool("KickSouth", false);
@@ -932,21 +932,21 @@ namespace SmallScaleInc.CharacterCreatorModern
             animator.SetBool("KickSouthEast", false);
             animator.SetBool("KickSouthWest", false);
 
-            // 선택사항으로, 캐릭터가 올바른 유휴 상태로 돌아가도록 방향 복원
-            RestoreDirectionAfterAttack();
+            // Optionally, restore the direction to ensure the character returns to the correct idle state
+            RestoreDirectionAfterAttack(); 
         }
 
-        // 공중제비 애니메이션:
+        //Flip animation:
         public void TriggerFlipAnimation()
         {
             if (!gameObject.activeInHierarchy)
             {
                 return;
             }
-            // 공중제비 애니메이션을 시작하기 위해 'isFlipping'을 true로 설정
+            // Set 'isFlipping' to true to initiate the flip animation
             animator.SetBool("isFlipping", true);
 
-            // 현재 방향을 결정하고 적절한 공중제비 애니메이션 트리거
+            // Determine the current direction and trigger the appropriate flip animation
             if (animator.GetBool("isNorth")) animator.SetBool("FrontFlipNorth", true);
             else if (animator.GetBool("isSouth")) animator.SetBool("FrontFlipSouth", true);
             else if (animator.GetBool("isEast")) animator.SetBool("FrontFlipEast", true);
@@ -956,16 +956,16 @@ namespace SmallScaleInc.CharacterCreatorModern
             else if (animator.GetBool("isSouthEast")) animator.SetBool("FrontFlipSouthEast", true);
             else if (animator.GetBool("isSouthWest")) animator.SetBool("FrontFlipSouthWest", true);
 
-            // 지연 후 또는 애니메이션 끝에서 공중제비 매개변수들을 리셋
+            // Reset the flip parameters after a delay or at the end of the animation
             StartCoroutine(ResetFlipParameters());
         }
 
         IEnumerator ResetFlipParameters()
         {
-            // 리셋하기 전에 애니메이션 길이만큼 대기
-            yield return new WaitForSeconds(0.5f); // 애니메이션 길이에 따라 대기 시간 조정
+            // Wait for the length of the animation before resetting
+            yield return new WaitForSeconds(0.5f); // Adjust the wait time based on your animation length
 
-            // 모든 공중제비 매개변수들을 false로 리셋
+            // Reset all flip parameters to false
             animator.SetBool("isFlipping", false);
             animator.SetBool("FrontFlipNorth", false);
             animator.SetBool("FrontFlipSouth", false);
@@ -976,12 +976,12 @@ namespace SmallScaleInc.CharacterCreatorModern
             animator.SetBool("FrontFlipSouthEast", false);
             animator.SetBool("FrontFlipSouthWest", false);
 
-            // 선택사항으로, 캐릭터가 올바른 유휴 상태로 돌아가도록 방향 복원
-            RestoreDirectionAfterAttack();
+            // Optionally, restore the direction to ensure the character returns to the correct idle state
+            RestoreDirectionAfterAttack();  
         }
 
 
-        // 구르기
+        //rolling
 
         public void TriggerRollAnimation()
         {
@@ -989,10 +989,10 @@ namespace SmallScaleInc.CharacterCreatorModern
             {
                 return;
             }
-            // 구르기 애니메이션을 시작하기 위해 'isRolling'을 true로 설정
+            // Set 'isRolling' to true to initiate the roll animation
             animator.SetBool("isRolling", true);
 
-            // 현재 방향을 결정하고 적절한 구르기 애니메이션 트리거
+            // Determine the current direction and trigger the appropriate roll animation
             if (animator.GetBool("isNorth")) animator.SetBool("RollingNorth", true);
             else if (animator.GetBool("isSouth")) animator.SetBool("RollingSouth", true);
             else if (animator.GetBool("isEast")) animator.SetBool("RollingEast", true);
@@ -1002,16 +1002,16 @@ namespace SmallScaleInc.CharacterCreatorModern
             else if (animator.GetBool("isSouthEast")) animator.SetBool("RollingSouthEast", true);
             else if (animator.GetBool("isSouthWest")) animator.SetBool("RollingSouthWest", true);
 
-            // 지연 후 또는 애니메이션 끝에서 구르기 매개변수들을 리셋
+            // Reset the roll parameters after a delay or at the end of the animation
             StartCoroutine(ResetRollParameters());
         }
 
         IEnumerator ResetRollParameters()
         {
-            // 리셋하기 전에 애니메이션 길이만큼 대기
-            yield return new WaitForSeconds(rollTime); // 애니메이션 길이에 따라 대기 시간 조정
+            // Wait for the length of the animation before resetting
+            yield return new WaitForSeconds(rollTime); // Adjust the wait time based on your animation length
 
-            // 모든 구르기 매개변수들을 false로 리셋
+            // Reset all roll parameters to false
             animator.SetBool("isRolling", false);
             animator.SetBool("RollingNorth", false);
             animator.SetBool("RollingSouth", false);
@@ -1022,21 +1022,21 @@ namespace SmallScaleInc.CharacterCreatorModern
             animator.SetBool("RollingSouthEast", false);
             animator.SetBool("RollingSouthWest", false);
 
-            // 선택사항으로, 캐릭터가 올바른 유휴 상태로 돌아가도록 방향 복원
-            RestoreDirectionAfterAttack();
+            // Optionally, restore the direction to ensure the character returns to the correct idle state
+            RestoreDirectionAfterAttack();  
         }
 
-        // 슬라이딩
+        //Slide
         public void TriggerSlideAnimation()
         {
             if (!gameObject.activeInHierarchy)
             {
                 return;
             }
-            // 슬라이딩 애니메이션을 시작하기 위해 'isSliding'을 true로 설정
+            // Set 'isSliding' to true to initiate the slide animation
             animator.SetBool("isSliding", true);
 
-            // 현재 방향을 결정하고 적절한 슬라이딩 애니메이션 트리거
+            // Determine the current direction and trigger the appropriate slide animation
             if (animator.GetBool("isNorth")) animator.SetBool("SlidingNorth", true);
             else if (animator.GetBool("isSouth")) animator.SetBool("SlidingSouth", true);
             else if (animator.GetBool("isEast")) animator.SetBool("SlidingEast", true);
@@ -1046,16 +1046,16 @@ namespace SmallScaleInc.CharacterCreatorModern
             else if (animator.GetBool("isSouthEast")) animator.SetBool("SlidingSouthEast", true);
             else if (animator.GetBool("isSouthWest")) animator.SetBool("SlidingSouthWest", true);
 
-            // 지연 후 또는 애니메이션 끝에서 슬라이딩 매개변수들을 리셋
+            // Reset the slide parameters after a delay or at the end of the animation
             StartCoroutine(ResetSlideParameters());
         }
 
         IEnumerator ResetSlideParameters()
         {
-            // 리셋하기 전에 애니메이션 길이만큼 대기
-            yield return new WaitForSeconds(0.7f); // 애니메이션 길이에 따라 대기 시간 조정
+            // Wait for the length of the animation before resetting
+            yield return new WaitForSeconds(0.7f); // Adjust the wait time based on your animation length
 
-            // 모든 슬라이딩 매개변수들을 false로 리셋
+            // Reset all slide parameters to false
             animator.SetBool("isSliding", false);
             animator.SetBool("SlidingNorth", false);
             animator.SetBool("SlidingSouth", false);
@@ -1066,21 +1066,21 @@ namespace SmallScaleInc.CharacterCreatorModern
             animator.SetBool("SlidingSouthEast", false);
             animator.SetBool("SlidingSouthWest", false);
 
-            // 선택사항으로, 캐릭터가 올바른 유휴 상태로 돌아가도록 방향 복원
-            RestoreDirectionAfterAttack();
+            // Optionally, restore the direction to ensure the character returns to the correct idle state
+            RestoreDirectionAfterAttack(); 
         }
 
-        // 연타 공격
+        //Pummel
         public void TriggerPummelAnimation()
         {
             if (!gameObject.activeInHierarchy)
             {
                 return;
             }
-            // 연타 공격 애니메이션을 시작하기 위해 'isPummeling'을 true로 설정
+            // Set 'isPummeling' to true to initiate the pummel animation
             animator.SetBool("isPummeling", true);
 
-            // 현재 방향을 결정하고 적절한 연타 공격 애니메이션 트리거
+            // Determine the current direction and trigger the appropriate pummel animation
             if (animator.GetBool("isNorth")) animator.SetBool("PummelNorth", true);
             else if (animator.GetBool("isSouth")) animator.SetBool("PummelSouth", true);
             else if (animator.GetBool("isEast")) animator.SetBool("PummelEast", true);
@@ -1090,16 +1090,16 @@ namespace SmallScaleInc.CharacterCreatorModern
             else if (animator.GetBool("isSouthEast")) animator.SetBool("PummelSouthEast", true);
             else if (animator.GetBool("isSouthWest")) animator.SetBool("PummelSouthWest", true);
 
-            // 지연 후 또는 애니메이션 끝에서 연타 공격 매개변수들을 리셋
+            // Reset the pummel parameters after a delay or at the end of the animation
             StartCoroutine(ResetPummelParameters());
         }
 
         IEnumerator ResetPummelParameters()
         {
-            // 리셋하기 전에 애니메이션 길이만큼 대기
-            yield return new WaitForSeconds(0.5f); // 애니메이션 길이에 따라 대기 시간 조정
+            // Wait for the length of the animation before resetting
+            yield return new WaitForSeconds(0.5f); // Adjust the wait time based on your animation length
 
-            // 모든 연타 공격 매개변수들을 false로 리셋
+            // Reset all pummel parameters to false
             animator.SetBool("isPummeling", false);
             animator.SetBool("PummelNorth", false);
             animator.SetBool("PummelSouth", false);
@@ -1110,21 +1110,21 @@ namespace SmallScaleInc.CharacterCreatorModern
             animator.SetBool("PummelSouthEast", false);
             animator.SetBool("PummelSouthWest", false);
 
-            // 선택사항으로, 캐릭터가 올바른 유휴 상태로 돌아가도록 방향 복원
-            RestoreDirectionAfterAttack();
+            // Optionally, restore the direction to ensure the character returns to the correct idle state
+            RestoreDirectionAfterAttack();  
         }
 
-        // 회전 공격
+        //Attack spin
         public void TriggerAttackSpinAnimation()
         {
             if (!gameObject.activeInHierarchy)
             {
                 return;
             }
-            // 회전 공격 애니메이션을 시작하기 위해 'isAttackSpinning'을 true로 설정
+            // Set 'isAttackSpinning' to true to initiate the attack spin animation
             animator.SetBool("isAttackSpinning", true);
 
-            // 현재 방향을 결정하고 적절한 회전 공격 애니메이션 트리거
+            // Determine the current direction and trigger the appropriate attack spin animation
             if (animator.GetBool("isNorth")) animator.SetBool("AttackSpinNorth", true);
             else if (animator.GetBool("isSouth")) animator.SetBool("AttackSpinSouth", true);
             else if (animator.GetBool("isEast")) animator.SetBool("AttackSpinEast", true);
@@ -1134,16 +1134,16 @@ namespace SmallScaleInc.CharacterCreatorModern
             else if (animator.GetBool("isSouthEast")) animator.SetBool("AttackSpinSouthEast", true);
             else if (animator.GetBool("isSouthWest")) animator.SetBool("AttackSpinSouthWest", true);
 
-            // 지연 후 또는 애니메이션 끝에서 회전 공격 매개변수들을 리셋
+            // Reset the attack spin parameters after a delay or at the end of the animation
             StartCoroutine(ResetAttackSpinParameters());
         }
 
         IEnumerator ResetAttackSpinParameters()
         {
-            // 리셋하기 전에 애니메이션 길이만큼 대기
-            yield return new WaitForSeconds(0.5f); // 애니메이션 길이에 따라 대기 시간 조정
+            // Wait for the length of the animation before resetting
+            yield return new WaitForSeconds(0.5f); // Adjust the wait time based on your animation length
 
-            // 모든 회전 공격 매개변수들을 false로 리셋
+            // Reset all attack spin parameters to false
             animator.SetBool("isAttackSpinning", false);
             animator.SetBool("AttackSpinNorth", false);
             animator.SetBool("AttackSpinSouth", false);
@@ -1154,8 +1154,8 @@ namespace SmallScaleInc.CharacterCreatorModern
             animator.SetBool("AttackSpinSouthEast", false);
             animator.SetBool("AttackSpinSouthWest", false);
 
-            // 선택사항으로, 캐릭터가 올바른 유휴 상태로 돌아가도록 방향 복원
-            RestoreDirectionAfterAttack();
+            // Optionally, restore the direction to ensure the character returns to the correct idle state
+            RestoreDirectionAfterAttack(); 
         }
 
 

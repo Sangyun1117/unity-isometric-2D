@@ -7,6 +7,7 @@ public class EnemyController : MonoBehaviour
     private bool isChasing = false;
     [SerializeField] private float moveSpeed = 3f;
     [SerializeField] private Transform playerTarget;
+    [SerializeField] private int hp = 100;
     Rigidbody2D rb;
     private Animator animator;
     public void OnPlayerEntered()
@@ -23,6 +24,12 @@ public class EnemyController : MonoBehaviour
 
     void Update()
     {
+        if (hp <= 0)
+        {
+            Debug.Log("적 사망");
+            // 오브젝트 삭제
+            Destroy(gameObject);
+        }
         if (isChasing && playerTarget != null)
         {
             // 플레이어 방향 구하기
@@ -42,6 +49,11 @@ public class EnemyController : MonoBehaviour
         {
             direction = Vector2.zero;
         }
+    }
+
+    public void TakeDamage(int damage)
+    {
+        hp -= damage;
     }
 
     private void FixedUpdate()
