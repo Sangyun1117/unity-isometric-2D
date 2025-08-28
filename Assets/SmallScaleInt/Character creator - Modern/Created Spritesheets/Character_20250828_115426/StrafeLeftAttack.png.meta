@@ -1,0 +1,3853 @@
+fileFormatVersion: 2
+guid: 76a4d56a595a7f345b19a26d730e6c75
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7827940063092552165
+    second: StrafeLeftAttack_0
+  - first:
+      213: 3512694065318768825
+    second: StrafeLeftAttack_1
+  - first:
+      213: -3224418613524501150
+    second: StrafeLeftAttack_2
+  - first:
+      213: -8683612701317205967
+    second: StrafeLeftAttack_3
+  - first:
+      213: -1003696122344783999
+    second: StrafeLeftAttack_4
+  - first:
+      213: -5316472620106968474
+    second: StrafeLeftAttack_5
+  - first:
+      213: 4816006777583315199
+    second: StrafeLeftAttack_6
+  - first:
+      213: -3275274478936966569
+    second: StrafeLeftAttack_7
+  - first:
+      213: 5599851909570804717
+    second: StrafeLeftAttack_8
+  - first:
+      213: -1018913131076512298
+    second: StrafeLeftAttack_9
+  - first:
+      213: -7382596963729671555
+    second: StrafeLeftAttack_10
+  - first:
+      213: 8930655636913715954
+    second: StrafeLeftAttack_11
+  - first:
+      213: 3526790311228331654
+    second: StrafeLeftAttack_12
+  - first:
+      213: -5267414281075002253
+    second: StrafeLeftAttack_13
+  - first:
+      213: -1623689957751231913
+    second: StrafeLeftAttack_14
+  - first:
+      213: -706845516047001323
+    second: StrafeLeftAttack_15
+  - first:
+      213: 7049707638559296069
+    second: StrafeLeftAttack_16
+  - first:
+      213: 6757064939842830191
+    second: StrafeLeftAttack_17
+  - first:
+      213: 7420117682653128402
+    second: StrafeLeftAttack_18
+  - first:
+      213: -3565803111273055633
+    second: StrafeLeftAttack_19
+  - first:
+      213: -5092707632883382778
+    second: StrafeLeftAttack_20
+  - first:
+      213: 4147281109266500358
+    second: StrafeLeftAttack_21
+  - first:
+      213: -5033069261898635836
+    second: StrafeLeftAttack_22
+  - first:
+      213: -6243815096301434309
+    second: StrafeLeftAttack_23
+  - first:
+      213: 2732032401557159831
+    second: StrafeLeftAttack_24
+  - first:
+      213: 3022064247315941935
+    second: StrafeLeftAttack_25
+  - first:
+      213: 1422993673855574437
+    second: StrafeLeftAttack_26
+  - first:
+      213: -7847616494587303591
+    second: StrafeLeftAttack_27
+  - first:
+      213: -2918389849066510952
+    second: StrafeLeftAttack_28
+  - first:
+      213: 5362087485235206407
+    second: StrafeLeftAttack_29
+  - first:
+      213: 5890006325418704088
+    second: StrafeLeftAttack_30
+  - first:
+      213: 4106238122907262612
+    second: StrafeLeftAttack_31
+  - first:
+      213: -2165773282703415455
+    second: StrafeLeftAttack_32
+  - first:
+      213: -5701728579161191548
+    second: StrafeLeftAttack_33
+  - first:
+      213: -6542822561319577699
+    second: StrafeLeftAttack_34
+  - first:
+      213: -2116857306739568814
+    second: StrafeLeftAttack_35
+  - first:
+      213: 9116912483435425919
+    second: StrafeLeftAttack_36
+  - first:
+      213: 8597147913044052370
+    second: StrafeLeftAttack_37
+  - first:
+      213: -3658291385951934713
+    second: StrafeLeftAttack_38
+  - first:
+      213: -5985970553105279854
+    second: StrafeLeftAttack_39
+  - first:
+      213: -6273470531801346575
+    second: StrafeLeftAttack_40
+  - first:
+      213: 5756521455800649774
+    second: StrafeLeftAttack_41
+  - first:
+      213: 1340650718929552328
+    second: StrafeLeftAttack_42
+  - first:
+      213: -5557858335437503905
+    second: StrafeLeftAttack_43
+  - first:
+      213: 8127465869349584953
+    second: StrafeLeftAttack_44
+  - first:
+      213: 3032663549280430571
+    second: StrafeLeftAttack_45
+  - first:
+      213: -1894057061950367208
+    second: StrafeLeftAttack_46
+  - first:
+      213: -483922325337709880
+    second: StrafeLeftAttack_47
+  - first:
+      213: 4435233945562116428
+    second: StrafeLeftAttack_48
+  - first:
+      213: -760630852168419508
+    second: StrafeLeftAttack_49
+  - first:
+      213: 924590328356279756
+    second: StrafeLeftAttack_50
+  - first:
+      213: 7293644619889042428
+    second: StrafeLeftAttack_51
+  - first:
+      213: -5265050654952844094
+    second: StrafeLeftAttack_52
+  - first:
+      213: -1084726925160856236
+    second: StrafeLeftAttack_53
+  - first:
+      213: -5612903540024011113
+    second: StrafeLeftAttack_54
+  - first:
+      213: -5561595155598117574
+    second: StrafeLeftAttack_55
+  - first:
+      213: 6309003013923645338
+    second: StrafeLeftAttack_56
+  - first:
+      213: 8764545075031179725
+    second: StrafeLeftAttack_57
+  - first:
+      213: -4732124916929628868
+    second: StrafeLeftAttack_58
+  - first:
+      213: -4438614925340284541
+    second: StrafeLeftAttack_59
+  - first:
+      213: 49236866268454968
+    second: StrafeLeftAttack_60
+  - first:
+      213: -7051840256896146688
+    second: StrafeLeftAttack_61
+  - first:
+      213: 2727249526055306392
+    second: StrafeLeftAttack_62
+  - first:
+      213: -7100431188953926095
+    second: StrafeLeftAttack_63
+  - first:
+      213: -8047174257450211161
+    second: StrafeLeftAttack_64
+  - first:
+      213: 6220328383666806492
+    second: StrafeLeftAttack_65
+  - first:
+      213: -6794056227306942427
+    second: StrafeLeftAttack_66
+  - first:
+      213: -1243860170092734135
+    second: StrafeLeftAttack_67
+  - first:
+      213: -2530369095637481506
+    second: StrafeLeftAttack_68
+  - first:
+      213: 2349923802545830868
+    second: StrafeLeftAttack_69
+  - first:
+      213: -700879779039207782
+    second: StrafeLeftAttack_70
+  - first:
+      213: 5142043417079009095
+    second: StrafeLeftAttack_71
+  - first:
+      213: -6843613433311070417
+    second: StrafeLeftAttack_72
+  - first:
+      213: 4527397596304949206
+    second: StrafeLeftAttack_73
+  - first:
+      213: 3607316273295666875
+    second: StrafeLeftAttack_74
+  - first:
+      213: 5703941368192542251
+    second: StrafeLeftAttack_75
+  - first:
+      213: 8524690360691183065
+    second: StrafeLeftAttack_76
+  - first:
+      213: 7204962344967507090
+    second: StrafeLeftAttack_77
+  - first:
+      213: 7342036204678735684
+    second: StrafeLeftAttack_78
+  - first:
+      213: -7389950909347853754
+    second: StrafeLeftAttack_79
+  - first:
+      213: 1999744313516479518
+    second: StrafeLeftAttack_80
+  - first:
+      213: 6381563911552794055
+    second: StrafeLeftAttack_81
+  - first:
+      213: -4516963353303296421
+    second: StrafeLeftAttack_82
+  - first:
+      213: -4882395265454770789
+    second: StrafeLeftAttack_83
+  - first:
+      213: 3456148725424016932
+    second: StrafeLeftAttack_84
+  - first:
+      213: 4332484878228184933
+    second: StrafeLeftAttack_85
+  - first:
+      213: -4071395965412311336
+    second: StrafeLeftAttack_86
+  - first:
+      213: 362846233054521573
+    second: StrafeLeftAttack_87
+  - first:
+      213: 4304132574858545080
+    second: StrafeLeftAttack_88
+  - first:
+      213: 4119316790791374435
+    second: StrafeLeftAttack_89
+  - first:
+      213: -7712178423967609187
+    second: StrafeLeftAttack_90
+  - first:
+      213: -2142906155708505236
+    second: StrafeLeftAttack_91
+  - first:
+      213: -584502577324126224
+    second: StrafeLeftAttack_92
+  - first:
+      213: 3097331523035076412
+    second: StrafeLeftAttack_93
+  - first:
+      213: 1369008124382651166
+    second: StrafeLeftAttack_94
+  - first:
+      213: -5092443791398148783
+    second: StrafeLeftAttack_95
+  - first:
+      213: -209760651067825500
+    second: StrafeLeftAttack_96
+  - first:
+      213: 6561299510313667462
+    second: StrafeLeftAttack_97
+  - first:
+      213: -6616982127408064396
+    second: StrafeLeftAttack_98
+  - first:
+      213: 6217696774421509835
+    second: StrafeLeftAttack_99
+  - first:
+      213: 8036853179383259331
+    second: StrafeLeftAttack_100
+  - first:
+      213: 8107814085525774028
+    second: StrafeLeftAttack_101
+  - first:
+      213: 4721324622875923378
+    second: StrafeLeftAttack_102
+  - first:
+      213: -4334339223814239291
+    second: StrafeLeftAttack_103
+  - first:
+      213: -4577316307598095434
+    second: StrafeLeftAttack_104
+  - first:
+      213: -8101430923703870334
+    second: StrafeLeftAttack_105
+  - first:
+      213: 9015321291755186368
+    second: StrafeLeftAttack_106
+  - first:
+      213: 7951401049866987001
+    second: StrafeLeftAttack_107
+  - first:
+      213: 3445335345066816453
+    second: StrafeLeftAttack_108
+  - first:
+      213: 7759665085690365898
+    second: StrafeLeftAttack_109
+  - first:
+      213: 1149007441521958334
+    second: StrafeLeftAttack_110
+  - first:
+      213: -7624530068744764196
+    second: StrafeLeftAttack_111
+  - first:
+      213: 8248580135764051720
+    second: StrafeLeftAttack_112
+  - first:
+      213: -4868527325691127743
+    second: StrafeLeftAttack_113
+  - first:
+      213: -453001803718807003
+    second: StrafeLeftAttack_114
+  - first:
+      213: -9087567160791301038
+    second: StrafeLeftAttack_115
+  - first:
+      213: -6379486073025196906
+    second: StrafeLeftAttack_116
+  - first:
+      213: -3962112774423658646
+    second: StrafeLeftAttack_117
+  - first:
+      213: 5236468717920438616
+    second: StrafeLeftAttack_118
+  - first:
+      213: -204041923444097938
+    second: StrafeLeftAttack_119
+  - first:
+      213: -5401230790868240700
+    second: StrafeLeftAttack_120
+  - first:
+      213: 1288911086186849032
+    second: StrafeLeftAttack_121
+  - first:
+      213: -6920403319899510337
+    second: StrafeLeftAttack_122
+  - first:
+      213: 8842468659151397050
+    second: StrafeLeftAttack_123
+  - first:
+      213: 2438598055895445050
+    second: StrafeLeftAttack_124
+  - first:
+      213: 3795025187921811472
+    second: StrafeLeftAttack_125
+  - first:
+      213: -386314878700496288
+    second: StrafeLeftAttack_126
+  - first:
+      213: 5007772564663584024
+    second: StrafeLeftAttack_127
+  - first:
+      213: -4344010805443190699
+    second: StrafeLeftAttack_128
+  - first:
+      213: -8844185678647563104
+    second: StrafeLeftAttack_129
+  - first:
+      213: -166931728306382491
+    second: StrafeLeftAttack_130
+  - first:
+      213: 3472834519542509659
+    second: StrafeLeftAttack_131
+  - first:
+      213: 670055949699278922
+    second: StrafeLeftAttack_132
+  - first:
+      213: -465289728745754002
+    second: StrafeLeftAttack_133
+  - first:
+      213: 3930779005667431496
+    second: StrafeLeftAttack_134
+  - first:
+      213: -4626804730899642303
+    second: StrafeLeftAttack_135
+  - first:
+      213: 8032807806471938963
+    second: StrafeLeftAttack_136
+  - first:
+      213: -6698002469103605980
+    second: StrafeLeftAttack_137
+  - first:
+      213: 1515096999099044885
+    second: StrafeLeftAttack_138
+  - first:
+      213: -246996976005212157
+    second: StrafeLeftAttack_139
+  - first:
+      213: 7483706953242137815
+    second: StrafeLeftAttack_140
+  - first:
+      213: 2366598509684845292
+    second: StrafeLeftAttack_141
+  - first:
+      213: 9011631016962619809
+    second: StrafeLeftAttack_142
+  - first:
+      213: 2786131651920966673
+    second: StrafeLeftAttack_143
+  - first:
+      213: -1118636345270962573
+    second: StrafeLeftAttack_144
+  - first:
+      213: 4143252740223198122
+    second: StrafeLeftAttack_145
+  - first:
+      213: -5266909658782934519
+    second: StrafeLeftAttack_146
+  - first:
+      213: 4649620110810420249
+    second: StrafeLeftAttack_147
+  - first:
+      213: -987482072108840021
+    second: StrafeLeftAttack_148
+  - first:
+      213: 3410160698001054474
+    second: StrafeLeftAttack_149
+  - first:
+      213: 5395188417802881446
+    second: StrafeLeftAttack_150
+  - first:
+      213: -5339137832213722138
+    second: StrafeLeftAttack_151
+  - first:
+      213: 8853184740761161331
+    second: StrafeLeftAttack_152
+  - first:
+      213: 8725836388440368593
+    second: StrafeLeftAttack_153
+  - first:
+      213: 8501912336257683053
+    second: StrafeLeftAttack_0_0_0
+  - first:
+      213: 8277449266493324910
+    second: StrafeLeftAttack_0_1_1
+  - first:
+      213: 5012040037612985416
+    second: StrafeLeftAttack_0_2_2
+  - first:
+      213: -3334307628676413920
+    second: StrafeLeftAttack_0_3_3
+  - first:
+      213: 4449185674360676862
+    second: StrafeLeftAttack_0_4_4
+  - first:
+      213: 6327719026530001344
+    second: StrafeLeftAttack_0_5_5
+  - first:
+      213: -3623552555611039605
+    second: StrafeLeftAttack_0_6_6
+  - first:
+      213: -2662534735602609933
+    second: StrafeLeftAttack_0_7_7
+  - first:
+      213: -7207819618912386805
+    second: StrafeLeftAttack_0_8_8
+  - first:
+      213: 6328833501415751101
+    second: StrafeLeftAttack_0_9_9
+  - first:
+      213: -2045264595775960492
+    second: StrafeLeftAttack_0_10_10
+  - first:
+      213: 9079108392137526777
+    second: StrafeLeftAttack_0_11_11
+  - first:
+      213: 4492281642699321212
+    second: StrafeLeftAttack_0_12_12
+  - first:
+      213: -8196219550343642393
+    second: StrafeLeftAttack_0_13_13
+  - first:
+      213: 8183265641681146699
+    second: StrafeLeftAttack_0_14_14
+  - first:
+      213: -4484781537913097110
+    second: StrafeLeftAttack_1_0_15
+  - first:
+      213: 1433398211734899142
+    second: StrafeLeftAttack_1_1_16
+  - first:
+      213: -7023656105877109343
+    second: StrafeLeftAttack_1_2_17
+  - first:
+      213: -1217650485203238027
+    second: StrafeLeftAttack_1_3_18
+  - first:
+      213: 8706012261875144134
+    second: StrafeLeftAttack_1_4_19
+  - first:
+      213: 3124121690465545373
+    second: StrafeLeftAttack_1_5_20
+  - first:
+      213: -3722923658509709936
+    second: StrafeLeftAttack_1_6_21
+  - first:
+      213: 2717148540357430425
+    second: StrafeLeftAttack_1_7_22
+  - first:
+      213: -4207278342597472174
+    second: StrafeLeftAttack_1_8_23
+  - first:
+      213: -5786736675836523036
+    second: StrafeLeftAttack_1_9_24
+  - first:
+      213: 8213183207407054083
+    second: StrafeLeftAttack_1_10_25
+  - first:
+      213: -9095469054572829086
+    second: StrafeLeftAttack_1_11_26
+  - first:
+      213: 9182209857998617104
+    second: StrafeLeftAttack_1_12_27
+  - first:
+      213: 1332514528554577717
+    second: StrafeLeftAttack_1_13_28
+  - first:
+      213: 7676899597778815815
+    second: StrafeLeftAttack_1_14_29
+  - first:
+      213: 228338597275528290
+    second: StrafeLeftAttack_2_0_30
+  - first:
+      213: 5314600118699704662
+    second: StrafeLeftAttack_2_1_31
+  - first:
+      213: 2539984631184737291
+    second: StrafeLeftAttack_2_2_32
+  - first:
+      213: -2542070530789096700
+    second: StrafeLeftAttack_2_3_33
+  - first:
+      213: 3624998227831792554
+    second: StrafeLeftAttack_2_4_34
+  - first:
+      213: -7866072991137961013
+    second: StrafeLeftAttack_2_5_35
+  - first:
+      213: 5556501944699731108
+    second: StrafeLeftAttack_2_6_36
+  - first:
+      213: 1389855581264459930
+    second: StrafeLeftAttack_2_7_37
+  - first:
+      213: -1679989636669305799
+    second: StrafeLeftAttack_2_8_38
+  - first:
+      213: -6246898746886873437
+    second: StrafeLeftAttack_2_9_39
+  - first:
+      213: -1416705101999191046
+    second: StrafeLeftAttack_2_10_40
+  - first:
+      213: -6234493033398468784
+    second: StrafeLeftAttack_2_11_41
+  - first:
+      213: 8572846731307457288
+    second: StrafeLeftAttack_2_12_42
+  - first:
+      213: 8175694930841981931
+    second: StrafeLeftAttack_2_13_43
+  - first:
+      213: -4077499408310179491
+    second: StrafeLeftAttack_2_14_44
+  - first:
+      213: -6590016011317036065
+    second: StrafeLeftAttack_3_0_45
+  - first:
+      213: 3572723110142425778
+    second: StrafeLeftAttack_3_1_46
+  - first:
+      213: 6638963467101139970
+    second: StrafeLeftAttack_3_2_47
+  - first:
+      213: -4296373083681295318
+    second: StrafeLeftAttack_3_3_48
+  - first:
+      213: 1609547325349832324
+    second: StrafeLeftAttack_3_4_49
+  - first:
+      213: -920502239907041002
+    second: StrafeLeftAttack_3_5_50
+  - first:
+      213: -741698908046714852
+    second: StrafeLeftAttack_3_6_51
+  - first:
+      213: 6258674978480559766
+    second: StrafeLeftAttack_3_7_52
+  - first:
+      213: -3661283417012196492
+    second: StrafeLeftAttack_3_8_53
+  - first:
+      213: 9136190819241373299
+    second: StrafeLeftAttack_3_9_54
+  - first:
+      213: -3500564118254998545
+    second: StrafeLeftAttack_3_10_55
+  - first:
+      213: 6525065310192221509
+    second: StrafeLeftAttack_3_11_56
+  - first:
+      213: -3192344309717156115
+    second: StrafeLeftAttack_3_12_57
+  - first:
+      213: -3007098655538520965
+    second: StrafeLeftAttack_3_13_58
+  - first:
+      213: 1435056868466187327
+    second: StrafeLeftAttack_3_14_59
+  - first:
+      213: -6108329769624894183
+    second: StrafeLeftAttack_4_0_60
+  - first:
+      213: 1297302253359690129
+    second: StrafeLeftAttack_4_1_61
+  - first:
+      213: 7134069925907841124
+    second: StrafeLeftAttack_4_2_62
+  - first:
+      213: -4389941847028859941
+    second: StrafeLeftAttack_4_3_63
+  - first:
+      213: -4465170628741174541
+    second: StrafeLeftAttack_4_4_64
+  - first:
+      213: 5053588930296910483
+    second: StrafeLeftAttack_4_5_65
+  - first:
+      213: 900760863275574556
+    second: StrafeLeftAttack_4_6_66
+  - first:
+      213: 2236276351372401549
+    second: StrafeLeftAttack_4_7_67
+  - first:
+      213: -2211207437825984645
+    second: StrafeLeftAttack_4_8_68
+  - first:
+      213: -7433161935105215846
+    second: StrafeLeftAttack_4_9_69
+  - first:
+      213: -2284431703003277259
+    second: StrafeLeftAttack_4_10_70
+  - first:
+      213: -3736561851708531709
+    second: StrafeLeftAttack_4_11_71
+  - first:
+      213: -4503030431074950856
+    second: StrafeLeftAttack_4_12_72
+  - first:
+      213: 6971950891909876654
+    second: StrafeLeftAttack_4_13_73
+  - first:
+      213: -3862974649394576335
+    second: StrafeLeftAttack_4_14_74
+  - first:
+      213: -5201590255515938536
+    second: StrafeLeftAttack_5_0_75
+  - first:
+      213: 3548423252616498374
+    second: StrafeLeftAttack_5_1_76
+  - first:
+      213: 7338700369952019564
+    second: StrafeLeftAttack_5_2_77
+  - first:
+      213: 215650306788644067
+    second: StrafeLeftAttack_5_3_78
+  - first:
+      213: -6596230008742753426
+    second: StrafeLeftAttack_5_4_79
+  - first:
+      213: 6997445810857733864
+    second: StrafeLeftAttack_5_5_80
+  - first:
+      213: 8322198314412236917
+    second: StrafeLeftAttack_5_6_81
+  - first:
+      213: -6950703745882761074
+    second: StrafeLeftAttack_5_7_82
+  - first:
+      213: 3567296100810976242
+    second: StrafeLeftAttack_5_8_83
+  - first:
+      213: 1250383147600087408
+    second: StrafeLeftAttack_5_9_84
+  - first:
+      213: -2644843662235422314
+    second: StrafeLeftAttack_5_10_85
+  - first:
+      213: 4099002120792059171
+    second: StrafeLeftAttack_5_11_86
+  - first:
+      213: -306339602057008669
+    second: StrafeLeftAttack_5_12_87
+  - first:
+      213: -6703097113988389461
+    second: StrafeLeftAttack_5_13_88
+  - first:
+      213: 6366210439277621880
+    second: StrafeLeftAttack_5_14_89
+  - first:
+      213: 2470206037397485220
+    second: StrafeLeftAttack_6_0_90
+  - first:
+      213: 334356910971870539
+    second: StrafeLeftAttack_6_1_91
+  - first:
+      213: -4171658246764196319
+    second: StrafeLeftAttack_6_2_92
+  - first:
+      213: -2261780493636297260
+    second: StrafeLeftAttack_6_3_93
+  - first:
+      213: -7119534752196037866
+    second: StrafeLeftAttack_6_4_94
+  - first:
+      213: -8580155357346397024
+    second: StrafeLeftAttack_6_5_95
+  - first:
+      213: -838003214558349534
+    second: StrafeLeftAttack_6_6_96
+  - first:
+      213: 2189811068885263253
+    second: StrafeLeftAttack_6_7_97
+  - first:
+      213: 5781604318254726149
+    second: StrafeLeftAttack_6_8_98
+  - first:
+      213: 2212403627058728909
+    second: StrafeLeftAttack_6_9_99
+  - first:
+      213: -5794521363535940843
+    second: StrafeLeftAttack_6_10_100
+  - first:
+      213: -847825131474927272
+    second: StrafeLeftAttack_6_11_101
+  - first:
+      213: -6421236609285117419
+    second: StrafeLeftAttack_6_12_102
+  - first:
+      213: 1991524170062475532
+    second: StrafeLeftAttack_6_13_103
+  - first:
+      213: 7319498190196935407
+    second: StrafeLeftAttack_6_14_104
+  - first:
+      213: 2293193330817479018
+    second: StrafeLeftAttack_7_0_105
+  - first:
+      213: -7299742754069570548
+    second: StrafeLeftAttack_7_1_106
+  - first:
+      213: -5414152866810635130
+    second: StrafeLeftAttack_7_2_107
+  - first:
+      213: -7517844041078813404
+    second: StrafeLeftAttack_7_3_108
+  - first:
+      213: -2403374215636207676
+    second: StrafeLeftAttack_7_4_109
+  - first:
+      213: 347337218144908320
+    second: StrafeLeftAttack_7_5_110
+  - first:
+      213: -965888044201193506
+    second: StrafeLeftAttack_7_6_111
+  - first:
+      213: -2549623340861410796
+    second: StrafeLeftAttack_7_7_112
+  - first:
+      213: -1921723460180649134
+    second: StrafeLeftAttack_7_8_113
+  - first:
+      213: -5292921949339245551
+    second: StrafeLeftAttack_7_9_114
+  - first:
+      213: 2421371559855836708
+    second: StrafeLeftAttack_7_10_115
+  - first:
+      213: 5184435767946247838
+    second: StrafeLeftAttack_7_11_116
+  - first:
+      213: 6982992117990466334
+    second: StrafeLeftAttack_7_12_117
+  - first:
+      213: 7941939973623093516
+    second: StrafeLeftAttack_7_13_118
+  - first:
+      213: 9041420567904795929
+    second: StrafeLeftAttack_7_14_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StrafeLeftAttack_0_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6e862a893cdcf570800000000000000
+      internalID: 8501912336257683053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_0_1_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6ef6a780486fd270800000000000000
+      internalID: 8277449266493324910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_0_2_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84c15f9fbd75e8540800000000000000
+      internalID: 5012040037612985416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_0_3_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0260edca0e82ab1d0800000000000000
+      internalID: -3334307628676413920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_0_4_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef1660c4cceaebd30800000000000000
+      internalID: 4449185674360676862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_0_5_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c12dcecde290d750800000000000000
+      internalID: 6327719026530001344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_0_6_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8858d9262e86bdc0800000000000000
+      internalID: -3623552555611039605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_0_7_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f09442c3c6cc0bd0800000000000000
+      internalID: -2662534735602609933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_0_8_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b01c2a9ce3ea8fb90800000000000000
+      internalID: -7207819618912386805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_0_9_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd3a76b98884d750800000000000000
+      internalID: 6328833501415751101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_0_10_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45a4719bfa2cd93e0800000000000000
+      internalID: -2045264595775960492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_0_11_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fd00aebaf87ffd70800000000000000
+      internalID: 9079108392137526777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_0_12_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7fe9185a5ac75e30800000000000000
+      internalID: 4492281642699321212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_0_13_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e2c7a09ebd214e80800000000000000
+      internalID: -8196219550343642393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_0_14_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b43501b8ebcc09170800000000000000
+      internalID: 8183265641681146699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_1_0_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a64b571e3fad2c1c0800000000000000
+      internalID: -4484781537913097110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_1_1_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c98320441474e310800000000000000
+      internalID: 1433398211734899142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_1_2_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a501b01cf5f68e90800000000000000
+      internalID: -7023656105877109343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_1_3_18
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57301e8c5590a1fe0800000000000000
+      internalID: -1217650485203238027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_1_4_19
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c553479608f1d870800000000000000
+      internalID: 8706012261875144134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_1_5_20
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9caa4b002c1b5b20800000000000000
+      internalID: 3124121690465545373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_1_6_21
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d81a058a4855cc0800000000000000
+      internalID: -3722923658509709936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_1_7_22
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99cc9fd833045b520800000000000000
+      internalID: 2717148540357430425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_1_8_23
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 250984673aebc95c0800000000000000
+      internalID: -4207278342597472174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_1_9_24
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ed0a0c17a161bfa0800000000000000
+      internalID: -5786736675836523036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_1_10_25
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d63b0ac961bf170800000000000000
+      internalID: 8213183207407054083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_1_11_26
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266e0a0b51766c180800000000000000
+      internalID: -9095469054572829086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_1_12_27
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01af8176733cd6f70800000000000000
+      internalID: 9182209857998617104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_1_13_28
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53fea8c57ea0e7210800000000000000
+      internalID: 1332514528554577717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_1_14_29
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74b02fd9283d98a60800000000000000
+      internalID: 7676899597778815815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_2_0_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26c6e139eb83b2300800000000000000
+      internalID: 228338597275528290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_2_1_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 651485666a041c940800000000000000
+      internalID: 5314600118699704662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_2_2_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b04c7bc8096df3320800000000000000
+      internalID: 2539984631184737291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_2_3_33
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 403c35a1250c8bcd0800000000000000
+      internalID: -2542070530789096700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_2_4_34
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3a551aea49e4230800000000000000
+      internalID: 3624998227831792554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_2_5_35
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb6de17a4816d290800000000000000
+      internalID: -7866072991137961013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_2_6_36
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac389f3419ac1d40800000000000000
+      internalID: 5556501944699731108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_2_7_37
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a98bc529942c94310800000000000000
+      internalID: 1389855581264459930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_2_8_38
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c0dff835a7fa8e0800000000000000
+      internalID: -1679989636669305799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_2_9_39
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae99fbefae8e49a0800000000000000
+      internalID: -6246898746886873437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_2_10_40
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afbcadb373ad65ce0800000000000000
+      internalID: -1416705101999191046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_2_11_41
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ff2ad2e91aa79a0800000000000000
+      internalID: -6234493033398468784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_2_12_42
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b13756eaed8f670800000000000000
+      internalID: 8572846731307457288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_2_13_43
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be35cc01937e57170800000000000000
+      internalID: 8175694930841981931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_2_14_44
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d596ec344efc967c0800000000000000
+      internalID: -4077499408310179491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_3_0_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdbbf456a5f8b84a0800000000000000
+      internalID: -6590016011317036065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_3_1_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba3ed45dbcd49130800000000000000
+      internalID: 3572723110142425778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_3_2_47
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 204fb5d3916522c50800000000000000
+      internalID: 6638963467101139970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_3_3_48
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2470ac81773064c0800000000000000
+      internalID: -4296373083681295318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_3_4_49
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48628a0c3c2465610800000000000000
+      internalID: 1609547325349832324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_3_5_50
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611b36ff618b933f0800000000000000
+      internalID: -920502239907041002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_3_6_51
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c189497d5c4f4b5f0800000000000000
+      internalID: -741698908046714852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_3_7_52
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69695f8abb74bd650800000000000000
+      internalID: 6258674978480559766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_3_8_53
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ba5fa6122803dc0800000000000000
+      internalID: -3661283417012196492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_3_9_54
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e211df4254ace70800000000000000
+      internalID: 9136190819241373299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_3_10_55
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: febaee13b7f7b6fc0800000000000000
+      internalID: -3500564118254998545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_3_11_56
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54d3b3e0450bd8a50800000000000000
+      internalID: 6525065310192221509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_3_12_57
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deeb19a93c382b3d0800000000000000
+      internalID: -3192344309717156115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_3_13_58
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c521084b3a446d0800000000000000
+      internalID: -3007098655538520965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_3_14_59
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c596d5e985ae310800000000000000
+      internalID: 1435056868466187327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_4_0_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9158096107ada3ba0800000000000000
+      internalID: -6108329769624894183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_4_1_61
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19171d9a681f00210800000000000000
+      internalID: 1297302253359690129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_4_2_62
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460c888bcce410360800000000000000
+      internalID: 7134069925907841124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_4_3_63
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbf837262bc313c0800000000000000
+      internalID: -4389941847028859941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_4_4_64
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3faef5c78f68802c0800000000000000
+      internalID: -4465170628741174541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_4_5_65
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39291376b54f12640800000000000000
+      internalID: 5053588930296910483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_4_6_66
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c156d139b35208c00800000000000000
+      internalID: 900760863275574556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_4_7_67
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b98274e79d80f10800000000000000
+      internalID: 2236276351372401549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_4_8_68
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b773eaffc863051e0800000000000000
+      internalID: -2211207437825984645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_4_9_69
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9239144a9a18d890800000000000000
+      internalID: -7433161935105215846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_4_10_70
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53859d438711c40e0800000000000000
+      internalID: -2284431703003277259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_4_11_71
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c13a30bc0152cc0800000000000000
+      internalID: -3736561851708531709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_4_12_72
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831e0075ea50281c0800000000000000
+      internalID: -4503030431074950856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_4_13_73
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab81cfa56851c060800000000000000
+      internalID: 6971950891909876654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_4_14_74
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1344f76f505f36ac0800000000000000
+      internalID: -3862974649394576335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_5_0_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 811d6d8c83d30d7b0800000000000000
+      internalID: -5201590255515938536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_5_1_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cc41fcd5288e3130800000000000000
+      internalID: 3548423252616498374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_5_2_77
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c649408ba1d48d560800000000000000
+      internalID: 7338700369952019564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_5_3_78
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e457dbbfc42ef200800000000000000
+      internalID: 215650306788644067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_5_4_79
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6bcd1061cb7574a0800000000000000
+      internalID: -6596230008742753426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_5_5_80
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee683314ebeb1160800000000000000
+      internalID: 6997445810857733864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_5_6_81
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57065e826436e7370800000000000000
+      internalID: 8322198314412236917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_5_7_82
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e885eaff4c32a8f90800000000000000
+      internalID: -6950703745882761074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_5_8_83
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fb697147e4918130800000000000000
+      internalID: 3567296100810976242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_5_9_84
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07986d119d04a5110800000000000000
+      internalID: 1250383147600087408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_5_10_85
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 691b302c3b0ab4bd0800000000000000
+      internalID: -2644843662235422314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_5_11_86
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d226f16b492e830800000000000000
+      internalID: 4099002120792059171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_5_12_87
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e9e1c641c9afbbf0800000000000000
+      internalID: -306339602057008669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_5_13_88
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5a6c970b0d9f2a0800000000000000
+      internalID: -6703097113988389461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_5_14_89
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872b6863aa2595850800000000000000
+      internalID: 6366210439277621880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_6_0_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a63a15ad4fe74220800000000000000
+      internalID: 2470206037397485220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_6_1_91
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ddcaac6dfd3a400800000000000000
+      internalID: 334356910971870539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_6_2_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e8a4d4dea4b16c0800000000000000
+      internalID: -4171658246764196319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_6_3_93
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd96ecdf9a8c90e0800000000000000
+      internalID: -2261780493636297260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_6_4_94
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6137e412dd4523d90800000000000000
+      internalID: -7119534752196037866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_6_5_95
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a404bf792a2de880800000000000000
+      internalID: -8580155357346397024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_6_6_96
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2273d9b2480de54f0800000000000000
+      internalID: -838003214558349534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_6_7_97
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593ef16a095c36e10800000000000000
+      internalID: 2189811068885263253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_6_8_98
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50cff65ce726c3050800000000000000
+      internalID: 5781604318254726149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_6_9_99
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcf0f92806904be10800000000000000
+      internalID: 2212403627058728909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_6_10_100
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51337034589b59fa0800000000000000
+      internalID: -5794521363535940843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_6_11_101
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 851c9cee88beb34f0800000000000000
+      internalID: -847825131474927272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_6_12_102
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51aa3d4335f23e6a0800000000000000
+      internalID: -6421236609285117419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_6_13_103
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01bd2e5ea053ab10800000000000000
+      internalID: 1991524170062475532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_6_14_104
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea8dc8d2d4149560800000000000000
+      internalID: 7319498190196935407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_7_0_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a61bbac3f2f03df10800000000000000
+      internalID: 2293193330817479018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_7_1_106
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0c93ff04aa12ba90800000000000000
+      internalID: -7299742754069570548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_7_2_107
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68cd61e27a01dd4b0800000000000000
+      internalID: -5414152866810635130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_7_3_108
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42dc5b60da04ba790800000000000000
+      internalID: -7517844041078813404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_7_4_109
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7bbae62ef75aed0800000000000000
+      internalID: -2403374215636207676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_7_5_110
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 024bcc01c5df1d400800000000000000
+      internalID: 347337218144908320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_7_6_111
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf4798f0f97892f0800000000000000
+      internalID: -965888044201193506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_7_7_112
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41239e8741bed9cd0800000000000000
+      internalID: -2549623340861410796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_7_8_113
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25bd567d1baa455e0800000000000000
+      internalID: -1921723460180649134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_7_9_114
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11424c9b783cb86b0800000000000000
+      internalID: -5292921949339245551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_7_10_115
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42ec07eca907a9120800000000000000
+      internalID: 2421371559855836708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_7_11_116
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ef345dcd0d2f740800000000000000
+      internalID: 5184435767946247838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_7_12_117
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e13ac26755298e060800000000000000
+      internalID: 6982992117990466334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_7_13_118
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09974be350773e60800000000000000
+      internalID: 7941939973623093516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeftAttack_7_14_119
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91d30ee5a14997d70800000000000000
+      internalID: 9041420567904795929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      StrafeLeftAttack_0: -7827940063092552165
+      StrafeLeftAttack_0_0_0: 8501912336257683053
+      StrafeLeftAttack_0_10_10: -2045264595775960492
+      StrafeLeftAttack_0_11_11: 9079108392137526777
+      StrafeLeftAttack_0_12_12: 4492281642699321212
+      StrafeLeftAttack_0_13_13: -8196219550343642393
+      StrafeLeftAttack_0_14_14: 8183265641681146699
+      StrafeLeftAttack_0_1_1: 8277449266493324910
+      StrafeLeftAttack_0_2_2: 5012040037612985416
+      StrafeLeftAttack_0_3_3: -3334307628676413920
+      StrafeLeftAttack_0_4_4: 4449185674360676862
+      StrafeLeftAttack_0_5_5: 6327719026530001344
+      StrafeLeftAttack_0_6_6: -3623552555611039605
+      StrafeLeftAttack_0_7_7: -2662534735602609933
+      StrafeLeftAttack_0_8_8: -7207819618912386805
+      StrafeLeftAttack_0_9_9: 6328833501415751101
+      StrafeLeftAttack_1: 3512694065318768825
+      StrafeLeftAttack_10: -7382596963729671555
+      StrafeLeftAttack_100: 8036853179383259331
+      StrafeLeftAttack_101: 8107814085525774028
+      StrafeLeftAttack_102: 4721324622875923378
+      StrafeLeftAttack_103: -4334339223814239291
+      StrafeLeftAttack_104: -4577316307598095434
+      StrafeLeftAttack_105: -8101430923703870334
+      StrafeLeftAttack_106: 9015321291755186368
+      StrafeLeftAttack_107: 7951401049866987001
+      StrafeLeftAttack_108: 3445335345066816453
+      StrafeLeftAttack_109: 7759665085690365898
+      StrafeLeftAttack_11: 8930655636913715954
+      StrafeLeftAttack_110: 1149007441521958334
+      StrafeLeftAttack_111: -7624530068744764196
+      StrafeLeftAttack_112: 8248580135764051720
+      StrafeLeftAttack_113: -4868527325691127743
+      StrafeLeftAttack_114: -453001803718807003
+      StrafeLeftAttack_115: -9087567160791301038
+      StrafeLeftAttack_116: -6379486073025196906
+      StrafeLeftAttack_117: -3962112774423658646
+      StrafeLeftAttack_118: 5236468717920438616
+      StrafeLeftAttack_119: -204041923444097938
+      StrafeLeftAttack_12: 3526790311228331654
+      StrafeLeftAttack_120: -5401230790868240700
+      StrafeLeftAttack_121: 1288911086186849032
+      StrafeLeftAttack_122: -6920403319899510337
+      StrafeLeftAttack_123: 8842468659151397050
+      StrafeLeftAttack_124: 2438598055895445050
+      StrafeLeftAttack_125: 3795025187921811472
+      StrafeLeftAttack_126: -386314878700496288
+      StrafeLeftAttack_127: 5007772564663584024
+      StrafeLeftAttack_128: -4344010805443190699
+      StrafeLeftAttack_129: -8844185678647563104
+      StrafeLeftAttack_13: -5267414281075002253
+      StrafeLeftAttack_130: -166931728306382491
+      StrafeLeftAttack_131: 3472834519542509659
+      StrafeLeftAttack_132: 670055949699278922
+      StrafeLeftAttack_133: -465289728745754002
+      StrafeLeftAttack_134: 3930779005667431496
+      StrafeLeftAttack_135: -4626804730899642303
+      StrafeLeftAttack_136: 8032807806471938963
+      StrafeLeftAttack_137: -6698002469103605980
+      StrafeLeftAttack_138: 1515096999099044885
+      StrafeLeftAttack_139: -246996976005212157
+      StrafeLeftAttack_14: -1623689957751231913
+      StrafeLeftAttack_140: 7483706953242137815
+      StrafeLeftAttack_141: 2366598509684845292
+      StrafeLeftAttack_142: 9011631016962619809
+      StrafeLeftAttack_143: 2786131651920966673
+      StrafeLeftAttack_144: -1118636345270962573
+      StrafeLeftAttack_145: 4143252740223198122
+      StrafeLeftAttack_146: -5266909658782934519
+      StrafeLeftAttack_147: 4649620110810420249
+      StrafeLeftAttack_148: -987482072108840021
+      StrafeLeftAttack_149: 3410160698001054474
+      StrafeLeftAttack_15: -706845516047001323
+      StrafeLeftAttack_150: 5395188417802881446
+      StrafeLeftAttack_151: -5339137832213722138
+      StrafeLeftAttack_152: 8853184740761161331
+      StrafeLeftAttack_153: 8725836388440368593
+      StrafeLeftAttack_16: 7049707638559296069
+      StrafeLeftAttack_17: 6757064939842830191
+      StrafeLeftAttack_18: 7420117682653128402
+      StrafeLeftAttack_19: -3565803111273055633
+      StrafeLeftAttack_1_0_15: -4484781537913097110
+      StrafeLeftAttack_1_10_25: 8213183207407054083
+      StrafeLeftAttack_1_11_26: -9095469054572829086
+      StrafeLeftAttack_1_12_27: 9182209857998617104
+      StrafeLeftAttack_1_13_28: 1332514528554577717
+      StrafeLeftAttack_1_14_29: 7676899597778815815
+      StrafeLeftAttack_1_1_16: 1433398211734899142
+      StrafeLeftAttack_1_2_17: -7023656105877109343
+      StrafeLeftAttack_1_3_18: -1217650485203238027
+      StrafeLeftAttack_1_4_19: 8706012261875144134
+      StrafeLeftAttack_1_5_20: 3124121690465545373
+      StrafeLeftAttack_1_6_21: -3722923658509709936
+      StrafeLeftAttack_1_7_22: 2717148540357430425
+      StrafeLeftAttack_1_8_23: -4207278342597472174
+      StrafeLeftAttack_1_9_24: -5786736675836523036
+      StrafeLeftAttack_2: -3224418613524501150
+      StrafeLeftAttack_20: -5092707632883382778
+      StrafeLeftAttack_21: 4147281109266500358
+      StrafeLeftAttack_22: -5033069261898635836
+      StrafeLeftAttack_23: -6243815096301434309
+      StrafeLeftAttack_24: 2732032401557159831
+      StrafeLeftAttack_25: 3022064247315941935
+      StrafeLeftAttack_26: 1422993673855574437
+      StrafeLeftAttack_27: -7847616494587303591
+      StrafeLeftAttack_28: -2918389849066510952
+      StrafeLeftAttack_29: 5362087485235206407
+      StrafeLeftAttack_2_0_30: 228338597275528290
+      StrafeLeftAttack_2_10_40: -1416705101999191046
+      StrafeLeftAttack_2_11_41: -6234493033398468784
+      StrafeLeftAttack_2_12_42: 8572846731307457288
+      StrafeLeftAttack_2_13_43: 8175694930841981931
+      StrafeLeftAttack_2_14_44: -4077499408310179491
+      StrafeLeftAttack_2_1_31: 5314600118699704662
+      StrafeLeftAttack_2_2_32: 2539984631184737291
+      StrafeLeftAttack_2_3_33: -2542070530789096700
+      StrafeLeftAttack_2_4_34: 3624998227831792554
+      StrafeLeftAttack_2_5_35: -7866072991137961013
+      StrafeLeftAttack_2_6_36: 5556501944699731108
+      StrafeLeftAttack_2_7_37: 1389855581264459930
+      StrafeLeftAttack_2_8_38: -1679989636669305799
+      StrafeLeftAttack_2_9_39: -6246898746886873437
+      StrafeLeftAttack_3: -8683612701317205967
+      StrafeLeftAttack_30: 5890006325418704088
+      StrafeLeftAttack_31: 4106238122907262612
+      StrafeLeftAttack_32: -2165773282703415455
+      StrafeLeftAttack_33: -5701728579161191548
+      StrafeLeftAttack_34: -6542822561319577699
+      StrafeLeftAttack_35: -2116857306739568814
+      StrafeLeftAttack_36: 9116912483435425919
+      StrafeLeftAttack_37: 8597147913044052370
+      StrafeLeftAttack_38: -3658291385951934713
+      StrafeLeftAttack_39: -5985970553105279854
+      StrafeLeftAttack_3_0_45: -6590016011317036065
+      StrafeLeftAttack_3_10_55: -3500564118254998545
+      StrafeLeftAttack_3_11_56: 6525065310192221509
+      StrafeLeftAttack_3_12_57: -3192344309717156115
+      StrafeLeftAttack_3_13_58: -3007098655538520965
+      StrafeLeftAttack_3_14_59: 1435056868466187327
+      StrafeLeftAttack_3_1_46: 3572723110142425778
+      StrafeLeftAttack_3_2_47: 6638963467101139970
+      StrafeLeftAttack_3_3_48: -4296373083681295318
+      StrafeLeftAttack_3_4_49: 1609547325349832324
+      StrafeLeftAttack_3_5_50: -920502239907041002
+      StrafeLeftAttack_3_6_51: -741698908046714852
+      StrafeLeftAttack_3_7_52: 6258674978480559766
+      StrafeLeftAttack_3_8_53: -3661283417012196492
+      StrafeLeftAttack_3_9_54: 9136190819241373299
+      StrafeLeftAttack_4: -1003696122344783999
+      StrafeLeftAttack_40: -6273470531801346575
+      StrafeLeftAttack_41: 5756521455800649774
+      StrafeLeftAttack_42: 1340650718929552328
+      StrafeLeftAttack_43: -5557858335437503905
+      StrafeLeftAttack_44: 8127465869349584953
+      StrafeLeftAttack_45: 3032663549280430571
+      StrafeLeftAttack_46: -1894057061950367208
+      StrafeLeftAttack_47: -483922325337709880
+      StrafeLeftAttack_48: 4435233945562116428
+      StrafeLeftAttack_49: -760630852168419508
+      StrafeLeftAttack_4_0_60: -6108329769624894183
+      StrafeLeftAttack_4_10_70: -2284431703003277259
+      StrafeLeftAttack_4_11_71: -3736561851708531709
+      StrafeLeftAttack_4_12_72: -4503030431074950856
+      StrafeLeftAttack_4_13_73: 6971950891909876654
+      StrafeLeftAttack_4_14_74: -3862974649394576335
+      StrafeLeftAttack_4_1_61: 1297302253359690129
+      StrafeLeftAttack_4_2_62: 7134069925907841124
+      StrafeLeftAttack_4_3_63: -4389941847028859941
+      StrafeLeftAttack_4_4_64: -4465170628741174541
+      StrafeLeftAttack_4_5_65: 5053588930296910483
+      StrafeLeftAttack_4_6_66: 900760863275574556
+      StrafeLeftAttack_4_7_67: 2236276351372401549
+      StrafeLeftAttack_4_8_68: -2211207437825984645
+      StrafeLeftAttack_4_9_69: -7433161935105215846
+      StrafeLeftAttack_5: -5316472620106968474
+      StrafeLeftAttack_50: 924590328356279756
+      StrafeLeftAttack_51: 7293644619889042428
+      StrafeLeftAttack_52: -5265050654952844094
+      StrafeLeftAttack_53: -1084726925160856236
+      StrafeLeftAttack_54: -5612903540024011113
+      StrafeLeftAttack_55: -5561595155598117574
+      StrafeLeftAttack_56: 6309003013923645338
+      StrafeLeftAttack_57: 8764545075031179725
+      StrafeLeftAttack_58: -4732124916929628868
+      StrafeLeftAttack_59: -4438614925340284541
+      StrafeLeftAttack_5_0_75: -5201590255515938536
+      StrafeLeftAttack_5_10_85: -2644843662235422314
+      StrafeLeftAttack_5_11_86: 4099002120792059171
+      StrafeLeftAttack_5_12_87: -306339602057008669
+      StrafeLeftAttack_5_13_88: -6703097113988389461
+      StrafeLeftAttack_5_14_89: 6366210439277621880
+      StrafeLeftAttack_5_1_76: 3548423252616498374
+      StrafeLeftAttack_5_2_77: 7338700369952019564
+      StrafeLeftAttack_5_3_78: 215650306788644067
+      StrafeLeftAttack_5_4_79: -6596230008742753426
+      StrafeLeftAttack_5_5_80: 6997445810857733864
+      StrafeLeftAttack_5_6_81: 8322198314412236917
+      StrafeLeftAttack_5_7_82: -6950703745882761074
+      StrafeLeftAttack_5_8_83: 3567296100810976242
+      StrafeLeftAttack_5_9_84: 1250383147600087408
+      StrafeLeftAttack_6: 4816006777583315199
+      StrafeLeftAttack_60: 49236866268454968
+      StrafeLeftAttack_61: -7051840256896146688
+      StrafeLeftAttack_62: 2727249526055306392
+      StrafeLeftAttack_63: -7100431188953926095
+      StrafeLeftAttack_64: -8047174257450211161
+      StrafeLeftAttack_65: 6220328383666806492
+      StrafeLeftAttack_66: -6794056227306942427
+      StrafeLeftAttack_67: -1243860170092734135
+      StrafeLeftAttack_68: -2530369095637481506
+      StrafeLeftAttack_69: 2349923802545830868
+      StrafeLeftAttack_6_0_90: 2470206037397485220
+      StrafeLeftAttack_6_10_100: -5794521363535940843
+      StrafeLeftAttack_6_11_101: -847825131474927272
+      StrafeLeftAttack_6_12_102: -6421236609285117419
+      StrafeLeftAttack_6_13_103: 1991524170062475532
+      StrafeLeftAttack_6_14_104: 7319498190196935407
+      StrafeLeftAttack_6_1_91: 334356910971870539
+      StrafeLeftAttack_6_2_92: -4171658246764196319
+      StrafeLeftAttack_6_3_93: -2261780493636297260
+      StrafeLeftAttack_6_4_94: -7119534752196037866
+      StrafeLeftAttack_6_5_95: -8580155357346397024
+      StrafeLeftAttack_6_6_96: -838003214558349534
+      StrafeLeftAttack_6_7_97: 2189811068885263253
+      StrafeLeftAttack_6_8_98: 5781604318254726149
+      StrafeLeftAttack_6_9_99: 2212403627058728909
+      StrafeLeftAttack_7: -3275274478936966569
+      StrafeLeftAttack_70: -700879779039207782
+      StrafeLeftAttack_71: 5142043417079009095
+      StrafeLeftAttack_72: -6843613433311070417
+      StrafeLeftAttack_73: 4527397596304949206
+      StrafeLeftAttack_74: 3607316273295666875
+      StrafeLeftAttack_75: 5703941368192542251
+      StrafeLeftAttack_76: 8524690360691183065
+      StrafeLeftAttack_77: 7204962344967507090
+      StrafeLeftAttack_78: 7342036204678735684
+      StrafeLeftAttack_79: -7389950909347853754
+      StrafeLeftAttack_7_0_105: 2293193330817479018
+      StrafeLeftAttack_7_10_115: 2421371559855836708
+      StrafeLeftAttack_7_11_116: 5184435767946247838
+      StrafeLeftAttack_7_12_117: 6982992117990466334
+      StrafeLeftAttack_7_13_118: 7941939973623093516
+      StrafeLeftAttack_7_14_119: 9041420567904795929
+      StrafeLeftAttack_7_1_106: -7299742754069570548
+      StrafeLeftAttack_7_2_107: -5414152866810635130
+      StrafeLeftAttack_7_3_108: -7517844041078813404
+      StrafeLeftAttack_7_4_109: -2403374215636207676
+      StrafeLeftAttack_7_5_110: 347337218144908320
+      StrafeLeftAttack_7_6_111: -965888044201193506
+      StrafeLeftAttack_7_7_112: -2549623340861410796
+      StrafeLeftAttack_7_8_113: -1921723460180649134
+      StrafeLeftAttack_7_9_114: -5292921949339245551
+      StrafeLeftAttack_8: 5599851909570804717
+      StrafeLeftAttack_80: 1999744313516479518
+      StrafeLeftAttack_81: 6381563911552794055
+      StrafeLeftAttack_82: -4516963353303296421
+      StrafeLeftAttack_83: -4882395265454770789
+      StrafeLeftAttack_84: 3456148725424016932
+      StrafeLeftAttack_85: 4332484878228184933
+      StrafeLeftAttack_86: -4071395965412311336
+      StrafeLeftAttack_87: 362846233054521573
+      StrafeLeftAttack_88: 4304132574858545080
+      StrafeLeftAttack_89: 4119316790791374435
+      StrafeLeftAttack_9: -1018913131076512298
+      StrafeLeftAttack_90: -7712178423967609187
+      StrafeLeftAttack_91: -2142906155708505236
+      StrafeLeftAttack_92: -584502577324126224
+      StrafeLeftAttack_93: 3097331523035076412
+      StrafeLeftAttack_94: 1369008124382651166
+      StrafeLeftAttack_95: -5092443791398148783
+      StrafeLeftAttack_96: -209760651067825500
+      StrafeLeftAttack_97: 6561299510313667462
+      StrafeLeftAttack_98: -6616982127408064396
+      StrafeLeftAttack_99: 6217696774421509835
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

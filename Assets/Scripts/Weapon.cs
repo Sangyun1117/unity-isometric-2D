@@ -15,12 +15,20 @@ public class Weapon : MonoBehaviour
     }
     private void OnEnable()
     {
-        player.OnAnimatorParamChanged += HandleAnimatorParamChanged;
+        if (player == null)
+            player = transform.root.GetComponent<PlayerController>();
+
+        if (player != null)
+            player.OnAnimatorParamChanged += HandleAnimatorParamChanged;
     }
 
     private void OnDisable()
     {
-        player.OnAnimatorParamChanged -= HandleAnimatorParamChanged;
+        if (player == null)
+            player = transform.root.GetComponent<PlayerController>();
+
+        if (player != null)
+            player.OnAnimatorParamChanged -= HandleAnimatorParamChanged;
     }
 
     private void HandleAnimatorParamChanged(string paramName, object value)

@@ -3,10 +3,14 @@ using System.Collections;
 
 public class Rifles : Weapon
 {
-    [SerializeField] GameObject projectile;
+    //[SerializeField] GameObject projectile;
     [SerializeField] Transform firePoint; // 발사 위치 지정 (총구)
+    CustomObjectPool bulletPool;
     //Vector2 firePoint = Vector2.zero;
-
+    private void Awake()
+    {
+        bulletPool = GetComponent<CustomObjectPool>();
+    }
     protected override IEnumerator TryAttack()
     {
 
@@ -14,7 +18,8 @@ public class Rifles : Weapon
 
         Vector2 aimDir = player.lastMoveDir;
         // 발사체 생성
-        GameObject bullet = Instantiate(projectile, firePoint.transform.position, Quaternion.identity);
+        CustomPooledObject bullet = bulletPool.GetPooledObject();
+        bullet.transform.position = firePoint.position;
 
         // 회전 계산 (2D에서 Z축 회전)
         float angle = Mathf.Atan2(aimDir.y, aimDir.x) * Mathf.Rad2Deg;

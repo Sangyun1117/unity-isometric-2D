@@ -13,6 +13,7 @@ GameObject:
   - component: {fileID: 1212764585930005729}
   - component: {fileID: 1488160759383305482}
   - component: {fileID: 7938984078083888641}
+  - component: {fileID: -4961408680126536097}
   m_Layer: 0
   m_Name: TestBullet
   m_TagString: Untagged
@@ -160,7 +161,7 @@ Animator:
   m_GameObject: {fileID: 4560496210405623533}
   m_Enabled: 1
   m_Avatar: {fileID: 0}
-  m_Controller: {fileID: 0}
+  m_Controller: {fileID: 9100000, guid: 31e9af6396a0503478e06045cb137fdf, type: 2}
   m_CullingMode: 0
   m_UpdateMode: 0
   m_ApplyRootMotion: 0
@@ -172,3 +173,15 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
+--- !u!114 &-4961408680126536097
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 4560496210405623533}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 9a33aab9ae63d3947a8ceeeea93f2387, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 

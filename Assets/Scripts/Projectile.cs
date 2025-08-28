@@ -17,6 +17,12 @@ public class Projectile : MonoBehaviour
         // 지정된 방향으로 이동
         transform.position += (Vector3)(moveDir * speed * Time.deltaTime);
     }
+
+    void OnEnable()//풀에서 나올 때 초기화
+    {
+        moveDir = Vector2.zero;
+    }
+
     //자기자신 삭제 함수
     public void DestroySelf()
     {
@@ -25,7 +31,7 @@ public class Projectile : MonoBehaviour
         CancelInvoke(nameof(DestroySelf));
         Debug.Log("삭제처리");
         // 오브젝트 삭제
-        Destroy(gameObject);
+        GetComponent<CustomPooledObject>()?.Release(); //다시 풀로 돌라감
 
     }
     void OnTriggerEnter2D(Collider2D collision)

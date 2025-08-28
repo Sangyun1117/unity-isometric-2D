@@ -1,0 +1,3717 @@
+fileFormatVersion: 2
+guid: c8e2a2676cc61154b98b646a8b9906e7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -100685498332942853
+    second: StrafeLeft_0
+  - first:
+      213: 5596921638506807136
+    second: StrafeLeft_1
+  - first:
+      213: 4224705134447357485
+    second: StrafeLeft_2
+  - first:
+      213: -5202859073714097699
+    second: StrafeLeft_3
+  - first:
+      213: 7651750244176064129
+    second: StrafeLeft_4
+  - first:
+      213: 7183375822631587535
+    second: StrafeLeft_5
+  - first:
+      213: 8248284394182700629
+    second: StrafeLeft_6
+  - first:
+      213: 5350050033272572253
+    second: StrafeLeft_7
+  - first:
+      213: 6450490340238892316
+    second: StrafeLeft_8
+  - first:
+      213: -448147569882069725
+    second: StrafeLeft_9
+  - first:
+      213: -6023083847870145064
+    second: StrafeLeft_10
+  - first:
+      213: 8648654328348661151
+    second: StrafeLeft_11
+  - first:
+      213: -106021026343089780
+    second: StrafeLeft_12
+  - first:
+      213: -7898570633451244314
+    second: StrafeLeft_13
+  - first:
+      213: -2783181590031008305
+    second: StrafeLeft_14
+  - first:
+      213: -835565647186887721
+    second: StrafeLeft_15
+  - first:
+      213: -430767429794918675
+    second: StrafeLeft_16
+  - first:
+      213: 7485516547390120368
+    second: StrafeLeft_17
+  - first:
+      213: 7871102351500190893
+    second: StrafeLeft_18
+  - first:
+      213: -4339819261563635938
+    second: StrafeLeft_19
+  - first:
+      213: 8082329516780307746
+    second: StrafeLeft_20
+  - first:
+      213: 1089407421412076290
+    second: StrafeLeft_21
+  - first:
+      213: -1069838542752445250
+    second: StrafeLeft_22
+  - first:
+      213: -3483893381096608063
+    second: StrafeLeft_23
+  - first:
+      213: -48996186378934284
+    second: StrafeLeft_24
+  - first:
+      213: 5314539839614883943
+    second: StrafeLeft_25
+  - first:
+      213: 4120224966840274279
+    second: StrafeLeft_26
+  - first:
+      213: 7329325941134132635
+    second: StrafeLeft_27
+  - first:
+      213: 6089943870176901163
+    second: StrafeLeft_28
+  - first:
+      213: -483878274234472560
+    second: StrafeLeft_29
+  - first:
+      213: 1193066978050917341
+    second: StrafeLeft_30
+  - first:
+      213: -5337860877131766588
+    second: StrafeLeft_31
+  - first:
+      213: 4803839678049488114
+    second: StrafeLeft_32
+  - first:
+      213: 7490617563718708030
+    second: StrafeLeft_33
+  - first:
+      213: -5404836677564232613
+    second: StrafeLeft_34
+  - first:
+      213: -8665798286774705546
+    second: StrafeLeft_35
+  - first:
+      213: -1737929183685633465
+    second: StrafeLeft_36
+  - first:
+      213: 7496079864033697749
+    second: StrafeLeft_37
+  - first:
+      213: 6479382358674563139
+    second: StrafeLeft_38
+  - first:
+      213: 9059529236980352188
+    second: StrafeLeft_39
+  - first:
+      213: -8621109088241751347
+    second: StrafeLeft_40
+  - first:
+      213: 6399852717578636872
+    second: StrafeLeft_41
+  - first:
+      213: 8969725414931210720
+    second: StrafeLeft_42
+  - first:
+      213: 5911250937308027959
+    second: StrafeLeft_43
+  - first:
+      213: -3339488692118630718
+    second: StrafeLeft_44
+  - first:
+      213: 252611902007809027
+    second: StrafeLeft_45
+  - first:
+      213: -9176961385821224668
+    second: StrafeLeft_46
+  - first:
+      213: 8270494400935352139
+    second: StrafeLeft_47
+  - first:
+      213: 7921971282390429891
+    second: StrafeLeft_48
+  - first:
+      213: 5868703088772069002
+    second: StrafeLeft_49
+  - first:
+      213: 3203522994674630090
+    second: StrafeLeft_50
+  - first:
+      213: 6750360520589963139
+    second: StrafeLeft_51
+  - first:
+      213: -3603636914381578928
+    second: StrafeLeft_52
+  - first:
+      213: 2686929146795619571
+    second: StrafeLeft_53
+  - first:
+      213: 1327046372236208858
+    second: StrafeLeft_54
+  - first:
+      213: -5446789807147022477
+    second: StrafeLeft_55
+  - first:
+      213: -6481192720839960950
+    second: StrafeLeft_56
+  - first:
+      213: 2893055901942484152
+    second: StrafeLeft_57
+  - first:
+      213: -5965765183763148898
+    second: StrafeLeft_58
+  - first:
+      213: -8115922857697313560
+    second: StrafeLeft_59
+  - first:
+      213: 8144514788527959104
+    second: StrafeLeft_60
+  - first:
+      213: 7441399551724316744
+    second: StrafeLeft_61
+  - first:
+      213: 6669750276805520084
+    second: StrafeLeft_62
+  - first:
+      213: 967172652820053197
+    second: StrafeLeft_63
+  - first:
+      213: -7607661138888797140
+    second: StrafeLeft_64
+  - first:
+      213: -2312602590847530131
+    second: StrafeLeft_65
+  - first:
+      213: -5633256527080900916
+    second: StrafeLeft_66
+  - first:
+      213: 22404022278050707
+    second: StrafeLeft_67
+  - first:
+      213: 4869114338071183138
+    second: StrafeLeft_68
+  - first:
+      213: 5151274639660536237
+    second: StrafeLeft_69
+  - first:
+      213: 9169767375808409790
+    second: StrafeLeft_70
+  - first:
+      213: 4720993923073871363
+    second: StrafeLeft_71
+  - first:
+      213: 8685399265906780654
+    second: StrafeLeft_72
+  - first:
+      213: -3963735373411077628
+    second: StrafeLeft_73
+  - first:
+      213: 7872332155129442466
+    second: StrafeLeft_74
+  - first:
+      213: 4311139952284896594
+    second: StrafeLeft_75
+  - first:
+      213: -1493696239663123865
+    second: StrafeLeft_76
+  - first:
+      213: -1611594591680345962
+    second: StrafeLeft_77
+  - first:
+      213: 4571991242029289344
+    second: StrafeLeft_78
+  - first:
+      213: 6164188891235746296
+    second: StrafeLeft_79
+  - first:
+      213: -9146090169408217074
+    second: StrafeLeft_80
+  - first:
+      213: 4578328556644547081
+    second: StrafeLeft_81
+  - first:
+      213: -4180351982551694787
+    second: StrafeLeft_82
+  - first:
+      213: 1210854873739512106
+    second: StrafeLeft_83
+  - first:
+      213: 8501765278634598116
+    second: StrafeLeft_84
+  - first:
+      213: -7239947609385545150
+    second: StrafeLeft_85
+  - first:
+      213: -8433793936751729901
+    second: StrafeLeft_86
+  - first:
+      213: 32478611412400144
+    second: StrafeLeft_87
+  - first:
+      213: -2483681012502747448
+    second: StrafeLeft_88
+  - first:
+      213: -6675354045013568148
+    second: StrafeLeft_89
+  - first:
+      213: 223993607088672455
+    second: StrafeLeft_90
+  - first:
+      213: -7768500370288583498
+    second: StrafeLeft_91
+  - first:
+      213: 8975401479621085960
+    second: StrafeLeft_92
+  - first:
+      213: -3152583180233314457
+    second: StrafeLeft_93
+  - first:
+      213: 1888925953371928846
+    second: StrafeLeft_94
+  - first:
+      213: 4308738408886574504
+    second: StrafeLeft_95
+  - first:
+      213: -7641602041402119088
+    second: StrafeLeft_96
+  - first:
+      213: 8603974070743325138
+    second: StrafeLeft_97
+  - first:
+      213: 5910825093912540753
+    second: StrafeLeft_98
+  - first:
+      213: 4611396423017479371
+    second: StrafeLeft_99
+  - first:
+      213: -5772578436627656607
+    second: StrafeLeft_100
+  - first:
+      213: 2275964380493060690
+    second: StrafeLeft_101
+  - first:
+      213: -2241255298454503348
+    second: StrafeLeft_102
+  - first:
+      213: -8386217574777041480
+    second: StrafeLeft_103
+  - first:
+      213: 3210627037974859151
+    second: StrafeLeft_104
+  - first:
+      213: -5747462445468572410
+    second: StrafeLeft_105
+  - first:
+      213: 3051262074000502765
+    second: StrafeLeft_106
+  - first:
+      213: 3705194811963539172
+    second: StrafeLeft_107
+  - first:
+      213: 8459382385062133312
+    second: StrafeLeft_108
+  - first:
+      213: -7495559126660767056
+    second: StrafeLeft_109
+  - first:
+      213: 818476305337039993
+    second: StrafeLeft_110
+  - first:
+      213: -6698724463244798333
+    second: StrafeLeft_111
+  - first:
+      213: 6964310591477536903
+    second: StrafeLeft_112
+  - first:
+      213: -7748607173804643636
+    second: StrafeLeft_113
+  - first:
+      213: -1888817750421030003
+    second: StrafeLeft_114
+  - first:
+      213: 6316331989576070291
+    second: StrafeLeft_115
+  - first:
+      213: 4418855502076329647
+    second: StrafeLeft_116
+  - first:
+      213: -4002199841457598830
+    second: StrafeLeft_117
+  - first:
+      213: 7139654997604014287
+    second: StrafeLeft_118
+  - first:
+      213: 1691968563734375799
+    second: StrafeLeft_119
+  - first:
+      213: -7131707200486343507
+    second: StrafeLeft_0_0_0
+  - first:
+      213: 4815015896155739520
+    second: StrafeLeft_0_1_1
+  - first:
+      213: -7405089549621343933
+    second: StrafeLeft_0_2_2
+  - first:
+      213: -8871698899241439859
+    second: StrafeLeft_0_3_3
+  - first:
+      213: -347301619591716799
+    second: StrafeLeft_0_4_4
+  - first:
+      213: -3558472569471734911
+    second: StrafeLeft_0_5_5
+  - first:
+      213: 2929503190919145748
+    second: StrafeLeft_0_6_6
+  - first:
+      213: -3101569033705498067
+    second: StrafeLeft_0_7_7
+  - first:
+      213: -5293902248038399940
+    second: StrafeLeft_0_8_8
+  - first:
+      213: 3763333740612386607
+    second: StrafeLeft_0_9_9
+  - first:
+      213: -126814830350178228
+    second: StrafeLeft_0_10_10
+  - first:
+      213: 8918646967835158667
+    second: StrafeLeft_0_11_11
+  - first:
+      213: -7931541208939612244
+    second: StrafeLeft_0_12_12
+  - first:
+      213: 7260664688201300035
+    second: StrafeLeft_0_13_13
+  - first:
+      213: 39113625906759035
+    second: StrafeLeft_0_14_14
+  - first:
+      213: 3121521807075553595
+    second: StrafeLeft_1_0_15
+  - first:
+      213: 8064653792673006511
+    second: StrafeLeft_1_1_16
+  - first:
+      213: 2426938116902951050
+    second: StrafeLeft_1_2_17
+  - first:
+      213: -2298691200534623535
+    second: StrafeLeft_1_3_18
+  - first:
+      213: -8705534688165415481
+    second: StrafeLeft_1_4_19
+  - first:
+      213: 1034286949044922651
+    second: StrafeLeft_1_5_20
+  - first:
+      213: 6526050845448893874
+    second: StrafeLeft_1_6_21
+  - first:
+      213: -3519523491694495523
+    second: StrafeLeft_1_7_22
+  - first:
+      213: -6298069842346475547
+    second: StrafeLeft_1_8_23
+  - first:
+      213: 3084123613404570859
+    second: StrafeLeft_1_9_24
+  - first:
+      213: 2105808519085715311
+    second: StrafeLeft_1_10_25
+  - first:
+      213: -8993660090348175154
+    second: StrafeLeft_1_11_26
+  - first:
+      213: 2444304730632903496
+    second: StrafeLeft_1_12_27
+  - first:
+      213: -811642453992344789
+    second: StrafeLeft_1_13_28
+  - first:
+      213: -1569463020649238676
+    second: StrafeLeft_1_14_29
+  - first:
+      213: -2829843128768945217
+    second: StrafeLeft_2_0_30
+  - first:
+      213: -9111028988513855722
+    second: StrafeLeft_2_1_31
+  - first:
+      213: -608199167121994410
+    second: StrafeLeft_2_2_32
+  - first:
+      213: -4729406761671544087
+    second: StrafeLeft_2_3_33
+  - first:
+      213: 2273269165510515725
+    second: StrafeLeft_2_4_34
+  - first:
+      213: -5916377561893879050
+    second: StrafeLeft_2_5_35
+  - first:
+      213: 1817985834654900073
+    second: StrafeLeft_2_6_36
+  - first:
+      213: -3408223332287301117
+    second: StrafeLeft_2_7_37
+  - first:
+      213: 4235806695885780755
+    second: StrafeLeft_2_8_38
+  - first:
+      213: -9063961413978681094
+    second: StrafeLeft_2_9_39
+  - first:
+      213: 4551014818984139914
+    second: StrafeLeft_2_10_40
+  - first:
+      213: 2553934776489103819
+    second: StrafeLeft_2_11_41
+  - first:
+      213: 7483035070487791390
+    second: StrafeLeft_2_12_42
+  - first:
+      213: 3658916180121546061
+    second: StrafeLeft_2_13_43
+  - first:
+      213: -6595511928467217538
+    second: StrafeLeft_2_14_44
+  - first:
+      213: 8134105685780149471
+    second: StrafeLeft_3_0_45
+  - first:
+      213: -4062291486253709370
+    second: StrafeLeft_3_1_46
+  - first:
+      213: -5435842807083103451
+    second: StrafeLeft_3_2_47
+  - first:
+      213: -7752534052644811736
+    second: StrafeLeft_3_3_48
+  - first:
+      213: 6972549113519545499
+    second: StrafeLeft_3_4_49
+  - first:
+      213: 6637683660526290023
+    second: StrafeLeft_3_5_50
+  - first:
+      213: -3344999648846967039
+    second: StrafeLeft_3_6_51
+  - first:
+      213: 4717657392016989977
+    second: StrafeLeft_3_7_52
+  - first:
+      213: -1282204606614397882
+    second: StrafeLeft_3_8_53
+  - first:
+      213: -6507273819212760344
+    second: StrafeLeft_3_9_54
+  - first:
+      213: 8115504611015661370
+    second: StrafeLeft_3_10_55
+  - first:
+      213: -282496772667485279
+    second: StrafeLeft_3_11_56
+  - first:
+      213: -2905298165946565795
+    second: StrafeLeft_3_12_57
+  - first:
+      213: -2114805325956881932
+    second: StrafeLeft_3_13_58
+  - first:
+      213: -2905072031006844395
+    second: StrafeLeft_3_14_59
+  - first:
+      213: -2966710742839555696
+    second: StrafeLeft_4_0_60
+  - first:
+      213: 3386200747748242157
+    second: StrafeLeft_4_1_61
+  - first:
+      213: 8285705035258982565
+    second: StrafeLeft_4_2_62
+  - first:
+      213: -5806303974462316847
+    second: StrafeLeft_4_3_63
+  - first:
+      213: 4065155196513164934
+    second: StrafeLeft_4_4_64
+  - first:
+      213: -4967966391618559258
+    second: StrafeLeft_4_5_65
+  - first:
+      213: -6334108140541071736
+    second: StrafeLeft_4_6_66
+  - first:
+      213: 7711053026962951640
+    second: StrafeLeft_4_7_67
+  - first:
+      213: -1230055299608353098
+    second: StrafeLeft_4_8_68
+  - first:
+      213: -6573423659349888157
+    second: StrafeLeft_4_9_69
+  - first:
+      213: -3604181669895752709
+    second: StrafeLeft_4_10_70
+  - first:
+      213: -1972997870717488293
+    second: StrafeLeft_4_11_71
+  - first:
+      213: 2074956156337292926
+    second: StrafeLeft_4_12_72
+  - first:
+      213: 4343036626223078220
+    second: StrafeLeft_4_13_73
+  - first:
+      213: 9061698904540080465
+    second: StrafeLeft_4_14_74
+  - first:
+      213: 3926042896556210398
+    second: StrafeLeft_5_0_75
+  - first:
+      213: 5292768110102784699
+    second: StrafeLeft_5_1_76
+  - first:
+      213: 4690009342506447004
+    second: StrafeLeft_5_2_77
+  - first:
+      213: 6833033953549168318
+    second: StrafeLeft_5_3_78
+  - first:
+      213: 5623458977231666307
+    second: StrafeLeft_5_4_79
+  - first:
+      213: -2305190535702626576
+    second: StrafeLeft_5_5_80
+  - first:
+      213: -4204810635080466742
+    second: StrafeLeft_5_6_81
+  - first:
+      213: -1158956429841055210
+    second: StrafeLeft_5_7_82
+  - first:
+      213: 6635585062821155894
+    second: StrafeLeft_5_8_83
+  - first:
+      213: 7941904212196620237
+    second: StrafeLeft_5_9_84
+  - first:
+      213: 6743158206930129651
+    second: StrafeLeft_5_10_85
+  - first:
+      213: 357026365780557294
+    second: StrafeLeft_5_11_86
+  - first:
+      213: 1416276856461935455
+    second: StrafeLeft_5_12_87
+  - first:
+      213: -73504155160299810
+    second: StrafeLeft_5_13_88
+  - first:
+      213: -4811761010701632004
+    second: StrafeLeft_5_14_89
+  - first:
+      213: 2672712811424875477
+    second: StrafeLeft_6_0_90
+  - first:
+      213: 5012516431837214260
+    second: StrafeLeft_6_1_91
+  - first:
+      213: -2211700594438828170
+    second: StrafeLeft_6_2_92
+  - first:
+      213: -4609111697521280115
+    second: StrafeLeft_6_3_93
+  - first:
+      213: -9210975710610391576
+    second: StrafeLeft_6_4_94
+  - first:
+      213: 9146043779993515634
+    second: StrafeLeft_6_5_95
+  - first:
+      213: -560526722322058250
+    second: StrafeLeft_6_6_96
+  - first:
+      213: 7234326194426639645
+    second: StrafeLeft_6_7_97
+  - first:
+      213: -7281262632329409542
+    second: StrafeLeft_6_8_98
+  - first:
+      213: -5835820995852520680
+    second: StrafeLeft_6_9_99
+  - first:
+      213: -6725072156527273552
+    second: StrafeLeft_6_10_100
+  - first:
+      213: -4686147701128522948
+    second: StrafeLeft_6_11_101
+  - first:
+      213: -7666695941910105352
+    second: StrafeLeft_6_12_102
+  - first:
+      213: -405020311065826036
+    second: StrafeLeft_6_13_103
+  - first:
+      213: -3146467761573210929
+    second: StrafeLeft_6_14_104
+  - first:
+      213: -8303888577669957349
+    second: StrafeLeft_7_0_105
+  - first:
+      213: -7518099640721451852
+    second: StrafeLeft_7_1_106
+  - first:
+      213: -852267541863941425
+    second: StrafeLeft_7_2_107
+  - first:
+      213: 7736468136758999747
+    second: StrafeLeft_7_3_108
+  - first:
+      213: -349623691672265535
+    second: StrafeLeft_7_4_109
+  - first:
+      213: -8295826475864414694
+    second: StrafeLeft_7_5_110
+  - first:
+      213: -4066409187683321942
+    second: StrafeLeft_7_6_111
+  - first:
+      213: -5606254900235571884
+    second: StrafeLeft_7_7_112
+  - first:
+      213: -1246813494247863418
+    second: StrafeLeft_7_8_113
+  - first:
+      213: 3033607484821486299
+    second: StrafeLeft_7_9_114
+  - first:
+      213: 9208384649636146452
+    second: StrafeLeft_7_10_115
+  - first:
+      213: -9173724774099012518
+    second: StrafeLeft_7_11_116
+  - first:
+      213: -3883365586408954009
+    second: StrafeLeft_7_12_117
+  - first:
+      213: 2086757849614432109
+    second: StrafeLeft_7_13_118
+  - first:
+      213: -2231660753625015452
+    second: StrafeLeft_7_14_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 0
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: StrafeLeft_0_0_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dac7ae82616170d90800000000000000
+      internalID: -7131707200486343507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_0_1_1
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085d83e427f52d240800000000000000
+      internalID: 4815015896155739520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_0_2_2
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349ccd8d946db3990800000000000000
+      internalID: -7405089549621343933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_0_3_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8d6d7cfad461e480800000000000000
+      internalID: -8871698899241439859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_0_4_4
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140615e54032e2bf0800000000000000
+      internalID: -347301619591716799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_0_5_5
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b6aa93d04cd9ec0800000000000000
+      internalID: -3558472569471734911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_0_6_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 419eb1781afa7a820800000000000000
+      internalID: 2929503190919145748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_0_7_7
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ad1ab856305f4d0800000000000000
+      internalID: -3101569033705498067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_0_8_8
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c30870624f74886b0800000000000000
+      internalID: -5293902248038399940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_0_9_9
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2f717c191c0a3430800000000000000
+      internalID: 3763333740612386607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_0_10_10
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48e9bc65967d3ef0800000000000000
+      internalID: -126814830350178228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_0_11_11
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88edea0a2665cb70800000000000000
+      internalID: 8918646967835158667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_0_12_12
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca738c72b418de190800000000000000
+      internalID: -7931541208939612244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_0_13_13
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 348f575b01013c460800000000000000
+      internalID: 7260664688201300035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_0_14_14
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 0
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75cc02b2a5fa8000800000000000000
+      internalID: 39113625906759035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_1_0_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31bf558b8fd15b20800000000000000
+      internalID: 3121521807075553595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_1_1_16
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa308c465e76bef60800000000000000
+      internalID: 8064653792673006511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_1_2_17
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a881bdddb573ea120800000000000000
+      internalID: 2426938116902951050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_1_3_18
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da41d738886910e0800000000000000
+      internalID: -2298691200534623535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_1_4_19
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c53f04335abf2780800000000000000
+      internalID: -8705534688165415481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_1_5_20
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1925a110868a5e00800000000000000
+      internalID: 1034286949044922651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_1_6_21
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b57e1ddaa0319a50800000000000000
+      internalID: 6526050845448893874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_1_7_22
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd838e21804282fc0800000000000000
+      internalID: -3519523491694495523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_1_8_23
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ef7654d8d2c898a0800000000000000
+      internalID: -6298069842346475547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_1_9_24
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4af5406120dca20800000000000000
+      internalID: 3084123613404570859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_1_10_25
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f6819e0b5593d10800000000000000
+      internalID: 2105808519085715311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_1_11_26
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0803c5cc9103380800000000000000
+      internalID: -8993660090348175154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_1_12_27
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84b5e28b33aebe120800000000000000
+      internalID: 2444304730632903496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_1_13_28
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23f8250d777cb4f0800000000000000
+      internalID: -811642453992344789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_1_14_29
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 128
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f2716b2b5283ae0800000000000000
+      internalID: -1569463020649238676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_2_0_30
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb3a5a3eaa06ab8d0800000000000000
+      internalID: -2829843128768945217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_2_1_31
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6175851486f1f8180800000000000000
+      internalID: -9111028988513855722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_2_2_32
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65d4103741e3f87f0800000000000000
+      internalID: -608199167121994410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_2_3_33
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e2bc349b95cd5eb0800000000000000
+      internalID: -4729406761671544087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_2_4_34
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c5a1103464c8f10800000000000000
+      internalID: 2273269165510515725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_2_5_35
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2493a24fdc4eda0800000000000000
+      internalID: -5916377561893879050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_2_6_36
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f1c490c78ca3910800000000000000
+      internalID: 1817985834654900073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_2_7_37
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a31d3dfee83b0d0800000000000000
+      internalID: -3408223332287301117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_2_8_38
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3173e756fbb98ca30800000000000000
+      internalID: 4235806695885780755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_2_9_39
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af014fded17563280800000000000000
+      internalID: -9063961413978681094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_2_10_40
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c96159dd3782f30800000000000000
+      internalID: 4551014818984139914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_2_11_41
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc1562cd526617320800000000000000
+      internalID: 2553934776489103819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_2_12_42
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e170732ffb419d760800000000000000
+      internalID: 7483035070487791390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_2_13_43
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4de21b41e417c230800000000000000
+      internalID: 3658916180121546061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_2_14_44
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 256
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e732cd778d80874a0800000000000000
+      internalID: -6595511928467217538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_3_0_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd4396e560622e070800000000000000
+      internalID: 8134105685780149471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_3_1_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c701cb8a67df97c0800000000000000
+      internalID: -4062291486253709370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_3_2_47
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b03fc64c10094b0800000000000000
+      internalID: -5435842807083103451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_3_3_48
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c8cf29a57796490800000000000000
+      internalID: -7752534052644811736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_3_4_49
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9c1c420a7873c060800000000000000
+      internalID: 6972549113519545499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_3_5_50
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 764851d0f1acd1c50800000000000000
+      internalID: 6637683660526290023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_3_6_51
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f8bacba8c2491d0800000000000000
+      internalID: -3344999648846967039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_3_7_52
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f1b2f176c787140800000000000000
+      internalID: 4717657392016989977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_3_8_53
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64c116524b1b43ee0800000000000000
+      internalID: -1282204606614397882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_3_9_54
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eabf9d30f481b5a0800000000000000
+      internalID: -6507273819212760344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_3_10_55
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3712a8227010a070800000000000000
+      internalID: 8115504611015661370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_3_11_56
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a3d5f69eae541cf0800000000000000
+      internalID: -282496772667485279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_3_12_57
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5b392406be4ea7d0800000000000000
+      internalID: -2905298165946565795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_3_13_58
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f16c31c2c3b6a2e0800000000000000
+      internalID: -2114805325956881932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_3_14_59
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 384
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51a1ae8216c1fa7d0800000000000000
+      internalID: -2905072031006844395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_4_0_60
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09986b53c4024d6d0800000000000000
+      internalID: -2966710742839555696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_4_1_61
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de232b3a3a33efe20800000000000000
+      internalID: 3386200747748242157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_4_2_62
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a0f64c74dcbcf270800000000000000
+      internalID: 8285705035258982565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_4_3_63
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de1c306c4ddb6fa0800000000000000
+      internalID: -5806303974462316847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_4_4_64
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68e1005fc155a6830800000000000000
+      internalID: 4065155196513164934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_4_5_65
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e22f7363ec3e0bb0800000000000000
+      internalID: -4967966391618559258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_4_6_66
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ea32aa43ab818a0800000000000000
+      internalID: -6334108140541071736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_4_7_67
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ddc3548fd9230b60800000000000000
+      internalID: 7711053026962951640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_4_8_68
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6e1ccd837fdeee0800000000000000
+      internalID: -1230055299608353098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_4_9_69
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3633d42620286c4a0800000000000000
+      internalID: -6573423659349888157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_4_10_70
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf3b3e3fddf5bfdc0800000000000000
+      internalID: -3604181669895752709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_4_11_71
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b533845d3e08e94e0800000000000000
+      internalID: -1972997870717488293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_4_12_72
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e768efe61a9bbcc10800000000000000
+      internalID: 2074956156337292926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_4_13_73
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4b99881dc0954c30800000000000000
+      internalID: 4343036626223078220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_4_14_74
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 512
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15968aa842f91cd70800000000000000
+      internalID: 9061698904540080465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_5_0_75
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8bd2e963b1c7630800000000000000
+      internalID: 3926042896556210398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_5_1_76
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba2139cd80b37940800000000000000
+      internalID: 5292768110102784699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_5_2_77
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c903c55f5a2461140800000000000000
+      internalID: 4690009342506447004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_5_3_78
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe2b738d20d3de50800000000000000
+      internalID: 6833033953549168318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_5_4_79
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38cffda352a8a0e40800000000000000
+      internalID: 5623458977231666307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_5_5_80
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe3ad3db615200e0800000000000000
+      internalID: -2305190535702626576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_5_6_81
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace7e34610385a5c0800000000000000
+      internalID: -4204810635080466742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_5_7_82
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6124b29744f8aefe0800000000000000
+      internalID: -1158956429841055210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_5_8_83
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634d7523575561c50800000000000000
+      internalID: 6635585062821155894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_5_9_84
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc778209dcf473e60800000000000000
+      internalID: 7941904212196620237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_5_10_85
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2945499a2849d50800000000000000
+      internalID: 6743158206930129651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_5_11_86
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eed7ccb869964f400800000000000000
+      internalID: 357026365780557294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_5_12_87
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5345051c40a7a310800000000000000
+      internalID: 1416276856461935455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_5_13_88
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6b72e3c5cdafef0800000000000000
+      internalID: -73504155160299810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_5_14_89
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 640
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfdfd05cad0393db0800000000000000
+      internalID: -4811761010701632004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_6_0_90
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d38d9f2422671520800000000000000
+      internalID: 2672712811424875477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_6_1_91
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43637762329009540800000000000000
+      internalID: 5012516431837214260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_6_2_92
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f04f607067e41e0800000000000000
+      internalID: -2211700594438828170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_6_3_93
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b752bc4552900c0800000000000000
+      internalID: -4609111697521280115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_6_4_94
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8edf05e946a0c2080800000000000000
+      internalID: -9210975710610391576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_6_5_95
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2763fae2c564dee70800000000000000
+      internalID: 9146043779993515634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_6_6_96
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f331e47aeb9838f0800000000000000
+      internalID: -560526722322058250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_6_7_97
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d157a10485d756460800000000000000
+      internalID: 7234326194426639645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_6_8_98
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afb0ea3b632c3fa90800000000000000
+      internalID: -7281262632329409542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_6_9_99
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 813b17949bff20fa0800000000000000
+      internalID: -5835820995852520680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_6_10_100
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b9525d218ebba2a0800000000000000
+      internalID: -6725072156527273552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_6_11_101
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33983d7e7577feb0800000000000000
+      internalID: -4686147701128522948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_6_12_102
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f2f48529ac6a9590800000000000000
+      internalID: -7666695941910105352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_6_13_103
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d6a184c24116af0800000000000000
+      internalID: -405020311065826036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_6_14_104
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 768
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4d536dd308554d0800000000000000
+      internalID: -3146467761573210929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_7_0_105
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19fe81a559a2cc80800000000000000
+      internalID: -8303888577669957349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_7_1_106
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b45ec895385aa790800000000000000
+      internalID: -7518099640721451852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_7_2_107
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcaba99af232c24f0800000000000000
+      internalID: -852267541863941425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_7_3_108
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3caf5a3e7c47d5b60800000000000000
+      internalID: 7736468136758999747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_7_4_109
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc50d4da13e52bf0800000000000000
+      internalID: -349623691672265535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_7_5_110
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1622dbf5cd4fdc80800000000000000
+      internalID: -8295826475864414694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_7_6_111
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa730c873663197c0800000000000000
+      internalID: -4066409187683321942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_7_7_112
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d6a271fd49232b0800000000000000
+      internalID: -5606254900235571884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_7_8_113
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b413e9bbd62bee0800000000000000
+      internalID: -1246813494247863418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_7_9_114
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bda30c84fe9891a20800000000000000
+      internalID: 3033607484821486299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_7_10_115
+      rect:
+        serializedVersion: 2
+        x: 1280
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41de8bcfc01cacf70800000000000000
+      internalID: 9208384649636146452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_7_11_116
+      rect:
+        serializedVersion: 2
+        x: 1408
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a54b0a42ce160b080800000000000000
+      internalID: -9173724774099012518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_7_12_117
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7672e19f2938b1ac0800000000000000
+      internalID: -3883365586408954009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_7_13_118
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67b6864537a5fc10800000000000000
+      internalID: 2086757849614432109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: StrafeLeft_7_14_119
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 896
+        width: 128
+        height: 128
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46b10015e5c8701e0800000000000000
+      internalID: -2231660753625015452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      StrafeLeft_0: -100685498332942853
+      StrafeLeft_0_0_0: -7131707200486343507
+      StrafeLeft_0_10_10: -126814830350178228
+      StrafeLeft_0_11_11: 8918646967835158667
+      StrafeLeft_0_12_12: -7931541208939612244
+      StrafeLeft_0_13_13: 7260664688201300035
+      StrafeLeft_0_14_14: 39113625906759035
+      StrafeLeft_0_1_1: 4815015896155739520
+      StrafeLeft_0_2_2: -7405089549621343933
+      StrafeLeft_0_3_3: -8871698899241439859
+      StrafeLeft_0_4_4: -347301619591716799
+      StrafeLeft_0_5_5: -3558472569471734911
+      StrafeLeft_0_6_6: 2929503190919145748
+      StrafeLeft_0_7_7: -3101569033705498067
+      StrafeLeft_0_8_8: -5293902248038399940
+      StrafeLeft_0_9_9: 3763333740612386607
+      StrafeLeft_1: 5596921638506807136
+      StrafeLeft_10: -6023083847870145064
+      StrafeLeft_100: -5772578436627656607
+      StrafeLeft_101: 2275964380493060690
+      StrafeLeft_102: -2241255298454503348
+      StrafeLeft_103: -8386217574777041480
+      StrafeLeft_104: 3210627037974859151
+      StrafeLeft_105: -5747462445468572410
+      StrafeLeft_106: 3051262074000502765
+      StrafeLeft_107: 3705194811963539172
+      StrafeLeft_108: 8459382385062133312
+      StrafeLeft_109: -7495559126660767056
+      StrafeLeft_11: 8648654328348661151
+      StrafeLeft_110: 818476305337039993
+      StrafeLeft_111: -6698724463244798333
+      StrafeLeft_112: 6964310591477536903
+      StrafeLeft_113: -7748607173804643636
+      StrafeLeft_114: -1888817750421030003
+      StrafeLeft_115: 6316331989576070291
+      StrafeLeft_116: 4418855502076329647
+      StrafeLeft_117: -4002199841457598830
+      StrafeLeft_118: 7139654997604014287
+      StrafeLeft_119: 1691968563734375799
+      StrafeLeft_12: -106021026343089780
+      StrafeLeft_13: -7898570633451244314
+      StrafeLeft_14: -2783181590031008305
+      StrafeLeft_15: -835565647186887721
+      StrafeLeft_16: -430767429794918675
+      StrafeLeft_17: 7485516547390120368
+      StrafeLeft_18: 7871102351500190893
+      StrafeLeft_19: -4339819261563635938
+      StrafeLeft_1_0_15: 3121521807075553595
+      StrafeLeft_1_10_25: 2105808519085715311
+      StrafeLeft_1_11_26: -8993660090348175154
+      StrafeLeft_1_12_27: 2444304730632903496
+      StrafeLeft_1_13_28: -811642453992344789
+      StrafeLeft_1_14_29: -1569463020649238676
+      StrafeLeft_1_1_16: 8064653792673006511
+      StrafeLeft_1_2_17: 2426938116902951050
+      StrafeLeft_1_3_18: -2298691200534623535
+      StrafeLeft_1_4_19: -8705534688165415481
+      StrafeLeft_1_5_20: 1034286949044922651
+      StrafeLeft_1_6_21: 6526050845448893874
+      StrafeLeft_1_7_22: -3519523491694495523
+      StrafeLeft_1_8_23: -6298069842346475547
+      StrafeLeft_1_9_24: 3084123613404570859
+      StrafeLeft_2: 4224705134447357485
+      StrafeLeft_20: 8082329516780307746
+      StrafeLeft_21: 1089407421412076290
+      StrafeLeft_22: -1069838542752445250
+      StrafeLeft_23: -3483893381096608063
+      StrafeLeft_24: -48996186378934284
+      StrafeLeft_25: 5314539839614883943
+      StrafeLeft_26: 4120224966840274279
+      StrafeLeft_27: 7329325941134132635
+      StrafeLeft_28: 6089943870176901163
+      StrafeLeft_29: -483878274234472560
+      StrafeLeft_2_0_30: -2829843128768945217
+      StrafeLeft_2_10_40: 4551014818984139914
+      StrafeLeft_2_11_41: 2553934776489103819
+      StrafeLeft_2_12_42: 7483035070487791390
+      StrafeLeft_2_13_43: 3658916180121546061
+      StrafeLeft_2_14_44: -6595511928467217538
+      StrafeLeft_2_1_31: -9111028988513855722
+      StrafeLeft_2_2_32: -608199167121994410
+      StrafeLeft_2_3_33: -4729406761671544087
+      StrafeLeft_2_4_34: 2273269165510515725
+      StrafeLeft_2_5_35: -5916377561893879050
+      StrafeLeft_2_6_36: 1817985834654900073
+      StrafeLeft_2_7_37: -3408223332287301117
+      StrafeLeft_2_8_38: 4235806695885780755
+      StrafeLeft_2_9_39: -9063961413978681094
+      StrafeLeft_3: -5202859073714097699
+      StrafeLeft_30: 1193066978050917341
+      StrafeLeft_31: -5337860877131766588
+      StrafeLeft_32: 4803839678049488114
+      StrafeLeft_33: 7490617563718708030
+      StrafeLeft_34: -5404836677564232613
+      StrafeLeft_35: -8665798286774705546
+      StrafeLeft_36: -1737929183685633465
+      StrafeLeft_37: 7496079864033697749
+      StrafeLeft_38: 6479382358674563139
+      StrafeLeft_39: 9059529236980352188
+      StrafeLeft_3_0_45: 8134105685780149471
+      StrafeLeft_3_10_55: 8115504611015661370
+      StrafeLeft_3_11_56: -282496772667485279
+      StrafeLeft_3_12_57: -2905298165946565795
+      StrafeLeft_3_13_58: -2114805325956881932
+      StrafeLeft_3_14_59: -2905072031006844395
+      StrafeLeft_3_1_46: -4062291486253709370
+      StrafeLeft_3_2_47: -5435842807083103451
+      StrafeLeft_3_3_48: -7752534052644811736
+      StrafeLeft_3_4_49: 6972549113519545499
+      StrafeLeft_3_5_50: 6637683660526290023
+      StrafeLeft_3_6_51: -3344999648846967039
+      StrafeLeft_3_7_52: 4717657392016989977
+      StrafeLeft_3_8_53: -1282204606614397882
+      StrafeLeft_3_9_54: -6507273819212760344
+      StrafeLeft_4: 7651750244176064129
+      StrafeLeft_40: -8621109088241751347
+      StrafeLeft_41: 6399852717578636872
+      StrafeLeft_42: 8969725414931210720
+      StrafeLeft_43: 5911250937308027959
+      StrafeLeft_44: -3339488692118630718
+      StrafeLeft_45: 252611902007809027
+      StrafeLeft_46: -9176961385821224668
+      StrafeLeft_47: 8270494400935352139
+      StrafeLeft_48: 7921971282390429891
+      StrafeLeft_49: 5868703088772069002
+      StrafeLeft_4_0_60: -2966710742839555696
+      StrafeLeft_4_10_70: -3604181669895752709
+      StrafeLeft_4_11_71: -1972997870717488293
+      StrafeLeft_4_12_72: 2074956156337292926
+      StrafeLeft_4_13_73: 4343036626223078220
+      StrafeLeft_4_14_74: 9061698904540080465
+      StrafeLeft_4_1_61: 3386200747748242157
+      StrafeLeft_4_2_62: 8285705035258982565
+      StrafeLeft_4_3_63: -5806303974462316847
+      StrafeLeft_4_4_64: 4065155196513164934
+      StrafeLeft_4_5_65: -4967966391618559258
+      StrafeLeft_4_6_66: -6334108140541071736
+      StrafeLeft_4_7_67: 7711053026962951640
+      StrafeLeft_4_8_68: -1230055299608353098
+      StrafeLeft_4_9_69: -6573423659349888157
+      StrafeLeft_5: 7183375822631587535
+      StrafeLeft_50: 3203522994674630090
+      StrafeLeft_51: 6750360520589963139
+      StrafeLeft_52: -3603636914381578928
+      StrafeLeft_53: 2686929146795619571
+      StrafeLeft_54: 1327046372236208858
+      StrafeLeft_55: -5446789807147022477
+      StrafeLeft_56: -6481192720839960950
+      StrafeLeft_57: 2893055901942484152
+      StrafeLeft_58: -5965765183763148898
+      StrafeLeft_59: -8115922857697313560
+      StrafeLeft_5_0_75: 3926042896556210398
+      StrafeLeft_5_10_85: 6743158206930129651
+      StrafeLeft_5_11_86: 357026365780557294
+      StrafeLeft_5_12_87: 1416276856461935455
+      StrafeLeft_5_13_88: -73504155160299810
+      StrafeLeft_5_14_89: -4811761010701632004
+      StrafeLeft_5_1_76: 5292768110102784699
+      StrafeLeft_5_2_77: 4690009342506447004
+      StrafeLeft_5_3_78: 6833033953549168318
+      StrafeLeft_5_4_79: 5623458977231666307
+      StrafeLeft_5_5_80: -2305190535702626576
+      StrafeLeft_5_6_81: -4204810635080466742
+      StrafeLeft_5_7_82: -1158956429841055210
+      StrafeLeft_5_8_83: 6635585062821155894
+      StrafeLeft_5_9_84: 7941904212196620237
+      StrafeLeft_6: 8248284394182700629
+      StrafeLeft_60: 8144514788527959104
+      StrafeLeft_61: 7441399551724316744
+      StrafeLeft_62: 6669750276805520084
+      StrafeLeft_63: 967172652820053197
+      StrafeLeft_64: -7607661138888797140
+      StrafeLeft_65: -2312602590847530131
+      StrafeLeft_66: -5633256527080900916
+      StrafeLeft_67: 22404022278050707
+      StrafeLeft_68: 4869114338071183138
+      StrafeLeft_69: 5151274639660536237
+      StrafeLeft_6_0_90: 2672712811424875477
+      StrafeLeft_6_10_100: -6725072156527273552
+      StrafeLeft_6_11_101: -4686147701128522948
+      StrafeLeft_6_12_102: -7666695941910105352
+      StrafeLeft_6_13_103: -405020311065826036
+      StrafeLeft_6_14_104: -3146467761573210929
+      StrafeLeft_6_1_91: 5012516431837214260
+      StrafeLeft_6_2_92: -2211700594438828170
+      StrafeLeft_6_3_93: -4609111697521280115
+      StrafeLeft_6_4_94: -9210975710610391576
+      StrafeLeft_6_5_95: 9146043779993515634
+      StrafeLeft_6_6_96: -560526722322058250
+      StrafeLeft_6_7_97: 7234326194426639645
+      StrafeLeft_6_8_98: -7281262632329409542
+      StrafeLeft_6_9_99: -5835820995852520680
+      StrafeLeft_7: 5350050033272572253
+      StrafeLeft_70: 9169767375808409790
+      StrafeLeft_71: 4720993923073871363
+      StrafeLeft_72: 8685399265906780654
+      StrafeLeft_73: -3963735373411077628
+      StrafeLeft_74: 7872332155129442466
+      StrafeLeft_75: 4311139952284896594
+      StrafeLeft_76: -1493696239663123865
+      StrafeLeft_77: -1611594591680345962
+      StrafeLeft_78: 4571991242029289344
+      StrafeLeft_79: 6164188891235746296
+      StrafeLeft_7_0_105: -8303888577669957349
+      StrafeLeft_7_10_115: 9208384649636146452
+      StrafeLeft_7_11_116: -9173724774099012518
+      StrafeLeft_7_12_117: -3883365586408954009
+      StrafeLeft_7_13_118: 2086757849614432109
+      StrafeLeft_7_14_119: -2231660753625015452
+      StrafeLeft_7_1_106: -7518099640721451852
+      StrafeLeft_7_2_107: -852267541863941425
+      StrafeLeft_7_3_108: 7736468136758999747
+      StrafeLeft_7_4_109: -349623691672265535
+      StrafeLeft_7_5_110: -8295826475864414694
+      StrafeLeft_7_6_111: -4066409187683321942
+      StrafeLeft_7_7_112: -5606254900235571884
+      StrafeLeft_7_8_113: -1246813494247863418
+      StrafeLeft_7_9_114: 3033607484821486299
+      StrafeLeft_8: 6450490340238892316
+      StrafeLeft_80: -9146090169408217074
+      StrafeLeft_81: 4578328556644547081
+      StrafeLeft_82: -4180351982551694787
+      StrafeLeft_83: 1210854873739512106
+      StrafeLeft_84: 8501765278634598116
+      StrafeLeft_85: -7239947609385545150
+      StrafeLeft_86: -8433793936751729901
+      StrafeLeft_87: 32478611412400144
+      StrafeLeft_88: -2483681012502747448
+      StrafeLeft_89: -6675354045013568148
+      StrafeLeft_9: -448147569882069725
+      StrafeLeft_90: 223993607088672455
+      StrafeLeft_91: -7768500370288583498
+      StrafeLeft_92: 8975401479621085960
+      StrafeLeft_93: -3152583180233314457
+      StrafeLeft_94: 1888925953371928846
+      StrafeLeft_95: 4308738408886574504
+      StrafeLeft_96: -7641602041402119088
+      StrafeLeft_97: 8603974070743325138
+      StrafeLeft_98: 5910825093912540753
+      StrafeLeft_99: 4611396423017479371
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
