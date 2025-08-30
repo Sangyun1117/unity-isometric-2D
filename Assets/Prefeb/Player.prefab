@@ -171,7 +171,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   walkSpeed: 4
   runSpeed: 7
-  weapon: {fileID: 8739514341280296343}
   direction: {x: 0, y: 0}
   lastMoveDir: {x: 0, y: 0}
 --- !u!95 &5899641553358105060
@@ -279,7 +278,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   attackCooldown: 0.5
-  projectile: {fileID: 4560496210405623533, guid: 8f72fed9ead9ecb42b17124f34ab75e9, type: 3}
   firePoint: {fileID: 8024550402550257001}
 --- !u!212 &6987154632882238984
 SpriteRenderer:
@@ -592,7 +590,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4852288840503459986}
   m_Layer: 0
-  m_Name: Weapon
+  m_Name: Weapons
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -1032,7 +1030,6 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   attackCooldown: 0.5
-  projectile: {fileID: 4560496210405623533, guid: 8f72fed9ead9ecb42b17124f34ab75e9, type: 3}
   firePoint: {fileID: 8024550402550257001}
 --- !u!212 &1378512889343601645
 SpriteRenderer:

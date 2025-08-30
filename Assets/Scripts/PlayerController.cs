@@ -1,4 +1,5 @@
 using System;
+using System.Collections.Generic;
 using System.Security.Cryptography.X509Certificates;
 using UnityEngine;
 
@@ -27,13 +28,15 @@ public class PlayerController : MonoBehaviour
     [Header("Movement")]
     [SerializeField] private float walkSpeed = 5f;
     [SerializeField] private float runSpeed = 10f;
-    [SerializeField] Weapon weapon;
-
+    
+    WeaponManager weaponManager;
+    int nowInventoryItem = 0;
     private Rigidbody2D rb;
     public Vector2 direction;
     public Vector2 lastMoveDir;
     private ActionState actionState = ActionState.Idle;
     private bool isRun = false;
+    private bool runCheck = false;
     private Animator bodyAnimator;
 
     //애니메이션 상태를 옵저버 형태로 알림
@@ -42,21 +45,22 @@ public class PlayerController : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         bodyAnimator = GetComponent<Animator>();
+        
+        weaponManager = transform.Find("Weapons")?.GetComponent<WeaponManager>();
     }
-
     public void Update()
     {
-        //달리기 : shift 키 누르면 뛰기
-        if (Input.GetKeyDown(KeyCode.LeftShift))
+        //달리기 : shift 키 누르면 뛰기, 아이템 교체시 눌려있는 상태면 다시 뜀
+        if (Input.GetKeyDown(KeyCode.LeftShift)||(runCheck&&Input.GetKey(KeyCode.LeftShift)))
         {
             isRun = true;
-            SetAnimParam("isRun", true);
+            SetAnimParam("isRun", isRun);
             //bodyAnimator.SetBool("isRun", true);
         }
         if (Input.GetKeyUp(KeyCode.LeftShift))
         {
             isRun = false;
-            SetAnimParam("isRun", false);
+            SetAnimParam("isRun", isRun);
             //bodyAnimator.SetBool("isRun", false);
         }
 
@@ -82,18 +86,26 @@ public class PlayerController : MonoBehaviour
             SetAnimParam("moveY", 0f);
             //bodyAnimator.SetFloat("moveX", 0f);
             //bodyAnimator.SetFloat("moveY", 0f);
-
-            weapon.StartAttack();
+            weaponManager.GetWeapon().StartAttack();
             return;
         }
         else if (Input.GetMouseButtonUp(0))
         {
-            weapon.StopAttack();
+            weaponManager.GetWeapon().StopAttack();
         }
         // 사격 중이면 이동 입력 읽지 않음
         if (actionState == ActionState.Shoot)
         {
             return;
+        }
+
+        for (int i = 0; i <= 9; i++)
+        {
+            if (Input.GetKeyDown(KeyCode.Alpha0 + i))
+            {
+                ItemSwap(i);
+                Debug.Log("숫자 " + i + " 키 입력됨");
+            }
         }
 
         //이동 : WASD, 방향키 눌러서 이동
@@ -193,5 +205,22 @@ public class PlayerController : MonoBehaviour
 
         //옵저버 이벤트 발행 가능
         OnAnimatorParamChanged?.Invoke(paramName, value);
+    }
+
+    public void ItemSwap(int index)
+    {
+        //아이템 교체시 애니메이션 싱크를 맞추기 위해 Idle 상태로 돌아감
+        nowInventoryItem = index;
+        weaponManager.SetWeapon(index);
+        isRun = false;
+        runCheck = true; //쉬프트가 눌려있는지 다시 확인함
+        SetAnimParam("isRun", isRun);
+        actionState = ActionState.Idle;
+        SetAnimParam("lastMoveX", lastMoveDir.x);
+        SetAnimParam("lastMoveY", lastMoveDir.y);
+        direction.x = 0f;
+        direction.y = 0f;
+        SetAnimParam("moveX", rb.linearVelocity.x);
+        SetAnimParam("moveY", rb.linearVelocity.y);
     }
 }

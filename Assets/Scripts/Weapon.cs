@@ -42,7 +42,7 @@ public class Weapon : MonoBehaviour
             GetComponent<Animator>().SetBool(paramName, b);
 
         // 필요시 디버깅
-        Debug.Log($"Weapon Animator 반영: {paramName} = {value}");
+        //Debug.Log($"Weapon Animator 반영: {paramName} = {value}");
     }
 
     public virtual bool CanAttack()
