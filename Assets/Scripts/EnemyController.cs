@@ -13,8 +13,9 @@ public class EnemyController : MonoBehaviour
     [SerializeField] protected Transform playerTarget;
     [SerializeField] private GameObject waypoints;
     private GameObject currentWaypoint;
-    Rigidbody2D rb;
+    protected Rigidbody2D rb;
     protected Animator animator;
+    protected ActionState actionState = ActionState.Idle;
 
     float lastAttackTime = -999f;//게임시작 시 즉시 공격 가능하도록 낮은 숫자를 넣음
     Coroutine attackRoutine;
@@ -88,8 +89,8 @@ public class EnemyController : MonoBehaviour
 
     private void FixedUpdate()
     {
-
-        rb.linearVelocity = isChasing ? direction * stats.runSpeed : direction * stats.walkSpeed;
+        if(actionState!=ActionState.Shoot)
+            rb.linearVelocity = isChasing ? direction * stats.runSpeed : direction * stats.walkSpeed;
     }
 
     private void SelectNewWaypoint()

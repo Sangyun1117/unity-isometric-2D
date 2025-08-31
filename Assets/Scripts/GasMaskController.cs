@@ -4,7 +4,6 @@ public class GasMaskController : EnemyController
 {
     [SerializeField] Transform firePoint; // 발사 위치 지정 (총구)
     CustomObjectPool bulletPool;
-    private ActionState actionState = ActionState.Idle;
     protected override void Awake()
     {
         base.Awake();
@@ -13,11 +12,12 @@ public class GasMaskController : EnemyController
 
     protected override void Update()
     {
+        base.Update();
         if (isChasing)
         {
             if (Vector2.Distance(transform.position, playerTarget.transform.position) < stats.attackRange)
             {
-
+                StartAttack();
                 animator.SetFloat("lastMoveX", direction.x);
                 animator.SetFloat("lastMoveY", direction.y);
                 actionState = ActionState.Shoot;
@@ -29,7 +29,7 @@ public class GasMaskController : EnemyController
                 animator.SetFloat("moveX", 0f);
                 animator.SetFloat("moveY", 0f);
 
-                StartAttack();
+
                 return;
             }
             else if (Vector2.Distance(transform.position, playerTarget.transform.position) >= stats.attackRange && actionState == ActionState.Shoot)
@@ -42,7 +42,6 @@ public class GasMaskController : EnemyController
                 return;
             }
         }
-        base.Update();
     }
 
     //애니메이션 end 이벤트로 호출
@@ -70,6 +69,7 @@ public class GasMaskController : EnemyController
         if (proj != null)
         {
             proj.SetDirection(direction);
+            //proj.SetDirection(Vector2.down);
         }
 
         yield break;
