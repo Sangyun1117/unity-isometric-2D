@@ -1,3 +1,4 @@
+using Assets.Scripts;
 using System;
 using System.Collections.Generic;
 using System.Security.Cryptography.X509Certificates;
@@ -26,9 +27,7 @@ enum ActionState
 public class PlayerController : MonoBehaviour
 {
     [Header("Movement")]
-    [SerializeField] private float walkSpeed = 5f;
-    [SerializeField] private float runSpeed = 10f;
-    
+    PlayerStats playerStatus;
     WeaponManager weaponManager;
     int nowInventoryItem = 0;
     private Rigidbody2D rb;
@@ -45,7 +44,7 @@ public class PlayerController : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         bodyAnimator = GetComponent<Animator>();
-        
+        playerStatus = GetComponent<PlayerStats>();
         weaponManager = transform.Find("Weapons")?.GetComponent<WeaponManager>();
     }
     public void Update()
@@ -55,13 +54,11 @@ public class PlayerController : MonoBehaviour
         {
             isRun = true;
             SetAnimParam("isRun", isRun);
-            //bodyAnimator.SetBool("isRun", true);
         }
         if (Input.GetKeyUp(KeyCode.LeftShift))
         {
             isRun = false;
             SetAnimParam("isRun", isRun);
-            //bodyAnimator.SetBool("isRun", false);
         }
 
         //공격 : 마우스 좌클릭 누르면 사격
@@ -72,20 +69,16 @@ public class PlayerController : MonoBehaviour
             lastMoveDir = (mouseWorld - transform.position);
             lastMoveDir.Normalize();
 
-            //bodyAnimator.SetFloat("lastMoveX", lastMoveDir.x);
-            //bodyAnimator.SetFloat("lastMoveY", lastMoveDir.y);
             SetAnimParam("lastMoveX", lastMoveDir.x);
             SetAnimParam("lastMoveY", lastMoveDir.y);
             actionState = ActionState.Shoot;
-            //bodyAnimator.SetInteger("actionState", (int)actionState);
+
             SetAnimParam("actionState", (int)actionState);
             ////사격중이면 이동금지
             direction.x = 0f;
             direction.y = 0f;
             SetAnimParam("moveX", 0f);
             SetAnimParam("moveY", 0f);
-            //bodyAnimator.SetFloat("moveX", 0f);
-            //bodyAnimator.SetFloat("moveY", 0f);
             weaponManager.GetWeapon().StartAttack();
             return;
         }
@@ -118,8 +111,6 @@ public class PlayerController : MonoBehaviour
         // Animator에 현재 속도 넣어주기
         SetAnimParam("moveX", rb.linearVelocity.x);
         SetAnimParam("moveY", rb.linearVelocity.y);
-        //bodyAnimator.SetFloat("moveX", rb.linearVelocity.x);
-        //bodyAnimator.SetFloat("moveY", rb.linearVelocity.y);
 
         // 마지막 이동 방향 기록
         if (moveDir != Vector2.zero)
@@ -127,8 +118,6 @@ public class PlayerController : MonoBehaviour
             lastMoveDir = direction;
             SetAnimParam("lastMoveX", lastMoveDir.x);
             SetAnimParam("lastMoveY", lastMoveDir.y);
-            //bodyAnimator.SetFloat("lastMoveX", lastMoveDir.x);
-            //bodyAnimator.SetFloat("lastMoveY", lastMoveDir.y);
         }
     }
 
@@ -141,14 +130,13 @@ public class PlayerController : MonoBehaviour
             return;
         }
         Vector2 moveDir = new Vector2(direction.x, direction.y).normalized;
-        rb.linearVelocity = isRun ? moveDir * runSpeed : moveDir * walkSpeed;
+        rb.linearVelocity = isRun ? moveDir * playerStatus.runSpeed : moveDir * playerStatus.walkSpeed;
     }
 
     //애니메이션 end 이벤트로 호출
     public void OnShootEnd()
     {
         actionState = ActionState.Idle;
-        //bodyAnimator.SetInteger("actionState", (int)actionState);
         SetAnimParam("actionState", (int)actionState);
     }
 

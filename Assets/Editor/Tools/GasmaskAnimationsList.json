@@ -1,0 +1,76 @@
+{
+    "List": [
+        {
+            "name": "GasMask_Walk_NE",
+            "startX": 0,
+            "endX": 14,
+            "startY": 0,
+            "endY": 0,
+            "shouldLoop": true,
+            "frameRate": 20
+        },
+        {
+            "name": "GasMask_Walk_N",
+            "startX": 0,
+            "endX": 14,
+            "startY": 1,
+            "endY": 1,
+            "shouldLoop": true,
+            "frameRate": 20
+        },
+        {
+            "name": "GasMask_Walk_NW",
+            "startX": 0,
+            "endX": 14,
+            "startY": 2,
+            "endY": 2,
+            "shouldLoop": true,
+            "frameRate": 20
+        },
+        {
+            "name": "GasMask_Walk_W",
+            "startX": 0,
+            "endX": 14,
+            "startY": 3,
+            "endY": 3,
+            "shouldLoop": true,
+            "frameRate": 20
+        },
+        {
+            "name": "GasMask_Walk_SW",
+            "startX": 0,
+            "endX": 14,
+            "startY": 4,
+            "endY": 4,
+            "shouldLoop": true,
+            "frameRate": 20
+        },
+        {
+            "name": "GasMask_Walk_S",
+            "startX": 0,
+            "endX": 14,
+            "startY": 5,
+            "endY": 5,
+            "shouldLoop": true,
+            "frameRate": 20
+        },
+        {
+            "name": "GasMask_Walk_SE",
+            "startX": 0,
+            "endX": 14,
+            "startY": 6,
+            "endY": 6,
+            "shouldLoop": true,
+            "frameRate": 20
+        },
+        {
+            "name": "GasMask_Walk_E",
+            "startX": 0,
+            "endX": 14,
+            "startY": 7,
+            "endY": 7,
+            "shouldLoop": true,
+            "frameRate": 20
+        }
+    ]
+}

@@ -38,8 +38,8 @@ public class Projectile : MonoBehaviour
     {
         if (collision.CompareTag("EnemyHitBox"))
         {
-            EnemyController ec = collision.GetComponentInParent<EnemyController>();
-            ec.TakeDamage(damage);
+            EntityStats es = collision.GetComponentInParent<EntityStats>();
+            es.TakeDamage(damage);
             Debug.Log("面倒贸府");
             DestroySelf(); // 官肺 昏力
         }
