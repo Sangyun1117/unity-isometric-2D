@@ -1,26 +1,31 @@
 using System;
 using Unity.VisualScripting.Antlr3.Runtime.Misc;
 using UnityEngine;
+using System.Collections;
 using URandom = UnityEngine.Random;
 
 public class EnemyController : MonoBehaviour
 {
-    EntityStats stats;
+    protected EntityStats stats;
     [Header("Direction")]
-    [SerializeField] private Vector2 direction = Vector2.zero;
-    private bool isChasing = false;
-    [SerializeField] private Transform playerTarget;
+    [SerializeField] public Vector2 direction = Vector2.zero;
+    protected bool isChasing = false;
+    [SerializeField] protected Transform playerTarget;
     [SerializeField] private GameObject waypoints;
     private GameObject currentWaypoint;
     Rigidbody2D rb;
-    private Animator animator;
+    protected Animator animator;
+
+    float lastAttackTime = -999f;//게임시작 시 즉시 공격 가능하도록 낮은 숫자를 넣음
+    Coroutine attackRoutine;
+    [SerializeField] protected float attackCooldown = 1f;
     public void OnPlayerEntered()
     {
         isChasing = true;
         animator.SetBool("isChasing", isChasing);
         Debug.Log("플레이어 감지! 추적 시작");
     }
-    void Awake()
+    protected virtual void Awake()
     {
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
@@ -40,7 +45,7 @@ public class EnemyController : MonoBehaviour
     }
 
 
-    void Update()
+    protected virtual void Update()
     {
         if (isChasing && playerTarget != null)
         {
@@ -97,5 +102,36 @@ public class EnemyController : MonoBehaviour
         } while (waypoints.transform.GetChild(newIndex).gameObject == currentWaypoint); // 이전 목표와 같은 거 선택 방지
 
         currentWaypoint = waypoints.transform.GetChild(newIndex).gameObject;
+    }
+
+    public virtual bool CanAttack()
+    {
+        return Time.time >= lastAttackTime + attackCooldown;
+    }
+
+    protected virtual IEnumerator TryAttack()
+    {
+        yield break;
+    }
+    public void StartAttack()
+    {
+        if (CanAttack() && attackRoutine == null)
+        { // 이미 돌고 있으면 새로 안 시작
+            lastAttackTime = Time.time;//공격 시작 시점 기록
+            attackRoutine = StartCoroutine(AttackCoroutine());
+        }
+    }
+    private IEnumerator AttackCoroutine()
+    {
+        yield return StartCoroutine(TryAttack()); // 실제 공격 로직 실행
+        attackRoutine = null; // 공격 완료 후 null로 설정
+    }
+    public void StopAttack()
+    {
+        if (attackRoutine != null)
+        {
+            StopCoroutine(attackRoutine);
+            attackRoutine = null;
+        }
     }
 }

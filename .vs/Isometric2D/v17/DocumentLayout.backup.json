@@ -3,60 +3,16 @@
   "WorkspaceRootPath": "C:\\Workspace\\UnityProject\\Isometric2D\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{31D5A6FE-CEA3-20E2-887C-FA2CD49B2A27}|Assembly-CSharp.csproj|C:\\Workspace\\UnityProject\\Isometric2D\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31D5A6FE-CEA3-20E2-887C-FA2CD49B2A27}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{31D5A6FE-CEA3-20E2-887C-FA2CD49B2A27}|Assembly-CSharp.csproj|c:\\workspace\\unityproject\\isometric2d\\assets\\scripts\\sightdetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D5A6FE-CEA3-20E2-887C-FA2CD49B2A27}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\sightdetector.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31D5A6FE-CEA3-20E2-887C-FA2CD49B2A27}|Assembly-CSharp.csproj|C:\\Workspace\\UnityProject\\Isometric2D\\assets\\scripts\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{31D5A6FE-CEA3-20E2-887C-FA2CD49B2A27}|Assembly-CSharp.csproj|c:\\workspace\\unityproject\\isometric2d\\assets\\scripts\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{31D5A6FE-CEA3-20E2-887C-FA2CD49B2A27}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemycontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{31D5A6FE-CEA3-20E2-887C-FA2CD49B2A27}|Assembly-CSharp.csproj|c:\\workspace\\unityproject\\isometric2d\\assets\\scripts\\entitystats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31D5A6FE-CEA3-20E2-887C-FA2CD49B2A27}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\entitystats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31D5A6FE-CEA3-20E2-887C-FA2CD49B2A27}|Assembly-CSharp.csproj|c:\\workspace\\unityproject\\isometric2d\\assets\\scripts\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31D5A6FE-CEA3-20E2-887C-FA2CD49B2A27}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\projectile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31D5A6FE-CEA3-20E2-887C-FA2CD49B2A27}|Assembly-CSharp.csproj|C:\\Workspace\\UnityProject\\Isometric2D\\assets\\scripts\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31D5A6FE-CEA3-20E2-887C-FA2CD49B2A27}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weapon.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31D5A6FE-CEA3-20E2-887C-FA2CD49B2A27}|Assembly-CSharp.csproj|C:\\Workspace\\UnityProject\\Isometric2D\\assets\\scripts\\weaponmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31D5A6FE-CEA3-20E2-887C-FA2CD49B2A27}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\weaponmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31D5A6FE-CEA3-20E2-887C-FA2CD49B2A27}|Assembly-CSharp.csproj|C:\\Workspace\\UnityProject\\Isometric2D\\assets\\scripts\\customobjectpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31D5A6FE-CEA3-20E2-887C-FA2CD49B2A27}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\customobjectpool.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31D5A6FE-CEA3-20E2-887C-FA2CD49B2A27}|Assembly-CSharp.csproj|C:\\Workspace\\UnityProject\\Isometric2D\\assets\\scripts\\custompooledobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31D5A6FE-CEA3-20E2-887C-FA2CD49B2A27}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\custompooledobject.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31D5A6FE-CEA3-20E2-887C-FA2CD49B2A27}|Assembly-CSharp.csproj|C:\\Workspace\\UnityProject\\Isometric2D\\assets\\smallscaleint\\character creator - modern\\example scene\\scripts\\spritesheetgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31D5A6FE-CEA3-20E2-887C-FA2CD49B2A27}|Assembly-CSharp.csproj|solutionrelative:assets\\smallscaleint\\character creator - modern\\example scene\\scripts\\spritesheetgenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31D5A6FE-CEA3-20E2-887C-FA2CD49B2A27}|Assembly-CSharp.csproj|C:\\Workspace\\UnityProject\\Isometric2D\\assets\\scripts\\childanimatorsync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31D5A6FE-CEA3-20E2-887C-FA2CD49B2A27}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\childanimatorsync.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31D5A6FE-CEA3-20E2-887C-FA2CD49B2A27}|Assembly-CSharp.csproj|C:\\Workspace\\UnityProject\\Isometric2D\\assets\\smallscaleint\\character creator - modern\\example scene\\scripts\\animatorgearswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31D5A6FE-CEA3-20E2-887C-FA2CD49B2A27}|Assembly-CSharp.csproj|solutionrelative:assets\\smallscaleint\\character creator - modern\\example scene\\scripts\\animatorgearswitcher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31D5A6FE-CEA3-20E2-887C-FA2CD49B2A27}|Assembly-CSharp.csproj|C:\\Workspace\\UnityProject\\Isometric2D\\assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31D5A6FE-CEA3-20E2-887C-FA2CD49B2A27}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\camerafollow.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31D5A6FE-CEA3-20E2-887C-FA2CD49B2A27}|Assembly-CSharp.csproj|C:\\Workspace\\UnityProject\\Isometric2D\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31D5A6FE-CEA3-20E2-887C-FA2CD49B2A27}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{31D5A6FE-CEA3-20E2-887C-FA2CD49B2A27}|Assembly-CSharp.csproj|C:\\Workspace\\UnityProject\\Isometric2D\\assets\\scripts\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{31D5A6FE-CEA3-20E2-887C-FA2CD49B2A27}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playerstats.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{31D5A6FE-CEA3-20E2-887C-FA2CD49B2A27}|Assembly-CSharp.csproj|C:\\Workspace\\UnityProject\\Isometric2D\\assets\\scripts\\gasmaskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D5A6FE-CEA3-20E2-887C-FA2CD49B2A27}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gasmaskcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -65,7 +21,7 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 453,
+          "DockedWidth": 416,
           "SelectedChildIndex": 1,
           "Children": [
             {
@@ -74,106 +30,34 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "EntityStats.cs",
-              "DocumentMoniker": "C:\\Workspace\\UnityProject\\Isometric2D\\Assets\\Scripts\\EntityStats.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\EntityStats.cs",
-              "ToolTip": "C:\\Workspace\\UnityProject\\Isometric2D\\Assets\\Scripts\\EntityStats.cs",
-              "RelativeToolTip": "Assets\\Scripts\\EntityStats.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 0,
+              "Title": "SightDetector.cs",
+              "DocumentMoniker": "C:\\Workspace\\UnityProject\\Isometric2D\\Assets\\Scripts\\SightDetector.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SightDetector.cs",
+              "ToolTip": "C:\\Workspace\\UnityProject\\Isometric2D\\Assets\\Scripts\\SightDetector.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SightDetector.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwoAAAAuAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T05:08:42.078Z",
+              "WhenOpened": "2025-08-31T08:18:13.548Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "WeaponManager.cs",
-              "DocumentMoniker": "C:\\Workspace\\UnityProject\\Isometric2D\\Assets\\Scripts\\WeaponManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\WeaponManager.cs",
-              "ToolTip": "C:\\Workspace\\UnityProject\\Isometric2D\\Assets\\Scripts\\WeaponManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\WeaponManager.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAIwB4AAAANAAAAAAAAAA==",
+              "DocumentIndex": 2,
+              "Title": "GasMaskController.cs",
+              "DocumentMoniker": "C:\\Workspace\\UnityProject\\Isometric2D\\Assets\\Scripts\\GasMaskController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GasMaskController.cs",
+              "ToolTip": "C:\\Workspace\\UnityProject\\Isometric2D\\Assets\\Scripts\\GasMaskController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GasMaskController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvwQAAAAEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-29T02:52:40.819Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Weapon.cs",
-              "DocumentMoniker": "C:\\Workspace\\UnityProject\\Isometric2D\\Assets\\Scripts\\Weapon.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Weapon.cs",
-              "ToolTip": "C:\\Workspace\\UnityProject\\Isometric2D\\Assets\\Scripts\\Weapon.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Weapon.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEsAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-21T10:43:41.705Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "SpritesheetGenerator.cs",
-              "DocumentMoniker": "C:\\Workspace\\UnityProject\\Isometric2D\\Assets\\SmallScaleInt\\Character creator - Modern\\Example Scene\\Scripts\\SpritesheetGenerator.cs",
-              "RelativeDocumentMoniker": "Assets\\SmallScaleInt\\Character creator - Modern\\Example Scene\\Scripts\\SpritesheetGenerator.cs",
-              "ToolTip": "C:\\Workspace\\UnityProject\\Isometric2D\\Assets\\SmallScaleInt\\Character creator - Modern\\Example Scene\\Scripts\\SpritesheetGenerator.cs",
-              "RelativeToolTip": "Assets\\SmallScaleInt\\Character creator - Modern\\Example Scene\\Scripts\\SpritesheetGenerator.cs",
-              "ViewState": "AgIAANoDAAAAAAAAAAAAAPcDAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T02:35:36.76Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "ChildAnimatorSync.cs",
-              "DocumentMoniker": "C:\\Workspace\\UnityProject\\Isometric2D\\Assets\\Scripts\\ChildAnimatorSync.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\ChildAnimatorSync.cs",
-              "ToolTip": "C:\\Workspace\\UnityProject\\Isometric2D\\Assets\\Scripts\\ChildAnimatorSync.cs",
-              "RelativeToolTip": "Assets\\Scripts\\ChildAnimatorSync.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T08:45:30.981Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "AnimatorGearSwitcher.cs",
-              "DocumentMoniker": "C:\\Workspace\\UnityProject\\Isometric2D\\Assets\\SmallScaleInt\\Character creator - Modern\\Example Scene\\Scripts\\AnimatorGearSwitcher.cs",
-              "RelativeDocumentMoniker": "Assets\\SmallScaleInt\\Character creator - Modern\\Example Scene\\Scripts\\AnimatorGearSwitcher.cs",
-              "ToolTip": "C:\\Workspace\\UnityProject\\Isometric2D\\Assets\\SmallScaleInt\\Character creator - Modern\\Example Scene\\Scripts\\AnimatorGearSwitcher.cs",
-              "RelativeToolTip": "Assets\\SmallScaleInt\\Character creator - Modern\\Example Scene\\Scripts\\AnimatorGearSwitcher.cs",
-              "ViewState": "AgIAAFUAAAAAAAAAAAAIwAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T02:03:47.934Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "CameraFollow.cs",
-              "DocumentMoniker": "C:\\Workspace\\UnityProject\\Isometric2D\\Assets\\Scripts\\CameraFollow.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\CameraFollow.cs",
-              "ToolTip": "C:\\Workspace\\UnityProject\\Isometric2D\\Assets\\Scripts\\CameraFollow.cs",
-              "RelativeToolTip": "Assets\\Scripts\\CameraFollow.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T11:03:12.076Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "GameManager.cs",
-              "DocumentMoniker": "C:\\Workspace\\UnityProject\\Isometric2D\\Assets\\Scripts\\GameManager.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
-              "ToolTip": "C:\\Workspace\\UnityProject\\Isometric2D\\Assets\\Scripts\\GameManager.cs",
-              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAuwDQAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-19T08:11:57.587Z"
+              "WhenOpened": "2025-08-31T06:35:36.519Z"
             }
           ]
         },
         {
-          "DockedWidth": 645,
-          "SelectedChildIndex": 5,
+          "DockedWidth": 498,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -185,78 +69,16 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "PlayerStats.cs",
-              "DocumentMoniker": "C:\\Workspace\\UnityProject\\Isometric2D\\Assets\\Scripts\\PlayerStats.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerStats.cs",
-              "ToolTip": "C:\\Workspace\\UnityProject\\Isometric2D\\Assets\\Scripts\\PlayerStats.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerStats.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-31T05:45:44.771Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "Projectile.cs",
-              "DocumentMoniker": "C:\\Workspace\\UnityProject\\Isometric2D\\Assets\\Scripts\\Projectile.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\Projectile.cs",
-              "ToolTip": "C:\\Workspace\\UnityProject\\Isometric2D\\Assets\\Scripts\\Projectile.cs",
-              "RelativeToolTip": "Assets\\Scripts\\Projectile.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAIwCQAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T10:51:06.794Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 1,
               "Title": "EnemyController.cs",
               "DocumentMoniker": "C:\\Workspace\\UnityProject\\Isometric2D\\Assets\\Scripts\\EnemyController.cs",
               "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyController.cs",
               "ToolTip": "C:\\Workspace\\UnityProject\\Isometric2D\\Assets\\Scripts\\EnemyController.cs",
               "RelativeToolTip": "Assets\\Scripts\\EnemyController.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAAIwDQAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-27T11:03:32.019Z",
+              "WhenOpened": "2025-08-31T06:46:48.434Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "PlayerController.cs",
-              "DocumentMoniker": "C:\\Workspace\\UnityProject\\Isometric2D\\Assets\\Scripts\\PlayerController.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
-              "ToolTip": "C:\\Workspace\\UnityProject\\Isometric2D\\Assets\\Scripts\\PlayerController.cs",
-              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAQwBkAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-24T11:52:49.955Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "CustomObjectPool.cs",
-              "DocumentMoniker": "C:\\Workspace\\UnityProject\\Isometric2D\\Assets\\Scripts\\CustomObjectPool.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\CustomObjectPool.cs",
-              "ToolTip": "C:\\Workspace\\UnityProject\\Isometric2D\\Assets\\Scripts\\CustomObjectPool.cs",
-              "RelativeToolTip": "Assets\\Scripts\\CustomObjectPool.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAhAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T09:59:33.972Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
-              "Title": "CustomPooledObject.cs",
-              "DocumentMoniker": "C:\\Workspace\\UnityProject\\Isometric2D\\Assets\\Scripts\\CustomPooledObject.cs",
-              "RelativeDocumentMoniker": "Assets\\Scripts\\CustomPooledObject.cs",
-              "ToolTip": "C:\\Workspace\\UnityProject\\Isometric2D\\Assets\\Scripts\\CustomPooledObject.cs",
-              "RelativeToolTip": "Assets\\Scripts\\CustomPooledObject.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-08-28T10:07:28.257Z"
             }
           ]
         }

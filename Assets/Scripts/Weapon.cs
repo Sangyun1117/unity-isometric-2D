@@ -9,7 +9,7 @@ public class Weapon : MonoBehaviour
 
     protected PlayerController player;
 
-    private void Awake()
+    protected virtual void Awake()
     {
         player = transform.root.GetComponent<PlayerController>();
     }

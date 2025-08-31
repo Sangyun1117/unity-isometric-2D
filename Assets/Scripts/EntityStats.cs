@@ -15,6 +15,7 @@ public class EntityStats : MonoBehaviour
     [SerializeField] public float defense = 5f; //방어력
     [SerializeField] public float evadeChance = 0.05f;//회피 확률
 
+    [SerializeField] public float attackRange = 9;
 
     [SerializeField] private Image hpFillImage;
 

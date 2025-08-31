@@ -7,8 +7,9 @@ public class Rifles : Weapon
     [SerializeField] Transform firePoint; // 발사 위치 지정 (총구)
     CustomObjectPool bulletPool;
     //Vector2 firePoint = Vector2.zero;
-    private void Awake()
+    protected override void Awake()
     {
+        base.Awake();
         bulletPool = GetComponent<CustomObjectPool>();
     }
     protected override IEnumerator TryAttack()

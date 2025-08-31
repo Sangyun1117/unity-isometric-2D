@@ -17,7 +17,7 @@ public enum Direction8
     Left,       // 왼쪽
     UpLeft      // 왼쪽 위
 }
-enum ActionState
+public enum ActionState
 {
     Idle = 0,
     Shoot = 1,
