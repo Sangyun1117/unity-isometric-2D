@@ -11,8 +11,8 @@ public class EnemyController : MonoBehaviour
     [SerializeField] public Vector2 direction = Vector2.zero;
     protected bool isChasing = false;
     [SerializeField] protected Transform playerTarget;
-    [SerializeField] private GameObject waypoints;
-    private GameObject currentWaypoint;
+    [SerializeField] protected GameObject waypoints;
+    protected GameObject currentWaypoint;
     protected Rigidbody2D rb;
     protected Animator animator;
     protected ActionState actionState = ActionState.Idle;
@@ -93,7 +93,7 @@ public class EnemyController : MonoBehaviour
             rb.linearVelocity = isChasing ? direction * stats.runSpeed : direction * stats.walkSpeed;
     }
 
-    private void SelectNewWaypoint()
+     protected void SelectNewWaypoint()
     {
         if (waypoints.transform.childCount == 0) return;
         int newIndex;

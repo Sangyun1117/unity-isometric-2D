@@ -622,7 +622,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   maxHP: 100
   currentHP: 0
-  walkSpeed: 4
+  walkSpeed: 2
   runSpeed: 5
   attackPower: 10
   attackSpeed: 1

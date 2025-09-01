@@ -12,9 +12,12 @@ public class GasMaskController : EnemyController
 
     protected override void Update()
     {
-        base.Update();
-        if (isChasing)
+        if (isChasing && playerTarget != null)
         {
+            // 플레이어 방향 구하기
+            direction = ((Vector2)playerTarget.position - (Vector2)transform.position).normalized;
+            animator.SetFloat("moveX", rb.linearVelocity.x);
+            animator.SetFloat("moveY", rb.linearVelocity.y);
             if (Vector2.Distance(transform.position, playerTarget.transform.position) < stats.attackRange)
             {
                 StartAttack();
@@ -28,20 +31,70 @@ public class GasMaskController : EnemyController
                 direction.y = 0f;
                 animator.SetFloat("moveX", 0f);
                 animator.SetFloat("moveY", 0f);
-
-
                 return;
             }
-            else if (Vector2.Distance(transform.position, playerTarget.transform.position) >= stats.attackRange && actionState == ActionState.Shoot)
+            else
             {
                 StopAttack();
-            }
-            // 사격 중이면 이동 입력 읽지 않음
-            if (actionState == ActionState.Shoot)
-            {
-                return;
+                // 마지막 이동 방향 기록
+                if (direction != Vector2.zero)
+                {
+                    animator.SetFloat("lastMoveX", direction.x);
+                    animator.SetFloat("lastMoveY", direction.y);
+                }
             }
         }
+        else
+        {
+            //목표 지점에 도착했다면 새로운 목표지점으로 이동
+            if (Vector2.Distance(transform.position, currentWaypoint.transform.position) < 0.1f)
+            {
+                SelectNewWaypoint();
+            }
+
+            //목표 지점 방향 구하기
+            direction = ((Vector2)currentWaypoint.transform.position - (Vector2)transform.position).normalized;
+
+            animator.SetFloat("moveX", rb.linearVelocity.x);
+            animator.SetFloat("moveY", rb.linearVelocity.y);
+            //transform.Translate(direction * moveSpeed * Time.deltaTime);
+
+            // 마지막 이동 방향 기록
+            if (direction != Vector2.zero)
+            {
+                animator.SetFloat("lastMoveX", direction.x);
+                animator.SetFloat("lastMoveY", direction.y);
+            }
+        }
+        //if (isChasing)
+        //{
+        //    if (Vector2.Distance(transform.position, playerTarget.transform.position) < stats.attackRange)
+        //    {
+        //        StartAttack();
+        //        animator.SetFloat("lastMoveX", direction.x);
+        //        animator.SetFloat("lastMoveY", direction.y);
+        //        actionState = ActionState.Shoot;
+
+        //        animator.SetInteger("actionState", (int)actionState);
+        //        ////사격중이면 이동금지
+        //        direction.x = 0f;
+        //        direction.y = 0f;
+        //        animator.SetFloat("moveX", 0f);
+        //        animator.SetFloat("moveY", 0f);
+
+
+        //        return;
+        //    }
+        //    else if (Vector2.Distance(transform.position, playerTarget.transform.position) >= stats.attackRange && actionState == ActionState.Shoot)
+        //    {
+        //        StopAttack();
+        //    }
+        //    // 사격 중이면 이동 입력 읽지 않음
+        //    if (actionState == ActionState.Shoot)
+        //    {
+        //        return;
+        //    }
+        //}
     }
 
     //애니메이션 end 이벤트로 호출
