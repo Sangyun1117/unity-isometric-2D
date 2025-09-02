@@ -1,3 +1,4 @@
+using System;
 using System.Collections.Generic;
 using UnityEngine;
 
@@ -12,8 +13,7 @@ public class WeaponManager : MonoBehaviour
         foreach (var w in weapons)
             w.gameObject.SetActive(false);
 
-        SetWeapon(0);
-
+        SetWeapon(1);
     }
 
     public Weapon GetWeapon()

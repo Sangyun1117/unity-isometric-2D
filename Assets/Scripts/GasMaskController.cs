@@ -1,4 +1,5 @@
 using UnityEngine;
+using UnityEngine.AI;
 using System.Collections;
 public class GasMaskController : EnemyController
 {
@@ -8,39 +9,51 @@ public class GasMaskController : EnemyController
     {
         base.Awake();
         bulletPool = GetComponent<CustomObjectPool>();
+
     }
 
     protected override void Update()
     {
-        if (isChasing && playerTarget != null)
+        if (isChasing)
         {
-            // 플레이어 방향 구하기
-            direction = ((Vector2)playerTarget.position - (Vector2)transform.position).normalized;
-            animator.SetFloat("moveX", rb.linearVelocity.x);
-            animator.SetFloat("moveY", rb.linearVelocity.y);
+            // NavMesh로 플레이어 추적
+            agent.SetDestination(playerTarget.position);
+
+            // 애니메이션용 방향 계산 (NavMesh 이동 방향 기준)
+            Vector2 navMeshVelocity = agent.velocity;
+            animator.SetFloat("moveX", navMeshVelocity.x);
+            animator.SetFloat("moveY", navMeshVelocity.y);
+
+            //사격 범위 내에 있는 지 확인
             if (Vector2.Distance(transform.position, playerTarget.transform.position) < stats.attackRange)
             {
+                // 사격 시 NavMesh 정지
+                agent.isStopped = true;
+                // 플레이어 방향으로 바라보기 (사격용)
+                direction = ((Vector2)playerTarget.position - (Vector2)transform.position).normalized;
+
                 StartAttack();
                 animator.SetFloat("lastMoveX", direction.x);
                 animator.SetFloat("lastMoveY", direction.y);
                 actionState = ActionState.Shoot;
-
                 animator.SetInteger("actionState", (int)actionState);
-                ////사격중이면 이동금지
-                direction.x = 0f;
-                direction.y = 0f;
+
                 animator.SetFloat("moveX", 0f);
                 animator.SetFloat("moveY", 0f);
                 return;
             }
             else
             {
+                // 사격 범위 밖이면 NavMesh 재시작
+                agent.isStopped = false;
+
                 StopAttack();
-                // 마지막 이동 방향 기록
-                if (direction != Vector2.zero)
+
+                // 마지막 이동 방향 기록 (NavMesh 방향 기준)
+                if (navMeshVelocity != Vector2.zero)
                 {
-                    animator.SetFloat("lastMoveX", direction.x);
-                    animator.SetFloat("lastMoveY", direction.y);
+                    animator.SetFloat("lastMoveX", navMeshVelocity.normalized.x);
+                    animator.SetFloat("lastMoveY", navMeshVelocity.normalized.y);
                 }
             }
         }
@@ -50,14 +63,14 @@ public class GasMaskController : EnemyController
             if (Vector2.Distance(transform.position, currentWaypoint.transform.position) < 0.1f)
             {
                 SelectNewWaypoint();
+                agent.SetDestination(currentWaypoint.transform.position);
             }
 
             //목표 지점 방향 구하기
             direction = ((Vector2)currentWaypoint.transform.position - (Vector2)transform.position).normalized;
 
-            animator.SetFloat("moveX", rb.linearVelocity.x);
-            animator.SetFloat("moveY", rb.linearVelocity.y);
-            //transform.Translate(direction * moveSpeed * Time.deltaTime);
+            animator.SetFloat("moveX", agent.velocity.x);
+            animator.SetFloat("moveY", agent.velocity.y);
 
             // 마지막 이동 방향 기록
             if (direction != Vector2.zero)
@@ -66,35 +79,22 @@ public class GasMaskController : EnemyController
                 animator.SetFloat("lastMoveY", direction.y);
             }
         }
-        //if (isChasing)
-        //{
-        //    if (Vector2.Distance(transform.position, playerTarget.transform.position) < stats.attackRange)
-        //    {
-        //        StartAttack();
-        //        animator.SetFloat("lastMoveX", direction.x);
-        //        animator.SetFloat("lastMoveY", direction.y);
-        //        actionState = ActionState.Shoot;
+    }
 
-        //        animator.SetInteger("actionState", (int)actionState);
-        //        ////사격중이면 이동금지
-        //        direction.x = 0f;
-        //        direction.y = 0f;
-        //        animator.SetFloat("moveX", 0f);
-        //        animator.SetFloat("moveY", 0f);
-
-
-        //        return;
-        //    }
-        //    else if (Vector2.Distance(transform.position, playerTarget.transform.position) >= stats.attackRange && actionState == ActionState.Shoot)
-        //    {
-        //        StopAttack();
-        //    }
-        //    // 사격 중이면 이동 입력 읽지 않음
-        //    if (actionState == ActionState.Shoot)
-        //    {
-        //        return;
-        //    }
-        //}
+    protected override void FixedUpdate()
+    {
+        if (actionState == ActionState.Shoot)
+        {
+            // 이동 정지
+            agent.isStopped = true;
+            return;
+        }
+        else
+        {
+            // NavMeshAgent를 이용한 이동
+            agent.isStopped = false;
+            // Rigidbody2D 직접 속도 세팅 제거
+        }
     }
 
     //애니메이션 end 이벤트로 호출
