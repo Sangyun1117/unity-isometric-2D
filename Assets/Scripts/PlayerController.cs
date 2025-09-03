@@ -21,8 +21,9 @@ public enum ActionState
 {
     Idle = 0,
     Shoot = 1,
-    Reload = 2,
-    Dash = 3
+    Walk = 2,
+    Run = 3,
+    Dash = 4
 }
 public class PlayerController : MonoBehaviour
 {
@@ -33,15 +34,20 @@ public class PlayerController : MonoBehaviour
     private Rigidbody2D rb;
     public Vector2 direction;
     public Vector2 lastMoveDir;
-    private ActionState actionState = ActionState.Idle;
+    [SerializeField] private ActionState actionState = ActionState.Idle;
     private bool isRun = false;
     private bool runCheck = false;
     private Animator bodyAnimator;
+    [SerializeField] public bool isShootAnim = false;
+    private bool isDash = false;
+    private float dashTimer;
+    private float lastDashTime;
 
     //애니메이션 상태를 옵저버 형태로 알림
     public event Action<string, object> OnAnimatorParamChanged;
     public void Awake()
     {
+        lastDashTime = 0f;
         rb = GetComponent<Rigidbody2D>();
         bodyAnimator = GetComponent<Animator>();
         playerStatus = GetComponent<PlayerStats>();
@@ -49,20 +55,18 @@ public class PlayerController : MonoBehaviour
     }
     public void Update()
     {
-        //달리기 : shift 키 누르면 뛰기, 아이템 교체시 눌려있는 상태면 다시 뜀
-        if (Input.GetKeyDown(KeyCode.LeftShift)||(runCheck&&Input.GetKey(KeyCode.LeftShift)))
+        if (isDash)
         {
-            isRun = true;
-            SetAnimParam("isRun", isRun);
+            dashTimer -= Time.deltaTime;
+            if (dashTimer <= 0f)
+            {
+                EndDash();
+                actionState = ActionState.Idle;
+            }
+            return;
         }
-        if (Input.GetKeyUp(KeyCode.LeftShift))
-        {
-            isRun = false;
-            SetAnimParam("isRun", isRun);
-        }
-
         //공격 : 마우스 좌클릭 누르면 사격
-        if (Input.GetMouseButton(0)) 
+        if (Input.GetMouseButton(0))
         {
             //플레이어 위치에서 부터 마우스 클릭된 방향 구하기
             Vector3 mouseWorld = Camera.main.ScreenToWorldPoint(Input.mousePosition);
@@ -84,29 +88,44 @@ public class PlayerController : MonoBehaviour
         }
         else if (Input.GetMouseButtonUp(0))
         {
+            actionState = ActionState.Idle;
+            SetAnimParam("actionState", (int)actionState);
             weaponManager.GetWeapon().StopAttack();
         }
         // 사격 중이면 이동 입력 읽지 않음
-        if (actionState == ActionState.Shoot)
+        if (isShootAnim)
         {
             return;
         }
 
-        for (int i = 0; i <= 9; i++)
-        {
-            if (Input.GetKeyDown(KeyCode.Alpha0 + i))
-            {
-                ItemSwap(i);
-                Debug.Log("숫자 " + i + " 키 입력됨");
-            }
-        }
 
         //이동 : WASD, 방향키 눌러서 이동
         direction.x = Input.GetAxisRaw("Horizontal");
         direction.y = Input.GetAxisRaw("Vertical");
 
+        if (Input.GetKeyDown(KeyCode.Space) && !isDash && Time.time > playerStatus.dashCoolTime + lastDashTime)
+        {
+            StartDash();
+            return;
+        }
+
         // 현재 이동 벡터
         Vector2 moveDir = new Vector2(direction.x, direction.y);
+
+        if (moveDir == Vector2.zero)
+        {
+            actionState = ActionState.Idle;
+        }
+        else if (!Input.GetKey(KeyCode.LeftShift))
+        {
+            actionState = ActionState.Walk;
+        }
+        else
+        {
+            actionState = ActionState.Run;
+        }
+
+        SetAnimParam("actionState", (int)actionState);
 
         // Animator에 현재 속도 넣어주기
         SetAnimParam("moveX", rb.linearVelocity.x);
@@ -119,25 +138,71 @@ public class PlayerController : MonoBehaviour
             SetAnimParam("lastMoveX", lastMoveDir.x);
             SetAnimParam("lastMoveY", lastMoveDir.y);
         }
+
+        //달리기 : shift 키 누르면 뛰기, 아이템 교체시 눌려있는 상태면 다시 뜀
+        if (Input.GetKeyDown(KeyCode.LeftShift)||(runCheck&&Input.GetKey(KeyCode.LeftShift)))
+        {
+            isRun = true;
+            actionState = ActionState.Run;
+            SetAnimParam("isRun", isRun);
+        }
+        if (Input.GetKeyUp(KeyCode.LeftShift))
+        {
+            isRun = false;
+            actionState = ActionState.Walk;
+            SetAnimParam("isRun", isRun);
+        }
+
+        //무기 변경
+        for (int i = 0; i <= 9; i++)
+        {
+            if (Input.GetKeyDown(KeyCode.Alpha0 + i))
+            {
+                ItemSwap(i);
+                Debug.Log("숫자 " + i + " 키 입력됨");
+            }
+        }
+
     }
 
     public void FixedUpdate()
     {
+
         // 사격 중일 때는 이동하지 않음
         if (actionState == ActionState.Shoot)
         {
             rb.linearVelocity = Vector2.zero;
             return;
         }
+
         Vector2 moveDir = new Vector2(direction.x, direction.y).normalized;
+
+        if (actionState == ActionState.Dash)
+        {
+            Debug.Log("ddd");
+            rb.linearVelocity = moveDir * playerStatus.dashSpeed;
+            return;
+        }
+
         rb.linearVelocity = isRun ? moveDir * playerStatus.runSpeed : moveDir * playerStatus.walkSpeed;
     }
 
-    //애니메이션 end 이벤트로 호출
-    public void OnShootEnd()
+    private void StartDash()
     {
-        actionState = ActionState.Idle;
-        SetAnimParam("actionState", (int)actionState);
+        // 현재 이동 입력 방향 (없으면 바라보는 방향 사용)
+        if (direction == Vector2.zero)
+            direction = lastMoveDir; // 기본 방향 (예: 오른쪽)
+
+        actionState = ActionState.Dash;
+        isDash = true;
+        dashTimer = playerStatus.dashTime;
+        lastDashTime = Time.time;
+    }
+
+    private void EndDash()
+    {
+        isDash = false;
+        rb.linearVelocity = Vector2.zero;
     }
 
     public Direction8 GetAnimationDirection8()
@@ -200,15 +265,15 @@ public class PlayerController : MonoBehaviour
         //아이템 교체시 애니메이션 싱크를 맞추기 위해 Idle 상태로 돌아감
         nowInventoryItem = index;
         weaponManager.SetWeapon(index);
-        isRun = false;
-        runCheck = true; //쉬프트가 눌려있는지 다시 확인함
-        SetAnimParam("isRun", isRun);
-        actionState = ActionState.Idle;
-        SetAnimParam("lastMoveX", lastMoveDir.x);
-        SetAnimParam("lastMoveY", lastMoveDir.y);
-        direction.x = 0f;
-        direction.y = 0f;
-        SetAnimParam("moveX", rb.linearVelocity.x);
-        SetAnimParam("moveY", rb.linearVelocity.y);
+        //isRun = false;
+        //runCheck = true; //쉬프트가 눌려있는지 다시 확인함
+        //SetAnimParam("isRun", isRun);
+        //actionState = ActionState.Idle;
+        //SetAnimParam("lastMoveX", lastMoveDir.x);
+        //SetAnimParam("lastMoveY", lastMoveDir.y);
+        //direction.x = 0f;
+        //direction.y = 0f;
+        //SetAnimParam("moveX", rb.linearVelocity.x);
+        //SetAnimParam("moveY", rb.linearVelocity.y);
     }
 }

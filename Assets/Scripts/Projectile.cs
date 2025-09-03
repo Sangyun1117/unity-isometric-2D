@@ -46,6 +46,7 @@ public class Projectile : MonoBehaviour
                 Debug.Log("Enemy 面倒贸府");
                 DestroySelf(); // 官肺 昏力
             }
+
         }
         else
         {

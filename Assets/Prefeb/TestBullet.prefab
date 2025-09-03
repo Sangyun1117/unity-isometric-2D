@@ -105,6 +105,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 10
   damage: 50
+  masterIsPlayer: 1
 --- !u!61 &1488160759383305482
 BoxCollider2D:
   m_ObjectHideFlags: 0
