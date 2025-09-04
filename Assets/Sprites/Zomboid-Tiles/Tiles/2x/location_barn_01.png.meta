@@ -1,0 +1,1027 @@
+fileFormatVersion: 2
+guid: 324da988d853e804d88f8c22f5c8f710
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8906869893403624554
+    second: location_barn_01_0
+  - first:
+      213: 2181535453852867914
+    second: location_barn_01_1
+  - first:
+      213: -175229321502050896
+    second: location_barn_01_2
+  - first:
+      213: -2285811676296180351
+    second: location_barn_01_3
+  - first:
+      213: -9044494788315890629
+    second: location_barn_01_4
+  - first:
+      213: -8633170393329573401
+    second: location_barn_01_5
+  - first:
+      213: -7953392173124525445
+    second: location_barn_01_6
+  - first:
+      213: 7765274069005498694
+    second: location_barn_01_7
+  - first:
+      213: -6662865288672427838
+    second: location_barn_01_8
+  - first:
+      213: 8022373750121061088
+    second: location_barn_01_9
+  - first:
+      213: 3013832205740561993
+    second: location_barn_01_10
+  - first:
+      213: 2583295552806490836
+    second: location_barn_01_11
+  - first:
+      213: -8137856106785178196
+    second: location_barn_01_12
+  - first:
+      213: -5748831793034550854
+    second: location_barn_01_13
+  - first:
+      213: -4064485067183540314
+    second: location_barn_01_14
+  - first:
+      213: -1621111373391219496
+    second: location_barn_01_15
+  - first:
+      213: 6259032679708056431
+    second: location_barn_01_16
+  - first:
+      213: 9043516303539503903
+    second: location_barn_01_17
+  - first:
+      213: 2379824023188939950
+    second: location_barn_01_18
+  - first:
+      213: 8916988367892406026
+    second: location_barn_01_19
+  - first:
+      213: 6999854599581446509
+    second: location_barn_01_20
+  - first:
+      213: -67525183316911326
+    second: location_barn_01_21
+  - first:
+      213: 7507222422197864946
+    second: location_barn_01_22
+  - first:
+      213: 4970041208550212358
+    second: location_barn_01_23
+  - first:
+      213: 2077001368121420545
+    second: location_barn_01_24
+  - first:
+      213: -4195757155114731035
+    second: location_barn_01_25
+  - first:
+      213: 3095121088309857899
+    second: location_barn_01_26
+  - first:
+      213: -3112470210211051688
+    second: location_barn_01_27
+  - first:
+      213: 1674243759226474764
+    second: location_barn_01_28
+  - first:
+      213: -2172264153320162813
+    second: location_barn_01_29
+  - first:
+      213: -8527199086821462044
+    second: location_barn_01_30
+  - first:
+      213: -1525614833415516090
+    second: location_barn_01_31
+  - first:
+      213: 8097258909401067000
+    second: location_barn_01_32
+  - first:
+      213: -3962789974549189341
+    second: location_barn_01_33
+  - first:
+      213: -1257049004797328434
+    second: location_barn_01_34
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: location_barn_01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1821
+        width: 67
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b3e07c501746480800000000000000
+      internalID: -8906869893403624554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_barn_01_1
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1821
+        width: 68
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4d12dfdfee564e10800000000000000
+      internalID: 2181535453852867914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_barn_01_2
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1821
+        width: 128
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b533a94cd5719df0800000000000000
+      internalID: -175229321502050896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_barn_01_3
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1851
+        width: 8
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d0de2246a2740e0800000000000000
+      internalID: -2285811676296180351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_barn_01_4
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1821
+        width: 68
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3c3f89e8ef7b7280800000000000000
+      internalID: -9044494788315890629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_barn_01_5
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1842
+        width: 68
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1eb2c8441d03880800000000000000
+      internalID: -8633170393329573401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_barn_01_6
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1842
+        width: 68
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b726a8915ffdf9190800000000000000
+      internalID: -7953392173124525445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_barn_01_7
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1821
+        width: 68
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649ff92af9bc3cb60800000000000000
+      internalID: 7765274069005498694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_barn_01_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1565
+        width: 67
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c04662425fb883a0800000000000000
+      internalID: -6662865288672427838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_barn_01_9
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1565
+        width: 68
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea526fdb62355f60800000000000000
+      internalID: 8022373750121061088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_barn_01_10
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1565
+        width: 68
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9465cc35c6843d920800000000000000
+      internalID: 3013832205740561993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_barn_01_11
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1565
+        width: 68
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d290ee4e95b9d320800000000000000
+      internalID: 2583295552806490836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_barn_01_12
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1309
+        width: 7
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad73d1bcf6801f80800000000000000
+      internalID: -8137856106785178196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_barn_01_13
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 1338
+        width: 7
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab124be51fb0830b0800000000000000
+      internalID: -5748831793034550854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_barn_01_14
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1338
+        width: 7
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a735afad5c0897c0800000000000000
+      internalID: -4064485067183540314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_barn_01_15
+      rect:
+        serializedVersion: 2
+        x: 502
+        y: 1309
+        width: 7
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d4bbaf7bc7a089e0800000000000000
+      internalID: -1621111373391219496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_barn_01_16
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1339
+        width: 10
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b5f877f0d8cd650800000000000000
+      internalID: 6259032679708056431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_barn_01_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1053
+        width: 67
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f130de8d926018d70800000000000000
+      internalID: 9043516303539503903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_barn_01_18
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1053
+        width: 70
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea42e1a1755d60120800000000000000
+      internalID: 2379824023188939950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_barn_01_19
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1053
+        width: 71
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0f54862da18fbb70800000000000000
+      internalID: 8916988367892406026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_barn_01_20
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1053
+        width: 71
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61bf67ebaa742160800000000000000
+      internalID: 6999854599581446509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_barn_01_21
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1053
+        width: 70
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22b900b143a101ff0800000000000000
+      internalID: -67525183316911326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_barn_01_22
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1053
+        width: 69
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f983fc94030f2860800000000000000
+      internalID: 7507222422197864946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_barn_01_23
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1053
+        width: 70
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60340b2952229f440800000000000000
+      internalID: 4970041208550212358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_barn_01_24
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1053
+        width: 69
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ba0e86dbdf2dc10800000000000000
+      internalID: 2077001368121420545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_barn_01_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 797
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e93595f81da5c5c0800000000000000
+      internalID: -4195757155114731035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_barn_01_26
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 797
+        width: 66
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e878d2b3414fa20800000000000000
+      internalID: 3095121088309857899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_barn_01_27
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 797
+        width: 66
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857826a95d84ec4d0800000000000000
+      internalID: -3112470210211051688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_barn_01_28
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 797
+        width: 66
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c01db1814db1c3710800000000000000
+      internalID: 1674243759226474764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_barn_01_29
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 797
+        width: 66
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a790ff2419ad1e0800000000000000
+      internalID: -2172264153320162813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_barn_01_30
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 797
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4efa8fc0c9d49a980800000000000000
+      internalID: -8527199086821462044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_barn_01_31
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 797
+        width: 69
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640933e546de3dae0800000000000000
+      internalID: -1525614833415516090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_barn_01_32
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 797
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fda735b31e3f5070800000000000000
+      internalID: 8097258909401067000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_barn_01_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 541
+        width: 67
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32d248f83875109c0800000000000000
+      internalID: -3962789974549189341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_barn_01_34
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 541
+        width: 71
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec30ccb17901e8ee0800000000000000
+      internalID: -1257049004797328434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      location_barn_01_0: -8906869893403624554
+      location_barn_01_1: 2181535453852867914
+      location_barn_01_10: 3013832205740561993
+      location_barn_01_11: 2583295552806490836
+      location_barn_01_12: -8137856106785178196
+      location_barn_01_13: -5748831793034550854
+      location_barn_01_14: -4064485067183540314
+      location_barn_01_15: -1621111373391219496
+      location_barn_01_16: 6259032679708056431
+      location_barn_01_17: 9043516303539503903
+      location_barn_01_18: 2379824023188939950
+      location_barn_01_19: 8916988367892406026
+      location_barn_01_2: -175229321502050896
+      location_barn_01_20: 6999854599581446509
+      location_barn_01_21: -67525183316911326
+      location_barn_01_22: 7507222422197864946
+      location_barn_01_23: 4970041208550212358
+      location_barn_01_24: 2077001368121420545
+      location_barn_01_25: -4195757155114731035
+      location_barn_01_26: 3095121088309857899
+      location_barn_01_27: -3112470210211051688
+      location_barn_01_28: 1674243759226474764
+      location_barn_01_29: -2172264153320162813
+      location_barn_01_3: -2285811676296180351
+      location_barn_01_30: -8527199086821462044
+      location_barn_01_31: -1525614833415516090
+      location_barn_01_32: 8097258909401067000
+      location_barn_01_33: -3962789974549189341
+      location_barn_01_34: -1257049004797328434
+      location_barn_01_4: -9044494788315890629
+      location_barn_01_5: -8633170393329573401
+      location_barn_01_6: -7953392173124525445
+      location_barn_01_7: 7765274069005498694
+      location_barn_01_8: -6662865288672427838
+      location_barn_01_9: 8022373750121061088
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

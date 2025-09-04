@@ -1,0 +1,4693 @@
+fileFormatVersion: 2
+guid: 5795daf8b9e27b6448b3cd0874e13254
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -648383191287163399
+    second: signs_one-off_01_0
+  - first:
+      213: -6286760778632853114
+    second: signs_one-off_01_1
+  - first:
+      213: 7442608641178809449
+    second: signs_one-off_01_2
+  - first:
+      213: 1173570403979235249
+    second: signs_one-off_01_3
+  - first:
+      213: 7143066380199549110
+    second: signs_one-off_01_4
+  - first:
+      213: -3157838461252841362
+    second: signs_one-off_01_5
+  - first:
+      213: -2817602102960830758
+    second: signs_one-off_01_6
+  - first:
+      213: -3444483596522169578
+    second: signs_one-off_01_7
+  - first:
+      213: -2877567101172223101
+    second: signs_one-off_01_8
+  - first:
+      213: -4840323001368994130
+    second: signs_one-off_01_9
+  - first:
+      213: 8914389488166034056
+    second: signs_one-off_01_10
+  - first:
+      213: -1571017765491338779
+    second: signs_one-off_01_11
+  - first:
+      213: -1094613219769676313
+    second: signs_one-off_01_12
+  - first:
+      213: -3018300880007803763
+    second: signs_one-off_01_13
+  - first:
+      213: -2969679285257383447
+    second: signs_one-off_01_14
+  - first:
+      213: 359271770953804289
+    second: signs_one-off_01_15
+  - first:
+      213: -1190554631976371708
+    second: signs_one-off_01_16
+  - first:
+      213: 2148265301670352557
+    second: signs_one-off_01_17
+  - first:
+      213: 9086214329305741740
+    second: signs_one-off_01_18
+  - first:
+      213: 8691287406519594728
+    second: signs_one-off_01_19
+  - first:
+      213: 5289694410111327110
+    second: signs_one-off_01_20
+  - first:
+      213: 867025473767855756
+    second: signs_one-off_01_21
+  - first:
+      213: -151018838454022097
+    second: signs_one-off_01_22
+  - first:
+      213: -4058883516129917367
+    second: signs_one-off_01_23
+  - first:
+      213: 6464847656079669656
+    second: signs_one-off_01_24
+  - first:
+      213: -5369697708809553221
+    second: signs_one-off_01_25
+  - first:
+      213: -2629279885212813989
+    second: signs_one-off_01_26
+  - first:
+      213: 2803031261405044867
+    second: signs_one-off_01_27
+  - first:
+      213: -6397630210605953684
+    second: signs_one-off_01_28
+  - first:
+      213: -529437661013698001
+    second: signs_one-off_01_29
+  - first:
+      213: -4379330510997849296
+    second: signs_one-off_01_30
+  - first:
+      213: -9082457971419294027
+    second: signs_one-off_01_31
+  - first:
+      213: -7295036649683190202
+    second: signs_one-off_01_32
+  - first:
+      213: 8368868243496896427
+    second: signs_one-off_01_33
+  - first:
+      213: 8682302060726418956
+    second: signs_one-off_01_34
+  - first:
+      213: -1644710415876197565
+    second: signs_one-off_01_35
+  - first:
+      213: -8341774728619915594
+    second: signs_one-off_01_36
+  - first:
+      213: 975781750493779693
+    second: signs_one-off_01_37
+  - first:
+      213: 5299208110558094543
+    second: signs_one-off_01_38
+  - first:
+      213: -6338003504038852164
+    second: signs_one-off_01_39
+  - first:
+      213: -860704098133601258
+    second: signs_one-off_01_40
+  - first:
+      213: 1223708299844072017
+    second: signs_one-off_01_41
+  - first:
+      213: 3303271285692633508
+    second: signs_one-off_01_42
+  - first:
+      213: 8807143035884775042
+    second: signs_one-off_01_43
+  - first:
+      213: 322033366922468601
+    second: signs_one-off_01_44
+  - first:
+      213: 1030919076532244712
+    second: signs_one-off_01_45
+  - first:
+      213: 7576546258526167528
+    second: signs_one-off_01_46
+  - first:
+      213: 3982215021744599349
+    second: signs_one-off_01_47
+  - first:
+      213: -4190575122430893654
+    second: signs_one-off_01_48
+  - first:
+      213: -3926286565527373203
+    second: signs_one-off_01_49
+  - first:
+      213: -4476004200729462690
+    second: signs_one-off_01_50
+  - first:
+      213: -45215449421982124
+    second: signs_one-off_01_51
+  - first:
+      213: 3673404473036304433
+    second: signs_one-off_01_52
+  - first:
+      213: 374733035080269904
+    second: signs_one-off_01_53
+  - first:
+      213: 671739129169534868
+    second: signs_one-off_01_54
+  - first:
+      213: 8864847202854769749
+    second: signs_one-off_01_55
+  - first:
+      213: 5257558891775189338
+    second: signs_one-off_01_56
+  - first:
+      213: 4922953739107815711
+    second: signs_one-off_01_57
+  - first:
+      213: -7647394135068479562
+    second: signs_one-off_01_58
+  - first:
+      213: -7087656067080666722
+    second: signs_one-off_01_59
+  - first:
+      213: -8606544834975554262
+    second: signs_one-off_01_60
+  - first:
+      213: 2616393961041879471
+    second: signs_one-off_01_61
+  - first:
+      213: -1642018876766968647
+    second: signs_one-off_01_62
+  - first:
+      213: -2724472725547553494
+    second: signs_one-off_01_63
+  - first:
+      213: -8208743636249627534
+    second: signs_one-off_01_64
+  - first:
+      213: -6063110680362802909
+    second: signs_one-off_01_65
+  - first:
+      213: 6209204891310602803
+    second: signs_one-off_01_66
+  - first:
+      213: -7288584799587046790
+    second: signs_one-off_01_67
+  - first:
+      213: -8631340046102036029
+    second: signs_one-off_01_68
+  - first:
+      213: 2478903687040127112
+    second: signs_one-off_01_69
+  - first:
+      213: 4986567483618079829
+    second: signs_one-off_01_70
+  - first:
+      213: -4102818508078574757
+    second: signs_one-off_01_71
+  - first:
+      213: 1690958411206149601
+    second: signs_one-off_01_72
+  - first:
+      213: 7110035279796306477
+    second: signs_one-off_01_73
+  - first:
+      213: -1291983463674912598
+    second: signs_one-off_01_74
+  - first:
+      213: -5472835838822828392
+    second: signs_one-off_01_75
+  - first:
+      213: -6575016663787376127
+    second: signs_one-off_01_76
+  - first:
+      213: 7645263535295454399
+    second: signs_one-off_01_77
+  - first:
+      213: 5413379963750522448
+    second: signs_one-off_01_78
+  - first:
+      213: 7380309075927803726
+    second: signs_one-off_01_79
+  - first:
+      213: -2482964049126884631
+    second: signs_one-off_01_80
+  - first:
+      213: -670698400213312819
+    second: signs_one-off_01_81
+  - first:
+      213: 7645438601937622766
+    second: signs_one-off_01_82
+  - first:
+      213: 4084912184847053954
+    second: signs_one-off_01_83
+  - first:
+      213: -8379464043870421584
+    second: signs_one-off_01_84
+  - first:
+      213: 7847650483060988738
+    second: signs_one-off_01_85
+  - first:
+      213: 2569525434600883811
+    second: signs_one-off_01_86
+  - first:
+      213: -2369764185056475524
+    second: signs_one-off_01_87
+  - first:
+      213: 8468263775893893479
+    second: signs_one-off_01_88
+  - first:
+      213: -443378514241128712
+    second: signs_one-off_01_89
+  - first:
+      213: 1803049503852811710
+    second: signs_one-off_01_90
+  - first:
+      213: -7922265042494826553
+    second: signs_one-off_01_91
+  - first:
+      213: 5295576571395851102
+    second: signs_one-off_01_92
+  - first:
+      213: -3216000579653778289
+    second: signs_one-off_01_93
+  - first:
+      213: -1129767972254980052
+    second: signs_one-off_01_94
+  - first:
+      213: 1197265570869013576
+    second: signs_one-off_01_95
+  - first:
+      213: 851382588408810743
+    second: signs_one-off_01_96
+  - first:
+      213: 8745106141875769230
+    second: signs_one-off_01_97
+  - first:
+      213: 1095211263890371430
+    second: signs_one-off_01_98
+  - first:
+      213: 5770865656867668740
+    second: signs_one-off_01_99
+  - first:
+      213: -4617911047809034726
+    second: signs_one-off_01_100
+  - first:
+      213: -1812631376352725489
+    second: signs_one-off_01_101
+  - first:
+      213: 5283299591510259928
+    second: signs_one-off_01_102
+  - first:
+      213: 3744546069848529019
+    second: signs_one-off_01_103
+  - first:
+      213: 1908638384702749163
+    second: signs_one-off_01_104
+  - first:
+      213: -9200422402237933107
+    second: signs_one-off_01_105
+  - first:
+      213: -7469506542120831929
+    second: signs_one-off_01_106
+  - first:
+      213: -6072914693882165378
+    second: signs_one-off_01_107
+  - first:
+      213: 4760048597070236939
+    second: signs_one-off_01_108
+  - first:
+      213: -5141900303907766376
+    second: signs_one-off_01_109
+  - first:
+      213: 5426472524684973148
+    second: signs_one-off_01_110
+  - first:
+      213: 1873656942885731991
+    second: signs_one-off_01_111
+  - first:
+      213: 8255143409115329939
+    second: signs_one-off_01_112
+  - first:
+      213: 6020991004296716743
+    second: signs_one-off_01_113
+  - first:
+      213: -930573394452497879
+    second: signs_one-off_01_114
+  - first:
+      213: -3646878289809725319
+    second: signs_one-off_01_115
+  - first:
+      213: 1614205941616132459
+    second: signs_one-off_01_116
+  - first:
+      213: -6204813111951765862
+    second: signs_one-off_01_117
+  - first:
+      213: 676022854798698171
+    second: signs_one-off_01_118
+  - first:
+      213: 7477550400471655921
+    second: signs_one-off_01_119
+  - first:
+      213: -6579902424271958007
+    second: signs_one-off_01_120
+  - first:
+      213: -1651027639164115850
+    second: signs_one-off_01_121
+  - first:
+      213: 4850679121091241876
+    second: signs_one-off_01_122
+  - first:
+      213: 3697608461354879513
+    second: signs_one-off_01_123
+  - first:
+      213: -8967813079829674062
+    second: signs_one-off_01_124
+  - first:
+      213: 3631626691661415145
+    second: signs_one-off_01_125
+  - first:
+      213: 3388599695747939607
+    second: signs_one-off_01_126
+  - first:
+      213: 838318422218900143
+    second: signs_one-off_01_127
+  - first:
+      213: 1503016333987102830
+    second: signs_one-off_01_128
+  - first:
+      213: -8897077134056288501
+    second: signs_one-off_01_129
+  - first:
+      213: -2213836589499979234
+    second: signs_one-off_01_130
+  - first:
+      213: -3459292086512149687
+    second: signs_one-off_01_131
+  - first:
+      213: 3578706977029292890
+    second: signs_one-off_01_132
+  - first:
+      213: 1178173470854950676
+    second: signs_one-off_01_133
+  - first:
+      213: -2406504703192691535
+    second: signs_one-off_01_134
+  - first:
+      213: 248786927771136994
+    second: signs_one-off_01_135
+  - first:
+      213: 8674874452664249948
+    second: signs_one-off_01_136
+  - first:
+      213: 5603206892023625563
+    second: signs_one-off_01_137
+  - first:
+      213: 5796147851652715250
+    second: signs_one-off_01_138
+  - first:
+      213: -6095051586498091317
+    second: signs_one-off_01_139
+  - first:
+      213: -7302605219053816171
+    second: signs_one-off_01_140
+  - first:
+      213: -7496620139428188948
+    second: signs_one-off_01_141
+  - first:
+      213: 1878802549931855740
+    second: signs_one-off_01_142
+  - first:
+      213: 6447748279075902425
+    second: signs_one-off_01_143
+  - first:
+      213: -4850802555829085159
+    second: signs_one-off_01_144
+  - first:
+      213: 2241249241119864991
+    second: signs_one-off_01_145
+  - first:
+      213: 5544120738290735877
+    second: signs_one-off_01_146
+  - first:
+      213: 100086037480734240
+    second: signs_one-off_01_147
+  - first:
+      213: -1385868786292941911
+    second: signs_one-off_01_148
+  - first:
+      213: -8824338061388457847
+    second: signs_one-off_01_149
+  - first:
+      213: 752258905324979197
+    second: signs_one-off_01_150
+  - first:
+      213: -7030796986764298669
+    second: signs_one-off_01_151
+  - first:
+      213: 596821189712876944
+    second: signs_one-off_01_152
+  - first:
+      213: -5601996028558250807
+    second: signs_one-off_01_153
+  - first:
+      213: 8300486689254743964
+    second: signs_one-off_01_154
+  - first:
+      213: -1851353999764976837
+    second: signs_one-off_01_155
+  - first:
+      213: -3993406027994763230
+    second: signs_one-off_01_156
+  - first:
+      213: -1462915464180756440
+    second: signs_one-off_01_157
+  - first:
+      213: -2806200607132328912
+    second: signs_one-off_01_158
+  - first:
+      213: 5753003198301529802
+    second: signs_one-off_01_159
+  - first:
+      213: -1782373143000395319
+    second: signs_one-off_01_160
+  - first:
+      213: -4293060420947445145
+    second: signs_one-off_01_161
+  - first:
+      213: 4385303340341016889
+    second: signs_one-off_01_162
+  - first:
+      213: 2875888813874647901
+    second: signs_one-off_01_163
+  - first:
+      213: -6069861985417624354
+    second: signs_one-off_01_164
+  - first:
+      213: -573343546012670564
+    second: signs_one-off_01_165
+  - first:
+      213: 7295197127253602657
+    second: signs_one-off_01_166
+  - first:
+      213: -4780430842343653394
+    second: signs_one-off_01_167
+  - first:
+      213: -6372234640609275567
+    second: signs_one-off_01_168
+  - first:
+      213: -7258646113352030469
+    second: signs_one-off_01_169
+  - first:
+      213: 5459015441910611718
+    second: signs_one-off_01_170
+  - first:
+      213: -8572445851282257621
+    second: signs_one-off_01_171
+  - first:
+      213: 7482968924524793881
+    second: signs_one-off_01_172
+  - first:
+      213: -3164917586007052391
+    second: signs_one-off_01_173
+  - first:
+      213: 8422232278586847903
+    second: signs_one-off_01_174
+  - first:
+      213: 5655407468904585006
+    second: signs_one-off_01_175
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: signs_one-off_01_0
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 3873
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f59efc3cea7007f0800000000000000
+      internalID: -648383191287163399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_1
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 3874
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6890bb96160f0c8a0800000000000000
+      internalID: -6286760778632853114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_2
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 3874
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96437b36025794760800000000000000
+      internalID: 7442608641178809449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_3
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 3893
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bf0818801c594010800000000000000
+      internalID: 1173570403979235249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_4
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 3932
+        width: 64
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b854d6f605412360800000000000000
+      internalID: 7143066380199549110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_5
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 3929
+        width: 58
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6055f286aa1d24d0800000000000000
+      internalID: -3157838461252841362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_6
+      rect:
+        serializedVersion: 2
+        x: 101
+        y: 3873
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad640aec0ddd5e8d0800000000000000
+      internalID: -2817602102960830758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_7
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 3675
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61bd2aa2b6cb230d0800000000000000
+      internalID: -3444483596522169578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_8
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 3697
+        width: 10
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 383774da7f3d018d0800000000000000
+      internalID: -2877567101172223101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_9
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 3666
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eae9f3910e7b3dcb0800000000000000
+      internalID: -4840323001368994130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_10
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 3665
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88adc9f420646bb70800000000000000
+      internalID: 8914389488166034056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_11
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 3679
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e19f087aaf923ae0800000000000000
+      internalID: -1571017765491338779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_12
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 3666
+        width: 26
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ed8e2d73172fc0f0800000000000000
+      internalID: -1094613219769676313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_13
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 3683
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8cc2ed5757dc16d0800000000000000
+      internalID: -3018300880007803763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_14
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 3701
+        width: 8
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1d5619c6499c6d0800000000000000
+      internalID: -2969679285257383447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_15
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 3667
+        width: 27
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ae68da5c36cf400800000000000000
+      internalID: 359271770953804289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_16
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 3684
+        width: 39
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a3a5bbedc4a7fe0800000000000000
+      internalID: -1190554631976371708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_17
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 3667
+        width: 11
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6db5de8eb20dd10800000000000000
+      internalID: 2148265301670352557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_18
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 3673
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9355baac7b81e70800000000000000
+      internalID: 9086214329305741740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_19
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 3692
+        width: 22
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee2d6a09d7ad9870800000000000000
+      internalID: 8691287406519594728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_20
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 3666
+        width: 13
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68b1e0d3a05c86940800000000000000
+      internalID: 5289694410111327110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_21
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 3682
+        width: 43
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c86d52f131b480c00800000000000000
+      internalID: 867025473767855756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_22
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 3666
+        width: 24
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f205e83aa2977edf0800000000000000
+      internalID: -151018838454022097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_23
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 3679
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946436c62f2fba7c0800000000000000
+      internalID: -4058883516129917367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_24
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 3415
+        width: 38
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89935a3e0b0c7b950800000000000000
+      internalID: 6464847656079669656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_25
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 3407
+        width: 15
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bba7d2b32600b75b0800000000000000
+      internalID: -5369697708809553221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_26
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 3407
+        width: 66
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b557fcaffdbe28bd0800000000000000
+      internalID: -2629279885212813989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_27
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 3438
+        width: 14
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380ec56c41e56e620800000000000000
+      internalID: 2803031261405044867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_28
+      rect:
+        serializedVersion: 2
+        x: 323
+        y: 3424
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d4684383d0737a0800000000000000
+      internalID: -6397630210605953684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_29
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 3408
+        width: 7
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a909c904f07a8f0800000000000000
+      internalID: -529437661013698001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_30
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 3430
+        width: 21
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b71f95a1e7933c0800000000000000
+      internalID: -4379330510997849296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_31
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 3418
+        width: 35
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b6532e8890a4f180800000000000000
+      internalID: -9082457971419294027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_32
+      rect:
+        serializedVersion: 2
+        x: 494
+        y: 3407
+        width: 13
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64e7d2061d2d2ca90800000000000000
+      internalID: -7295036649683190202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_33
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 3429
+        width: 24
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba70ea9c351342470800000000000000
+      internalID: 8368868243496896427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_34
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 3413
+        width: 33
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e7d3239bbbd7870800000000000000
+      internalID: 8682302060726418956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_35
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 3407
+        width: 9
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 343705f3790dc29e0800000000000000
+      internalID: -1644710415876197565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_36
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 3437
+        width: 6
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b68748b4101c3c80800000000000000
+      internalID: -8341774728619915594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_37
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 3421
+        width: 31
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de69d78055caa8d00800000000000000
+      internalID: 975781750493779693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_38
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 3408
+        width: 27
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc42fac33b19a8940800000000000000
+      internalID: 5299208110558094543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_39
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 3436
+        width: 8
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9459ca463ea08a0800000000000000
+      internalID: -6338003504038852164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_40
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 3406
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6141606de2a2e04f0800000000000000
+      internalID: -860704098133601258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_41
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 3435
+        width: 19
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15237e8173c7bf010800000000000000
+      internalID: 1223708299844072017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_42
+      rect:
+        serializedVersion: 2
+        x: 972
+        y: 3424
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a1157c9bb397dd20800000000000000
+      internalID: 3303271285692633508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_43
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 3099
+        width: 40
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 286a7fbcde1493a70800000000000000
+      internalID: 8807143035884775042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_44
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 3095
+        width: 78
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc9c3914a7187400800000000000000
+      internalID: 322033366922468601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_45
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 3087
+        width: 74
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0d0e4207f8e4e00800000000000000
+      internalID: 1030919076532244712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_46
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 3103
+        width: 56
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e164cb0eac452960800000000000000
+      internalID: 7576546258526167528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_47
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 3086
+        width: 68
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 531bf4ea67ba34730800000000000000
+      internalID: 3982215021744599349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_48
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 3135
+        width: 64
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1eae6f02618d5c0800000000000000
+      internalID: -4190575122430893654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_49
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 3097
+        width: 64
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a3a57cb270389c0800000000000000
+      internalID: -3926286565527373203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_50
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2843
+        width: 78
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e583d52f4e902e1c0800000000000000
+      internalID: -4476004200729462690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_51
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 2919
+        width: 67
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 456d7dec9cc5f5ff0800000000000000
+      internalID: -45215449421982124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_52
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 2919
+        width: 79
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130f8abd7ed8af230800000000000000
+      internalID: 3673404473036304433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_53
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 2926
+        width: 64
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0504091c5b1533500800000000000000
+      internalID: 374733035080269904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_54
+      rect:
+        serializedVersion: 2
+        x: 558
+        y: 2845
+        width: 45
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f51efcd2f725900800000000000000
+      internalID: 671739129169534868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_55
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 2855
+        width: 53
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55416422093460b70800000000000000
+      internalID: 8864847202854769749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_56
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 2850
+        width: 76
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51e4f1d4f996f840800000000000000
+      internalID: 5257558891775189338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_57
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 2837
+        width: 73
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11d331c758d15440800000000000000
+      internalID: 4922953739107815711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_58
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 2594
+        width: 50
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bf66d14d8ffed590800000000000000
+      internalID: -7647394135068479562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_59
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 2594
+        width: 66
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91c387eb5693ad90800000000000000
+      internalID: -7087656067080666722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_60
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 2595
+        width: 66
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a252fcf62196f8880800000000000000
+      internalID: -8606544834975554262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_61
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 2610
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa1e060027c4f4420800000000000000
+      internalID: 2616393961041879471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_62
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 2618
+        width: 73
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b4a1d708806639e0800000000000000
+      internalID: -1642018876766968647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_63
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 2616
+        width: 66
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2d6f71bd7ab03ad0800000000000000
+      internalID: -2724472725547553494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_64
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 2615
+        width: 71
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274b715972fa41e80800000000000000
+      internalID: -8208743636249627534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_65
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 2367
+        width: 60
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 321291fb5f08bdba0800000000000000
+      internalID: -6063110680362802909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_66
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2340
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33abf2c63f68b2650800000000000000
+      internalID: 6209204891310602803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_67
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 2394
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a6d49cdbeb9da90800000000000000
+      internalID: -7288584799587046790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_68
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 2340
+        width: 66
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c10c7875f1573880800000000000000
+      internalID: -8631340046102036029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_69
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 2340
+        width: 68
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880de6205c5d66220800000000000000
+      internalID: 2478903687040127112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_70
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 2331
+        width: 58
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554b195d4b8d33540800000000000000
+      internalID: 4986567483618079829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_71
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 2369
+        width: 51
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b531418fd4cdf07c0800000000000000
+      internalID: -4102818508078574757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_72
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 2347
+        width: 82
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5c6e547bd777710800000000000000
+      internalID: 1690958411206149601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_73
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 2325
+        width: 60
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2201c89a6beba260800000000000000
+      internalID: 7110035279796306477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_74
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 2101
+        width: 72
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa06aff82e3f11ee0800000000000000
+      internalID: -1291983463674912598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_75
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 2085
+        width: 66
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89630f80dc49c04b0800000000000000
+      internalID: -5472835838822828392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_76
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 2089
+        width: 66
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 102fda22e29d0c4a0800000000000000
+      internalID: -6575016663787376127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_77
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 2107
+        width: 50
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc5883ddae691a60800000000000000
+      internalID: 7645263535295454399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_78
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 2123
+        width: 84
+        height: 140
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05e119d4560302b40800000000000000
+      internalID: 5413379963750522448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_79
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 2132
+        width: 27
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e47a44380002c6660800000000000000
+      internalID: 7380309075927803726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_80
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 2147
+        width: 27
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eaf9b54a5dba8dd0800000000000000
+      internalID: -2482964049126884631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_81
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 2130
+        width: 20
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcadcd7cb5331b6f0800000000000000
+      internalID: -670698400213312819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_82
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 2145
+        width: 25
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee61d84b6ed0a1a60800000000000000
+      internalID: 7645438601937622766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_83
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 2128
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28439744df580b830800000000000000
+      internalID: 4084912184847053954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_84
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 2142
+        width: 24
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bdf1f039d926bb80800000000000000
+      internalID: -8379464043870421584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_85
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 1894
+        width: 81
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24bd544298478ec60800000000000000
+      internalID: 7847650483060988738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_86
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1789
+        width: 84
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36687b2d4c9c8a320800000000000000
+      internalID: 2569525434600883811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_87
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1907
+        width: 68
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76044c7708ec1fd0800000000000000
+      internalID: -2369764185056475524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_88
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 1828
+        width: 56
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761b6729901558570800000000000000
+      internalID: 8468263775893893479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_89
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1842
+        width: 66
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f6fd95279dc8d9f0800000000000000
+      internalID: -443378514241128712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_90
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1837
+        width: 66
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb5579588f7b50910800000000000000
+      internalID: 1803049503852811710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_91
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1897
+        width: 56
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7d995fae57e0290800000000000000
+      internalID: -7922265042494826553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_92
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1638
+        width: 71
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e534ee2a5daad7940800000000000000
+      internalID: 5295576571395851102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_93
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1640
+        width: 66
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f84494c03887e53d0800000000000000
+      internalID: -3216000579653778289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_94
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1638
+        width: 66
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28e027d3024250f0800000000000000
+      internalID: -1129767972254980052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_95
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1638
+        width: 66
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84ce37d71ba8d9010800000000000000
+      internalID: 1197265570869013576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_96
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1650
+        width: 66
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc4f0e04f7b0db00800000000000000
+      internalID: 851382588408810743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_97
+      rect:
+        serializedVersion: 2
+        x: 623
+        y: 1638
+        width: 14
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f8795d3bbdc5970800000000000000
+      internalID: 8745106141875769230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_98
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1636
+        width: 66
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663313287d8f23f00800000000000000
+      internalID: 1095211263890371430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_99
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1637
+        width: 66
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40349145dbb361050800000000000000
+      internalID: 5770865656867668740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_100
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1640
+        width: 66
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a169df66e52e9efb0800000000000000
+      internalID: -4617911047809034726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_101
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1448
+        width: 55
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06b4cfed5d38d6e0800000000000000
+      internalID: -1812631376352725489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_102
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1441
+        width: 66
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d87fe18cfc025940800000000000000
+      internalID: 5283299591510259928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_103
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1441
+        width: 66
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b781862afcc47f330800000000000000
+      internalID: 3744546069848529019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_104
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1377
+        width: 66
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9f1ec9f78dc7a10800000000000000
+      internalID: 1908638384702749163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_105
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1441
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9df033298815080800000000000000
+      internalID: -9200422402237933107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_106
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1399
+        width: 51
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7447e65006bf65890800000000000000
+      internalID: -7469506542120831929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_107
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1384
+        width: 69
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7747e7f24ca8bba0800000000000000
+      internalID: -6072914693882165378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_108
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 1387
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0dc7fdaaf61f0240800000000000000
+      internalID: 4760048597070236939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_109
+      rect:
+        serializedVersion: 2
+        x: 886
+        y: 1381
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89fba13aaec44a8b0800000000000000
+      internalID: -5141900303907766376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_110
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 1067
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c54d341b204be4b40800000000000000
+      internalID: 5426472524684973148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_111
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1096
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79ef5afff01900a10800000000000000
+      internalID: 1873656942885731991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_112
+      rect:
+        serializedVersion: 2
+        x: 162
+        y: 1072
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 395f9366139209270800000000000000
+      internalID: 8255143409115329939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_113
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1091
+        width: 42
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c1ade6fa6bde8350800000000000000
+      internalID: 6020991004296716743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_114
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 1113
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92aba3a9d60f513f0800000000000000
+      internalID: -930573394452497879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_115
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 1079
+        width: 19
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978aec4748fa36dc0800000000000000
+      internalID: -3646878289809725319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_116
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1097
+        width: 35
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b61ca5060cfc66610800000000000000
+      internalID: 1614205941616132459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_117
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 1114
+        width: 23
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9ecd64695314e9a0800000000000000
+      internalID: -6204813111951765862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_118
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1085
+        width: 6
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb662586437b16900800000000000000
+      internalID: 676022854798698171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_119
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1096
+        width: 26
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f56132b87895c760800000000000000
+      internalID: 7477550400471655921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_120
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1054
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 900d9806b9d7fa4a0800000000000000
+      internalID: -6579902424271958007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_121
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1106
+        width: 23
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67465451c1f5619e0800000000000000
+      internalID: -1651027639164115850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_122
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1056
+        width: 31
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4972c0ce5f2115340800000000000000
+      internalID: 4850679121091241876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_123
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1057
+        width: 24
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91a49890e4b805330800000000000000
+      internalID: 3697608461354879513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_124
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1067
+        width: 23
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b786a4748deb8380800000000000000
+      internalID: -8967813079829674062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_125
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1054
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e24e412c31266230800000000000000
+      internalID: 3631626691661415145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_126
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 1076
+        width: 25
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d7d0f3879b60f20800000000000000
+      internalID: 3388599695747939607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_127
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1054
+        width: 37
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa20605d92e42ab00800000000000000
+      internalID: 838318422218900143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_128
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 833
+        width: 28
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6049e67469cbd410800000000000000
+      internalID: 1503016333987102830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_129
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 845
+        width: 33
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0f035d3c7b378480800000000000000
+      internalID: -8897077134056288501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_130
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 829
+        width: 66
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a671ce95fd641e0800000000000000
+      internalID: -2213836589499979234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_131
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 829
+        width: 58
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b9f19ec202effc0800000000000000
+      internalID: -3459292086512149687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_132
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 862
+        width: 10
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a530b09e80f1aa130800000000000000
+      internalID: 3578706977029292890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_133
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 852
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f291e8786b95010800000000000000
+      internalID: 1178173470854950676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_134
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 830
+        width: 27
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bc84eff8b06a9ed0800000000000000
+      internalID: -2406504703192691535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_135
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 845
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e33f86846ed37300800000000000000
+      internalID: 248786927771136994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_136
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 829
+        width: 35
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ee92e6a58536870800000000000000
+      internalID: 8674874452664249948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_137
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 850
+        width: 37
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b57b6123bf692cd40800000000000000
+      internalID: 5603206892023625563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_138
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 829
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2576303cd007050800000000000000
+      internalID: 5796147851652715250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_139
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 829
+        width: 26
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6a91300e60a6ba0800000000000000
+      internalID: -6095051586498091317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_140
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 845
+        width: 36
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596326f7e3fe7aa90800000000000000
+      internalID: -7302605219053816171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_141
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 829
+        width: 66
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cece755b3b7a6f790800000000000000
+      internalID: -7496620139428188948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_142
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 526
+        width: 75
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f49cff6f8d21a10800000000000000
+      internalID: 1878802549931855740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_143
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 538
+        width: 85
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d3947fe5e00b7950800000000000000
+      internalID: 6447748279075902425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_144
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 607
+        width: 65
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c1040b6cc7eacb0800000000000000
+      internalID: -4850802555829085159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_145
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 548
+        width: 81
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9830166f448a1f10800000000000000
+      internalID: 2241249241119864991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_146
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 604
+        width: 84
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b12bdff6ca0fc40800000000000000
+      internalID: 5544120738290735877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_147
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 589
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02ef30788b3936100800000000000000
+      internalID: 100086037480734240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_148
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 574
+        width: 33
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ab15b77ea764cce0800000000000000
+      internalID: -1385868786292941911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_149
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 591
+        width: 32
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9885bf85947a98580800000000000000
+      internalID: -8824338061388457847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_150
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 277
+        width: 81
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df3050f1d7f807a00800000000000000
+      internalID: 752258905324979197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_151
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 276
+        width: 78
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356f60c24679d6e90800000000000000
+      internalID: -7030796986764298669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_152
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 282
+        width: 88
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 095134fb5b5584800800000000000000
+      internalID: 596821189712876944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_153
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 291
+        width: 56
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cce2acea46b142b0800000000000000
+      internalID: -5601996028558250807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_154
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 274
+        width: 68
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f13ef7aa0413370800000000000000
+      internalID: 8300486689254743964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_155
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 333
+        width: 64
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3b828a985bae46e0800000000000000
+      internalID: -1851353999764976837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_156
+      rect:
+        serializedVersion: 2
+        x: 931
+        y: 285
+        width: 62
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 220f77120629498c0800000000000000
+      internalID: -3993406027994763230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_157
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 90
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 820941dd22ea2bbe0800000000000000
+      internalID: -1462915464180756440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_158
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 107
+        width: 12
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03c546b6a6f5e09d0800000000000000
+      internalID: -2806200607132328912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_159
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 84
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac6e27a9de5c6df40800000000000000
+      internalID: 5753003198301529802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_160
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 93
+        width: 29
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1d342e11db347e0800000000000000
+      internalID: -1782373143000395319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_161
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 82
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a7322fa4cfb64c0800000000000000
+      internalID: -4293060420947445145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_162
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 94
+        width: 38
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9393c59572abbdc30800000000000000
+      internalID: 4385303340341016889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_163
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 80
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d53948c93a539e720800000000000000
+      internalID: 2875888813874647901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_164
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 95
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed4098b0fa483cba0800000000000000
+      internalID: -6069861985417624354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_165
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 109
+        width: 7
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95e6a525131b08f0800000000000000
+      internalID: -573343546012670564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_166
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 78
+        width: 19
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161b668b22fbd3560800000000000000
+      internalID: 7295197127253602657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_167
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 92
+        width: 28
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eeff8c80a7f78adb0800000000000000
+      internalID: -4780430842343653394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_168
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 110
+        width: 15
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1519b0d1b564197a0800000000000000
+      internalID: -6372234640609275567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_169
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 78
+        width: 15
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6e16f51db144b90800000000000000
+      internalID: -7258646113352030469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_170
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 104
+        width: 20
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f347e0f9152cb40800000000000000
+      internalID: 5459015441910611718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_171
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 112
+        width: 17
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b29cc02caed880980800000000000000
+      internalID: -8572445851282257621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_172
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 88
+        width: 25
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91056932798d8d760800000000000000
+      internalID: 7482968924524793881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_173
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 103
+        width: 24
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99fa9a65934f314d0800000000000000
+      internalID: -3164917586007052391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_174
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 82
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f927ffc62a7c1e470800000000000000
+      internalID: 8422232278586847903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: signs_one-off_01_175
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 100
+        width: 20
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e27162c112b0c7e40800000000000000
+      internalID: 5655407468904585006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      signs_one-off_01_0: -648383191287163399
+      signs_one-off_01_1: -6286760778632853114
+      signs_one-off_01_10: 8914389488166034056
+      signs_one-off_01_100: -4617911047809034726
+      signs_one-off_01_101: -1812631376352725489
+      signs_one-off_01_102: 5283299591510259928
+      signs_one-off_01_103: 3744546069848529019
+      signs_one-off_01_104: 1908638384702749163
+      signs_one-off_01_105: -9200422402237933107
+      signs_one-off_01_106: -7469506542120831929
+      signs_one-off_01_107: -6072914693882165378
+      signs_one-off_01_108: 4760048597070236939
+      signs_one-off_01_109: -5141900303907766376
+      signs_one-off_01_11: -1571017765491338779
+      signs_one-off_01_110: 5426472524684973148
+      signs_one-off_01_111: 1873656942885731991
+      signs_one-off_01_112: 8255143409115329939
+      signs_one-off_01_113: 6020991004296716743
+      signs_one-off_01_114: -930573394452497879
+      signs_one-off_01_115: -3646878289809725319
+      signs_one-off_01_116: 1614205941616132459
+      signs_one-off_01_117: -6204813111951765862
+      signs_one-off_01_118: 676022854798698171
+      signs_one-off_01_119: 7477550400471655921
+      signs_one-off_01_12: -1094613219769676313
+      signs_one-off_01_120: -6579902424271958007
+      signs_one-off_01_121: -1651027639164115850
+      signs_one-off_01_122: 4850679121091241876
+      signs_one-off_01_123: 3697608461354879513
+      signs_one-off_01_124: -8967813079829674062
+      signs_one-off_01_125: 3631626691661415145
+      signs_one-off_01_126: 3388599695747939607
+      signs_one-off_01_127: 838318422218900143
+      signs_one-off_01_128: 1503016333987102830
+      signs_one-off_01_129: -8897077134056288501
+      signs_one-off_01_13: -3018300880007803763
+      signs_one-off_01_130: -2213836589499979234
+      signs_one-off_01_131: -3459292086512149687
+      signs_one-off_01_132: 3578706977029292890
+      signs_one-off_01_133: 1178173470854950676
+      signs_one-off_01_134: -2406504703192691535
+      signs_one-off_01_135: 248786927771136994
+      signs_one-off_01_136: 8674874452664249948
+      signs_one-off_01_137: 5603206892023625563
+      signs_one-off_01_138: 5796147851652715250
+      signs_one-off_01_139: -6095051586498091317
+      signs_one-off_01_14: -2969679285257383447
+      signs_one-off_01_140: -7302605219053816171
+      signs_one-off_01_141: -7496620139428188948
+      signs_one-off_01_142: 1878802549931855740
+      signs_one-off_01_143: 6447748279075902425
+      signs_one-off_01_144: -4850802555829085159
+      signs_one-off_01_145: 2241249241119864991
+      signs_one-off_01_146: 5544120738290735877
+      signs_one-off_01_147: 100086037480734240
+      signs_one-off_01_148: -1385868786292941911
+      signs_one-off_01_149: -8824338061388457847
+      signs_one-off_01_15: 359271770953804289
+      signs_one-off_01_150: 752258905324979197
+      signs_one-off_01_151: -7030796986764298669
+      signs_one-off_01_152: 596821189712876944
+      signs_one-off_01_153: -5601996028558250807
+      signs_one-off_01_154: 8300486689254743964
+      signs_one-off_01_155: -1851353999764976837
+      signs_one-off_01_156: -3993406027994763230
+      signs_one-off_01_157: -1462915464180756440
+      signs_one-off_01_158: -2806200607132328912
+      signs_one-off_01_159: 5753003198301529802
+      signs_one-off_01_16: -1190554631976371708
+      signs_one-off_01_160: -1782373143000395319
+      signs_one-off_01_161: -4293060420947445145
+      signs_one-off_01_162: 4385303340341016889
+      signs_one-off_01_163: 2875888813874647901
+      signs_one-off_01_164: -6069861985417624354
+      signs_one-off_01_165: -573343546012670564
+      signs_one-off_01_166: 7295197127253602657
+      signs_one-off_01_167: -4780430842343653394
+      signs_one-off_01_168: -6372234640609275567
+      signs_one-off_01_169: -7258646113352030469
+      signs_one-off_01_17: 2148265301670352557
+      signs_one-off_01_170: 5459015441910611718
+      signs_one-off_01_171: -8572445851282257621
+      signs_one-off_01_172: 7482968924524793881
+      signs_one-off_01_173: -3164917586007052391
+      signs_one-off_01_174: 8422232278586847903
+      signs_one-off_01_175: 5655407468904585006
+      signs_one-off_01_18: 9086214329305741740
+      signs_one-off_01_19: 8691287406519594728
+      signs_one-off_01_2: 7442608641178809449
+      signs_one-off_01_20: 5289694410111327110
+      signs_one-off_01_21: 867025473767855756
+      signs_one-off_01_22: -151018838454022097
+      signs_one-off_01_23: -4058883516129917367
+      signs_one-off_01_24: 6464847656079669656
+      signs_one-off_01_25: -5369697708809553221
+      signs_one-off_01_26: -2629279885212813989
+      signs_one-off_01_27: 2803031261405044867
+      signs_one-off_01_28: -6397630210605953684
+      signs_one-off_01_29: -529437661013698001
+      signs_one-off_01_3: 1173570403979235249
+      signs_one-off_01_30: -4379330510997849296
+      signs_one-off_01_31: -9082457971419294027
+      signs_one-off_01_32: -7295036649683190202
+      signs_one-off_01_33: 8368868243496896427
+      signs_one-off_01_34: 8682302060726418956
+      signs_one-off_01_35: -1644710415876197565
+      signs_one-off_01_36: -8341774728619915594
+      signs_one-off_01_37: 975781750493779693
+      signs_one-off_01_38: 5299208110558094543
+      signs_one-off_01_39: -6338003504038852164
+      signs_one-off_01_4: 7143066380199549110
+      signs_one-off_01_40: -860704098133601258
+      signs_one-off_01_41: 1223708299844072017
+      signs_one-off_01_42: 3303271285692633508
+      signs_one-off_01_43: 8807143035884775042
+      signs_one-off_01_44: 322033366922468601
+      signs_one-off_01_45: 1030919076532244712
+      signs_one-off_01_46: 7576546258526167528
+      signs_one-off_01_47: 3982215021744599349
+      signs_one-off_01_48: -4190575122430893654
+      signs_one-off_01_49: -3926286565527373203
+      signs_one-off_01_5: -3157838461252841362
+      signs_one-off_01_50: -4476004200729462690
+      signs_one-off_01_51: -45215449421982124
+      signs_one-off_01_52: 3673404473036304433
+      signs_one-off_01_53: 374733035080269904
+      signs_one-off_01_54: 671739129169534868
+      signs_one-off_01_55: 8864847202854769749
+      signs_one-off_01_56: 5257558891775189338
+      signs_one-off_01_57: 4922953739107815711
+      signs_one-off_01_58: -7647394135068479562
+      signs_one-off_01_59: -7087656067080666722
+      signs_one-off_01_6: -2817602102960830758
+      signs_one-off_01_60: -8606544834975554262
+      signs_one-off_01_61: 2616393961041879471
+      signs_one-off_01_62: -1642018876766968647
+      signs_one-off_01_63: -2724472725547553494
+      signs_one-off_01_64: -8208743636249627534
+      signs_one-off_01_65: -6063110680362802909
+      signs_one-off_01_66: 6209204891310602803
+      signs_one-off_01_67: -7288584799587046790
+      signs_one-off_01_68: -8631340046102036029
+      signs_one-off_01_69: 2478903687040127112
+      signs_one-off_01_7: -3444483596522169578
+      signs_one-off_01_70: 4986567483618079829
+      signs_one-off_01_71: -4102818508078574757
+      signs_one-off_01_72: 1690958411206149601
+      signs_one-off_01_73: 7110035279796306477
+      signs_one-off_01_74: -1291983463674912598
+      signs_one-off_01_75: -5472835838822828392
+      signs_one-off_01_76: -6575016663787376127
+      signs_one-off_01_77: 7645263535295454399
+      signs_one-off_01_78: 5413379963750522448
+      signs_one-off_01_79: 7380309075927803726
+      signs_one-off_01_8: -2877567101172223101
+      signs_one-off_01_80: -2482964049126884631
+      signs_one-off_01_81: -670698400213312819
+      signs_one-off_01_82: 7645438601937622766
+      signs_one-off_01_83: 4084912184847053954
+      signs_one-off_01_84: -8379464043870421584
+      signs_one-off_01_85: 7847650483060988738
+      signs_one-off_01_86: 2569525434600883811
+      signs_one-off_01_87: -2369764185056475524
+      signs_one-off_01_88: 8468263775893893479
+      signs_one-off_01_89: -443378514241128712
+      signs_one-off_01_9: -4840323001368994130
+      signs_one-off_01_90: 1803049503852811710
+      signs_one-off_01_91: -7922265042494826553
+      signs_one-off_01_92: 5295576571395851102
+      signs_one-off_01_93: -3216000579653778289
+      signs_one-off_01_94: -1129767972254980052
+      signs_one-off_01_95: 1197265570869013576
+      signs_one-off_01_96: 851382588408810743
+      signs_one-off_01_97: 8745106141875769230
+      signs_one-off_01_98: 1095211263890371430
+      signs_one-off_01_99: 5770865656867668740
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

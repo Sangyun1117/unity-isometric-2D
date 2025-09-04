@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 906408605971e534989461e313786fde
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2746425943695374322
+    second: papernotices_01_0
+  - first:
+      213: -1643273993576315437
+    second: papernotices_01_1
+  - first:
+      213: 6233625677700117040
+    second: papernotices_01_2
+  - first:
+      213: 8929466865321813956
+    second: papernotices_01_3
+  - first:
+      213: -5420867873446937949
+    second: papernotices_01_4
+  - first:
+      213: -1753515064228149465
+    second: papernotices_01_5
+  - first:
+      213: 2860804372236818700
+    second: papernotices_01_6
+  - first:
+      213: 1312462921732148449
+    second: papernotices_01_7
+  - first:
+      213: 7126097489215039105
+    second: papernotices_01_8
+  - first:
+      213: -8292789308007523096
+    second: papernotices_01_9
+  - first:
+      213: 8580292603058301413
+    second: papernotices_01_10
+  - first:
+      213: 6955383478233764657
+    second: papernotices_01_11
+  - first:
+      213: -8756429101703064145
+    second: papernotices_01_12
+  - first:
+      213: -3556202426839784771
+    second: papernotices_01_13
+  - first:
+      213: 3943842631746998697
+    second: papernotices_01_14
+  - first:
+      213: -6143623292664923468
+    second: papernotices_01_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: papernotices_01_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1910
+        width: 22
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f731e738d34d1620800000000000000
+      internalID: 2746425943695374322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papernotices_01_1
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1921
+        width: 26
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d50f30620be139e0800000000000000
+      internalID: -1643273993576315437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papernotices_01_2
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1900
+        width: 32
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 032b116d689428650800000000000000
+      internalID: 6233625677700117040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papernotices_01_3
+      rect:
+        serializedVersion: 2
+        x: 341
+        y: 1901
+        width: 32
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c7a02dbdc6dbeb70800000000000000
+      internalID: 8929466865321813956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papernotices_01_4
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1922
+        width: 26
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aa3edcd36535c4b0800000000000000
+      internalID: -5420867873446937949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papernotices_01_5
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 1911
+        width: 22
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7278260f6534aa7e0800000000000000
+      internalID: -1753515064228149465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papernotices_01_6
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1916
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c095f0b5b6e93b720800000000000000
+      internalID: 2860804372236818700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papernotices_01_7
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1898
+        width: 39
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec47b6d21ec63210800000000000000
+      internalID: 1312462921732148449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papernotices_01_8
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1901
+        width: 39
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 186277729ebf4e260800000000000000
+      internalID: 7126097489215039105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papernotices_01_9
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 1919
+        width: 50
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ecdd0bbf081aec80800000000000000
+      internalID: -8292789308007523096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papernotices_01_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1646
+        width: 27
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9a33289a2531770800000000000000
+      internalID: 8580292603058301413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papernotices_01_11
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1690
+        width: 28
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1339eb81c6c768060800000000000000
+      internalID: 6955383478233764657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papernotices_01_12
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1660
+        width: 29
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa59814202aea7680800000000000000
+      internalID: -8756429101703064145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papernotices_01_13
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1661
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db225defbb4d5aec0800000000000000
+      internalID: -3556202426839784771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papernotices_01_14
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1654
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a1525b6af75bb630800000000000000
+      internalID: 3943842631746998697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: papernotices_01_15
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1646
+        width: 19
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ba34e66a277dbaa0800000000000000
+      internalID: -6143623292664923468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      papernotices_01_0: 2746425943695374322
+      papernotices_01_1: -1643273993576315437
+      papernotices_01_10: 8580292603058301413
+      papernotices_01_11: 6955383478233764657
+      papernotices_01_12: -8756429101703064145
+      papernotices_01_13: -3556202426839784771
+      papernotices_01_14: 3943842631746998697
+      papernotices_01_15: -6143623292664923468
+      papernotices_01_2: 6233625677700117040
+      papernotices_01_3: 8929466865321813956
+      papernotices_01_4: -5420867873446937949
+      papernotices_01_5: -1753515064228149465
+      papernotices_01_6: 2860804372236818700
+      papernotices_01_7: 1312462921732148449
+      papernotices_01_8: 7126097489215039105
+      papernotices_01_9: -8292789308007523096
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4329 @@
+fileFormatVersion: 2
+guid: 9f39e22dc9816fe4985e96b0556fe9af
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2264186219209994333
+    second: overlay_grime_floor_01_0
+  - first:
+      213: -693982303059349067
+    second: overlay_grime_floor_01_1
+  - first:
+      213: -1661048888584070781
+    second: overlay_grime_floor_01_2
+  - first:
+      213: -3181521962397846458
+    second: overlay_grime_floor_01_3
+  - first:
+      213: -576604622704510148
+    second: overlay_grime_floor_01_4
+  - first:
+      213: -6796196090181035868
+    second: overlay_grime_floor_01_5
+  - first:
+      213: -819316998615171887
+    second: overlay_grime_floor_01_6
+  - first:
+      213: 5342464789661506997
+    second: overlay_grime_floor_01_7
+  - first:
+      213: 5116211301625218736
+    second: overlay_grime_floor_01_8
+  - first:
+      213: -870241510577840942
+    second: overlay_grime_floor_01_9
+  - first:
+      213: 6619454083195754304
+    second: overlay_grime_floor_01_10
+  - first:
+      213: -6028611779154165457
+    second: overlay_grime_floor_01_11
+  - first:
+      213: -6150320405579531586
+    second: overlay_grime_floor_01_12
+  - first:
+      213: 2918699013609727571
+    second: overlay_grime_floor_01_13
+  - first:
+      213: -1787755861185515396
+    second: overlay_grime_floor_01_14
+  - first:
+      213: -8498158522470199144
+    second: overlay_grime_floor_01_15
+  - first:
+      213: 2687046886086470962
+    second: overlay_grime_floor_01_16
+  - first:
+      213: 3412625123436560964
+    second: overlay_grime_floor_01_17
+  - first:
+      213: 1340463891757695625
+    second: overlay_grime_floor_01_18
+  - first:
+      213: 6593412786576707298
+    second: overlay_grime_floor_01_19
+  - first:
+      213: -1083697733314880662
+    second: overlay_grime_floor_01_20
+  - first:
+      213: 5457356330519534886
+    second: overlay_grime_floor_01_21
+  - first:
+      213: -2864193406095132620
+    second: overlay_grime_floor_01_22
+  - first:
+      213: -1591972412049382016
+    second: overlay_grime_floor_01_23
+  - first:
+      213: -4301889884802670529
+    second: overlay_grime_floor_01_24
+  - first:
+      213: -6916275685246212142
+    second: overlay_grime_floor_01_25
+  - first:
+      213: 3523960284755343447
+    second: overlay_grime_floor_01_26
+  - first:
+      213: -6864523289941276736
+    second: overlay_grime_floor_01_27
+  - first:
+      213: 3815574326195520288
+    second: overlay_grime_floor_01_28
+  - first:
+      213: -5501187794412487782
+    second: overlay_grime_floor_01_29
+  - first:
+      213: -8772161571326708431
+    second: overlay_grime_floor_01_30
+  - first:
+      213: 7054027597072595590
+    second: overlay_grime_floor_01_31
+  - first:
+      213: 3821167784628781282
+    second: overlay_grime_floor_01_32
+  - first:
+      213: -6996323313663650961
+    second: overlay_grime_floor_01_33
+  - first:
+      213: 8540157718866015109
+    second: overlay_grime_floor_01_34
+  - first:
+      213: -8869607630393731000
+    second: overlay_grime_floor_01_35
+  - first:
+      213: -1097712355161579293
+    second: overlay_grime_floor_01_36
+  - first:
+      213: -3183002295906863804
+    second: overlay_grime_floor_01_37
+  - first:
+      213: -820625122464187741
+    second: overlay_grime_floor_01_38
+  - first:
+      213: 8003989397980017436
+    second: overlay_grime_floor_01_39
+  - first:
+      213: -3253781111313975181
+    second: overlay_grime_floor_01_40
+  - first:
+      213: 2430318297250079427
+    second: overlay_grime_floor_01_41
+  - first:
+      213: 4528227535375702199
+    second: overlay_grime_floor_01_42
+  - first:
+      213: 5542107139012939825
+    second: overlay_grime_floor_01_43
+  - first:
+      213: -3091280497463897463
+    second: overlay_grime_floor_01_44
+  - first:
+      213: -9132232303903923369
+    second: overlay_grime_floor_01_45
+  - first:
+      213: -7884925722091631184
+    second: overlay_grime_floor_01_46
+  - first:
+      213: 4103497558514287594
+    second: overlay_grime_floor_01_47
+  - first:
+      213: -638034884491544274
+    second: overlay_grime_floor_01_48
+  - first:
+      213: 6231797742805407701
+    second: overlay_grime_floor_01_49
+  - first:
+      213: -387022951203458198
+    second: overlay_grime_floor_01_50
+  - first:
+      213: 3581626055084832717
+    second: overlay_grime_floor_01_51
+  - first:
+      213: -7718921296309670103
+    second: overlay_grime_floor_01_52
+  - first:
+      213: -6235621476761129411
+    second: overlay_grime_floor_01_53
+  - first:
+      213: 1592307701271917282
+    second: overlay_grime_floor_01_54
+  - first:
+      213: 1891446981282505101
+    second: overlay_grime_floor_01_55
+  - first:
+      213: 8092094616772454881
+    second: overlay_grime_floor_01_56
+  - first:
+      213: 1299107225664544098
+    second: overlay_grime_floor_01_57
+  - first:
+      213: 3250967952728177166
+    second: overlay_grime_floor_01_58
+  - first:
+      213: 6402581029590428898
+    second: overlay_grime_floor_01_59
+  - first:
+      213: 2594911465366344975
+    second: overlay_grime_floor_01_60
+  - first:
+      213: 5120824051962631917
+    second: overlay_grime_floor_01_61
+  - first:
+      213: -325448560692640080
+    second: overlay_grime_floor_01_62
+  - first:
+      213: 814986039309540071
+    second: overlay_grime_floor_01_63
+  - first:
+      213: 4699375784599402848
+    second: overlay_grime_floor_01_64
+  - first:
+      213: -4987844086589191086
+    second: overlay_grime_floor_01_65
+  - first:
+      213: 5286021023457788695
+    second: overlay_grime_floor_01_66
+  - first:
+      213: 8615253455459001901
+    second: overlay_grime_floor_01_67
+  - first:
+      213: -623413778470891352
+    second: overlay_grime_floor_01_68
+  - first:
+      213: 3825364663752420409
+    second: overlay_grime_floor_01_69
+  - first:
+      213: -2718996246461837502
+    second: overlay_grime_floor_01_70
+  - first:
+      213: -4630312505184760758
+    second: overlay_grime_floor_01_71
+  - first:
+      213: -323316527681984391
+    second: overlay_grime_floor_01_72
+  - first:
+      213: -8383597180842137658
+    second: overlay_grime_floor_01_73
+  - first:
+      213: 3518432243608571802
+    second: overlay_grime_floor_01_74
+  - first:
+      213: 232344268960227626
+    second: overlay_grime_floor_01_75
+  - first:
+      213: 8741866360487273397
+    second: overlay_grime_floor_01_76
+  - first:
+      213: 6850849218362808361
+    second: overlay_grime_floor_01_77
+  - first:
+      213: -1626065037162430737
+    second: overlay_grime_floor_01_78
+  - first:
+      213: 4866604359221381071
+    second: overlay_grime_floor_01_79
+  - first:
+      213: -6119383070850390407
+    second: overlay_grime_floor_01_80
+  - first:
+      213: -7686011893009421574
+    second: overlay_grime_floor_01_81
+  - first:
+      213: -1821272523856827324
+    second: overlay_grime_floor_01_82
+  - first:
+      213: 7019903456464182947
+    second: overlay_grime_floor_01_83
+  - first:
+      213: -3372773947492611535
+    second: overlay_grime_floor_01_84
+  - first:
+      213: -5422417693737511374
+    second: overlay_grime_floor_01_85
+  - first:
+      213: 6635168585452553712
+    second: overlay_grime_floor_01_86
+  - first:
+      213: 6561688833539911400
+    second: overlay_grime_floor_01_87
+  - first:
+      213: 840801256380748743
+    second: overlay_grime_floor_01_88
+  - first:
+      213: 345946274641740224
+    second: overlay_grime_floor_01_89
+  - first:
+      213: 6292004726331286221
+    second: overlay_grime_floor_01_90
+  - first:
+      213: -2357940308701641687
+    second: overlay_grime_floor_01_91
+  - first:
+      213: 748595010625473132
+    second: overlay_grime_floor_01_92
+  - first:
+      213: 2083482303096615039
+    second: overlay_grime_floor_01_93
+  - first:
+      213: 4772469919377968893
+    second: overlay_grime_floor_01_94
+  - first:
+      213: 7931281227090080179
+    second: overlay_grime_floor_01_95
+  - first:
+      213: 4343416862529969431
+    second: overlay_grime_floor_01_96
+  - first:
+      213: -1362060311303476406
+    second: overlay_grime_floor_01_97
+  - first:
+      213: -7698497967545933733
+    second: overlay_grime_floor_01_98
+  - first:
+      213: 3821728099782884831
+    second: overlay_grime_floor_01_99
+  - first:
+      213: 5407879540094507773
+    second: overlay_grime_floor_01_100
+  - first:
+      213: 5642647544326970331
+    second: overlay_grime_floor_01_101
+  - first:
+      213: 2065659007916281704
+    second: overlay_grime_floor_01_102
+  - first:
+      213: -4028554903942749801
+    second: overlay_grime_floor_01_103
+  - first:
+      213: 76732060944364930
+    second: overlay_grime_floor_01_104
+  - first:
+      213: 3120135219394488284
+    second: overlay_grime_floor_01_105
+  - first:
+      213: 7318600924736535491
+    second: overlay_grime_floor_01_106
+  - first:
+      213: 3871975505876633708
+    second: overlay_grime_floor_01_107
+  - first:
+      213: -8180471582699909399
+    second: overlay_grime_floor_01_108
+  - first:
+      213: 4375837221315247811
+    second: overlay_grime_floor_01_109
+  - first:
+      213: -2350976888342783315
+    second: overlay_grime_floor_01_110
+  - first:
+      213: 5530945798215489202
+    second: overlay_grime_floor_01_111
+  - first:
+      213: 4002591933402664822
+    second: overlay_grime_floor_01_112
+  - first:
+      213: 7291872732960728525
+    second: overlay_grime_floor_01_113
+  - first:
+      213: 7197494107853669069
+    second: overlay_grime_floor_01_114
+  - first:
+      213: 7585357944285967326
+    second: overlay_grime_floor_01_115
+  - first:
+      213: 1579145548522364700
+    second: overlay_grime_floor_01_116
+  - first:
+      213: 5126312863429601600
+    second: overlay_grime_floor_01_117
+  - first:
+      213: 4464714690488278498
+    second: overlay_grime_floor_01_118
+  - first:
+      213: 3944194998821256462
+    second: overlay_grime_floor_01_119
+  - first:
+      213: -1211515518131754274
+    second: overlay_grime_floor_01_120
+  - first:
+      213: -8584576570388519227
+    second: overlay_grime_floor_01_121
+  - first:
+      213: 4430487703769374374
+    second: overlay_grime_floor_01_122
+  - first:
+      213: 3571034020547247398
+    second: overlay_grime_floor_01_123
+  - first:
+      213: -8892758731591549894
+    second: overlay_grime_floor_01_124
+  - first:
+      213: -2668603733286225961
+    second: overlay_grime_floor_01_125
+  - first:
+      213: -8813647115685218398
+    second: overlay_grime_floor_01_126
+  - first:
+      213: -5664382758251628661
+    second: overlay_grime_floor_01_127
+  - first:
+      213: -8251786809990956958
+    second: overlay_grime_floor_01_128
+  - first:
+      213: -4803717992930955681
+    second: overlay_grime_floor_01_129
+  - first:
+      213: -5941880269114105916
+    second: overlay_grime_floor_01_130
+  - first:
+      213: -2570404219795806894
+    second: overlay_grime_floor_01_131
+  - first:
+      213: -5906047237413422750
+    second: overlay_grime_floor_01_132
+  - first:
+      213: -2012684832066988414
+    second: overlay_grime_floor_01_133
+  - first:
+      213: 7667817218159909188
+    second: overlay_grime_floor_01_134
+  - first:
+      213: -11810928363277401
+    second: overlay_grime_floor_01_135
+  - first:
+      213: 8165686146195892367
+    second: overlay_grime_floor_01_136
+  - first:
+      213: -3052139379181120453
+    second: overlay_grime_floor_01_137
+  - first:
+      213: 2946082460860618172
+    second: overlay_grime_floor_01_138
+  - first:
+      213: -5168794703811951367
+    second: overlay_grime_floor_01_139
+  - first:
+      213: -2779131482371045978
+    second: overlay_grime_floor_01_140
+  - first:
+      213: 2150565026936668934
+    second: overlay_grime_floor_01_141
+  - first:
+      213: 4258793828114418334
+    second: overlay_grime_floor_01_142
+  - first:
+      213: 8039844442066194614
+    second: overlay_grime_floor_01_143
+  - first:
+      213: 4845526021435379094
+    second: overlay_grime_floor_01_144
+  - first:
+      213: -6345130203390258885
+    second: overlay_grime_floor_01_145
+  - first:
+      213: 1041923710373328079
+    second: overlay_grime_floor_01_146
+  - first:
+      213: -5528898890335048723
+    second: overlay_grime_floor_01_147
+  - first:
+      213: 7823887744244372925
+    second: overlay_grime_floor_01_148
+  - first:
+      213: -5796351958609456025
+    second: overlay_grime_floor_01_149
+  - first:
+      213: -6808909452695316553
+    second: overlay_grime_floor_01_150
+  - first:
+      213: 1094020508409475244
+    second: overlay_grime_floor_01_151
+  - first:
+      213: -1557359815519054249
+    second: overlay_grime_floor_01_152
+  - first:
+      213: -6381133068643240442
+    second: overlay_grime_floor_01_153
+  - first:
+      213: 2531968578821395688
+    second: overlay_grime_floor_01_154
+  - first:
+      213: -7536888098206067820
+    second: overlay_grime_floor_01_155
+  - first:
+      213: 7326733094899819261
+    second: overlay_grime_floor_01_156
+  - first:
+      213: -3576186256085047063
+    second: overlay_grime_floor_01_157
+  - first:
+      213: 3678386322574116524
+    second: overlay_grime_floor_01_158
+  - first:
+      213: 8638860376418699050
+    second: overlay_grime_floor_01_159
+  - first:
+      213: -4757540426324699985
+    second: overlay_grime_floor_01_160
+  - first:
+      213: -1001336929734268290
+    second: overlay_grime_floor_01_161
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2817
+        width: 113
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50b855ce510c6f10800000000000000
+      internalID: 2264186219209994333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_1
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 2817
+        width: 116
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b17db1b5ca7e56f0800000000000000
+      internalID: -693982303059349067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_2
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 2825
+        width: 104
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 389936126d4c2f8e0800000000000000
+      internalID: -1661048888584070781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_3
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 2817
+        width: 119
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6443c22b1a6f8d3d0800000000000000
+      internalID: -3181521962397846458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_4
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 2842
+        width: 72
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3b79df862d7ff7f0800000000000000
+      internalID: -576604622704510148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_5
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 2851
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a85cdce9af0fa1a0800000000000000
+      internalID: -6796196090181035868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_6
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 2837
+        width: 72
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc7a1bd78331a4f0800000000000000
+      internalID: -819316998615171887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_7
+      rect:
+        serializedVersion: 2
+        x: 709
+        y: 2863
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bd5eccab6f342a40800000000000000
+      internalID: 5342464789661506997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_8
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 2863
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6c53d621f600740800000000000000
+      internalID: 5116211301625218736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_9
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 2837
+        width: 72
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc5535f4f74ce3f0800000000000000
+      internalID: -870241510577840942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_10
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 2851
+        width: 24
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04754e3da660ddb50800000000000000
+      internalID: 6619454083195754304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_11
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 2842
+        width: 72
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21c7ce1781165ca0800000000000000
+      internalID: -6028611779154165457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_12
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 2845
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba789a4d2ca5aaa0800000000000000
+      internalID: -6150320405579531586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_13
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 2855
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 356ad78f94d418820800000000000000
+      internalID: 2918699013609727571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_14
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 2855
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c703ae4248d9037e0800000000000000
+      internalID: -1787755861185515396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_15
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2845
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890943759d9701a80800000000000000
+      internalID: -8498158522470199144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_16
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2845
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23de00408ee4a4520800000000000000
+      internalID: 2687046886086470962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_17
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 2845
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442820a08741c5f20800000000000000
+      internalID: 3412625123436560964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_18
+      rect:
+        serializedVersion: 2
+        x: 549
+        y: 2833
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9828476bec84a9210800000000000000
+      internalID: 1340463891757695625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_19
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 2818
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee4c69fef1808b50800000000000000
+      internalID: 6593412786576707298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_20
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 2839
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6bded937aee5f0f0800000000000000
+      internalID: -1083697733314880662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_21
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 2831
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62d98551bac6cbb40800000000000000
+      internalID: 5457356330519534886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_22
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 2837
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438fea5b5475048d0800000000000000
+      internalID: -2864193406095132620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_23
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 2837
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085239f968d28e9e0800000000000000
+      internalID: -1591972412049382016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_24
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 2831
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30ad7131fd9c44c0800000000000000
+      internalID: -4301889884802670529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_25
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 2839
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d76a3488e37400a0800000000000000
+      internalID: -6916275685246212142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_26
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 2818
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7583d6f453f97e030800000000000000
+      internalID: 3523960284755343447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_27
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 2833
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c787a600705cb0a0800000000000000
+      internalID: -6864523289941276736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_28
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 2827
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0230cf642a4a3f430800000000000000
+      internalID: 3815574326195520288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_29
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 2822
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9b3457f8dad7a3b0800000000000000
+      internalID: -5501187794412487782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_30
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 2822
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1353dbc1785034680800000000000000
+      internalID: -8772161571326708431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_31
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 2827
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68a7057c9b0f4e160800000000000000
+      internalID: 7054027597072595590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_32
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 2819
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e007fdcad3870530800000000000000
+      internalID: 3821167784628781282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_33
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 2819
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f635b4ba30118ee90800000000000000
+      internalID: -6996323313663650961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2559
+        width: 113
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 583b1d6923cb48670800000000000000
+      internalID: 8540157718866015109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_35
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 2584
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84899457ad2d8e480800000000000000
+      internalID: -8869607630393731000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_36
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2587
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e0690dcd6424c0f0800000000000000
+      internalID: -1097712355161579293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_37
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 2559
+        width: 116
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445f731b644b3d3d0800000000000000
+      internalID: -3183002295906863804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_38
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2587
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aab2c98ccd8c94f0800000000000000
+      internalID: -820625122464187741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_39
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 2559
+        width: 104
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13779453f1e31f60800000000000000
+      internalID: 8003989397980017436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_40
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 2587
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 378314b815f38d2d0800000000000000
+      internalID: -3253781111313975181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_41
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 2561
+        width: 119
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c229be6d993ab120800000000000000
+      internalID: 2430318297250079427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_42
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 2563
+        width: 94
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8163ca3fe77de30800000000000000
+      internalID: 4528227535375702199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_43
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 2563
+        width: 82
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130d500641589ec40800000000000000
+      internalID: 5542107139012939825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_44
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 2571
+        width: 98
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982529f04c09915d0800000000000000
+      internalID: -3091280497463897463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_45
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 2563
+        width: 98
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 753a57faa1bc34180800000000000000
+      internalID: -9132232303903923369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2307
+        width: 127
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bd4366f4dd139290800000000000000
+      internalID: -7884925722091631184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_47
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2303
+        width: 120
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae34de7c94d82f830800000000000000
+      internalID: 4103497558514287594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_48
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2298
+        width: 121
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e29f29b27ae3527f0800000000000000
+      internalID: -638034884491544274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_49
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 2309
+        width: 117
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d75ff3970bcb7650800000000000000
+      internalID: 6231797742805407701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_50
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 2315
+        width: 98
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6338992da401aaf0800000000000000
+      internalID: -387022951203458198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_51
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 2308
+        width: 92
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc77d9bbbed74b130800000000000000
+      internalID: 3581626055084832717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_52
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 2319
+        width: 86
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92fa3444af1e0e490800000000000000
+      internalID: -7718921296309670103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_53
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 2311
+        width: 68
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3e2bdbfd4f9679a0800000000000000
+      internalID: -6235621476761129411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_54
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 2341
+        width: 25
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e27e6bfa63091610800000000000000
+      internalID: 1592307701271917282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_55
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2052
+        width: 103
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8124d61205cf3a10800000000000000
+      internalID: 1891446981282505101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_56
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2059
+        width: 109
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e9a2912e25ec4070800000000000000
+      internalID: 8092094616772454881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_57
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2059
+        width: 82
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26dd0e6832b570210800000000000000
+      internalID: 1299107225664544098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_58
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 2056
+        width: 118
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0aba8ee022cd1d20800000000000000
+      internalID: 3250967952728177166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_59
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 2049
+        width: 114
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec646a26898ad850800000000000000
+      internalID: 6402581029590428898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_60
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 2077
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f05dfb4ba3af20420800000000000000
+      internalID: 2594911465366344975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_61
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 2077
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de6528e0852d01740800000000000000
+      internalID: 5120824051962631917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_62
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 2049
+        width: 116
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b6c0432246cb7bf0800000000000000
+      internalID: -325448560692640080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_63
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 2077
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea92f91c796f4b00800000000000000
+      internalID: 814986039309540071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_64
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 2057
+        width: 104
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 069be13b069873140800000000000000
+      internalID: 4699375784599402848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_65
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 2077
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c81dfda3e97cab0800000000000000
+      internalID: -4987844086589191086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_66
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 2049
+        width: 119
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713c2724d18bb5940800000000000000
+      internalID: 5286021023457788695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_67
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1791
+        width: 127
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2627964f578f8770800000000000000
+      internalID: 8615253455459001901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_68
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1791
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a09822b8703957f0800000000000000
+      internalID: -623413778470891352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_69
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1791
+        width: 106
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c6b4fd4ec661530800000000000000
+      internalID: 3825364663752420409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_70
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1797
+        width: 85
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f8508d15f244ad0800000000000000
+      internalID: -2718996246461837502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_71
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1791
+        width: 114
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4cc9691f43ddbfb0800000000000000
+      internalID: -4630312505184760758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_72
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1816
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978a081c459538bf0800000000000000
+      internalID: -323316527681984391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_73
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1819
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c720ff38ca77ab80800000000000000
+      internalID: -8383597180842137658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_74
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1791
+        width: 116
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9fc19eeb7bf3d030800000000000000
+      internalID: 3518432243608571802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_75
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1819
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a21e8f0b1e3793300800000000000000
+      internalID: 232344268960227626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_76
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1791
+        width: 104
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3e7c27329515970800000000000000
+      internalID: 8741866360487273397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_77
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1819
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9281746111b131f50800000000000000
+      internalID: 6850849218362808361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_78
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1793
+        width: 119
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fee3046c67e0f69e0800000000000000
+      internalID: -1626065037162430737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_79
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1535
+        width: 121
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc702cd51e6a98340800000000000000
+      internalID: 4866604359221381071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_80
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1454
+        width: 122
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9766c69d485931ba0800000000000000
+      internalID: -6119383070850390407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_81
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1564
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afaeeb1d7ecc55590800000000000000
+      internalID: -7686011893009421574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_82
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1535
+        width: 105
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44ca5500a4a89b6e0800000000000000
+      internalID: -1821272523856827324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_83
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1535
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ae95182005bb6160800000000000000
+      internalID: 7019903456464182947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_84
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1281
+        width: 113
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ac208e6ff7131d0800000000000000
+      internalID: -3372773947492611535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_85
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1309
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2369bf436d3bfb4b0800000000000000
+      internalID: -5422417693737511374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_86
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1281
+        width: 114
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f50bb08caad41c50800000000000000
+      internalID: 6635168585452553712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_87
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1309
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee2bc19a3dcf0b50800000000000000
+      internalID: 6561688833539911400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_88
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1281
+        width: 114
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c3d645b9402bab00800000000000000
+      internalID: 840801256380748743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_89
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1309
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c1046bcd4c0dc400800000000000000
+      internalID: 345946274641740224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_90
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1281
+        width: 114
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc22e0e46f0b15750800000000000000
+      internalID: 6292004726331286221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_91
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1309
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 924834a38c9e64fd0800000000000000
+      internalID: -2357940308701641687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_92
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1281
+        width: 114
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6a06f8223b836a00800000000000000
+      internalID: 748595010625473132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_93
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1309
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70f2ebad140aec10800000000000000
+      internalID: 2083482303096615039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_94
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1281
+        width: 114
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfec2c52b183b3240800000000000000
+      internalID: 4772469919377968893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_95
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1309
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b1bd6a1142911e60800000000000000
+      internalID: 7931281227090080179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_96
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1281
+        width: 114
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71d5a82cf9ae64c30800000000000000
+      internalID: 4343416862529969431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_97
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1309
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b29160d5df81de0800000000000000
+      internalID: -1362060311303476406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_98
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1281
+        width: 114
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b50ab5c03e0792590800000000000000
+      internalID: -7698497967545933733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_99
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1309
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fddffa75571890530800000000000000
+      internalID: 3821728099782884831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_100
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1023
+        width: 113
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa9f6f1ac5ac0b40800000000000000
+      internalID: 5407879540094507773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_101
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 1048
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdbd658ab06be4e40800000000000000
+      internalID: 5642647544326970331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_102
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1023
+        width: 114
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f8fe16ce1baac10800000000000000
+      internalID: 2065659007916281704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_103
+      rect:
+        serializedVersion: 2
+        x: 240
+        y: 1048
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791a558b8a2b718c0800000000000000
+      internalID: -4028554903942749801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_104
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1023
+        width: 114
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285f873276b901100800000000000000
+      internalID: 76732060944364930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_105
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1048
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7a13b6372fc4b20800000000000000
+      internalID: 3120135219394488284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_106
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1023
+        width: 114
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cb34c3f3c4e09560800000000000000
+      internalID: 7318600924736535491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_107
+      rect:
+        serializedVersion: 2
+        x: 496
+        y: 1048
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c684ace35350cb530800000000000000
+      internalID: 3871975505876633708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_108
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1023
+        width: 114
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ee8ef10070297e80800000000000000
+      internalID: -8180471582699909399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_109
+      rect:
+        serializedVersion: 2
+        x: 624
+        y: 1048
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce7d63c4c81abc30800000000000000
+      internalID: 4375837221315247811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_110
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1023
+        width: 114
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daadc2fd9f6af5fd0800000000000000
+      internalID: -2350976888342783315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_111
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 1048
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6d29636edd1cc40800000000000000
+      internalID: 5530945798215489202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_112
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1023
+        width: 114
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f4f4328201c8730800000000000000
+      internalID: 4002591933402664822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_113
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1048
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc52b7bdd9fe13560800000000000000
+      internalID: 7291872732960728525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_114
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1023
+        width: 114
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2c593d1c2a2e360800000000000000
+      internalID: 7197494107853669069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_115
+      rect:
+        serializedVersion: 2
+        x: 1008
+        y: 1048
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed33a538cda944960800000000000000
+      internalID: 7585357944285967326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_116
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 797
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1f905c72804ae510800000000000000
+      internalID: 1579145548522364700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_117
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 769
+        width: 116
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 049ac309362542740800000000000000
+      internalID: 5126312863429601600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_118
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 797
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed950e1b5ad5fd30800000000000000
+      internalID: 4464714690488278498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_119
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 769
+        width: 116
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0dfc9544789cb630800000000000000
+      internalID: 3944194998821256462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_120
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 797
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda22ed1e05df2fe0800000000000000
+      internalID: -1211515518131754274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_121
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 769
+        width: 116
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6e9de97157dd880800000000000000
+      internalID: -8584576570388519227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_122
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 797
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aed8e4c7114c7d30800000000000000
+      internalID: 4430487703769374374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_123
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 769
+        width: 116
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62dbd83858cde8130800000000000000
+      internalID: 3571034020547247398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_124
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 797
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3c7b3aac03969480800000000000000
+      internalID: -8892758731591549894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_125
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 769
+        width: 116
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d7713f1b0737fad0800000000000000
+      internalID: -2668603733286225961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_126
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 797
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a7bfed15a2afa580800000000000000
+      internalID: -8813647115685218398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_127
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 769
+        width: 116
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b87709e74e11461b0800000000000000
+      internalID: -5664382758251628661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_128
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 797
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2683c3cbd93cb7d80800000000000000
+      internalID: -8251786809990956958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_129
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 769
+        width: 116
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ea236cfe3c55db0800000000000000
+      internalID: -4803717992930955681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_130
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 797
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf1d8d60633a8da0800000000000000
+      internalID: -5941880269114105916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_131
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 769
+        width: 116
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255e7ed0bf6145cd0800000000000000
+      internalID: -2570404219795806894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 539
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269bb434451890ea0800000000000000
+      internalID: -5906047237413422750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_133
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 511
+        width: 116
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28694d31fc18114e0800000000000000
+      internalID: -2012684832066988414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_134
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 539
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4499b03522f896a60800000000000000
+      internalID: 7667817218159909188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_135
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 511
+        width: 116
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a37072f50a06dff0800000000000000
+      internalID: -11810928363277401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_136
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 539
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f88a55b4948525170800000000000000
+      internalID: 8165686146195892367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_137
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 511
+        width: 116
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b349de2d76f94a5d0800000000000000
+      internalID: -3052139379181120453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_138
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 539
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb51b9e936692e820800000000000000
+      internalID: 2946082460860618172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_139
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 511
+        width: 116
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f44e523a90c448b0800000000000000
+      internalID: -5168794703811951367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_140
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 539
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a54b2924aa8e69d0800000000000000
+      internalID: -2779131482371045978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_141
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 511
+        width: 116
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60340f07f7758dd10800000000000000
+      internalID: 2150565026936668934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_142
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 539
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9ac2603c664a1b30800000000000000
+      internalID: 4258793828114418334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_143
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 511
+        width: 116
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b011c25ce3439f60800000000000000
+      internalID: 8039844442066194614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_144
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 539
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69d41996e34ce3340800000000000000
+      internalID: 4845526021435379094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_145
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 511
+        width: 116
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b31525da2b191f7a0800000000000000
+      internalID: -6345130203390258885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_146
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 539
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc4fbdf1818a57e00800000000000000
+      internalID: 1041923710373328079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_147
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 511
+        width: 116
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb278aa0c76543b0800000000000000
+      internalID: -5528898890335048723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_148
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 285
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5d73e5378049c60800000000000000
+      internalID: 7823887744244372925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_149
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 265
+        width: 104
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76491f1aa983f8fa0800000000000000
+      internalID: -5796351958609456025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_150
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 285
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7db4c8de4e181a0800000000000000
+      internalID: -6808909452695316553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_151
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 257
+        width: 119
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca03db42bddbe2f00800000000000000
+      internalID: 1094020508409475244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_152
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 255
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 756d480cf75236ae0800000000000000
+      internalID: -1557359815519054249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_153
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 283
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60675036849a177a0800000000000000
+      internalID: -6381133068643240442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_154
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 255
+        width: 116
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e4991be10c532320800000000000000
+      internalID: 2531968578821395688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_155
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 257
+        width: 128
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 493de82f438976790800000000000000
+      internalID: -7536888098206067820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_156
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 255
+        width: 116
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df22a9d5ee8cda560800000000000000
+      internalID: 7326733094899819261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_157
+      rect:
+        serializedVersion: 2
+        x: 752
+        y: 283
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8aa6b2c85de5ec0800000000000000
+      internalID: -3576186256085047063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_158
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 27
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca68fa71fd04c0330800000000000000
+      internalID: 3678386322574116524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_159
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 0
+        width: 104
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2742a0edb563e770800000000000000
+      internalID: 8638860376418699050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_160
+      rect:
+        serializedVersion: 2
+        x: 112
+        y: 27
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa41b545032d9fdb0800000000000000
+      internalID: -4757540426324699985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_grime_floor_01_161
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1
+        width: 119
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7a65b22e598a12f0800000000000000
+      internalID: -1001336929734268290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      overlay_grime_floor_01_0: 2264186219209994333
+      overlay_grime_floor_01_1: -693982303059349067
+      overlay_grime_floor_01_10: 6619454083195754304
+      overlay_grime_floor_01_100: 5407879540094507773
+      overlay_grime_floor_01_101: 5642647544326970331
+      overlay_grime_floor_01_102: 2065659007916281704
+      overlay_grime_floor_01_103: -4028554903942749801
+      overlay_grime_floor_01_104: 76732060944364930
+      overlay_grime_floor_01_105: 3120135219394488284
+      overlay_grime_floor_01_106: 7318600924736535491
+      overlay_grime_floor_01_107: 3871975505876633708
+      overlay_grime_floor_01_108: -8180471582699909399
+      overlay_grime_floor_01_109: 4375837221315247811
+      overlay_grime_floor_01_11: -6028611779154165457
+      overlay_grime_floor_01_110: -2350976888342783315
+      overlay_grime_floor_01_111: 5530945798215489202
+      overlay_grime_floor_01_112: 4002591933402664822
+      overlay_grime_floor_01_113: 7291872732960728525
+      overlay_grime_floor_01_114: 7197494107853669069
+      overlay_grime_floor_01_115: 7585357944285967326
+      overlay_grime_floor_01_116: 1579145548522364700
+      overlay_grime_floor_01_117: 5126312863429601600
+      overlay_grime_floor_01_118: 4464714690488278498
+      overlay_grime_floor_01_119: 3944194998821256462
+      overlay_grime_floor_01_12: -6150320405579531586
+      overlay_grime_floor_01_120: -1211515518131754274
+      overlay_grime_floor_01_121: -8584576570388519227
+      overlay_grime_floor_01_122: 4430487703769374374
+      overlay_grime_floor_01_123: 3571034020547247398
+      overlay_grime_floor_01_124: -8892758731591549894
+      overlay_grime_floor_01_125: -2668603733286225961
+      overlay_grime_floor_01_126: -8813647115685218398
+      overlay_grime_floor_01_127: -5664382758251628661
+      overlay_grime_floor_01_128: -8251786809990956958
+      overlay_grime_floor_01_129: -4803717992930955681
+      overlay_grime_floor_01_13: 2918699013609727571
+      overlay_grime_floor_01_130: -5941880269114105916
+      overlay_grime_floor_01_131: -2570404219795806894
+      overlay_grime_floor_01_132: -5906047237413422750
+      overlay_grime_floor_01_133: -2012684832066988414
+      overlay_grime_floor_01_134: 7667817218159909188
+      overlay_grime_floor_01_135: -11810928363277401
+      overlay_grime_floor_01_136: 8165686146195892367
+      overlay_grime_floor_01_137: -3052139379181120453
+      overlay_grime_floor_01_138: 2946082460860618172
+      overlay_grime_floor_01_139: -5168794703811951367
+      overlay_grime_floor_01_14: -1787755861185515396
+      overlay_grime_floor_01_140: -2779131482371045978
+      overlay_grime_floor_01_141: 2150565026936668934
+      overlay_grime_floor_01_142: 4258793828114418334
+      overlay_grime_floor_01_143: 8039844442066194614
+      overlay_grime_floor_01_144: 4845526021435379094
+      overlay_grime_floor_01_145: -6345130203390258885
+      overlay_grime_floor_01_146: 1041923710373328079
+      overlay_grime_floor_01_147: -5528898890335048723
+      overlay_grime_floor_01_148: 7823887744244372925
+      overlay_grime_floor_01_149: -5796351958609456025
+      overlay_grime_floor_01_15: -8498158522470199144
+      overlay_grime_floor_01_150: -6808909452695316553
+      overlay_grime_floor_01_151: 1094020508409475244
+      overlay_grime_floor_01_152: -1557359815519054249
+      overlay_grime_floor_01_153: -6381133068643240442
+      overlay_grime_floor_01_154: 2531968578821395688
+      overlay_grime_floor_01_155: -7536888098206067820
+      overlay_grime_floor_01_156: 7326733094899819261
+      overlay_grime_floor_01_157: -3576186256085047063
+      overlay_grime_floor_01_158: 3678386322574116524
+      overlay_grime_floor_01_159: 8638860376418699050
+      overlay_grime_floor_01_16: 2687046886086470962
+      overlay_grime_floor_01_160: -4757540426324699985
+      overlay_grime_floor_01_161: -1001336929734268290
+      overlay_grime_floor_01_17: 3412625123436560964
+      overlay_grime_floor_01_18: 1340463891757695625
+      overlay_grime_floor_01_19: 6593412786576707298
+      overlay_grime_floor_01_2: -1661048888584070781
+      overlay_grime_floor_01_20: -1083697733314880662
+      overlay_grime_floor_01_21: 5457356330519534886
+      overlay_grime_floor_01_22: -2864193406095132620
+      overlay_grime_floor_01_23: -1591972412049382016
+      overlay_grime_floor_01_24: -4301889884802670529
+      overlay_grime_floor_01_25: -6916275685246212142
+      overlay_grime_floor_01_26: 3523960284755343447
+      overlay_grime_floor_01_27: -6864523289941276736
+      overlay_grime_floor_01_28: 3815574326195520288
+      overlay_grime_floor_01_29: -5501187794412487782
+      overlay_grime_floor_01_3: -3181521962397846458
+      overlay_grime_floor_01_30: -8772161571326708431
+      overlay_grime_floor_01_31: 7054027597072595590
+      overlay_grime_floor_01_32: 3821167784628781282
+      overlay_grime_floor_01_33: -6996323313663650961
+      overlay_grime_floor_01_34: 8540157718866015109
+      overlay_grime_floor_01_35: -8869607630393731000
+      overlay_grime_floor_01_36: -1097712355161579293
+      overlay_grime_floor_01_37: -3183002295906863804
+      overlay_grime_floor_01_38: -820625122464187741
+      overlay_grime_floor_01_39: 8003989397980017436
+      overlay_grime_floor_01_4: -576604622704510148
+      overlay_grime_floor_01_40: -3253781111313975181
+      overlay_grime_floor_01_41: 2430318297250079427
+      overlay_grime_floor_01_42: 4528227535375702199
+      overlay_grime_floor_01_43: 5542107139012939825
+      overlay_grime_floor_01_44: -3091280497463897463
+      overlay_grime_floor_01_45: -9132232303903923369
+      overlay_grime_floor_01_46: -7884925722091631184
+      overlay_grime_floor_01_47: 4103497558514287594
+      overlay_grime_floor_01_48: -638034884491544274
+      overlay_grime_floor_01_49: 6231797742805407701
+      overlay_grime_floor_01_5: -6796196090181035868
+      overlay_grime_floor_01_50: -387022951203458198
+      overlay_grime_floor_01_51: 3581626055084832717
+      overlay_grime_floor_01_52: -7718921296309670103
+      overlay_grime_floor_01_53: -6235621476761129411
+      overlay_grime_floor_01_54: 1592307701271917282
+      overlay_grime_floor_01_55: 1891446981282505101
+      overlay_grime_floor_01_56: 8092094616772454881
+      overlay_grime_floor_01_57: 1299107225664544098
+      overlay_grime_floor_01_58: 3250967952728177166
+      overlay_grime_floor_01_59: 6402581029590428898
+      overlay_grime_floor_01_6: -819316998615171887
+      overlay_grime_floor_01_60: 2594911465366344975
+      overlay_grime_floor_01_61: 5120824051962631917
+      overlay_grime_floor_01_62: -325448560692640080
+      overlay_grime_floor_01_63: 814986039309540071
+      overlay_grime_floor_01_64: 4699375784599402848
+      overlay_grime_floor_01_65: -4987844086589191086
+      overlay_grime_floor_01_66: 5286021023457788695
+      overlay_grime_floor_01_67: 8615253455459001901
+      overlay_grime_floor_01_68: -623413778470891352
+      overlay_grime_floor_01_69: 3825364663752420409
+      overlay_grime_floor_01_7: 5342464789661506997
+      overlay_grime_floor_01_70: -2718996246461837502
+      overlay_grime_floor_01_71: -4630312505184760758
+      overlay_grime_floor_01_72: -323316527681984391
+      overlay_grime_floor_01_73: -8383597180842137658
+      overlay_grime_floor_01_74: 3518432243608571802
+      overlay_grime_floor_01_75: 232344268960227626
+      overlay_grime_floor_01_76: 8741866360487273397
+      overlay_grime_floor_01_77: 6850849218362808361
+      overlay_grime_floor_01_78: -1626065037162430737
+      overlay_grime_floor_01_79: 4866604359221381071
+      overlay_grime_floor_01_8: 5116211301625218736
+      overlay_grime_floor_01_80: -6119383070850390407
+      overlay_grime_floor_01_81: -7686011893009421574
+      overlay_grime_floor_01_82: -1821272523856827324
+      overlay_grime_floor_01_83: 7019903456464182947
+      overlay_grime_floor_01_84: -3372773947492611535
+      overlay_grime_floor_01_85: -5422417693737511374
+      overlay_grime_floor_01_86: 6635168585452553712
+      overlay_grime_floor_01_87: 6561688833539911400
+      overlay_grime_floor_01_88: 840801256380748743
+      overlay_grime_floor_01_89: 345946274641740224
+      overlay_grime_floor_01_9: -870241510577840942
+      overlay_grime_floor_01_90: 6292004726331286221
+      overlay_grime_floor_01_91: -2357940308701641687
+      overlay_grime_floor_01_92: 748595010625473132
+      overlay_grime_floor_01_93: 2083482303096615039
+      overlay_grime_floor_01_94: 4772469919377968893
+      overlay_grime_floor_01_95: 7931281227090080179
+      overlay_grime_floor_01_96: 4343416862529969431
+      overlay_grime_floor_01_97: -1362060311303476406
+      overlay_grime_floor_01_98: -7698497967545933733
+      overlay_grime_floor_01_99: 3821728099782884831
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

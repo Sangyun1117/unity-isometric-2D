@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 6ff716c55e8c63a4f8856f8231722c55
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7966208215670230134
+    second: trash_walls_01_0
+  - first:
+      213: 548911203066262303
+    second: trash_walls_01_1
+  - first:
+      213: 9096325613359138046
+    second: trash_walls_01_2
+  - first:
+      213: -3348957717953402990
+    second: trash_walls_01_3
+  - first:
+      213: -1960218647366904743
+    second: trash_walls_01_4
+  - first:
+      213: 8273615048384848041
+    second: trash_walls_01_5
+  - first:
+      213: 7208650764391451149
+    second: trash_walls_01_6
+  - first:
+      213: 6011820878758818293
+    second: trash_walls_01_7
+  - first:
+      213: -3759040587755838458
+    second: trash_walls_01_8
+  - first:
+      213: -817856283810066493
+    second: trash_walls_01_9
+  - first:
+      213: 2701541684945528836
+    second: trash_walls_01_10
+  - first:
+      213: -6556409345932167688
+    second: trash_walls_01_11
+  - first:
+      213: -3166428001882311680
+    second: trash_walls_01_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: trash_walls_01_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1900
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c82d55a28ad8e60800000000000000
+      internalID: 7966208215670230134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trash_walls_01_1
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 1899
+        width: 50
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f133ff7b4df1e9700800000000000000
+      internalID: 548911203066262303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trash_walls_01_2
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 1922
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef40f8173f3ac3e70800000000000000
+      internalID: 9096325613359138046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trash_walls_01_3
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1915
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 297a595f2bc1681d0800000000000000
+      internalID: -3348957717953402990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trash_walls_01_4
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1913
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9545991a687ebc4e0800000000000000
+      internalID: -1960218647366904743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trash_walls_01_5
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1920
+        width: 24
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a02e4f0d09c1d270800000000000000
+      internalID: 8273615048384848041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trash_walls_01_6
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1894
+        width: 43
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a86695da54a0460800000000000000
+      internalID: 7208650764391451149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trash_walls_01_7
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1895
+        width: 44
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f132bbbc374e6350800000000000000
+      internalID: 6011820878758818293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trash_walls_01_8
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 1902
+        width: 17
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604a98e608435dbc0800000000000000
+      internalID: -3759040587755838458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trash_walls_01_9
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1926
+        width: 23
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf0e260b0466a4f0800000000000000
+      internalID: -817856283810066493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trash_walls_01_10
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1915
+        width: 37
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 408a61d59ddcd7520800000000000000
+      internalID: 2701541684945528836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trash_walls_01_11
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1614
+        width: 42
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f579adef64f205a0800000000000000
+      internalID: -6556409345932167688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: trash_walls_01_12
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 1617
+        width: 42
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00474fc32869e04d0800000000000000
+      internalID: -3166428001882311680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      trash_walls_01_0: 7966208215670230134
+      trash_walls_01_1: 548911203066262303
+      trash_walls_01_10: 2701541684945528836
+      trash_walls_01_11: -6556409345932167688
+      trash_walls_01_12: -3166428001882311680
+      trash_walls_01_2: 9096325613359138046
+      trash_walls_01_3: -3348957717953402990
+      trash_walls_01_4: -1960218647366904743
+      trash_walls_01_5: 8273615048384848041
+      trash_walls_01_6: 7208650764391451149
+      trash_walls_01_7: 6011820878758818293
+      trash_walls_01_8: -3759040587755838458
+      trash_walls_01_9: -817856283810066493
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

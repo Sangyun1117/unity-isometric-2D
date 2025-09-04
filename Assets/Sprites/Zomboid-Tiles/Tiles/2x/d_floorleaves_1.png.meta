@@ -1,0 +1,1001 @@
+fileFormatVersion: 2
+guid: 632aa640b7552f840aa3626ae618c8ad
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1616218563132012560
+    second: d_floorleaves_1_0
+  - first:
+      213: 5858301483790205159
+    second: d_floorleaves_1_1
+  - first:
+      213: -2389211577325674486
+    second: d_floorleaves_1_2
+  - first:
+      213: -1086052092653862013
+    second: d_floorleaves_1_3
+  - first:
+      213: -6942016532909430518
+    second: d_floorleaves_1_4
+  - first:
+      213: -8055040937400368146
+    second: d_floorleaves_1_5
+  - first:
+      213: -3572175955861029002
+    second: d_floorleaves_1_6
+  - first:
+      213: -5276749975048414548
+    second: d_floorleaves_1_7
+  - first:
+      213: -2496052387366728004
+    second: d_floorleaves_1_8
+  - first:
+      213: -87209277261518502
+    second: d_floorleaves_1_9
+  - first:
+      213: 3275835459575121985
+    second: d_floorleaves_1_10
+  - first:
+      213: 8365846439795286205
+    second: d_floorleaves_1_11
+  - first:
+      213: -6681218795336391470
+    second: d_floorleaves_1_12
+  - first:
+      213: 1022994800566982418
+    second: d_floorleaves_1_13
+  - first:
+      213: -2189433621549912778
+    second: d_floorleaves_1_14
+  - first:
+      213: -1476324690707851871
+    second: d_floorleaves_1_15
+  - first:
+      213: 6208263673248893095
+    second: d_floorleaves_1_16
+  - first:
+      213: 1335787614449365800
+    second: d_floorleaves_1_17
+  - first:
+      213: 7427449038777930295
+    second: d_floorleaves_1_18
+  - first:
+      213: 7078241211163967366
+    second: d_floorleaves_1_19
+  - first:
+      213: 8668966148112825909
+    second: d_floorleaves_1_20
+  - first:
+      213: 4376709642703914372
+    second: d_floorleaves_1_21
+  - first:
+      213: -2192972028807121896
+    second: d_floorleaves_1_22
+  - first:
+      213: 979481495719312155
+    second: d_floorleaves_1_23
+  - first:
+      213: -4675845818694866496
+    second: d_floorleaves_1_24
+  - first:
+      213: 3507757050306542947
+    second: d_floorleaves_1_25
+  - first:
+      213: -348946778702032612
+    second: d_floorleaves_1_26
+  - first:
+      213: -6107850556605315816
+    second: d_floorleaves_1_27
+  - first:
+      213: -1348290320055984378
+    second: d_floorleaves_1_28
+  - first:
+      213: 4889047604271946308
+    second: d_floorleaves_1_29
+  - first:
+      213: 5517956899602799534
+    second: d_floorleaves_1_30
+  - first:
+      213: 981949999433185819
+    second: d_floorleaves_1_31
+  - first:
+      213: -1115103928242916343
+    second: d_floorleaves_1_32
+  - first:
+      213: -276891331391114043
+    second: d_floorleaves_1_33
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: d_floorleaves_1_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1817
+        width: 45
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7cf19a7c90299e0800000000000000
+      internalID: -1616218563132012560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_floorleaves_1_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1827
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e08570392edc4150800000000000000
+      internalID: 5858301483790205159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_floorleaves_1_2
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1824
+        width: 33
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00a040aab0d7ded0800000000000000
+      internalID: -2389211577325674486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_floorleaves_1_3
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1809
+        width: 74
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3830cc930619de0f0800000000000000
+      internalID: -1086052092653862013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_floorleaves_1_4
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 1838
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a096b036eb009af90800000000000000
+      internalID: -6942016532909430518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_floorleaves_1_5
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 1821
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee38503e1feb63090800000000000000
+      internalID: -8055040937400368146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_floorleaves_1_6
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1823
+        width: 35
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f36b3f4e41d6ec0800000000000000
+      internalID: -3572175955861029002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_floorleaves_1_7
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 1822
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caa10b8ead735c6b0800000000000000
+      internalID: -5276749975048414548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_floorleaves_1_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1818
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbe8d3e049d3c5dd0800000000000000
+      internalID: -2496052387366728004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_floorleaves_1_9
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 1810
+        width: 52
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5965b7df9b2acef0800000000000000
+      internalID: -87209277261518502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_floorleaves_1_10
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1817
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1488a9e8efa167d20800000000000000
+      internalID: 3275835459575121985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_floorleaves_1_11
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1801
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0e6794305791470800000000000000
+      internalID: 8365846439795286205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_floorleaves_1_12
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1804
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4af4d77ea8743a0800000000000000
+      internalID: -6681218795336391470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_floorleaves_1_13
+      rect:
+        serializedVersion: 2
+        x: 303
+        y: 1805
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217ddded958623e00800000000000000
+      internalID: 1022994800566982418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_floorleaves_1_14
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1794
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d6838a8b19d91e0800000000000000
+      internalID: -2189433621549912778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_floorleaves_1_15
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1577
+        width: 40
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a55835048a038be0800000000000000
+      internalID: -1476324690707851871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_floorleaves_1_16
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1539
+        width: 79
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a846f30bee282650800000000000000
+      internalID: 6208263673248893095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_floorleaves_1_17
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1546
+        width: 96
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 823fe9e02cba98210800000000000000
+      internalID: 1335787614449365800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_floorleaves_1_18
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 1566
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 732dca76c89931760800000000000000
+      internalID: 7427449038777930295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_floorleaves_1_19
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1565
+        width: 65
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68f75f121e6fa3260800000000000000
+      internalID: 7078241211163967366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_floorleaves_1_20
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 1564
+        width: 35
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53eb62418ca5e4870800000000000000
+      internalID: 8668966148112825909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_floorleaves_1_21
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1544
+        width: 75
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 485c4623b323dbc30800000000000000
+      internalID: 4376709642703914372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_floorleaves_1_22
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1579
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81475940f8ff091e0800000000000000
+      internalID: -2192972028807121896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_floorleaves_1_23
+      rect:
+        serializedVersion: 2
+        x: 474
+        y: 1560
+        width: 26
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1bfa681b31d79d00800000000000000
+      internalID: 979481495719312155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_floorleaves_1_24
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1549
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c96238600f0c1fb0800000000000000
+      internalID: -4675845818694866496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_floorleaves_1_25
+      rect:
+        serializedVersion: 2
+        x: 289
+        y: 1547
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36db4edc37e0ea030800000000000000
+      internalID: 3507757050306542947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_floorleaves_1_26
+      rect:
+        serializedVersion: 2
+        x: 339
+        y: 1557
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c11d2f9e0ca482bf0800000000000000
+      internalID: -348946778702032612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_floorleaves_1_27
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1287
+        width: 115
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8154e50974e8c3ba0800000000000000
+      internalID: -6107850556605315816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_floorleaves_1_28
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1289
+        width: 98
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60f17f2f819e94de0800000000000000
+      internalID: -1348290320055984378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_floorleaves_1_29
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1292
+        width: 116
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44a9a9e84e269d340800000000000000
+      internalID: 4889047604271946308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_floorleaves_1_30
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1294
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab9db69098b39c40800000000000000
+      internalID: 5517956899602799534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_floorleaves_1_31
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 1323
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1af867625690ad00800000000000000
+      internalID: 981949999433185819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_floorleaves_1_32
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1313
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9043075a2ea5680f0800000000000000
+      internalID: -1115103928242916343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_floorleaves_1_33
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 1282
+        width: 37
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c43c071dc8482cf0800000000000000
+      internalID: -276891331391114043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      d_floorleaves_1_0: -1616218563132012560
+      d_floorleaves_1_1: 5858301483790205159
+      d_floorleaves_1_10: 3275835459575121985
+      d_floorleaves_1_11: 8365846439795286205
+      d_floorleaves_1_12: -6681218795336391470
+      d_floorleaves_1_13: 1022994800566982418
+      d_floorleaves_1_14: -2189433621549912778
+      d_floorleaves_1_15: -1476324690707851871
+      d_floorleaves_1_16: 6208263673248893095
+      d_floorleaves_1_17: 1335787614449365800
+      d_floorleaves_1_18: 7427449038777930295
+      d_floorleaves_1_19: 7078241211163967366
+      d_floorleaves_1_2: -2389211577325674486
+      d_floorleaves_1_20: 8668966148112825909
+      d_floorleaves_1_21: 4376709642703914372
+      d_floorleaves_1_22: -2192972028807121896
+      d_floorleaves_1_23: 979481495719312155
+      d_floorleaves_1_24: -4675845818694866496
+      d_floorleaves_1_25: 3507757050306542947
+      d_floorleaves_1_26: -348946778702032612
+      d_floorleaves_1_27: -6107850556605315816
+      d_floorleaves_1_28: -1348290320055984378
+      d_floorleaves_1_29: 4889047604271946308
+      d_floorleaves_1_3: -1086052092653862013
+      d_floorleaves_1_30: 5517956899602799534
+      d_floorleaves_1_31: 981949999433185819
+      d_floorleaves_1_32: -1115103928242916343
+      d_floorleaves_1_33: -276891331391114043
+      d_floorleaves_1_4: -6942016532909430518
+      d_floorleaves_1_5: -8055040937400368146
+      d_floorleaves_1_6: -3572175955861029002
+      d_floorleaves_1_7: -5276749975048414548
+      d_floorleaves_1_8: -2496052387366728004
+      d_floorleaves_1_9: -87209277261518502
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

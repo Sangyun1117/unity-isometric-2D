@@ -1,0 +1,5057 @@
+fileFormatVersion: 2
+guid: 47ab82f48828f304caa8e15a1261880d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6288018327793836075
+    second: overlay_blood_wall_01_0
+  - first:
+      213: -4716899146749319673
+    second: overlay_blood_wall_01_1
+  - first:
+      213: -2540298865488458304
+    second: overlay_blood_wall_01_2
+  - first:
+      213: -6282277830919597633
+    second: overlay_blood_wall_01_3
+  - first:
+      213: -514581735387767132
+    second: overlay_blood_wall_01_4
+  - first:
+      213: 2407723088199655155
+    second: overlay_blood_wall_01_5
+  - first:
+      213: -8431383334191066574
+    second: overlay_blood_wall_01_6
+  - first:
+      213: -1669012739495165517
+    second: overlay_blood_wall_01_7
+  - first:
+      213: -7647238798481814884
+    second: overlay_blood_wall_01_8
+  - first:
+      213: 1910346261861337366
+    second: overlay_blood_wall_01_9
+  - first:
+      213: -9215223761886994807
+    second: overlay_blood_wall_01_10
+  - first:
+      213: 649513955190406724
+    second: overlay_blood_wall_01_11
+  - first:
+      213: -1906670682212894198
+    second: overlay_blood_wall_01_12
+  - first:
+      213: -7859876104432488861
+    second: overlay_blood_wall_01_13
+  - first:
+      213: -8284027094226437853
+    second: overlay_blood_wall_01_14
+  - first:
+      213: -7375383489695003069
+    second: overlay_blood_wall_01_15
+  - first:
+      213: 7892660358517399680
+    second: overlay_blood_wall_01_16
+  - first:
+      213: -6120567473056400077
+    second: overlay_blood_wall_01_17
+  - first:
+      213: -1307877239088023014
+    second: overlay_blood_wall_01_18
+  - first:
+      213: -2238756684376094334
+    second: overlay_blood_wall_01_19
+  - first:
+      213: 8284859780315238068
+    second: overlay_blood_wall_01_20
+  - first:
+      213: 5892834576062030284
+    second: overlay_blood_wall_01_21
+  - first:
+      213: -5858231301408560786
+    second: overlay_blood_wall_01_22
+  - first:
+      213: -6571121093982068533
+    second: overlay_blood_wall_01_23
+  - first:
+      213: 2494143317262220114
+    second: overlay_blood_wall_01_24
+  - first:
+      213: -3611195282439955168
+    second: overlay_blood_wall_01_25
+  - first:
+      213: -8237492161902348526
+    second: overlay_blood_wall_01_26
+  - first:
+      213: 7740792928072604783
+    second: overlay_blood_wall_01_27
+  - first:
+      213: 6480538331639905785
+    second: overlay_blood_wall_01_28
+  - first:
+      213: -7423171614894360445
+    second: overlay_blood_wall_01_29
+  - first:
+      213: -683318462588449191
+    second: overlay_blood_wall_01_30
+  - first:
+      213: 8279474657009787092
+    second: overlay_blood_wall_01_31
+  - first:
+      213: 9147162867615313085
+    second: overlay_blood_wall_01_32
+  - first:
+      213: -5908928812059591552
+    second: overlay_blood_wall_01_33
+  - first:
+      213: 2388583208186034735
+    second: overlay_blood_wall_01_34
+  - first:
+      213: -4816474849093453575
+    second: overlay_blood_wall_01_35
+  - first:
+      213: -2712154227607304222
+    second: overlay_blood_wall_01_36
+  - first:
+      213: 2741198490133575341
+    second: overlay_blood_wall_01_37
+  - first:
+      213: 3585471327395194461
+    second: overlay_blood_wall_01_38
+  - first:
+      213: 328574597610844717
+    second: overlay_blood_wall_01_39
+  - first:
+      213: -7706173263449447545
+    second: overlay_blood_wall_01_40
+  - first:
+      213: 3304299494256323087
+    second: overlay_blood_wall_01_41
+  - first:
+      213: 8601157705813763473
+    second: overlay_blood_wall_01_42
+  - first:
+      213: -895707636400660194
+    second: overlay_blood_wall_01_43
+  - first:
+      213: -6968806422482867597
+    second: overlay_blood_wall_01_44
+  - first:
+      213: -437242085015139839
+    second: overlay_blood_wall_01_45
+  - first:
+      213: -6911085729843644811
+    second: overlay_blood_wall_01_46
+  - first:
+      213: 1699871221969694237
+    second: overlay_blood_wall_01_47
+  - first:
+      213: 4570960480261274105
+    second: overlay_blood_wall_01_48
+  - first:
+      213: 533925367933075826
+    second: overlay_blood_wall_01_49
+  - first:
+      213: -5268017793191749828
+    second: overlay_blood_wall_01_50
+  - first:
+      213: -5655974198553606825
+    second: overlay_blood_wall_01_51
+  - first:
+      213: 6624580502283132076
+    second: overlay_blood_wall_01_52
+  - first:
+      213: 2905887595531878880
+    second: overlay_blood_wall_01_53
+  - first:
+      213: 8441317592911961947
+    second: overlay_blood_wall_01_54
+  - first:
+      213: -7368707393790367511
+    second: overlay_blood_wall_01_55
+  - first:
+      213: -7737522038896204316
+    second: overlay_blood_wall_01_56
+  - first:
+      213: -6331566416049417117
+    second: overlay_blood_wall_01_57
+  - first:
+      213: 8624146166464002997
+    second: overlay_blood_wall_01_58
+  - first:
+      213: 7849068034426601460
+    second: overlay_blood_wall_01_59
+  - first:
+      213: -7809499291463951196
+    second: overlay_blood_wall_01_60
+  - first:
+      213: 5780192392992410496
+    second: overlay_blood_wall_01_61
+  - first:
+      213: 2321788347699380930
+    second: overlay_blood_wall_01_62
+  - first:
+      213: -5291058039347463735
+    second: overlay_blood_wall_01_63
+  - first:
+      213: 5529203908460503471
+    second: overlay_blood_wall_01_64
+  - first:
+      213: -3043910091394624671
+    second: overlay_blood_wall_01_65
+  - first:
+      213: 5397524355241706025
+    second: overlay_blood_wall_01_66
+  - first:
+      213: 5712959564637924261
+    second: overlay_blood_wall_01_67
+  - first:
+      213: 6478190303582147611
+    second: overlay_blood_wall_01_68
+  - first:
+      213: -1480336859786762016
+    second: overlay_blood_wall_01_69
+  - first:
+      213: 7551171654923813924
+    second: overlay_blood_wall_01_70
+  - first:
+      213: -8764160433875593402
+    second: overlay_blood_wall_01_71
+  - first:
+      213: -5925037622178854815
+    second: overlay_blood_wall_01_72
+  - first:
+      213: -1461300021809251628
+    second: overlay_blood_wall_01_73
+  - first:
+      213: 1238860353423284709
+    second: overlay_blood_wall_01_74
+  - first:
+      213: -7147325389732144245
+    second: overlay_blood_wall_01_75
+  - first:
+      213: 1717773662993589166
+    second: overlay_blood_wall_01_76
+  - first:
+      213: 523532828800669490
+    second: overlay_blood_wall_01_77
+  - first:
+      213: -2291976360381712690
+    second: overlay_blood_wall_01_78
+  - first:
+      213: 5434376095745657006
+    second: overlay_blood_wall_01_79
+  - first:
+      213: -8371550255135166905
+    second: overlay_blood_wall_01_80
+  - first:
+      213: -4801478714481932438
+    second: overlay_blood_wall_01_81
+  - first:
+      213: -780271970829098373
+    second: overlay_blood_wall_01_82
+  - first:
+      213: -1329854254871045707
+    second: overlay_blood_wall_01_83
+  - first:
+      213: -8926076174667883688
+    second: overlay_blood_wall_01_84
+  - first:
+      213: 6930754557317008431
+    second: overlay_blood_wall_01_85
+  - first:
+      213: 775346854116811903
+    second: overlay_blood_wall_01_86
+  - first:
+      213: 9193901871985546758
+    second: overlay_blood_wall_01_87
+  - first:
+      213: 7697801452392707945
+    second: overlay_blood_wall_01_88
+  - first:
+      213: -335895722426229150
+    second: overlay_blood_wall_01_89
+  - first:
+      213: -9183275831232525107
+    second: overlay_blood_wall_01_90
+  - first:
+      213: 2093571773354076284
+    second: overlay_blood_wall_01_91
+  - first:
+      213: -9098762533106836792
+    second: overlay_blood_wall_01_92
+  - first:
+      213: -3160471034389374664
+    second: overlay_blood_wall_01_93
+  - first:
+      213: 5389583635776708213
+    second: overlay_blood_wall_01_94
+  - first:
+      213: 8285398468104826820
+    second: overlay_blood_wall_01_95
+  - first:
+      213: 318177115573745359
+    second: overlay_blood_wall_01_96
+  - first:
+      213: 3491667888018546173
+    second: overlay_blood_wall_01_97
+  - first:
+      213: -8191244588919732842
+    second: overlay_blood_wall_01_98
+  - first:
+      213: 4127673320771668065
+    second: overlay_blood_wall_01_99
+  - first:
+      213: -8637839442306338033
+    second: overlay_blood_wall_01_100
+  - first:
+      213: -5788861718768863205
+    second: overlay_blood_wall_01_101
+  - first:
+      213: -2043032040989438345
+    second: overlay_blood_wall_01_102
+  - first:
+      213: 1077313547431118452
+    second: overlay_blood_wall_01_103
+  - first:
+      213: 2772426135408273451
+    second: overlay_blood_wall_01_104
+  - first:
+      213: 1224251545355187996
+    second: overlay_blood_wall_01_105
+  - first:
+      213: -1309797579314821486
+    second: overlay_blood_wall_01_106
+  - first:
+      213: 7298493455224426755
+    second: overlay_blood_wall_01_107
+  - first:
+      213: 8341241382966880276
+    second: overlay_blood_wall_01_108
+  - first:
+      213: 1253443625018774004
+    second: overlay_blood_wall_01_109
+  - first:
+      213: -1779787596794047073
+    second: overlay_blood_wall_01_110
+  - first:
+      213: -3300957260617481454
+    second: overlay_blood_wall_01_111
+  - first:
+      213: -8695338458631449162
+    second: overlay_blood_wall_01_112
+  - first:
+      213: 2844299682603976137
+    second: overlay_blood_wall_01_113
+  - first:
+      213: -4908043906008732695
+    second: overlay_blood_wall_01_114
+  - first:
+      213: 3753499605626027995
+    second: overlay_blood_wall_01_115
+  - first:
+      213: -6014967474722545447
+    second: overlay_blood_wall_01_116
+  - first:
+      213: 5605531246494706976
+    second: overlay_blood_wall_01_117
+  - first:
+      213: 6735994329010462040
+    second: overlay_blood_wall_01_118
+  - first:
+      213: -972044788170312324
+    second: overlay_blood_wall_01_119
+  - first:
+      213: -4312719759154087226
+    second: overlay_blood_wall_01_120
+  - first:
+      213: -2788845678700626567
+    second: overlay_blood_wall_01_121
+  - first:
+      213: -8372713530413862414
+    second: overlay_blood_wall_01_122
+  - first:
+      213: 8512663340696131466
+    second: overlay_blood_wall_01_123
+  - first:
+      213: -8946714403343396806
+    second: overlay_blood_wall_01_124
+  - first:
+      213: -8211353044566064882
+    second: overlay_blood_wall_01_125
+  - first:
+      213: 3717741567644397109
+    second: overlay_blood_wall_01_126
+  - first:
+      213: 3838150888258775365
+    second: overlay_blood_wall_01_127
+  - first:
+      213: -6576682735043011383
+    second: overlay_blood_wall_01_128
+  - first:
+      213: 5401690299905540461
+    second: overlay_blood_wall_01_129
+  - first:
+      213: -8648454046142310185
+    second: overlay_blood_wall_01_130
+  - first:
+      213: -4896252687830378495
+    second: overlay_blood_wall_01_131
+  - first:
+      213: 6789485800955433037
+    second: overlay_blood_wall_01_132
+  - first:
+      213: 4832246790822945040
+    second: overlay_blood_wall_01_133
+  - first:
+      213: 8009915892957340931
+    second: overlay_blood_wall_01_134
+  - first:
+      213: -6737546510602099347
+    second: overlay_blood_wall_01_135
+  - first:
+      213: -7603285267917561618
+    second: overlay_blood_wall_01_136
+  - first:
+      213: -4827867300707591273
+    second: overlay_blood_wall_01_137
+  - first:
+      213: -853735084193785133
+    second: overlay_blood_wall_01_138
+  - first:
+      213: -3938913847304559392
+    second: overlay_blood_wall_01_139
+  - first:
+      213: 2684151157664829943
+    second: overlay_blood_wall_01_140
+  - first:
+      213: -4342854860182109889
+    second: overlay_blood_wall_01_141
+  - first:
+      213: -5896452371739039037
+    second: overlay_blood_wall_01_142
+  - first:
+      213: -2348162094876672391
+    second: overlay_blood_wall_01_143
+  - first:
+      213: 7506079449603079050
+    second: overlay_blood_wall_01_144
+  - first:
+      213: 2931877149155434821
+    second: overlay_blood_wall_01_145
+  - first:
+      213: -3578102809583341109
+    second: overlay_blood_wall_01_146
+  - first:
+      213: -3774142751470949233
+    second: overlay_blood_wall_01_147
+  - first:
+      213: 469216303689097764
+    second: overlay_blood_wall_01_148
+  - first:
+      213: 7183056021397020510
+    second: overlay_blood_wall_01_149
+  - first:
+      213: -2454382862295714278
+    second: overlay_blood_wall_01_150
+  - first:
+      213: -4516224658935970871
+    second: overlay_blood_wall_01_151
+  - first:
+      213: 558290831803054841
+    second: overlay_blood_wall_01_152
+  - first:
+      213: 106555374631761920
+    second: overlay_blood_wall_01_153
+  - first:
+      213: -6675160187496548122
+    second: overlay_blood_wall_01_154
+  - first:
+      213: 904325010622030022
+    second: overlay_blood_wall_01_155
+  - first:
+      213: -944774180301996042
+    second: overlay_blood_wall_01_156
+  - first:
+      213: -8409057844817703269
+    second: overlay_blood_wall_01_157
+  - first:
+      213: -7349423187177750395
+    second: overlay_blood_wall_01_158
+  - first:
+      213: 5776774149791884838
+    second: overlay_blood_wall_01_159
+  - first:
+      213: -1860625681329250877
+    second: overlay_blood_wall_01_160
+  - first:
+      213: -6554538995323896481
+    second: overlay_blood_wall_01_161
+  - first:
+      213: -5017116326412981534
+    second: overlay_blood_wall_01_162
+  - first:
+      213: -7061132387216551057
+    second: overlay_blood_wall_01_163
+  - first:
+      213: 596134386560566034
+    second: overlay_blood_wall_01_164
+  - first:
+      213: -5315006447674031248
+    second: overlay_blood_wall_01_165
+  - first:
+      213: -4507654057719720083
+    second: overlay_blood_wall_01_166
+  - first:
+      213: 1891597868014472106
+    second: overlay_blood_wall_01_167
+  - first:
+      213: -1276863432653602348
+    second: overlay_blood_wall_01_168
+  - first:
+      213: 2225425889840279148
+    second: overlay_blood_wall_01_169
+  - first:
+      213: -8459580278929929254
+    second: overlay_blood_wall_01_170
+  - first:
+      213: 3121133120333897952
+    second: overlay_blood_wall_01_171
+  - first:
+      213: -5444562218813685042
+    second: overlay_blood_wall_01_172
+  - first:
+      213: 2690380914032849951
+    second: overlay_blood_wall_01_173
+  - first:
+      213: 2611291984458849335
+    second: overlay_blood_wall_01_174
+  - first:
+      213: -4592289683131146787
+    second: overlay_blood_wall_01_175
+  - first:
+      213: -4350352772180148117
+    second: overlay_blood_wall_01_176
+  - first:
+      213: 1299584610160246189
+    second: overlay_blood_wall_01_177
+  - first:
+      213: -374975601064837489
+    second: overlay_blood_wall_01_178
+  - first:
+      213: 1382636944894649634
+    second: overlay_blood_wall_01_179
+  - first:
+      213: -2639729080348988309
+    second: overlay_blood_wall_01_180
+  - first:
+      213: -1453986009870110868
+    second: overlay_blood_wall_01_181
+  - first:
+      213: -9025206742926082413
+    second: overlay_blood_wall_01_182
+  - first:
+      213: -6332482116631148789
+    second: overlay_blood_wall_01_183
+  - first:
+      213: 2930132378729335510
+    second: overlay_blood_wall_01_184
+  - first:
+      213: -2263374700101360626
+    second: overlay_blood_wall_01_185
+  - first:
+      213: -4410642338623428366
+    second: overlay_blood_wall_01_186
+  - first:
+      213: 6710350567884924343
+    second: overlay_blood_wall_01_187
+  - first:
+      213: 434897185093825604
+    second: overlay_blood_wall_01_188
+  - first:
+      213: -1897059112655201498
+    second: overlay_blood_wall_01_189
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1934
+        width: 67
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b202c419a57834750800000000000000
+      internalID: 6288018327793836075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_1
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1926
+        width: 60
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 706e9ac97353a8eb0800000000000000
+      internalID: -4716899146749319673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_2
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1895
+        width: 58
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd8b3314ab0fbcd0800000000000000
+      internalID: -2540298865488458304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_3
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 1958
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb1d9b3099dd0d8a0800000000000000
+      internalID: -6282277830919597633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_4
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 1895
+        width: 58
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aede4653a6dbd8f0800000000000000
+      internalID: -514581735387767132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_5
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 1958
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe95ad5463f96120800000000000000
+      internalID: 2407723088199655155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_6
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1926
+        width: 60
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23294686785bdfa80800000000000000
+      internalID: -8431383334191066574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_7
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 1934
+        width: 67
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b10ac891c976d8e0800000000000000
+      internalID: -1669012739495165517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_8
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1922
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9a08ef54dc8fd590800000000000000
+      internalID: -7647238798481814884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_9
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1930
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6198d30cdc9e28a10800000000000000
+      internalID: 1910346261861337366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_10
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1896
+        width: 68
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e9cfa10d2fc1080800000000000000
+      internalID: -9215223761886994807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_11
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 1896
+        width: 68
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44e78cf3089830900800000000000000
+      internalID: 649513955190406724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_12
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 1930
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a7c03dd152a85e0800000000000000
+      internalID: -1906670682212894198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_13
+      rect:
+        serializedVersion: 2
+        x: 1004
+        y: 1922
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e68b0935c1ce290800000000000000
+      internalID: -7859876104432488861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_14
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1890
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 329fbea9f39390d80800000000000000
+      internalID: -8284027094226437853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_15
+      rect:
+        serializedVersion: 2
+        x: 628
+        y: 1890
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34ec276eacf55a990800000000000000
+      internalID: -7375383489695003069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_16
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1662
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080ac3a67cc588d60800000000000000
+      internalID: 7892660358517399680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_17
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1694
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33db9a8bf406f0ba0800000000000000
+      internalID: -6120567473056400077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_18
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1690
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1af65a949c79dde0800000000000000
+      internalID: -1307877239088023014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_19
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 1694
+        width: 26
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2894b3138a65ee0e0800000000000000
+      internalID: -2238756684376094334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_20
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1690
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4be4c9b331cb9f270800000000000000
+      internalID: 8284859780315238068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_21
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 1662
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1215a43dd87c150800000000000000
+      internalID: 5892834576062030284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_22
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1687
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e69e77b6ba163bea0800000000000000
+      internalID: -5858231301408560786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_23
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1660
+        width: 54
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc06f192e20bec4a0800000000000000
+      internalID: -6571121093982068533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_24
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1684
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b345ce12afc9220800000000000000
+      internalID: 2494143317262220114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_25
+      rect:
+        serializedVersion: 2
+        x: 446
+        y: 1684
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d9997060572edc0800000000000000
+      internalID: -3611195282439955168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_26
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1684
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 217feb9d58c8ead80800000000000000
+      internalID: -8237492161902348526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_27
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1684
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6c9f95d722dc6b60800000000000000
+      internalID: 7740792928072604783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_28
+      rect:
+        serializedVersion: 2
+        x: 580
+        y: 1660
+        width: 54
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fdf2baf64f7fe950800000000000000
+      internalID: 6480538331639905785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_29
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1686
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3887573feb89bf890800000000000000
+      internalID: -7423171614894360445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_30
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1677
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e03f88a7d5486f0800000000000000
+      internalID: -683318462588449191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_31
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1669
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d0eae1855a96e270800000000000000
+      internalID: 8279474657009787092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_32
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1679
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbcaad21a2041fe70800000000000000
+      internalID: 9147162867615313085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_33
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 1678
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08cfd126d844ffda0800000000000000
+      internalID: -5908928812059591552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_34
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 1668
+        width: 10
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a3468c5c3f52120800000000000000
+      internalID: 2388583208186034735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_35
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1676
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f87e2eb4a1782db0800000000000000
+      internalID: -4816474849093453575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_36
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1629
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7846f791e7c5ad0800000000000000
+      internalID: -2712154227607304222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_37
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1671
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da6bf37d081ba0620800000000000000
+      internalID: 2741198490133575341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_38
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 1663
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d562db5fc2722c130800000000000000
+      internalID: 3585471327395194461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_39
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 1658
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d22bfcc0bd45f8400800000000000000
+      internalID: 328574597610844717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_40
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1658
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 783ab76fe3c2e0590800000000000000
+      internalID: -7706173263449447545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_41
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1662
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0aa6a212ea3bdd20800000000000000
+      internalID: 3304299494256323087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_42
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 1628
+        width: 42
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195a420dc537d5770800000000000000
+      internalID: 8601157705813763473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_43
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1670
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11ebbd76aec193f0800000000000000
+      internalID: -895707636400660194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_44
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1655
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37aa2772b73d94f90800000000000000
+      internalID: -6968806422482867597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_45
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1658
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10a42d9e3aa9ee9f0800000000000000
+      internalID: -437242085015139839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_46
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1652
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576f56c2524e610a0800000000000000
+      internalID: -6911085729843644811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_47
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1658
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ea96dbed7279710800000000000000
+      internalID: 1699871221969694237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_48
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1656
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f9725cb6505f6f30800000000000000
+      internalID: 4570960480261274105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_49
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 1656
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27188341b42e86700800000000000000
+      internalID: 533925367933075826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_50
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1658
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c375e5e6abd34e6b0800000000000000
+      internalID: -5268017793191749828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_51
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1652
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755007cde61f181b0800000000000000
+      internalID: -5655974198553606825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_52
+      rect:
+        serializedVersion: 2
+        x: 868
+        y: 1658
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cac90984edc3feb50800000000000000
+      internalID: 6624580502283132076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_53
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1654
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e144e04f59c35820800000000000000
+      internalID: 2905887595531878880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_54
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1396
+        width: 27
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5fd5c170a5952570800000000000000
+      internalID: 8441317592911961947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_55
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1436
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e8a45b9aa71db990800000000000000
+      internalID: -7368707393790367511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_56
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1373
+        width: 20
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e5e5d563bcce9490800000000000000
+      internalID: -7737522038896204316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_57
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 1434
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364d49304e1c128a0800000000000000
+      internalID: -6331566416049417117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_58
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1381
+        width: 20
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb3227ee3f1fa770800000000000000
+      internalID: 8624146166464002997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_59
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 1396
+        width: 27
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fffed98acd7dec60800000000000000
+      internalID: 7849068034426601460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_60
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 1436
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ac50aa55c51f9390800000000000000
+      internalID: -7809499291463951196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_61
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1398
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b4abd4b5e573050800000000000000
+      internalID: 5780192392992410496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_62
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 1426
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2434c6336a83020800000000000000
+      internalID: 2321788347699380930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_63
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 1398
+        width: 29
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c938b61fb26296b0800000000000000
+      internalID: -5291058039347463735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_64
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1394
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa16d76e8adabbc40800000000000000
+      internalID: 5529203908460503471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_65
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1318
+        width: 48
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 163523236ebd1c5d0800000000000000
+      internalID: -3043910091394624671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_66
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1350
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92283b4cdcbd7ea40800000000000000
+      internalID: 5397524355241706025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_67
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 1387
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5abe96a9472884f40800000000000000
+      internalID: 5712959564637924261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_68
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1350
+        width: 52
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b14d46812c727e950800000000000000
+      internalID: 6478190303582147611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_69
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 1387
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e82e7c1879c47be0800000000000000
+      internalID: -1480336859786762016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_70
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 1318
+        width: 48
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4248bb1cc962bc860800000000000000
+      internalID: 7551171654923813924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_71
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1394
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 647df4815827f5680800000000000000
+      internalID: -8764160433875593402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_72
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1370
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1684431cca906cda0800000000000000
+      internalID: -5925037622178854815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_73
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1367
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4daf9c95f5b68bbe0800000000000000
+      internalID: -1461300021809251628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_74
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 1361
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e91c1c7de0513110800000000000000
+      internalID: 1238860353423284709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_75
+      rect:
+        serializedVersion: 2
+        x: 594
+        y: 1369
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b92ea1d699fcc90800000000000000
+      internalID: -7147325389732144245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_76
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 1375
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea3214b9b02c6d710800000000000000
+      internalID: 1717773662993589166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_77
+      rect:
+        serializedVersion: 2
+        x: 992
+        y: 1370
+        width: 8
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2375be08556f34700800000000000000
+      internalID: 523532828800669490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_78
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1346
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6fad5c4a34130e0800000000000000
+      internalID: -2291976360381712690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_79
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1346
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea84bca3448ca6b40800000000000000
+      internalID: 5434376095745657006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_80
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 1157
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74e6657b56742db80800000000000000
+      internalID: -8371550255135166905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_81
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1138
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6784ba6c88bd5db0800000000000000
+      internalID: -4801478714481932438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_82
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 1144
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72a98ec6caeb25f0800000000000000
+      internalID: -780271970829098373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_83
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1146
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b99e5fd9986b8de0800000000000000
+      internalID: -1329854254871045707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_84
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 1167
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85bd7d2f205302480800000000000000
+      internalID: -8926076174667883688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_85
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 1167
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ccc469c8cfe2060800000000000000
+      internalID: 6930754557317008431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_86
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 1146
+        width: 46
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7469591bd592ca00800000000000000
+      internalID: 775346854116811903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_87
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 1144
+        width: 40
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6065f7b8a0d479f70800000000000000
+      internalID: 9193901871985546758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_88
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1173
+        width: 64
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9677a51e2a514da60800000000000000
+      internalID: 7697801452392707945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_89
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 1157
+        width: 18
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26e163fbe98a65bf0800000000000000
+      internalID: -335895722426229150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_90
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1142
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcc84fc59437e8080800000000000000
+      internalID: -9183275831232525107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_91
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1142
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c78ed868f6cdd0d10800000000000000
+      internalID: 2093571773354076284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_92
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1086
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ca9886fea3bab180800000000000000
+      internalID: -9098762533106836792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_93
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1120
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8395f40d650c324d0800000000000000
+      internalID: -3160471034389374664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_94
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1086
+        width: 45
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57e9ab1f2c5abca40800000000000000
+      internalID: 5389583635776708213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_95
+      rect:
+        serializedVersion: 2
+        x: 976
+        y: 1120
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf24f14206abf270800000000000000
+      internalID: 8285398468104826820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_96
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 938
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc67e6d96646a6400800000000000000
+      internalID: 318177115573745359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_97
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 903
+        width: 32
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfddbfac175e47030800000000000000
+      internalID: 3491667888018546173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_98
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 956
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6954919027ad25e80800000000000000
+      internalID: -8191244588919732842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_99
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 956
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168c3711401784930800000000000000
+      internalID: 4127673320771668065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_100
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 903
+        width: 32
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f03f87edaca302880800000000000000
+      internalID: -8637839442306338033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_101
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 938
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18bceeffe4d9afa0800000000000000
+      internalID: -5788861718768863205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_102
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 934
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77e4514ee21b5a3e0800000000000000
+      internalID: -2043032040989438345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_103
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 934
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476095aa6f263fe00800000000000000
+      internalID: 1077313547431118452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_104
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 892
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28e40791e2a97620800000000000000
+      internalID: 2772426135408273451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_105
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 865
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c177e9c4b4a6df010800000000000000
+      internalID: 1224251545355187996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_106
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 898
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296064d8a0aa2dde0800000000000000
+      internalID: -1309797579314821486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_107
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 898
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3015a22e025794560800000000000000
+      internalID: 7298493455224426755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_108
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 865
+        width: 48
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 418678118da02c370800000000000000
+      internalID: 8341241382966880276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_109
+      rect:
+        serializedVersion: 2
+        x: 887
+        y: 892
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f1d83ff550256110800000000000000
+      internalID: 1253443625018774004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_110
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 835
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f95d1754c9cec47e0800000000000000
+      internalID: -1779787596794047073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_111
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 874
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21306265cd4a032d0800000000000000
+      internalID: -3300957260617481454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_112
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 868
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b5da73edb3f35780800000000000000
+      internalID: -8695338458631449162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_113
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 868
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5cd58dd7bf87720800000000000000
+      internalID: 2844299682603976137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_114
+      rect:
+        serializedVersion: 2
+        x: 885
+        y: 874
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb2458421023ebb0800000000000000
+      internalID: -4908043906008732695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_115
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 835
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf78e1210c171430800000000000000
+      internalID: 3753499605626027995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_116
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 703
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d062ad43fa868ca0800000000000000
+      internalID: -6014967474722545447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_117
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 694
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02d6ba428f8dacd40800000000000000
+      internalID: 5605531246494706976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_118
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 692
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85dd6b5472f0b7d50800000000000000
+      internalID: 6735994329010462040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_119
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 698
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c75b65f4a6a9282f0800000000000000
+      internalID: -972044788170312324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_120
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 682
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6caffc39a342624c0800000000000000
+      internalID: -4312719759154087226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_121
+      rect:
+        serializedVersion: 2
+        x: 697
+        y: 682
+        width: 52
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d7aa391a70c49d0800000000000000
+      internalID: -2788845678700626567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_122
+      rect:
+        serializedVersion: 2
+        x: 748
+        y: 698
+        width: 14
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f1339597652ecb80800000000000000
+      internalID: -8372713530413862414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_123
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 694
+        width: 33
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87dea2d43e032670800000000000000
+      internalID: 8512663340696131466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_124
+      rect:
+        serializedVersion: 2
+        x: 1001
+        y: 692
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3098d1e6a2e6d380800000000000000
+      internalID: -8946714403343396806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_125
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 703
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e01415d59e96b0e80800000000000000
+      internalID: -8211353044566064882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_126
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 649
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53ee5222242189330800000000000000
+      internalID: 3717741567644397109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_127
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 619
+        width: 57
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 549a301c5e9d34530800000000000000
+      internalID: 3838150888258775365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_128
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 651
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc1151b5edeab4a0800000000000000
+      internalID: -6576682735043011383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_129
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 670
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d610b8855b8a6fa40800000000000000
+      internalID: 5401690299905540461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_130
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 678
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d8d563ddd48af780800000000000000
+      internalID: -8648454046142310185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_131
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 676
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10891533f140d0cb0800000000000000
+      internalID: -4896252687830378495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_132
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 626
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d40d18d1d59193e50800000000000000
+      internalID: 6789485800955433037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_133
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 667
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 011e50a9ad69f0340800000000000000
+      internalID: 4832246790822945040
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_134
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 626
+        width: 58
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3056a78f010f82f60800000000000000
+      internalID: 8009915892957340931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_135
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 667
+        width: 8
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65a3e9452d6f72a0800000000000000
+      internalID: -6737546510602099347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_136
+      rect:
+        serializedVersion: 2
+        x: 708
+        y: 676
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee020df2554bb7690800000000000000
+      internalID: -7603285267917561618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_137
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 678
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b9996e448fffcb0800000000000000
+      internalID: -4827867300707591273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_138
+      rect:
+        serializedVersion: 2
+        x: 731
+        y: 670
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da5756d67ce624f0800000000000000
+      internalID: -853735084193785133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_139
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 651
+        width: 12
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e46b82a9ba2659c0800000000000000
+      internalID: -3938913847304559392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_140
+      rect:
+        serializedVersion: 2
+        x: 830
+        y: 619
+        width: 57
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f1d014b145004520800000000000000
+      internalID: 2684151157664829943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_141
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 649
+        width: 20
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3144cb93841bb3c0800000000000000
+      internalID: -4342854860182109889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_142
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 618
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ca2c730fc79b2ea0800000000000000
+      internalID: -5896452371739039037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_143
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 617
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97eb6db0407a96fd0800000000000000
+      internalID: -2348162094876672391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_144
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 616
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b73719d73fa2860800000000000000
+      internalID: 7506079449603079050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_145
+      rect:
+        serializedVersion: 2
+        x: 599
+        y: 616
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 541ae70cbbe10b820800000000000000
+      internalID: 2931877149155434821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_146
+      rect:
+        serializedVersion: 2
+        x: 616
+        y: 617
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc135f8c376085ec0800000000000000
+      internalID: -3578102809583341109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_147
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 618
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8c65fee92d8f9bc0800000000000000
+      internalID: -3774142751470949233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_148
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 604
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422e5300ebdf28600800000000000000
+      internalID: 469216303689097764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_149
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 604
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5f991dd4675fa360800000000000000
+      internalID: 7183056021397020510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_150
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 478
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16be066ac740fdd0800000000000000
+      internalID: -2454382862295714278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_151
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 478
+        width: 15
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c30346c9952351c0800000000000000
+      internalID: -4516224658935970871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_152
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 372
+        width: 58
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fa7af6bd827fb700800000000000000
+      internalID: 558290831803054841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_153
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 453
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 008b5d57c8f8a7100800000000000000
+      internalID: 106555374631761920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_154
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 445
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e8307d0d211d53a0800000000000000
+      internalID: -6675160187496548122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_155
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 435
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0a0ab4ececc8c00800000000000000
+      internalID: 904325010622030022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_156
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 435
+        width: 26
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ff732e73ec73e2f0800000000000000
+      internalID: -944774180301996042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_157
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 372
+        width: 58
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9ecde771760d4b80800000000000000
+      internalID: -8409057844817703269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_158
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 445
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5804048dc8a910a90800000000000000
+      internalID: -7349423187177750395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_159
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 453
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 626210a8b793b2050800000000000000
+      internalID: 5776774149791884838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_160
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 406
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cd96640dcabd26e0800000000000000
+      internalID: -1860625681329250877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_161
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 396
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5df54dd2899905a0800000000000000
+      internalID: -6554538995323896481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_162
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 396
+        width: 43
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea675f684f9f5ab0800000000000000
+      internalID: -5017116326412981534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_163
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 406
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6393fb5181d10e90800000000000000
+      internalID: -7061132387216551057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_164
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 319
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 213865de015e54800800000000000000
+      internalID: 596134386560566034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_165
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 350
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0738a73cbcd4d36b0800000000000000
+      internalID: -5315006447674031248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_166
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 368
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d67944f54889171c0800000000000000
+      internalID: -4507654057719720083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_167
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 365
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aab83e42d3e404a10800000000000000
+      internalID: 1891597868014472106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_168
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 365
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d10ffd197ba74ee0800000000000000
+      internalID: -1276863432653602348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_169
+      rect:
+        serializedVersion: 2
+        x: 856
+        y: 368
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6e23e55e0d42ee10800000000000000
+      internalID: 2225425889840279148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_170
+      rect:
+        serializedVersion: 2
+        x: 874
+        y: 350
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adb4b7d9e88899a80800000000000000
+      internalID: -8459580278929929254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_171
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 319
+        width: 37
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e06536590e705b20800000000000000
+      internalID: 3121133120333897952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_172
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 131
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2091e22870174b0800000000000000
+      internalID: -5444562218813685042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_173
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 141
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f143b63ef27265520800000000000000
+      internalID: 2690380914032849951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_174
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 138
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73c9e72893c2d3420800000000000000
+      internalID: 2611291984458849335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_175
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 120
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dddd64b3dd8e440c0800000000000000
+      internalID: -4592289683131146787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_176
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 120
+        width: 14
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60019ee33170a3c0800000000000000
+      internalID: -4350352772180148117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_177
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 138
+        width: 22
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad7a24415d090210800000000000000
+      internalID: 1299584610160246189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_178
+      rect:
+        serializedVersion: 2
+        x: 724
+        y: 141
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e77137da1dbcaf0800000000000000
+      internalID: -374975601064837489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_179
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 131
+        width: 16
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225e6c1d9fc103310800000000000000
+      internalID: 1382636944894649634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_180
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 119
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6ca786236ccd5bd0800000000000000
+      internalID: -2639729080348988309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_181
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 75
+        width: 22
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6fed457d6762dbe0800000000000000
+      internalID: -1453986009870110868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_182
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 75
+        width: 22
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e3e6fe84600c280800000000000000
+      internalID: -9025206742926082413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_183
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 119
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07cfabd0118e18a0800000000000000
+      internalID: -6332482116631148789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_184
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 101
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da480bbfdbe9a820800000000000000
+      internalID: 2930132378729335510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_185
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 63
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e042adeb3b0e690e0800000000000000
+      internalID: -2263374700101360626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_186
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 86
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f86d0f59204ac2c0800000000000000
+      internalID: -4410642338623428366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_187
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 86
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b52f1dd944ff1d50800000000000000
+      internalID: 6710350567884924343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_188
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 63
+        width: 22
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 444b5578fa0190600800000000000000
+      internalID: 434897185093825604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: overlay_blood_wall_01_189
+      rect:
+        serializedVersion: 2
+        x: 982
+        y: 101
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62bd440c9ca4ca5e0800000000000000
+      internalID: -1897059112655201498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      overlay_blood_wall_01_0: 6288018327793836075
+      overlay_blood_wall_01_1: -4716899146749319673
+      overlay_blood_wall_01_10: -9215223761886994807
+      overlay_blood_wall_01_100: -8637839442306338033
+      overlay_blood_wall_01_101: -5788861718768863205
+      overlay_blood_wall_01_102: -2043032040989438345
+      overlay_blood_wall_01_103: 1077313547431118452
+      overlay_blood_wall_01_104: 2772426135408273451
+      overlay_blood_wall_01_105: 1224251545355187996
+      overlay_blood_wall_01_106: -1309797579314821486
+      overlay_blood_wall_01_107: 7298493455224426755
+      overlay_blood_wall_01_108: 8341241382966880276
+      overlay_blood_wall_01_109: 1253443625018774004
+      overlay_blood_wall_01_11: 649513955190406724
+      overlay_blood_wall_01_110: -1779787596794047073
+      overlay_blood_wall_01_111: -3300957260617481454
+      overlay_blood_wall_01_112: -8695338458631449162
+      overlay_blood_wall_01_113: 2844299682603976137
+      overlay_blood_wall_01_114: -4908043906008732695
+      overlay_blood_wall_01_115: 3753499605626027995
+      overlay_blood_wall_01_116: -6014967474722545447
+      overlay_blood_wall_01_117: 5605531246494706976
+      overlay_blood_wall_01_118: 6735994329010462040
+      overlay_blood_wall_01_119: -972044788170312324
+      overlay_blood_wall_01_12: -1906670682212894198
+      overlay_blood_wall_01_120: -4312719759154087226
+      overlay_blood_wall_01_121: -2788845678700626567
+      overlay_blood_wall_01_122: -8372713530413862414
+      overlay_blood_wall_01_123: 8512663340696131466
+      overlay_blood_wall_01_124: -8946714403343396806
+      overlay_blood_wall_01_125: -8211353044566064882
+      overlay_blood_wall_01_126: 3717741567644397109
+      overlay_blood_wall_01_127: 3838150888258775365
+      overlay_blood_wall_01_128: -6576682735043011383
+      overlay_blood_wall_01_129: 5401690299905540461
+      overlay_blood_wall_01_13: -7859876104432488861
+      overlay_blood_wall_01_130: -8648454046142310185
+      overlay_blood_wall_01_131: -4896252687830378495
+      overlay_blood_wall_01_132: 6789485800955433037
+      overlay_blood_wall_01_133: 4832246790822945040
+      overlay_blood_wall_01_134: 8009915892957340931
+      overlay_blood_wall_01_135: -6737546510602099347
+      overlay_blood_wall_01_136: -7603285267917561618
+      overlay_blood_wall_01_137: -4827867300707591273
+      overlay_blood_wall_01_138: -853735084193785133
+      overlay_blood_wall_01_139: -3938913847304559392
+      overlay_blood_wall_01_14: -8284027094226437853
+      overlay_blood_wall_01_140: 2684151157664829943
+      overlay_blood_wall_01_141: -4342854860182109889
+      overlay_blood_wall_01_142: -5896452371739039037
+      overlay_blood_wall_01_143: -2348162094876672391
+      overlay_blood_wall_01_144: 7506079449603079050
+      overlay_blood_wall_01_145: 2931877149155434821
+      overlay_blood_wall_01_146: -3578102809583341109
+      overlay_blood_wall_01_147: -3774142751470949233
+      overlay_blood_wall_01_148: 469216303689097764
+      overlay_blood_wall_01_149: 7183056021397020510
+      overlay_blood_wall_01_15: -7375383489695003069
+      overlay_blood_wall_01_150: -2454382862295714278
+      overlay_blood_wall_01_151: -4516224658935970871
+      overlay_blood_wall_01_152: 558290831803054841
+      overlay_blood_wall_01_153: 106555374631761920
+      overlay_blood_wall_01_154: -6675160187496548122
+      overlay_blood_wall_01_155: 904325010622030022
+      overlay_blood_wall_01_156: -944774180301996042
+      overlay_blood_wall_01_157: -8409057844817703269
+      overlay_blood_wall_01_158: -7349423187177750395
+      overlay_blood_wall_01_159: 5776774149791884838
+      overlay_blood_wall_01_16: 7892660358517399680
+      overlay_blood_wall_01_160: -1860625681329250877
+      overlay_blood_wall_01_161: -6554538995323896481
+      overlay_blood_wall_01_162: -5017116326412981534
+      overlay_blood_wall_01_163: -7061132387216551057
+      overlay_blood_wall_01_164: 596134386560566034
+      overlay_blood_wall_01_165: -5315006447674031248
+      overlay_blood_wall_01_166: -4507654057719720083
+      overlay_blood_wall_01_167: 1891597868014472106
+      overlay_blood_wall_01_168: -1276863432653602348
+      overlay_blood_wall_01_169: 2225425889840279148
+      overlay_blood_wall_01_17: -6120567473056400077
+      overlay_blood_wall_01_170: -8459580278929929254
+      overlay_blood_wall_01_171: 3121133120333897952
+      overlay_blood_wall_01_172: -5444562218813685042
+      overlay_blood_wall_01_173: 2690380914032849951
+      overlay_blood_wall_01_174: 2611291984458849335
+      overlay_blood_wall_01_175: -4592289683131146787
+      overlay_blood_wall_01_176: -4350352772180148117
+      overlay_blood_wall_01_177: 1299584610160246189
+      overlay_blood_wall_01_178: -374975601064837489
+      overlay_blood_wall_01_179: 1382636944894649634
+      overlay_blood_wall_01_18: -1307877239088023014
+      overlay_blood_wall_01_180: -2639729080348988309
+      overlay_blood_wall_01_181: -1453986009870110868
+      overlay_blood_wall_01_182: -9025206742926082413
+      overlay_blood_wall_01_183: -6332482116631148789
+      overlay_blood_wall_01_184: 2930132378729335510
+      overlay_blood_wall_01_185: -2263374700101360626
+      overlay_blood_wall_01_186: -4410642338623428366
+      overlay_blood_wall_01_187: 6710350567884924343
+      overlay_blood_wall_01_188: 434897185093825604
+      overlay_blood_wall_01_189: -1897059112655201498
+      overlay_blood_wall_01_19: -2238756684376094334
+      overlay_blood_wall_01_2: -2540298865488458304
+      overlay_blood_wall_01_20: 8284859780315238068
+      overlay_blood_wall_01_21: 5892834576062030284
+      overlay_blood_wall_01_22: -5858231301408560786
+      overlay_blood_wall_01_23: -6571121093982068533
+      overlay_blood_wall_01_24: 2494143317262220114
+      overlay_blood_wall_01_25: -3611195282439955168
+      overlay_blood_wall_01_26: -8237492161902348526
+      overlay_blood_wall_01_27: 7740792928072604783
+      overlay_blood_wall_01_28: 6480538331639905785
+      overlay_blood_wall_01_29: -7423171614894360445
+      overlay_blood_wall_01_3: -6282277830919597633
+      overlay_blood_wall_01_30: -683318462588449191
+      overlay_blood_wall_01_31: 8279474657009787092
+      overlay_blood_wall_01_32: 9147162867615313085
+      overlay_blood_wall_01_33: -5908928812059591552
+      overlay_blood_wall_01_34: 2388583208186034735
+      overlay_blood_wall_01_35: -4816474849093453575
+      overlay_blood_wall_01_36: -2712154227607304222
+      overlay_blood_wall_01_37: 2741198490133575341
+      overlay_blood_wall_01_38: 3585471327395194461
+      overlay_blood_wall_01_39: 328574597610844717
+      overlay_blood_wall_01_4: -514581735387767132
+      overlay_blood_wall_01_40: -7706173263449447545
+      overlay_blood_wall_01_41: 3304299494256323087
+      overlay_blood_wall_01_42: 8601157705813763473
+      overlay_blood_wall_01_43: -895707636400660194
+      overlay_blood_wall_01_44: -6968806422482867597
+      overlay_blood_wall_01_45: -437242085015139839
+      overlay_blood_wall_01_46: -6911085729843644811
+      overlay_blood_wall_01_47: 1699871221969694237
+      overlay_blood_wall_01_48: 4570960480261274105
+      overlay_blood_wall_01_49: 533925367933075826
+      overlay_blood_wall_01_5: 2407723088199655155
+      overlay_blood_wall_01_50: -5268017793191749828
+      overlay_blood_wall_01_51: -5655974198553606825
+      overlay_blood_wall_01_52: 6624580502283132076
+      overlay_blood_wall_01_53: 2905887595531878880
+      overlay_blood_wall_01_54: 8441317592911961947
+      overlay_blood_wall_01_55: -7368707393790367511
+      overlay_blood_wall_01_56: -7737522038896204316
+      overlay_blood_wall_01_57: -6331566416049417117
+      overlay_blood_wall_01_58: 8624146166464002997
+      overlay_blood_wall_01_59: 7849068034426601460
+      overlay_blood_wall_01_6: -8431383334191066574
+      overlay_blood_wall_01_60: -7809499291463951196
+      overlay_blood_wall_01_61: 5780192392992410496
+      overlay_blood_wall_01_62: 2321788347699380930
+      overlay_blood_wall_01_63: -5291058039347463735
+      overlay_blood_wall_01_64: 5529203908460503471
+      overlay_blood_wall_01_65: -3043910091394624671
+      overlay_blood_wall_01_66: 5397524355241706025
+      overlay_blood_wall_01_67: 5712959564637924261
+      overlay_blood_wall_01_68: 6478190303582147611
+      overlay_blood_wall_01_69: -1480336859786762016
+      overlay_blood_wall_01_7: -1669012739495165517
+      overlay_blood_wall_01_70: 7551171654923813924
+      overlay_blood_wall_01_71: -8764160433875593402
+      overlay_blood_wall_01_72: -5925037622178854815
+      overlay_blood_wall_01_73: -1461300021809251628
+      overlay_blood_wall_01_74: 1238860353423284709
+      overlay_blood_wall_01_75: -7147325389732144245
+      overlay_blood_wall_01_76: 1717773662993589166
+      overlay_blood_wall_01_77: 523532828800669490
+      overlay_blood_wall_01_78: -2291976360381712690
+      overlay_blood_wall_01_79: 5434376095745657006
+      overlay_blood_wall_01_8: -7647238798481814884
+      overlay_blood_wall_01_80: -8371550255135166905
+      overlay_blood_wall_01_81: -4801478714481932438
+      overlay_blood_wall_01_82: -780271970829098373
+      overlay_blood_wall_01_83: -1329854254871045707
+      overlay_blood_wall_01_84: -8926076174667883688
+      overlay_blood_wall_01_85: 6930754557317008431
+      overlay_blood_wall_01_86: 775346854116811903
+      overlay_blood_wall_01_87: 9193901871985546758
+      overlay_blood_wall_01_88: 7697801452392707945
+      overlay_blood_wall_01_89: -335895722426229150
+      overlay_blood_wall_01_9: 1910346261861337366
+      overlay_blood_wall_01_90: -9183275831232525107
+      overlay_blood_wall_01_91: 2093571773354076284
+      overlay_blood_wall_01_92: -9098762533106836792
+      overlay_blood_wall_01_93: -3160471034389374664
+      overlay_blood_wall_01_94: 5389583635776708213
+      overlay_blood_wall_01_95: 8285398468104826820
+      overlay_blood_wall_01_96: 318177115573745359
+      overlay_blood_wall_01_97: 3491667888018546173
+      overlay_blood_wall_01_98: -8191244588919732842
+      overlay_blood_wall_01_99: 4127673320771668065
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

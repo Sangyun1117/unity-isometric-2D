@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: faa28fe3245dc8943884d12ef24e80da
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3183585613446243634
+    second: recreational_01_0
+  - first:
+      213: 579281161038499888
+    second: recreational_01_1
+  - first:
+      213: -6886019597914658619
+    second: recreational_01_2
+  - first:
+      213: 2712392392261054036
+    second: recreational_01_3
+  - first:
+      213: -8488111475914229096
+    second: recreational_01_4
+  - first:
+      213: -1314011177679109374
+    second: recreational_01_5
+  - first:
+      213: 787576659894376864
+    second: recreational_01_6
+  - first:
+      213: 3128384716538758825
+    second: recreational_01_7
+  - first:
+      213: 154658284824828116
+    second: recreational_01_8
+  - first:
+      213: 585026920732998056
+    second: recreational_01_9
+  - first:
+      213: -8072760194307877391
+    second: recreational_01_10
+  - first:
+      213: -178882885044745882
+    second: recreational_01_11
+  - first:
+      213: -5559317876050068989
+    second: recreational_01_12
+  - first:
+      213: -2422139993211774519
+    second: recreational_01_13
+  - first:
+      213: 2611175310698471319
+    second: recreational_01_14
+  - first:
+      213: 5181312538474724207
+    second: recreational_01_15
+  - first:
+      213: 1572257488980087234
+    second: recreational_01_16
+  - first:
+      213: 7328166386509016732
+    second: recreational_01_17
+  - first:
+      213: 1427927995661452984
+    second: recreational_01_18
+  - first:
+      213: -2447591663082883564
+    second: recreational_01_19
+  - first:
+      213: -8400126945252741078
+    second: recreational_01_20
+  - first:
+      213: -8093145863798951033
+    second: recreational_01_21
+  - first:
+      213: 7358120801619073414
+    second: recreational_01_22
+  - first:
+      213: -8900870049118203329
+    second: recreational_01_23
+  - first:
+      213: 5017280358029223193
+    second: recreational_01_24
+  - first:
+      213: 2029245187452482483
+    second: recreational_01_25
+  - first:
+      213: 6873213042238671108
+    second: recreational_01_26
+  - first:
+      213: -3372444525170150166
+    second: recreational_01_27
+  - first:
+      213: 8388276593052644852
+    second: recreational_01_28
+  - first:
+      213: -5806661419612452497
+    second: recreational_01_29
+  - first:
+      213: -1676242504625357933
+    second: recreational_01_30
+  - first:
+      213: 1053077647632111671
+    second: recreational_01_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: recreational_01_0
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1800
+        width: 102
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 235e1818f3e5e2c20800000000000000
+      internalID: 3183585613446243634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recreational_01_1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1800
+        width: 102
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03096c495250a0800800000000000000
+      internalID: 579281161038499888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recreational_01_2
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1793
+        width: 127
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c82bedc8a1ff60a0800000000000000
+      internalID: -6886019597914658619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recreational_01_3
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1798
+        width: 127
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e2138828a54a520800000000000000
+      internalID: 2712392392261054036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recreational_01_4
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1840
+        width: 56
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89a3738a59b243a80800000000000000
+      internalID: -8488111475914229096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recreational_01_5
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 1840
+        width: 56
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2034b8bbbc1b3cde0800000000000000
+      internalID: -1314011177679109374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recreational_01_6
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1796
+        width: 129
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a99466acc80eea00800000000000000
+      internalID: 787576659894376864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recreational_01_7
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1793
+        width: 127
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6cd0623514a6b20800000000000000
+      internalID: 3128384716538758825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recreational_01_8
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 1543
+        width: 105
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d81e8004e4752200800000000000000
+      internalID: 154658284824828116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recreational_01_9
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 1547
+        width: 108
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9b45282ee6e1800800000000000000
+      internalID: 585026920732998056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recreational_01_10
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1545
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f59d55ef5bc7ff80800000000000000
+      internalID: -8072760194307877391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recreational_01_11
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 1560
+        width: 61
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 669c28cb6fa748df0800000000000000
+      internalID: -178882885044745882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recreational_01_12
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1546
+        width: 108
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30a7e84a8d559d2b0800000000000000
+      internalID: -5559317876050068989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recreational_01_13
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1543
+        width: 104
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9585c5284d26ed0800000000000000
+      internalID: -2422139993211774519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recreational_01_14
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1562
+        width: 59
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79fd3784c12cc3420800000000000000
+      internalID: 2611175310698471319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recreational_01_15
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1546
+        width: 53
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b301e4d48b7e740800000000000000
+      internalID: 5181312538474724207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recreational_01_16
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 1294
+        width: 97
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c11b162bd7c1d510800000000000000
+      internalID: 1572257488980087234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recreational_01_17
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1294
+        width: 97
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ee3d29080e2b560800000000000000
+      internalID: 7328166386509016732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recreational_01_18
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 1283
+        width: 104
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b68c3252f401d310800000000000000
+      internalID: 1427927995661452984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recreational_01_19
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1283
+        width: 104
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416bcbea958680ed0800000000000000
+      internalID: -2447591663082883564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recreational_01_20
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1293
+        width: 97
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20f5009c01cc6b80800000000000000
+      internalID: -8400126945252741078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recreational_01_21
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1293
+        width: 98
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78377d857be5faf80800000000000000
+      internalID: -8093145863798951033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recreational_01_22
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1284
+        width: 104
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 689dae252eb4d1660800000000000000
+      internalID: 7358120801619073414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recreational_01_23
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 1284
+        width: 104
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32556269d1c97480800000000000000
+      internalID: -8900870049118203329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recreational_01_24
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 1041
+        width: 96
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91560e627e5f0a540800000000000000
+      internalID: 5017280358029223193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recreational_01_25
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1025
+        width: 131
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3b6402fb3592c10800000000000000
+      internalID: 2029245187452482483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recreational_01_26
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1025
+        width: 120
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409c73898de826f50800000000000000
+      internalID: 6873213042238671108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recreational_01_27
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1041
+        width: 94
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae4b584829ba231d0800000000000000
+      internalID: -3372444525170150166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recreational_01_28
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 871
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f570ae4e15296470800000000000000
+      internalID: 8388276593052644852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recreational_01_29
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 862
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69c80134389a6fa0800000000000000
+      internalID: -5806661419612452497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recreational_01_30
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 871
+        width: 62
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39bf46ab25accb8e0800000000000000
+      internalID: -1676242504625357933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: recreational_01_31
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 862
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73814048a884d9e00800000000000000
+      internalID: 1053077647632111671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      recreational_01_0: 3183585613446243634
+      recreational_01_1: 579281161038499888
+      recreational_01_10: -8072760194307877391
+      recreational_01_11: -178882885044745882
+      recreational_01_12: -5559317876050068989
+      recreational_01_13: -2422139993211774519
+      recreational_01_14: 2611175310698471319
+      recreational_01_15: 5181312538474724207
+      recreational_01_16: 1572257488980087234
+      recreational_01_17: 7328166386509016732
+      recreational_01_18: 1427927995661452984
+      recreational_01_19: -2447591663082883564
+      recreational_01_2: -6886019597914658619
+      recreational_01_20: -8400126945252741078
+      recreational_01_21: -8093145863798951033
+      recreational_01_22: 7358120801619073414
+      recreational_01_23: -8900870049118203329
+      recreational_01_24: 5017280358029223193
+      recreational_01_25: 2029245187452482483
+      recreational_01_26: 6873213042238671108
+      recreational_01_27: -3372444525170150166
+      recreational_01_28: 8388276593052644852
+      recreational_01_29: -5806661419612452497
+      recreational_01_3: 2712392392261054036
+      recreational_01_30: -1676242504625357933
+      recreational_01_31: 1053077647632111671
+      recreational_01_4: -8488111475914229096
+      recreational_01_5: -1314011177679109374
+      recreational_01_6: 787576659894376864
+      recreational_01_7: 3128384716538758825
+      recreational_01_8: 154658284824828116
+      recreational_01_9: 585026920732998056
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

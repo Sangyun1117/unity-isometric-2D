@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: ee18576aff16392499acc46847ce2ce1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 545602622781379386
+    second: location_business_distillery_01_0
+  - first:
+      213: -7943082215946128804
+    second: location_business_distillery_01_1
+  - first:
+      213: 779061614174367156
+    second: location_business_distillery_01_2
+  - first:
+      213: -5030753906582228922
+    second: location_business_distillery_01_3
+  - first:
+      213: -8794819765734500796
+    second: location_business_distillery_01_4
+  - first:
+      213: -8375114216543313955
+    second: location_business_distillery_01_5
+  - first:
+      213: 7925572249070943626
+    second: location_business_distillery_01_6
+  - first:
+      213: 8351252385491516512
+    second: location_business_distillery_01_7
+  - first:
+      213: 2405209424155248821
+    second: location_business_distillery_01_8
+  - first:
+      213: 1789304469309296468
+    second: location_business_distillery_01_9
+  - first:
+      213: -2590705385590315706
+    second: location_business_distillery_01_10
+  - first:
+      213: -7570879625183044586
+    second: location_business_distillery_01_11
+  - first:
+      213: -8520253570117138481
+    second: location_business_distillery_01_12
+  - first:
+      213: 6778925264129207988
+    second: location_business_distillery_01_13
+  - first:
+      213: 6299291557217643440
+    second: location_business_distillery_01_14
+  - first:
+      213: -336315179030869170
+    second: location_business_distillery_01_15
+  - first:
+      213: -9182084009826780430
+    second: location_business_distillery_01_16
+  - first:
+      213: 8562848523560352314
+    second: location_business_distillery_01_17
+  - first:
+      213: -7492524583621825316
+    second: location_business_distillery_01_18
+  - first:
+      213: -5817632150054058685
+    second: location_business_distillery_01_19
+  - first:
+      213: -1717347262547426207
+    second: location_business_distillery_01_20
+  - first:
+      213: 6112355943448402233
+    second: location_business_distillery_01_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: location_business_distillery_01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3772
+        width: 128
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33d767d1be529700800000000000000
+      internalID: 545602622781379386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_business_distillery_01_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 3839
+        width: 129
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52fec01fc084c190800000000000000
+      internalID: -7943082215946128804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_business_distillery_01_2
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 3772
+        width: 322
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd61031968cfca00800000000000000
+      internalID: 779061614174367156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_business_distillery_01_3
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 3799
+        width: 129
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640f1cdd9fb2f2ab0800000000000000
+      internalID: -5030753906582228922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_business_distillery_01_4
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 3839
+        width: 129
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4469fcf150682f580800000000000000
+      internalID: -8794819765734500796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_business_distillery_01_5
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 3606
+        width: 80
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf9c994efd95cb80800000000000000
+      internalID: -8375114216543313955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_business_distillery_01_6
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 3655
+        width: 77
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8d319318f94dfd60800000000000000
+      internalID: 7925572249070943626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_business_distillery_01_7
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 3614
+        width: 104
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06cfada3ccb95e370800000000000000
+      internalID: 8351252385491516512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_business_distillery_01_8
+      rect:
+        serializedVersion: 2
+        x: 858
+        y: 3708
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b802395a35016120800000000000000
+      internalID: 2405209424155248821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_business_distillery_01_9
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 3598
+        width: 68
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f03384fe2e4d810800000000000000
+      internalID: 1789304469309296468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_business_distillery_01_10
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 3589
+        width: 98
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 645a23e8d27fb0cd0800000000000000
+      internalID: -2590705385590315706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_business_distillery_01_11
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 3590
+        width: 98
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61cd8b7d715dee690800000000000000
+      internalID: -7570879625183044586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_business_distillery_01_12
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 3624
+        width: 65
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc70aec258af1c980800000000000000
+      internalID: -8520253570117138481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_business_distillery_01_13
+      rect:
+        serializedVersion: 2
+        x: 380
+        y: 3430
+        width: 12
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bea7578c94931e50800000000000000
+      internalID: 6778925264129207988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_business_distillery_01_14
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 3078
+        width: 83
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bb2394db449b6750800000000000000
+      internalID: 6299291557217643440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_business_distillery_01_15
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 3100
+        width: 109
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b0b45602b255bf0800000000000000
+      internalID: -336315179030869170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_business_distillery_01_16
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 3075
+        width: 83
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fafa78ed3fa29080800000000000000
+      internalID: -9182084009826780430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_business_distillery_01_17
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 3207
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3afa404d5955d670800000000000000
+      internalID: 8562848523560352314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_business_distillery_01_18
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 3099
+        width: 51
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdce65a9694350890800000000000000
+      internalID: -7492524583621825316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_business_distillery_01_19
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 3123
+        width: 34
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 345c226f16e934fa0800000000000000
+      internalID: -5817632150054058685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_business_distillery_01_20
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 3089
+        width: 61
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1640fdb73c1ca28e0800000000000000
+      internalID: -1717347262547426207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_business_distillery_01_21
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2837
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9395dfd885373d450800000000000000
+      internalID: 6112355943448402233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      location_business_distillery_01_0: 545602622781379386
+      location_business_distillery_01_1: -7943082215946128804
+      location_business_distillery_01_10: -2590705385590315706
+      location_business_distillery_01_11: -7570879625183044586
+      location_business_distillery_01_12: -8520253570117138481
+      location_business_distillery_01_13: 6778925264129207988
+      location_business_distillery_01_14: 6299291557217643440
+      location_business_distillery_01_15: -336315179030869170
+      location_business_distillery_01_16: -9182084009826780430
+      location_business_distillery_01_17: 8562848523560352314
+      location_business_distillery_01_18: -7492524583621825316
+      location_business_distillery_01_19: -5817632150054058685
+      location_business_distillery_01_2: 779061614174367156
+      location_business_distillery_01_20: -1717347262547426207
+      location_business_distillery_01_21: 6112355943448402233
+      location_business_distillery_01_3: -5030753906582228922
+      location_business_distillery_01_4: -8794819765734500796
+      location_business_distillery_01_5: -8375114216543313955
+      location_business_distillery_01_6: 7925572249070943626
+      location_business_distillery_01_7: 8351252385491516512
+      location_business_distillery_01_8: 2405209424155248821
+      location_business_distillery_01_9: 1789304469309296468
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

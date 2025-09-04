@@ -1,0 +1,6123 @@
+fileFormatVersion: 2
+guid: c71529ba04b58b2448ad49c6556bb09c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1555878099305837852
+    second: electricity_pylon_0
+  - first:
+      213: -8176241700051358010
+    second: electricity_pylon_1
+  - first:
+      213: -5209762400567363929
+    second: electricity_pylon_2
+  - first:
+      213: -2753686638213572204
+    second: electricity_pylon_3
+  - first:
+      213: 8392442052084402045
+    second: electricity_pylon_4
+  - first:
+      213: -3338006694970981818
+    second: electricity_pylon_5
+  - first:
+      213: 798627950135603075
+    second: electricity_pylon_6
+  - first:
+      213: -8185142824850234025
+    second: electricity_pylon_7
+  - first:
+      213: -3607268541590919458
+    second: electricity_pylon_8
+  - first:
+      213: 5042985835369668583
+    second: electricity_pylon_9
+  - first:
+      213: -7462464444693620502
+    second: electricity_pylon_10
+  - first:
+      213: 5901696788969786139
+    second: electricity_pylon_11
+  - first:
+      213: 4444726073871291085
+    second: electricity_pylon_12
+  - first:
+      213: 6508700651830602638
+    second: electricity_pylon_13
+  - first:
+      213: -377551324893191943
+    second: electricity_pylon_14
+  - first:
+      213: 4622465467225220096
+    second: electricity_pylon_15
+  - first:
+      213: 8902871611774344938
+    second: electricity_pylon_16
+  - first:
+      213: -5603743088019697310
+    second: electricity_pylon_17
+  - first:
+      213: 2458590240089582002
+    second: electricity_pylon_18
+  - first:
+      213: 2928379527295684692
+    second: electricity_pylon_19
+  - first:
+      213: 6804920363990879535
+    second: electricity_pylon_20
+  - first:
+      213: -6994465182067987001
+    second: electricity_pylon_21
+  - first:
+      213: -1435302482802395203
+    second: electricity_pylon_22
+  - first:
+      213: -2851702961844657037
+    second: electricity_pylon_23
+  - first:
+      213: 4732357559940993011
+    second: electricity_pylon_24
+  - first:
+      213: -8502658094610720401
+    second: electricity_pylon_25
+  - first:
+      213: 6261823821408407964
+    second: electricity_pylon_26
+  - first:
+      213: -8400365551715946570
+    second: electricity_pylon_27
+  - first:
+      213: -772432056231895076
+    second: electricity_pylon_28
+  - first:
+      213: -40554902448424842
+    second: electricity_pylon_29
+  - first:
+      213: 6195987217214593341
+    second: electricity_pylon_30
+  - first:
+      213: -8085657840387796288
+    second: electricity_pylon_31
+  - first:
+      213: 6360468204218244424
+    second: electricity_pylon_32
+  - first:
+      213: 7747788874051833770
+    second: electricity_pylon_33
+  - first:
+      213: 9216509382603458300
+    second: electricity_pylon_34
+  - first:
+      213: -3099956839155842346
+    second: electricity_pylon_35
+  - first:
+      213: -2010368287918083668
+    second: electricity_pylon_36
+  - first:
+      213: 6547086449017254463
+    second: electricity_pylon_37
+  - first:
+      213: -9023326523387573546
+    second: electricity_pylon_38
+  - first:
+      213: 5097481617767601460
+    second: electricity_pylon_39
+  - first:
+      213: -3991762991893968875
+    second: electricity_pylon_40
+  - first:
+      213: 3995816538833964178
+    second: electricity_pylon_41
+  - first:
+      213: -6910509552916363907
+    second: electricity_pylon_42
+  - first:
+      213: 5147034019475661938
+    second: electricity_pylon_43
+  - first:
+      213: -2037174452899499199
+    second: electricity_pylon_44
+  - first:
+      213: 935390452541305448
+    second: electricity_pylon_45
+  - first:
+      213: -960373401780684063
+    second: electricity_pylon_46
+  - first:
+      213: 2265966049661629333
+    second: electricity_pylon_47
+  - first:
+      213: 4231596275727216857
+    second: electricity_pylon_48
+  - first:
+      213: -1545075750316899353
+    second: electricity_pylon_49
+  - first:
+      213: 6948474104814118115
+    second: electricity_pylon_50
+  - first:
+      213: -318669571423543867
+    second: electricity_pylon_51
+  - first:
+      213: -3937218362325467876
+    second: electricity_pylon_52
+  - first:
+      213: -5646719145688312176
+    second: electricity_pylon_53
+  - first:
+      213: 211205268719908859
+    second: electricity_pylon_54
+  - first:
+      213: -6391948946111678113
+    second: electricity_pylon_55
+  - first:
+      213: 1418198088433868086
+    second: electricity_pylon_56
+  - first:
+      213: 2170031130432484019
+    second: electricity_pylon_57
+  - first:
+      213: -2122163621966309447
+    second: electricity_pylon_58
+  - first:
+      213: -4045568853360150186
+    second: electricity_pylon_59
+  - first:
+      213: 5817321683018291725
+    second: electricity_pylon_60
+  - first:
+      213: -614721310223123141
+    second: electricity_pylon_61
+  - first:
+      213: 1747283926757152309
+    second: electricity_pylon_62
+  - first:
+      213: -5551894860311608284
+    second: electricity_pylon_63
+  - first:
+      213: 8564808811116915029
+    second: electricity_pylon_64
+  - first:
+      213: 1258570103614094644
+    second: electricity_pylon_65
+  - first:
+      213: 5207807545215777560
+    second: electricity_pylon_66
+  - first:
+      213: 1283428430315080242
+    second: electricity_pylon_67
+  - first:
+      213: -8674184855044257572
+    second: electricity_pylon_68
+  - first:
+      213: 2021721546525783340
+    second: electricity_pylon_69
+  - first:
+      213: -8572361300305601645
+    second: electricity_pylon_70
+  - first:
+      213: -4650681697699692122
+    second: electricity_pylon_71
+  - first:
+      213: 36753833829208545
+    second: electricity_pylon_72
+  - first:
+      213: -7995741563180961030
+    second: electricity_pylon_73
+  - first:
+      213: -999561811318362865
+    second: electricity_pylon_74
+  - first:
+      213: -4964721397925104596
+    second: electricity_pylon_75
+  - first:
+      213: -3213254984228158459
+    second: electricity_pylon_76
+  - first:
+      213: -1119145392865248450
+    second: electricity_pylon_77
+  - first:
+      213: -7080310048533590445
+    second: electricity_pylon_78
+  - first:
+      213: -515494766719181571
+    second: electricity_pylon_79
+  - first:
+      213: 3092041440576706077
+    second: electricity_pylon_80
+  - first:
+      213: -4356051306743777951
+    second: electricity_pylon_81
+  - first:
+      213: -822989559956854284
+    second: electricity_pylon_82
+  - first:
+      213: -5765255068127955862
+    second: electricity_pylon_83
+  - first:
+      213: -4823115654892598825
+    second: electricity_pylon_84
+  - first:
+      213: -8774913775387501355
+    second: electricity_pylon_85
+  - first:
+      213: 4125721656729977391
+    second: electricity_pylon_86
+  - first:
+      213: -641692004976002141
+    second: electricity_pylon_87
+  - first:
+      213: 8939536671529040048
+    second: electricity_pylon_88
+  - first:
+      213: 9088894632892052250
+    second: electricity_pylon_89
+  - first:
+      213: -6374727639425902678
+    second: electricity_pylon_90
+  - first:
+      213: -2171354594990479943
+    second: electricity_pylon_91
+  - first:
+      213: 4069111003241222178
+    second: electricity_pylon_92
+  - first:
+      213: 4184467945530822816
+    second: electricity_pylon_93
+  - first:
+      213: -6197696618704628314
+    second: electricity_pylon_94
+  - first:
+      213: 8905138681424760944
+    second: electricity_pylon_95
+  - first:
+      213: -2182177155884363362
+    second: electricity_pylon_96
+  - first:
+      213: -5851514425052956655
+    second: electricity_pylon_97
+  - first:
+      213: 1951815714961901858
+    second: electricity_pylon_98
+  - first:
+      213: 8317470877278997852
+    second: electricity_pylon_99
+  - first:
+      213: 675373823593367680
+    second: electricity_pylon_100
+  - first:
+      213: -3098321540900812869
+    second: electricity_pylon_101
+  - first:
+      213: 6654763180895567014
+    second: electricity_pylon_102
+  - first:
+      213: 7477604532953897083
+    second: electricity_pylon_103
+  - first:
+      213: -5873273797040801083
+    second: electricity_pylon_104
+  - first:
+      213: 1445491788834432297
+    second: electricity_pylon_105
+  - first:
+      213: 5450107617477099992
+    second: electricity_pylon_106
+  - first:
+      213: 1615996153094522553
+    second: electricity_pylon_107
+  - first:
+      213: 8631326839694370968
+    second: electricity_pylon_108
+  - first:
+      213: -5279339530789549432
+    second: electricity_pylon_109
+  - first:
+      213: 2139309452425049469
+    second: electricity_pylon_110
+  - first:
+      213: -8931589349660593158
+    second: electricity_pylon_111
+  - first:
+      213: -366079292634186168
+    second: electricity_pylon_112
+  - first:
+      213: -920817121082917091
+    second: electricity_pylon_113
+  - first:
+      213: 208401711363109528
+    second: electricity_pylon_114
+  - first:
+      213: 2430318214575173070
+    second: electricity_pylon_115
+  - first:
+      213: -6389610899672217109
+    second: electricity_pylon_116
+  - first:
+      213: 4524790531159823977
+    second: electricity_pylon_117
+  - first:
+      213: -2334745709084422256
+    second: electricity_pylon_118
+  - first:
+      213: 117641008733159826
+    second: electricity_pylon_119
+  - first:
+      213: 1952919653608013949
+    second: electricity_pylon_120
+  - first:
+      213: -3031773234530232022
+    second: electricity_pylon_121
+  - first:
+      213: 6533352542130895031
+    second: electricity_pylon_122
+  - first:
+      213: 4711334677337147421
+    second: electricity_pylon_123
+  - first:
+      213: 959400749805766131
+    second: electricity_pylon_124
+  - first:
+      213: -4015947598726789227
+    second: electricity_pylon_125
+  - first:
+      213: -5762989786452310037
+    second: electricity_pylon_126
+  - first:
+      213: -590096028115766749
+    second: electricity_pylon_127
+  - first:
+      213: 7445392971184888158
+    second: electricity_pylon_128
+  - first:
+      213: 2260791120579708633
+    second: electricity_pylon_129
+  - first:
+      213: -8059347096005031435
+    second: electricity_pylon_130
+  - first:
+      213: -5821520170069734746
+    second: electricity_pylon_131
+  - first:
+      213: -203335293197612730
+    second: electricity_pylon_132
+  - first:
+      213: 924809981703360593
+    second: electricity_pylon_133
+  - first:
+      213: -1629753345842039693
+    second: electricity_pylon_134
+  - first:
+      213: -6400011840863084231
+    second: electricity_pylon_135
+  - first:
+      213: 7437521139216678994
+    second: electricity_pylon_136
+  - first:
+      213: -4367692165439657458
+    second: electricity_pylon_137
+  - first:
+      213: -6844956420277451295
+    second: electricity_pylon_138
+  - first:
+      213: -7789892540661877955
+    second: electricity_pylon_139
+  - first:
+      213: -4412325046551387832
+    second: electricity_pylon_140
+  - first:
+      213: 3948475837792177911
+    second: electricity_pylon_141
+  - first:
+      213: 2540371969481417441
+    second: electricity_pylon_142
+  - first:
+      213: -3976601565459606819
+    second: electricity_pylon_143
+  - first:
+      213: 4349149355175155617
+    second: electricity_pylon_144
+  - first:
+      213: -3178170836011813780
+    second: electricity_pylon_145
+  - first:
+      213: -2994516821260517782
+    second: electricity_pylon_146
+  - first:
+      213: -4823876323476752808
+    second: electricity_pylon_147
+  - first:
+      213: 2795409585689854696
+    second: electricity_pylon_148
+  - first:
+      213: -4092574014635924409
+    second: electricity_pylon_149
+  - first:
+      213: -4874489318457747587
+    second: electricity_pylon_150
+  - first:
+      213: -9166195919902866170
+    second: electricity_pylon_151
+  - first:
+      213: -7948836805449923300
+    second: electricity_pylon_152
+  - first:
+      213: -7720390346921524749
+    second: electricity_pylon_153
+  - first:
+      213: -5461471090254484606
+    second: electricity_pylon_154
+  - first:
+      213: -3371368603396195708
+    second: electricity_pylon_155
+  - first:
+      213: 8909143243713922775
+    second: electricity_pylon_156
+  - first:
+      213: -110687368668612584
+    second: electricity_pylon_157
+  - first:
+      213: 4107586452522362322
+    second: electricity_pylon_158
+  - first:
+      213: 2143860915280266685
+    second: electricity_pylon_159
+  - first:
+      213: -721852346816723149
+    second: electricity_pylon_160
+  - first:
+      213: 6921580596709350323
+    second: electricity_pylon_161
+  - first:
+      213: -5843830441432322335
+    second: electricity_pylon_162
+  - first:
+      213: 5866672075593434696
+    second: electricity_pylon_163
+  - first:
+      213: -8872745871084483838
+    second: electricity_pylon_164
+  - first:
+      213: 8308222660830945954
+    second: electricity_pylon_165
+  - first:
+      213: 184700520235880120
+    second: electricity_pylon_166
+  - first:
+      213: 4415384552126379109
+    second: electricity_pylon_167
+  - first:
+      213: -2977374792447358721
+    second: electricity_pylon_168
+  - first:
+      213: -6699319645222364786
+    second: electricity_pylon_169
+  - first:
+      213: -5022379832339312856
+    second: electricity_pylon_170
+  - first:
+      213: -4765215836128104631
+    second: electricity_pylon_171
+  - first:
+      213: 8079031179341667998
+    second: electricity_pylon_172
+  - first:
+      213: -6443250342436023892
+    second: electricity_pylon_173
+  - first:
+      213: 6027538007775584471
+    second: electricity_pylon_174
+  - first:
+      213: -512061102978833377
+    second: electricity_pylon_175
+  - first:
+      213: -2381248768116210309
+    second: electricity_pylon_176
+  - first:
+      213: 9080572208627313810
+    second: electricity_pylon_177
+  - first:
+      213: -100985289345460615
+    second: electricity_pylon_178
+  - first:
+      213: -3627156142394842208
+    second: electricity_pylon_179
+  - first:
+      213: 1076768019540190292
+    second: electricity_pylon_180
+  - first:
+      213: 622528597047700813
+    second: electricity_pylon_181
+  - first:
+      213: 6174296955331587603
+    second: electricity_pylon_182
+  - first:
+      213: -9035269628921544689
+    second: electricity_pylon_183
+  - first:
+      213: 227520373066290230
+    second: electricity_pylon_184
+  - first:
+      213: -5887420892318938940
+    second: electricity_pylon_185
+  - first:
+      213: 1843572669169360028
+    second: electricity_pylon_186
+  - first:
+      213: 7986568792840717963
+    second: electricity_pylon_187
+  - first:
+      213: -4604658978706242969
+    second: electricity_pylon_188
+  - first:
+      213: 4515633859882012931
+    second: electricity_pylon_189
+  - first:
+      213: 5227807145883677488
+    second: electricity_pylon_190
+  - first:
+      213: -7654405566031359364
+    second: electricity_pylon_191
+  - first:
+      213: 1686788611694290693
+    second: electricity_pylon_192
+  - first:
+      213: 6068069124150897240
+    second: electricity_pylon_193
+  - first:
+      213: -2500381915763299205
+    second: electricity_pylon_194
+  - first:
+      213: 2637057882864716767
+    second: electricity_pylon_195
+  - first:
+      213: -4298774793717019463
+    second: electricity_pylon_196
+  - first:
+      213: -8214991728845892244
+    second: electricity_pylon_197
+  - first:
+      213: 3733407786008121373
+    second: electricity_pylon_198
+  - first:
+      213: -1132610245328225008
+    second: electricity_pylon_199
+  - first:
+      213: -2898855258568243125
+    second: electricity_pylon_200
+  - first:
+      213: -6190666126038174158
+    second: electricity_pylon_201
+  - first:
+      213: 6610958379393103337
+    second: electricity_pylon_202
+  - first:
+      213: -7414824336203095474
+    second: electricity_pylon_203
+  - first:
+      213: -7413539925703889355
+    second: electricity_pylon_204
+  - first:
+      213: -1601036558492833717
+    second: electricity_pylon_205
+  - first:
+      213: 4291163446406541023
+    second: electricity_pylon_206
+  - first:
+      213: -8833822607662380766
+    second: electricity_pylon_207
+  - first:
+      213: 8840471415728087097
+    second: electricity_pylon_208
+  - first:
+      213: -2779540494355410309
+    second: electricity_pylon_209
+  - first:
+      213: -5415088285849095423
+    second: electricity_pylon_210
+  - first:
+      213: -1686256277625202771
+    second: electricity_pylon_211
+  - first:
+      213: 2254069205053657076
+    second: electricity_pylon_212
+  - first:
+      213: -2059643627085914654
+    second: electricity_pylon_213
+  - first:
+      213: 4117758587198362445
+    second: electricity_pylon_214
+  - first:
+      213: 6989552768721543577
+    second: electricity_pylon_215
+  - first:
+      213: -5857925687775019345
+    second: electricity_pylon_216
+  - first:
+      213: 3500640377472052010
+    second: electricity_pylon_217
+  - first:
+      213: -3209318162932821193
+    second: electricity_pylon_218
+  - first:
+      213: 8167879377418653675
+    second: electricity_pylon_219
+  - first:
+      213: -8855477642338755468
+    second: electricity_pylon_220
+  - first:
+      213: 6527926762377171489
+    second: electricity_pylon_221
+  - first:
+      213: 6070421536961420024
+    second: electricity_pylon_222
+  - first:
+      213: 838158901993685342
+    second: electricity_pylon_223
+  - first:
+      213: -631582562501235716
+    second: electricity_pylon_224
+  - first:
+      213: -5204695026525313049
+    second: electricity_pylon_225
+  - first:
+      213: 3922084456755545410
+    second: electricity_pylon_226
+  - first:
+      213: -1035175007022638274
+    second: electricity_pylon_227
+  - first:
+      213: -879635404351413469
+    second: electricity_pylon_228
+  - first:
+      213: 4358312249781841752
+    second: electricity_pylon_229
+  - first:
+      213: -7278527955345231311
+    second: electricity_pylon_230
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: electricity_pylon_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 5757
+        width: 51
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eac011bc19686ae0800000000000000
+      internalID: -1555878099305837852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 5648
+        width: 95
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cee3be4e77288e80800000000000000
+      internalID: -8176241700051358010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_2
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 5788
+        width: 49
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6fefdf2b433b7b0800000000000000
+      internalID: -5209762400567363929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_3
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 5632
+        width: 76
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4995a8a9790f8c9d0800000000000000
+      internalID: -2753686638213572204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_4
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 5756
+        width: 37
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d778a80d491f77470800000000000000
+      internalID: 8392442052084402045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_5
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 5753
+        width: 38
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6420160b8940da1d0800000000000000
+      internalID: -3338006694970981818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_6
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 5659
+        width: 76
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38fe78ba3eb451b00800000000000000
+      internalID: 798627950135603075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_7
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 5726
+        width: 37
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 755e6f0b7f7886e80800000000000000
+      internalID: -8185142824850234025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_8
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 5534
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed62801af5860fdc0800000000000000
+      internalID: -3607268541590919458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_9
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 5504
+        width: 49
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ef198cf5e84cf540800000000000000
+      internalID: 5042985835369668583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_10
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 5528
+        width: 50
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae8dd091020007890800000000000000
+      internalID: -7462464444693620502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_11
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 5389
+        width: 96
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1b8b9606f907e150800000000000000
+      internalID: 5901696788969786139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_12
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 5573
+        width: 71
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc2d305a0d6dead30800000000000000
+      internalID: 4444726073871291085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_13
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 5405
+        width: 54
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8b67bd12cc835a50800000000000000
+      internalID: 6508700651830602638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_14
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 5411
+        width: 41
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f06343021ba2caf0800000000000000
+      internalID: -377551324893191943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_15
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 5545
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00428700adb462040800000000000000
+      internalID: 4622465467225220096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_16
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 5533
+        width: 68
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee18bcbf8a5d8b70800000000000000
+      internalID: 8902871611774344938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_17
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 5532
+        width: 68
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2611902f9518b32b0800000000000000
+      internalID: -5603743088019697310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_18
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 5407
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b928c41ccaae1220800000000000000
+      internalID: 2458590240089582002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_19
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 5417
+        width: 13
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4505cf33aa1b3a820800000000000000
+      internalID: 2928379527295684692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_20
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 5402
+        width: 31
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d8f7c540fef6e50800000000000000
+      internalID: 6804920363990879535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_21
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 5412
+        width: 26
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cdeff4a9faaeee90800000000000000
+      internalID: -6994465182067987001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_22
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 5293
+        width: 65
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7b3571ff7c41ce0800000000000000
+      internalID: -1435302482802395203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_23
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 5146
+        width: 40
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374e152e347bc68d0800000000000000
+      internalID: -2851702961844657037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_24
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 5292
+        width: 66
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ffca6ea026bca140800000000000000
+      internalID: 4732357559940993011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_25
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 5268
+        width: 71
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f69d020138d700a80800000000000000
+      internalID: -8502658094610720401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_26
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 5150
+        width: 52
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c919029c69776e650800000000000000
+      internalID: 6261823821408407964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_27
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 5316
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bfea8aa908eb6b80800000000000000
+      internalID: -8400365551715946570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_28
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 5191
+        width: 80
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdf5c2b2325c745f0800000000000000
+      internalID: -772432056231895076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_29
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 5268
+        width: 71
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67839a5f78bef6ff0800000000000000
+      internalID: -40554902448424842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_30
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 5258
+        width: 68
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d39dfeadb819cf550800000000000000
+      internalID: 6195987217214593341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_31
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 5257
+        width: 68
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c25558a809f9cf80800000000000000
+      internalID: -8085657840387796288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_32
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 5257
+        width: 69
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84d589de12ce44850800000000000000
+      internalID: 6360468204218244424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_33
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 5277
+        width: 68
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaf45907eeca58b60800000000000000
+      internalID: 7747788874051833770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_34
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 5256
+        width: 69
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6422bc37e97ef70800000000000000
+      internalID: 9216509382603458300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_35
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 5147
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2c217ddadbaf4d0800000000000000
+      internalID: -3099956839155842346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_36
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 5157
+        width: 32
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1beea81bcb914e0800000000000000
+      internalID: -2010368287918083668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_37
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 5156
+        width: 31
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f32727bff6cebda50800000000000000
+      internalID: 6547086449017254463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_38
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 5147
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da8f19a554b6c280800000000000000
+      internalID: -9023326523387573546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_39
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 5142
+        width: 13
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4351f141684edb640800000000000000
+      internalID: 5097481617767601460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_40
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 5152
+        width: 39
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5180c9845b86a98c0800000000000000
+      internalID: -3991762991893968875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_41
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 5162
+        width: 12
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29c44d8a8fdf37730800000000000000
+      internalID: 3995816538833964178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_42
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 5152
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d750a71dc20f810a0800000000000000
+      internalID: -6910509552916363907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_43
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 5150
+        width: 41
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274a2b9ab20fd6740800000000000000
+      internalID: 5147034019475661938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_44
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 5141
+        width: 13
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143bc65e0a08ab3e0800000000000000
+      internalID: -2037174452899499199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_45
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 5021
+        width: 69
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862340229ac2bfc00800000000000000
+      internalID: 935390452541305448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_46
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 5033
+        width: 67
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eaf027ba711ca2f0800000000000000
+      internalID: -960373401780684063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_47
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 4946
+        width: 80
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5933d27dd14527f10800000000000000
+      internalID: 2265966049661629333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_48
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 4935
+        width: 82
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0369f8466a9ba30800000000000000
+      internalID: 4231596275727216857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_49
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 4948
+        width: 80
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e38a4f8ac9ce8ae0800000000000000
+      internalID: -1545075750316899353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_50
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 4863
+        width: 205
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e4227c3260fd6060800000000000000
+      internalID: 6948474104814118115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_51
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 4900
+        width: 27
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cdd29296bbd39bf0800000000000000
+      internalID: -318669571423543867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_52
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 4891
+        width: 31
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1df17e72c03c59c0800000000000000
+      internalID: -3937218362325467876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_53
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 4915
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 096d9d6cad2d2a1b0800000000000000
+      internalID: -5646719145688312176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_54
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 4917
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf7bdb8a21a5ee200800000000000000
+      internalID: 211205268719908859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_55
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 4903
+        width: 66
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59b49cac4c3b47a0800000000000000
+      internalID: -6391948946111678113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_56
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 4901
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d1d32c5a37ea310800000000000000
+      internalID: 1418198088433868086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_57
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 4656
+        width: 75
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b2b7f8d0df7d1e10800000000000000
+      internalID: 2170031130432484019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_58
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 4661
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b71175fd6f8c82e0800000000000000
+      internalID: -2122163621966309447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_59
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 4659
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 659751def804bd7c0800000000000000
+      internalID: -4045568853360150186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_60
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 4624
+        width: 66
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a9b7ccf374bb050800000000000000
+      internalID: 5817321683018291725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_61
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 4631
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3db94ca9321877f0800000000000000
+      internalID: -614721310223123141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_62
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 4607
+        width: 130
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5361c1059799f3810800000000000000
+      internalID: 1747283926757152309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_63
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 4620
+        width: 65
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4244fcc2a05b3f2b0800000000000000
+      internalID: -5551894860311608284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_64
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 4653
+        width: 71
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55962c34c305cd670800000000000000
+      internalID: 8564808811116915029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_65
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 4648
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43d38de47d6577110800000000000000
+      internalID: 1258570103614094644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_66
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 4687
+        width: 59
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b7f27ce59d54840800000000000000
+      internalID: 5207807545215777560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_67
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 4645
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a41938b57afc110800000000000000
+      internalID: 1283428430315080242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_68
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 4618
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8830705da1f9780800000000000000
+      internalID: -8674184855044257572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4406
+        width: 75
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c253c67f8099e0c10800000000000000
+      internalID: 2021721546525783340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_70
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 4396
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b9af0d0dad80980800000000000000
+      internalID: -8572361300305601645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_71
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 4385
+        width: 12
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a10335e2a5757fb0800000000000000
+      internalID: -4650681697699692122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_72
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 4402
+        width: 103
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e11689ca63928000800000000000000
+      internalID: 36753833829208545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_73
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 4376
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af2b5ca596b690190800000000000000
+      internalID: -7995741563180961030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_74
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 4383
+        width: 16
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0da25914d7d022f0800000000000000
+      internalID: -999561811318362865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_75
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 4393
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c24b4eb5134c91bb0800000000000000
+      internalID: -4964721397925104596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_76
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 4116
+        width: 68
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504c35ccd993863d0800000000000000
+      internalID: -3213254984228158459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_77
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 4134
+        width: 78
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b7046d13ff770f0800000000000000
+      internalID: -1119145392865248450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_78
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 4113
+        width: 92
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ec681268fadbd90800000000000000
+      internalID: -7080310048533590445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_79
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 4133
+        width: 78
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc512aad3898d8f0800000000000000
+      internalID: -515494766719181571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_80
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 4115
+        width: 69
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d169c50de4329ea20800000000000000
+      internalID: 3092041440576706077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_81
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 4130
+        width: 90
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16539267a623c83c0800000000000000
+      internalID: -4356051306743777951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_82
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 4145
+        width: 76
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9aae80b572494f0800000000000000
+      internalID: -822989559956854284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_83
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 4144
+        width: 77
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6476b8af03bdffa0800000000000000
+      internalID: -5765255068127955862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_84
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 3871
+        width: 40
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d94087add9d01db0800000000000000
+      internalID: -4823115654892598825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_85
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 3883
+        width: 51
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dc985ba96e393680800000000000000
+      internalID: -8774913775387501355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_86
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 3864
+        width: 51
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22c68fdcf1814930800000000000000
+      internalID: 4125721656729977391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_87
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 3888
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab723475804817f0800000000000000
+      internalID: -641692004976002141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_88
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 3955
+        width: 68
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b8f0133d3d9f0c70800000000000000
+      internalID: 8939536671529040048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_89
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 3871
+        width: 43
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a133c7a738d322e70800000000000000
+      internalID: 9088894632892052250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_90
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 3969
+        width: 68
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa797289cfa6887a0800000000000000
+      internalID: -6374727639425902678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_91
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 3900
+        width: 71
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b52e2c008ccdd1e0800000000000000
+      internalID: -2171354594990479943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_92
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 3953
+        width: 69
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22093dbf5e2687830800000000000000
+      internalID: 4069111003241222178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_93
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 3888
+        width: 73
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a09f5b1d67321a30800000000000000
+      internalID: 4184467945530822816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_94
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 3899
+        width: 71
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5987813cb5df9a0800000000000000
+      internalID: -6197696618704628314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_95
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 3972
+        width: 68
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070d9e50378659b70800000000000000
+      internalID: 8905138681424760944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_96
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 3786
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e915a8a307957b1e0800000000000000
+      internalID: -2182177155884363362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_97
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 3786
+        width: 71
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118f4a012ae3bcea0800000000000000
+      internalID: -5851514425052956655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_98
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 3597
+        width: 45
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22944553d0e361b10800000000000000
+      internalID: 1951815714961901858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_99
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 3613
+        width: 24
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5d0fdde1b79d6370800000000000000
+      internalID: 8317470877278997852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_100
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 3802
+        width: 71
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08841ed0ae86f5900800000000000000
+      internalID: 675373823593367680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_101
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 3645
+        width: 70
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb78aa269fc8005d0800000000000000
+      internalID: -3098321540900812869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_102
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 3614
+        width: 25
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6acf0a5cad77a5c50800000000000000
+      internalID: 6654763180895567014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_103
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 3802
+        width: 72
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b78519564b9c5c760800000000000000
+      internalID: 7477604532953897083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_104
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 3644
+        width: 69
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5caf5ca7990fd7ea0800000000000000
+      internalID: -5873273797040801083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_105
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 3636
+        width: 37
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92568379f1b6f0410800000000000000
+      internalID: 1445491788834432297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_106
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3627
+        width: 69
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d18f5f800ca2ab40800000000000000
+      internalID: 5450107617477099992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_107
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 3598
+        width: 68
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b6c89770fb2d6610800000000000000
+      internalID: 1615996153094522553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_108
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 3628
+        width: 70
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 898274ca702a8c770800000000000000
+      internalID: 8631326839694370968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_109
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 3597
+        width: 68
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88a8c9afaa40cb6b0800000000000000
+      internalID: -5279339530789549432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_110
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 3614
+        width: 68
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d753e68cc9a50bd10800000000000000
+      internalID: 2139309452425049469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_111
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 3614
+        width: 68
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af371dddece9c0480800000000000000
+      internalID: -8931589349660593158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_112
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 3549
+        width: 56
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84eb9eaa2dc6beaf0800000000000000
+      internalID: -366079292634186168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_113
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 3464
+        width: 77
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1f31c205b99833f0800000000000000
+      internalID: -920817121082917091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_114
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 3533
+        width: 56
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892b168904464e200800000000000000
+      internalID: 208401711363109528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_115
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 3496
+        width: 68
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecd2aee2a893ab120800000000000000
+      internalID: 2430318214575173070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_116
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 3469
+        width: 57
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be9c2188dba8357a0800000000000000
+      internalID: -6389610899672217109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_117
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 3452
+        width: 56
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96615d4c3094bce30800000000000000
+      internalID: 4524790531159823977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_118
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 3443
+        width: 71
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09fc729c521599fd0800000000000000
+      internalID: -2334745709084422256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_119
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 3446
+        width: 75
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2910f88cfd1f1a100800000000000000
+      internalID: 117641008733159826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_120
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 3459
+        width: 68
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d704f24f31a2a1b10800000000000000
+      internalID: 1952919653608013949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_121
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 3443
+        width: 69
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a29d9446e4afce5d0800000000000000
+      internalID: -3031773234530232022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_122
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 3464
+        width: 44
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b87b1a95812baa50800000000000000
+      internalID: 6533352542130895031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_123
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 3190
+        width: 77
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1809a46de5026140800000000000000
+      internalID: 4711334677337147421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_124
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 3247
+        width: 56
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f58a6916e9705d00800000000000000
+      internalID: 959400749805766131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_125
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 3267
+        width: 68
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5978e45bfec7448c0800000000000000
+      internalID: -4015947598726789227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_126
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 3265
+        width: 56
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be74e46a25fb500b0800000000000000
+      internalID: -5762989786452310037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_127
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 3208
+        width: 71
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3227ac4f9ce8fc7f0800000000000000
+      internalID: -590096028115766749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_128
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 3200
+        width: 42
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e595aacb579535760800000000000000
+      internalID: 7445392971184888158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_129
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 3190
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d6c285cb81ff5f10800000000000000
+      internalID: 2260791120579708633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_130
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 3213
+        width: 69
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f94b053482772090800000000000000
+      internalID: -8059347096005031435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_131
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 3200
+        width: 68
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aac832cf3ec53fa0800000000000000
+      internalID: -5821520170069734746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_132
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 3209
+        width: 58
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64908aec0ab9d2df0800000000000000
+      internalID: -203335293197612730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_133
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 3222
+        width: 53
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1501a2c47c595dc00800000000000000
+      internalID: 924809981703360593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_134
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 2817
+        width: 48
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374b49d77f3f169e0800000000000000
+      internalID: -1629753345842039693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_135
+      rect:
+        serializedVersion: 2
+        x: 196
+        y: 2845
+        width: 61
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 931ef03b3279e27a0800000000000000
+      internalID: -6400011840863084231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_136
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 2842
+        width: 60
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25008780212673760800000000000000
+      internalID: 7437521139216678994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_137
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 2818
+        width: 194
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a66b6dd17d263c0800000000000000
+      internalID: -4367692165439657458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_138
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 2822
+        width: 106
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e54552e664d101a0800000000000000
+      internalID: -6844956420277451295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_139
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 2918
+        width: 69
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d333263c10eb4e390800000000000000
+      internalID: -7789892540661877955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_140
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 2841
+        width: 63
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 841eeb66fb544c2c0800000000000000
+      internalID: -4412325046551387832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_141
+      rect:
+        serializedVersion: 2
+        x: 917
+        y: 2836
+        width: 69
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fec0d3caddcbc630800000000000000
+      internalID: 3948475837792177911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_142
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 2704
+        width: 40
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2ac46c8d6314320800000000000000
+      internalID: 2540371969481417441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_143
+      rect:
+        serializedVersion: 2
+        x: 950
+        y: 2594
+        width: 40
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd29485f1f540d8c0800000000000000
+      internalID: -3976601565459606819
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_144
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 2586
+        width: 61
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a79556bb484b5c30800000000000000
+      internalID: 4349149355175155617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_145
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2654
+        width: 69
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c64720c967ed4e3d0800000000000000
+      internalID: -3178170836011813780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_146
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 2558
+        width: 194
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6eb5d211d65176d0800000000000000
+      internalID: -2994516821260517782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_147
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 2574
+        width: 55
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85630c2ba062e0db0800000000000000
+      internalID: -4823876323476752808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_148
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 2572
+        width: 69
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e204cc153a4bc620800000000000000
+      internalID: 2795409585689854696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_149
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 2566
+        width: 66
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744a1a8fd914437c0800000000000000
+      internalID: -4092574014635924409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_150
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 2562
+        width: 107
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77d3ef7ac55a5cb0800000000000000
+      internalID: -4874489318457747587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_151
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2521
+        width: 49
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6050e8c10612bc080800000000000000
+      internalID: -9166195919902866170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_152
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 2440
+        width: 49
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c154b994a0f00b190800000000000000
+      internalID: -7948836805449923300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_153
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 2505
+        width: 56
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1436442e9abd490800000000000000
+      internalID: -7720390346921524749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_154
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 2434
+        width: 79
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28be052caf4f434b0800000000000000
+      internalID: -5461471090254484606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_155
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 2436
+        width: 42
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48a3aa31e1e7631d0800000000000000
+      internalID: -3371368603396195708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_156
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 2430
+        width: 68
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6c3a6d392a3ab70800000000000000
+      internalID: 8909143243713922775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_157
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 2413
+        width: 70
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8187265bc62c67ef0800000000000000
+      internalID: -110687368668612584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_158
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 2423
+        width: 57
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d56dca9d14110930800000000000000
+      internalID: 4107586452522362322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_159
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 2467
+        width: 69
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db5cf1fc42680cd10800000000000000
+      internalID: 2143860915280266685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_160
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 2417
+        width: 52
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33705b77d177bf5f0800000000000000
+      internalID: -721852346816723149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_161
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 2413
+        width: 68
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bbd81f61e46e0060800000000000000
+      internalID: 6921580596709350323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_162
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 2184
+        width: 70
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eeefcaec2b86eea0800000000000000
+      internalID: -5843830441432322335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_163
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2241
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84643777b2b9a6150800000000000000
+      internalID: 5866672075593434696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_164
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 2197
+        width: 55
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20b02bbd3acadd480800000000000000
+      internalID: -8872745871084483838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_165
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 2222
+        width: 55
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2edadbd7cbc4370800000000000000
+      internalID: 8308222660830945954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_166
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 2165
+        width: 75
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8be4d720520309200800000000000000
+      internalID: 184700520235880120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_167
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 2241
+        width: 69
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5647d304bd8964d30800000000000000
+      internalID: 4415384552126379109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_168
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 2183
+        width: 60
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff809fca66d3ea6d0800000000000000
+      internalID: -2977374792447358721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_169
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 2174
+        width: 68
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8999b5f64c3703a0800000000000000
+      internalID: -6699319645222364786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_170
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 2165
+        width: 61
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f4456f62cec4ab0800000000000000
+      internalID: -5022379832339312856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_171
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 2175
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94fa489b17d8eddb0800000000000000
+      internalID: -4765215836128104631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_172
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 2188
+        width: 69
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9e17f59d0c7e1070800000000000000
+      internalID: 8079031179341667998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_173
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1797
+        width: 106
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca1df2c83f9f496a0800000000000000
+      internalID: -6443250342436023892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_174
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1793
+        width: 193
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d021aff1ed16a350800000000000000
+      internalID: 6027538007775584471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_175
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1894
+        width: 69
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f14e6adc32bc4e8f0800000000000000
+      internalID: -512061102978833377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_176
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1823
+        width: 57
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75c89e9cda14fed0800000000000000
+      internalID: -2381248768116210309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_177
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 1817
+        width: 60
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ce384105ca40e70800000000000000
+      internalID: 9080572208627313810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_178
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1793
+        width: 48
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97616051a6a399ef0800000000000000
+      internalID: -100985289345460615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_179
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 1816
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a3edabb4b0c9adc0800000000000000
+      internalID: -3627156142394842208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_180
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1812
+        width: 69
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 454a13e0fc271fe00800000000000000
+      internalID: 1076768019540190292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_181
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1534
+        width: 121
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4dec81f57aa3a800800000000000000
+      internalID: 622528597047700813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_182
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1537
+        width: 75
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31ea0583e528fa550800000000000000
+      internalID: 6174296955331587603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_183
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1629
+        width: 69
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f008146b4264c9280800000000000000
+      internalID: -9035269628921544689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_184
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1562
+        width: 61
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634d7c7e290582300800000000000000
+      internalID: 227520373066290230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_185
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1580
+        width: 61
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c8cd1e24edab4ea0800000000000000
+      internalID: -5887420892318938940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_186
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 1567
+        width: 48
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c557f239fa59910800000000000000
+      internalID: 1843572669169360028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_187
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1538
+        width: 106
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b86cd7f900ef5de60800000000000000
+      internalID: 7986568792840717963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_188
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1541
+        width: 65
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 762c66e2e07f810c0800000000000000
+      internalID: -4604658978706242969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_189
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1547
+        width: 69
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3015ef91211caae30800000000000000
+      internalID: 4515633859882012931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_190
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 1403
+        width: 59
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03335aca6e6ec8840800000000000000
+      internalID: 5227807145883677488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_191
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1410
+        width: 58
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c729de541b616c590800000000000000
+      internalID: -7654405566031359364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_192
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1297
+        width: 94
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 507663b2e4da86710800000000000000
+      internalID: 1686788611694290693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_193
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1338
+        width: 79
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85aa789e7bc163450800000000000000
+      internalID: 6068069124150897240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_194
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1338
+        width: 84
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7c2e1c25ebdc4dd0800000000000000
+      internalID: -2500381915763299205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_195
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1286
+        width: 88
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb8b483c26b89420800000000000000
+      internalID: 2637057882864716767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_196
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 1313
+        width: 57
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc081bd91fa754c0800000000000000
+      internalID: -4298774793717019463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_197
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1281
+        width: 117
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c655e592c8c7efd80800000000000000
+      internalID: -8214991728845892244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_198
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 1154
+        width: 59
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1011b6d99abfc330800000000000000
+      internalID: 3733407786008121373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_199
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1147
+        width: 58
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d3e329bf82840f0800000000000000
+      internalID: -1132610245328225008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_200
+      rect:
+        serializedVersion: 2
+        x: 765
+        y: 1168
+        width: 79
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4844c9408235c7d0800000000000000
+      internalID: -2898855258568243125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_201
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1151
+        width: 87
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 236737a35f5561aa0800000000000000
+      internalID: -6190666126038174158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_202
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 1037
+        width: 90
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e53e94ae97debb50800000000000000
+      internalID: 6610958379393103337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_203
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1079
+        width: 121
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4261b83d80491990800000000000000
+      internalID: -7414824336203095474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_204
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1023
+        width: 104
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e6e3857b0dd1990800000000000000
+      internalID: -7413539925703889355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_205
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1025
+        width: 117
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b48ee929bb9f7c9e0800000000000000
+      internalID: -1601036558492833717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_206
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 831
+        width: 42
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdee3304b664d8b30800000000000000
+      internalID: 4291163446406541023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_207
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 838
+        width: 56
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22908755425f76580800000000000000
+      internalID: -8833822607662380766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_208
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 822
+        width: 42
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 930a77de9e9afaa70800000000000000
+      internalID: 8840471415728087097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_209
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 807
+        width: 50
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b72d123a5a61d69d0800000000000000
+      internalID: -2779540494355410309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_210
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 771
+        width: 17
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 103f596f4edb9d4b0800000000000000
+      internalID: -5415088285849095423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_211
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 775
+        width: 44
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da790e389d63998e0800000000000000
+      internalID: -1686256277625202771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_212
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 772
+        width: 15
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ffce5adfff084f10800000000000000
+      internalID: 2254069205053657076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_213
+      rect:
+        serializedVersion: 2
+        x: 966
+        y: 807
+        width: 17
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ed95ab980daa63e0800000000000000
+      internalID: -2059643627085914654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_214
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 582
+        width: 353
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43d5c44e97352930800000000000000
+      internalID: 4117758587198362445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_215
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 639
+        width: 69
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991ee7ef531eff060800000000000000
+      internalID: 6989552768721543577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_216
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 529
+        width: 69
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faeb883af9774bea0800000000000000
+      internalID: -5857925687775019345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_217
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 527
+        width: 69
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b6c9940e5c49030800000000000000
+      internalID: 3500640377472052010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_218
+      rect:
+        serializedVersion: 2
+        x: 846
+        y: 259
+        width: 102
+        height: 324
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7331e2f62263673d0800000000000000
+      internalID: -3209318162932821193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_219
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 383
+        width: 69
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef074bb4032a5170800000000000000
+      internalID: 8167879377418653675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_220
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 383
+        width: 69
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c1cfba0060b1580800000000000000
+      internalID: -8855477642338755468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_221
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 343
+        width: 127
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122d14fcdcad79a50800000000000000
+      internalID: 6527926762377171489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_222
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 321
+        width: 130
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fa5773b9387e3450800000000000000
+      internalID: 6070421536961420024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_223
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 259
+        width: 15
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e514aa2a41db1ab00800000000000000
+      internalID: 838158901993685342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_224
+      rect:
+        serializedVersion: 2
+        x: 407
+        y: 273
+        width: 69
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfb68c3710b2c37f0800000000000000
+      internalID: -631582562501235716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_225
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 271
+        width: 69
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e767b3f27535c7b0800000000000000
+      internalID: -5204695026525313049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_226
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 12
+        width: 69
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 245cef7880b0e6630800000000000000
+      internalID: 3922084456755545410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_227
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 35
+        width: 44
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b9d02d0d152a1f0800000000000000
+      internalID: -1035175007022638274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_228
+      rect:
+        serializedVersion: 2
+        x: 253
+        y: 61
+        width: 85
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 323e6cf9248eac3f0800000000000000
+      internalID: -879635404351413469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_229
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 55
+        width: 115
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85fea7c56e5db7c30800000000000000
+      internalID: 4358312249781841752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: electricity_pylon_230
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 5
+        width: 166
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 132b5ed43697dfa90800000000000000
+      internalID: -7278527955345231311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      electricity_pylon_0: -1555878099305837852
+      electricity_pylon_1: -8176241700051358010
+      electricity_pylon_10: -7462464444693620502
+      electricity_pylon_100: 675373823593367680
+      electricity_pylon_101: -3098321540900812869
+      electricity_pylon_102: 6654763180895567014
+      electricity_pylon_103: 7477604532953897083
+      electricity_pylon_104: -5873273797040801083
+      electricity_pylon_105: 1445491788834432297
+      electricity_pylon_106: 5450107617477099992
+      electricity_pylon_107: 1615996153094522553
+      electricity_pylon_108: 8631326839694370968
+      electricity_pylon_109: -5279339530789549432
+      electricity_pylon_11: 5901696788969786139
+      electricity_pylon_110: 2139309452425049469
+      electricity_pylon_111: -8931589349660593158
+      electricity_pylon_112: -366079292634186168
+      electricity_pylon_113: -920817121082917091
+      electricity_pylon_114: 208401711363109528
+      electricity_pylon_115: 2430318214575173070
+      electricity_pylon_116: -6389610899672217109
+      electricity_pylon_117: 4524790531159823977
+      electricity_pylon_118: -2334745709084422256
+      electricity_pylon_119: 117641008733159826
+      electricity_pylon_12: 4444726073871291085
+      electricity_pylon_120: 1952919653608013949
+      electricity_pylon_121: -3031773234530232022
+      electricity_pylon_122: 6533352542130895031
+      electricity_pylon_123: 4711334677337147421
+      electricity_pylon_124: 959400749805766131
+      electricity_pylon_125: -4015947598726789227
+      electricity_pylon_126: -5762989786452310037
+      electricity_pylon_127: -590096028115766749
+      electricity_pylon_128: 7445392971184888158
+      electricity_pylon_129: 2260791120579708633
+      electricity_pylon_13: 6508700651830602638
+      electricity_pylon_130: -8059347096005031435
+      electricity_pylon_131: -5821520170069734746
+      electricity_pylon_132: -203335293197612730
+      electricity_pylon_133: 924809981703360593
+      electricity_pylon_134: -1629753345842039693
+      electricity_pylon_135: -6400011840863084231
+      electricity_pylon_136: 7437521139216678994
+      electricity_pylon_137: -4367692165439657458
+      electricity_pylon_138: -6844956420277451295
+      electricity_pylon_139: -7789892540661877955
+      electricity_pylon_14: -377551324893191943
+      electricity_pylon_140: -4412325046551387832
+      electricity_pylon_141: 3948475837792177911
+      electricity_pylon_142: 2540371969481417441
+      electricity_pylon_143: -3976601565459606819
+      electricity_pylon_144: 4349149355175155617
+      electricity_pylon_145: -3178170836011813780
+      electricity_pylon_146: -2994516821260517782
+      electricity_pylon_147: -4823876323476752808
+      electricity_pylon_148: 2795409585689854696
+      electricity_pylon_149: -4092574014635924409
+      electricity_pylon_15: 4622465467225220096
+      electricity_pylon_150: -4874489318457747587
+      electricity_pylon_151: -9166195919902866170
+      electricity_pylon_152: -7948836805449923300
+      electricity_pylon_153: -7720390346921524749
+      electricity_pylon_154: -5461471090254484606
+      electricity_pylon_155: -3371368603396195708
+      electricity_pylon_156: 8909143243713922775
+      electricity_pylon_157: -110687368668612584
+      electricity_pylon_158: 4107586452522362322
+      electricity_pylon_159: 2143860915280266685
+      electricity_pylon_16: 8902871611774344938
+      electricity_pylon_160: -721852346816723149
+      electricity_pylon_161: 6921580596709350323
+      electricity_pylon_162: -5843830441432322335
+      electricity_pylon_163: 5866672075593434696
+      electricity_pylon_164: -8872745871084483838
+      electricity_pylon_165: 8308222660830945954
+      electricity_pylon_166: 184700520235880120
+      electricity_pylon_167: 4415384552126379109
+      electricity_pylon_168: -2977374792447358721
+      electricity_pylon_169: -6699319645222364786
+      electricity_pylon_17: -5603743088019697310
+      electricity_pylon_170: -5022379832339312856
+      electricity_pylon_171: -4765215836128104631
+      electricity_pylon_172: 8079031179341667998
+      electricity_pylon_173: -6443250342436023892
+      electricity_pylon_174: 6027538007775584471
+      electricity_pylon_175: -512061102978833377
+      electricity_pylon_176: -2381248768116210309
+      electricity_pylon_177: 9080572208627313810
+      electricity_pylon_178: -100985289345460615
+      electricity_pylon_179: -3627156142394842208
+      electricity_pylon_18: 2458590240089582002
+      electricity_pylon_180: 1076768019540190292
+      electricity_pylon_181: 622528597047700813
+      electricity_pylon_182: 6174296955331587603
+      electricity_pylon_183: -9035269628921544689
+      electricity_pylon_184: 227520373066290230
+      electricity_pylon_185: -5887420892318938940
+      electricity_pylon_186: 1843572669169360028
+      electricity_pylon_187: 7986568792840717963
+      electricity_pylon_188: -4604658978706242969
+      electricity_pylon_189: 4515633859882012931
+      electricity_pylon_19: 2928379527295684692
+      electricity_pylon_190: 5227807145883677488
+      electricity_pylon_191: -7654405566031359364
+      electricity_pylon_192: 1686788611694290693
+      electricity_pylon_193: 6068069124150897240
+      electricity_pylon_194: -2500381915763299205
+      electricity_pylon_195: 2637057882864716767
+      electricity_pylon_196: -4298774793717019463
+      electricity_pylon_197: -8214991728845892244
+      electricity_pylon_198: 3733407786008121373
+      electricity_pylon_199: -1132610245328225008
+      electricity_pylon_2: -5209762400567363929
+      electricity_pylon_20: 6804920363990879535
+      electricity_pylon_200: -2898855258568243125
+      electricity_pylon_201: -6190666126038174158
+      electricity_pylon_202: 6610958379393103337
+      electricity_pylon_203: -7414824336203095474
+      electricity_pylon_204: -7413539925703889355
+      electricity_pylon_205: -1601036558492833717
+      electricity_pylon_206: 4291163446406541023
+      electricity_pylon_207: -8833822607662380766
+      electricity_pylon_208: 8840471415728087097
+      electricity_pylon_209: -2779540494355410309
+      electricity_pylon_21: -6994465182067987001
+      electricity_pylon_210: -5415088285849095423
+      electricity_pylon_211: -1686256277625202771
+      electricity_pylon_212: 2254069205053657076
+      electricity_pylon_213: -2059643627085914654
+      electricity_pylon_214: 4117758587198362445
+      electricity_pylon_215: 6989552768721543577
+      electricity_pylon_216: -5857925687775019345
+      electricity_pylon_217: 3500640377472052010
+      electricity_pylon_218: -3209318162932821193
+      electricity_pylon_219: 8167879377418653675
+      electricity_pylon_22: -1435302482802395203
+      electricity_pylon_220: -8855477642338755468
+      electricity_pylon_221: 6527926762377171489
+      electricity_pylon_222: 6070421536961420024
+      electricity_pylon_223: 838158901993685342
+      electricity_pylon_224: -631582562501235716
+      electricity_pylon_225: -5204695026525313049
+      electricity_pylon_226: 3922084456755545410
+      electricity_pylon_227: -1035175007022638274
+      electricity_pylon_228: -879635404351413469
+      electricity_pylon_229: 4358312249781841752
+      electricity_pylon_23: -2851702961844657037
+      electricity_pylon_230: -7278527955345231311
+      electricity_pylon_24: 4732357559940993011
+      electricity_pylon_25: -8502658094610720401
+      electricity_pylon_26: 6261823821408407964
+      electricity_pylon_27: -8400365551715946570
+      electricity_pylon_28: -772432056231895076
+      electricity_pylon_29: -40554902448424842
+      electricity_pylon_3: -2753686638213572204
+      electricity_pylon_30: 6195987217214593341
+      electricity_pylon_31: -8085657840387796288
+      electricity_pylon_32: 6360468204218244424
+      electricity_pylon_33: 7747788874051833770
+      electricity_pylon_34: 9216509382603458300
+      electricity_pylon_35: -3099956839155842346
+      electricity_pylon_36: -2010368287918083668
+      electricity_pylon_37: 6547086449017254463
+      electricity_pylon_38: -9023326523387573546
+      electricity_pylon_39: 5097481617767601460
+      electricity_pylon_4: 8392442052084402045
+      electricity_pylon_40: -3991762991893968875
+      electricity_pylon_41: 3995816538833964178
+      electricity_pylon_42: -6910509552916363907
+      electricity_pylon_43: 5147034019475661938
+      electricity_pylon_44: -2037174452899499199
+      electricity_pylon_45: 935390452541305448
+      electricity_pylon_46: -960373401780684063
+      electricity_pylon_47: 2265966049661629333
+      electricity_pylon_48: 4231596275727216857
+      electricity_pylon_49: -1545075750316899353
+      electricity_pylon_5: -3338006694970981818
+      electricity_pylon_50: 6948474104814118115
+      electricity_pylon_51: -318669571423543867
+      electricity_pylon_52: -3937218362325467876
+      electricity_pylon_53: -5646719145688312176
+      electricity_pylon_54: 211205268719908859
+      electricity_pylon_55: -6391948946111678113
+      electricity_pylon_56: 1418198088433868086
+      electricity_pylon_57: 2170031130432484019
+      electricity_pylon_58: -2122163621966309447
+      electricity_pylon_59: -4045568853360150186
+      electricity_pylon_6: 798627950135603075
+      electricity_pylon_60: 5817321683018291725
+      electricity_pylon_61: -614721310223123141
+      electricity_pylon_62: 1747283926757152309
+      electricity_pylon_63: -5551894860311608284
+      electricity_pylon_64: 8564808811116915029
+      electricity_pylon_65: 1258570103614094644
+      electricity_pylon_66: 5207807545215777560
+      electricity_pylon_67: 1283428430315080242
+      electricity_pylon_68: -8674184855044257572
+      electricity_pylon_69: 2021721546525783340
+      electricity_pylon_7: -8185142824850234025
+      electricity_pylon_70: -8572361300305601645
+      electricity_pylon_71: -4650681697699692122
+      electricity_pylon_72: 36753833829208545
+      electricity_pylon_73: -7995741563180961030
+      electricity_pylon_74: -999561811318362865
+      electricity_pylon_75: -4964721397925104596
+      electricity_pylon_76: -3213254984228158459
+      electricity_pylon_77: -1119145392865248450
+      electricity_pylon_78: -7080310048533590445
+      electricity_pylon_79: -515494766719181571
+      electricity_pylon_8: -3607268541590919458
+      electricity_pylon_80: 3092041440576706077
+      electricity_pylon_81: -4356051306743777951
+      electricity_pylon_82: -822989559956854284
+      electricity_pylon_83: -5765255068127955862
+      electricity_pylon_84: -4823115654892598825
+      electricity_pylon_85: -8774913775387501355
+      electricity_pylon_86: 4125721656729977391
+      electricity_pylon_87: -641692004976002141
+      electricity_pylon_88: 8939536671529040048
+      electricity_pylon_89: 9088894632892052250
+      electricity_pylon_9: 5042985835369668583
+      electricity_pylon_90: -6374727639425902678
+      electricity_pylon_91: -2171354594990479943
+      electricity_pylon_92: 4069111003241222178
+      electricity_pylon_93: 4184467945530822816
+      electricity_pylon_94: -6197696618704628314
+      electricity_pylon_95: 8905138681424760944
+      electricity_pylon_96: -2182177155884363362
+      electricity_pylon_97: -5851514425052956655
+      electricity_pylon_98: 1951815714961901858
+      electricity_pylon_99: 8317470877278997852
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

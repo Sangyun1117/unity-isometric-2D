@@ -1,0 +1,2405 @@
+fileFormatVersion: 2
+guid: 01fbebca150680841812fcc38a68b00e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2111521510251870116
+    second: street_curbs_01_blend_gravel_0
+  - first:
+      213: 2474236998937470942
+    second: street_curbs_01_blend_gravel_1
+  - first:
+      213: 2914384302033851867
+    second: street_curbs_01_blend_gravel_2
+  - first:
+      213: 2698780399841382099
+    second: street_curbs_01_blend_gravel_3
+  - first:
+      213: -4246486023714883788
+    second: street_curbs_01_blend_gravel_4
+  - first:
+      213: 41766822950309055
+    second: street_curbs_01_blend_gravel_5
+  - first:
+      213: 936423352554251127
+    second: street_curbs_01_blend_gravel_6
+  - first:
+      213: 2477609638565038161
+    second: street_curbs_01_blend_gravel_7
+  - first:
+      213: 1930366411700194409
+    second: street_curbs_01_blend_gravel_8
+  - first:
+      213: 4913162418311197878
+    second: street_curbs_01_blend_gravel_9
+  - first:
+      213: -1135380922410199104
+    second: street_curbs_01_blend_gravel_10
+  - first:
+      213: -9131677802832841799
+    second: street_curbs_01_blend_gravel_11
+  - first:
+      213: 7210154892277232115
+    second: street_curbs_01_blend_gravel_12
+  - first:
+      213: 1288276696230978944
+    second: street_curbs_01_blend_gravel_13
+  - first:
+      213: -6731896439606106070
+    second: street_curbs_01_blend_gravel_14
+  - first:
+      213: 4665628138639071555
+    second: street_curbs_01_blend_gravel_15
+  - first:
+      213: -8393461943608841931
+    second: street_curbs_01_blend_gravel_16
+  - first:
+      213: 6205091731204172383
+    second: street_curbs_01_blend_gravel_17
+  - first:
+      213: -7939385496637258999
+    second: street_curbs_01_blend_gravel_18
+  - first:
+      213: -6980802089019288114
+    second: street_curbs_01_blend_gravel_19
+  - first:
+      213: -7033278987232997066
+    second: street_curbs_01_blend_gravel_20
+  - first:
+      213: -2830653080403755031
+    second: street_curbs_01_blend_gravel_21
+  - first:
+      213: 8452752555228628128
+    second: street_curbs_01_blend_gravel_22
+  - first:
+      213: -563488401198223392
+    second: street_curbs_01_blend_gravel_23
+  - first:
+      213: -3215301435714458868
+    second: street_curbs_01_blend_gravel_24
+  - first:
+      213: -6106938465710646943
+    second: street_curbs_01_blend_gravel_25
+  - first:
+      213: 1237555595071385477
+    second: street_curbs_01_blend_gravel_26
+  - first:
+      213: 5398358729313220515
+    second: street_curbs_01_blend_gravel_27
+  - first:
+      213: 4519517532516955117
+    second: street_curbs_01_blend_gravel_28
+  - first:
+      213: -1903261447361437122
+    second: street_curbs_01_blend_gravel_29
+  - first:
+      213: 6245408529206665380
+    second: street_curbs_01_blend_gravel_30
+  - first:
+      213: -481127242946491868
+    second: street_curbs_01_blend_gravel_31
+  - first:
+      213: -8605271105153521635
+    second: street_curbs_01_blend_gravel_32
+  - first:
+      213: -8567970140882370074
+    second: street_curbs_01_blend_gravel_33
+  - first:
+      213: 6585755898504497932
+    second: street_curbs_01_blend_gravel_34
+  - first:
+      213: -5885219481995852590
+    second: street_curbs_01_blend_gravel_35
+  - first:
+      213: 5126747970541548716
+    second: street_curbs_01_blend_gravel_36
+  - first:
+      213: -3784296493974939053
+    second: street_curbs_01_blend_gravel_37
+  - first:
+      213: -6364871584833493651
+    second: street_curbs_01_blend_gravel_38
+  - first:
+      213: -5092747318853872638
+    second: street_curbs_01_blend_gravel_39
+  - first:
+      213: 6646603901745896971
+    second: street_curbs_01_blend_gravel_40
+  - first:
+      213: 1881761465531767791
+    second: street_curbs_01_blend_gravel_41
+  - first:
+      213: 544838968467187965
+    second: street_curbs_01_blend_gravel_42
+  - first:
+      213: 1548649883610692300
+    second: street_curbs_01_blend_gravel_43
+  - first:
+      213: -3621739490414113612
+    second: street_curbs_01_blend_gravel_44
+  - first:
+      213: -5726115934660952069
+    second: street_curbs_01_blend_gravel_45
+  - first:
+      213: -2148443447210420958
+    second: street_curbs_01_blend_gravel_46
+  - first:
+      213: 4016450385853264609
+    second: street_curbs_01_blend_gravel_47
+  - first:
+      213: 8058141857919033172
+    second: street_curbs_01_blend_gravel_48
+  - first:
+      213: 9208727152009228357
+    second: street_curbs_01_blend_gravel_49
+  - first:
+      213: 8380854857914728757
+    second: street_curbs_01_blend_gravel_50
+  - first:
+      213: 1819363121925102959
+    second: street_curbs_01_blend_gravel_51
+  - first:
+      213: -1732297075303175389
+    second: street_curbs_01_blend_gravel_52
+  - first:
+      213: 2874294409595061987
+    second: street_curbs_01_blend_gravel_53
+  - first:
+      213: -3720341338908995237
+    second: street_curbs_01_blend_gravel_54
+  - first:
+      213: 1708615182071088057
+    second: street_curbs_01_blend_gravel_55
+  - first:
+      213: 9015569802430211550
+    second: street_curbs_01_blend_gravel_56
+  - first:
+      213: 5315950902271869294
+    second: street_curbs_01_blend_gravel_57
+  - first:
+      213: -7976464065109827439
+    second: street_curbs_01_blend_gravel_58
+  - first:
+      213: -2373054358833085598
+    second: street_curbs_01_blend_gravel_59
+  - first:
+      213: 2624768319526390388
+    second: street_curbs_01_blend_gravel_60
+  - first:
+      213: -3654154586229490165
+    second: street_curbs_01_blend_gravel_61
+  - first:
+      213: -8832919983581400304
+    second: street_curbs_01_blend_gravel_62
+  - first:
+      213: 9077819092558236065
+    second: street_curbs_01_blend_gravel_63
+  - first:
+      213: -3737259708443177049
+    second: street_curbs_01_blend_gravel_64
+  - first:
+      213: -2167484886344542657
+    second: street_curbs_01_blend_gravel_65
+  - first:
+      213: 3251729145683206570
+    second: street_curbs_01_blend_gravel_66
+  - first:
+      213: -6365276478663562008
+    second: street_curbs_01_blend_gravel_67
+  - first:
+      213: -7707344462531195049
+    second: street_curbs_01_blend_gravel_68
+  - first:
+      213: 806647780069808414
+    second: street_curbs_01_blend_gravel_69
+  - first:
+      213: -905628151852463002
+    second: street_curbs_01_blend_gravel_70
+  - first:
+      213: 4097364020711151698
+    second: street_curbs_01_blend_gravel_71
+  - first:
+      213: 1115530593127801197
+    second: street_curbs_01_blend_gravel_72
+  - first:
+      213: 607383473326224517
+    second: street_curbs_01_blend_gravel_73
+  - first:
+      213: 193020999569228330
+    second: street_curbs_01_blend_gravel_74
+  - first:
+      213: 7913594328511605180
+    second: street_curbs_01_blend_gravel_75
+  - first:
+      213: -5842319087200217186
+    second: street_curbs_01_blend_gravel_76
+  - first:
+      213: -7769984065276115703
+    second: street_curbs_01_blend_gravel_77
+  - first:
+      213: 2848662519520325234
+    second: street_curbs_01_blend_gravel_78
+  - first:
+      213: -4478070860996830530
+    second: street_curbs_01_blend_gravel_79
+  - first:
+      213: 1925535144843849515
+    second: street_curbs_01_blend_gravel_80
+  - first:
+      213: 405156803809284318
+    second: street_curbs_01_blend_gravel_81
+  - first:
+      213: 5096628271951218046
+    second: street_curbs_01_blend_gravel_82
+  - first:
+      213: 3145746919450267145
+    second: street_curbs_01_blend_gravel_83
+  - first:
+      213: -1332134396852236809
+    second: street_curbs_01_blend_gravel_84
+  - first:
+      213: 1884272699981172293
+    second: street_curbs_01_blend_gravel_85
+  - first:
+      213: 5361157420295377493
+    second: street_curbs_01_blend_gravel_86
+  - first:
+      213: 1577631721777584578
+    second: street_curbs_01_blend_gravel_87
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2573
+        width: 127
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7b82250a1ad4d10800000000000000
+      internalID: 2111521510251870116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_1
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 2588
+        width: 98
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed7ebc30171465220800000000000000
+      internalID: 2474236998937470942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_2
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2559
+        width: 98
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd5d3b5e419f17820800000000000000
+      internalID: 2914384302033851867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_3
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 2559
+        width: 128
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de0553997ef37520800000000000000
+      internalID: 2698780399841382099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_4
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 2559
+        width: 128
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43730d4d5737115c0800000000000000
+      internalID: -4246486023714883788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_5
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 2559
+        width: 98
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc895544b2649000800000000000000
+      internalID: 41766822950309055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_6
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 2588
+        width: 98
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7736068e318defc00800000000000000
+      internalID: 936423352554251127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_7
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 2573
+        width: 128
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 158c0ced6dc326220800000000000000
+      internalID: 2477609638565038161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2322
+        width: 126
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c4cbf160a0aca10800000000000000
+      internalID: 1930366411700194409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_9
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2336
+        width: 94
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b4fc3b303f0f2440800000000000000
+      internalID: 4913162418311197878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_10
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2303
+        width: 102
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c71cfa01115e30f0800000000000000
+      internalID: -1135380922410199104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_11
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 2303
+        width: 128
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b334d68b63c54180800000000000000
+      internalID: -9131677802832841799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_12
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 2303
+        width: 128
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1bab96cad9f0460800000000000000
+      internalID: 7210154892277232115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_13
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 2303
+        width: 102
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 085e24364d0e0e110800000000000000
+      internalID: 1288276696230978944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_14
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 2336
+        width: 94
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28af84fadf7392a0800000000000000
+      internalID: -6731896439606106070
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_15
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 2322
+        width: 126
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34916a19214afb040800000000000000
+      internalID: 4665628138639071555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_16
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 2047
+        width: 101
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5396f6f25de648b80800000000000000
+      internalID: -8393461943608841931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_17
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 2063
+        width: 68
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5a6325bd0aec1650800000000000000
+      internalID: 6205091731204172383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_18
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2047
+        width: 101
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9034c0a94f2a1d190800000000000000
+      internalID: -7939385496637258999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_19
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 2063
+        width: 68
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec553b46c753f1f90800000000000000
+      internalID: -6980802089019288114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_20
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 2047
+        width: 68
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63112c76606c46e90800000000000000
+      internalID: -7033278987232997066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_21
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 2047
+        width: 101
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ef3b24550087b8d0800000000000000
+      internalID: -2830653080403755031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_22
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 2047
+        width: 68
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a48da41aa53e4570800000000000000
+      internalID: 8452752555228628128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_23
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 2047
+        width: 101
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0efe68bd8461e28f0800000000000000
+      internalID: -563488401198223392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_24
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1795
+        width: 89
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0baf6e2164f063d0800000000000000
+      internalID: -3215301435714458868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_25
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1811
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 169d52642dbcf3ba0800000000000000
+      internalID: -6106938465710646943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_26
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1795
+        width: 90
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58fe602c14eac2110800000000000000
+      internalID: 1237555595071385477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_27
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1811
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a7f7de99a2daea40800000000000000
+      internalID: 5398358729313220515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_28
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1791
+        width: 70
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3b2d9104d88be30800000000000000
+      internalID: 4519517532516955117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_29
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1791
+        width: 101
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32635b2cc14695e0800000000000000
+      internalID: -1903261447361437122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_30
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1791
+        width: 69
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a0ee8cb7f52ca650800000000000000
+      internalID: 6245408529206665380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_31
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1791
+        width: 100
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42a49685251b259f0800000000000000
+      internalID: -481127242946491868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1567
+        width: 127
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d182465c58fe39880800000000000000
+      internalID: -8605271105153521635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_33
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1535
+        width: 128
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e18d8a4d84781980800000000000000
+      internalID: -8567970140882370074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_34
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1535
+        width: 76
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0b4bcbc81e456b50800000000000000
+      internalID: 6585755898504497932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_35
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1535
+        width: 76
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d4cd66ff00835ea0800000000000000
+      internalID: -5885219481995852590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_36
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1539
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca47515dd1ed52740800000000000000
+      internalID: 5126747970541548716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_37
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1535
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a1ed7836a7b7bc0800000000000000
+      internalID: -3784296493974939053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_38
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1541
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d65a501240f6ba7a0800000000000000
+      internalID: -6364871584833493651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_39
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1556
+        width: 112
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20454e8cb4de259b0800000000000000
+      internalID: -5092747318853872638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1287
+        width: 68
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e1a4e880b7d3c50800000000000000
+      internalID: 6646603901745896971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_41
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1310
+        width: 120
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feb1a09351c5d1a10800000000000000
+      internalID: 1881761465531767791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_42
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1279
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df8e647b728af8700800000000000000
+      internalID: 544838968467187965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_43
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1279
+        width: 112
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccab0123dd8ed7510800000000000000
+      internalID: 1548649883610692300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_44
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1285
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bcccdc4f1ffcbdc0800000000000000
+      internalID: -3621739490414113612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_45
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1279
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bff74db45efb880b0800000000000000
+      internalID: -5726115934660952069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_46
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1282
+        width: 69
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225d10551123f22e0800000000000000
+      internalID: -2148443447210420958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_47
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1279
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2b3ca885c4db730800000000000000
+      internalID: 4016450385853264609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1023
+        width: 67
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f58fe635544df60800000000000000
+      internalID: 8058141857919033172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_49
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1023
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54031090e88fbcf70800000000000000
+      internalID: 9208727152009228357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_50
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1028
+        width: 69
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5314d10f617ce4470800000000000000
+      internalID: 8380854857914728757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_51
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1043
+        width: 113
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6d9ac7be1daf3910800000000000000
+      internalID: 1819363121925102959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_52
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1032
+        width: 70
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b2b15fcf4a5f7e0800000000000000
+      internalID: -1732297075303175389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_53
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1054
+        width: 120
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e60ecf698b83e720800000000000000
+      internalID: 2874294409595061987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_54
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1023
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51d0237341be5cc0800000000000000
+      internalID: -3720341338908995237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_55
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 1023
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b3cf29947836b710800000000000000
+      internalID: 1708615182071088057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_56
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 770
+        width: 115
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5679108fcbd1d70800000000000000
+      internalID: 9015569802430211550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_57
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 767
+        width: 76
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6105553e2d06c940800000000000000
+      internalID: 5315950902271869294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_58
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 793
+        width: 128
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190e573a138ed4190800000000000000
+      internalID: -7976464065109827439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_59
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 767
+        width: 121
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 263cf0532a7311fd0800000000000000
+      internalID: -2373054358833085598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_60
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 767
+        width: 120
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47ac11741ec0d6420800000000000000
+      internalID: 2624768319526390388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_61
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 771
+        width: 73
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0e3d6da3c5d94dc0800000000000000
+      internalID: -3654154586229490165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_62
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 771
+        width: 128
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0137e21e21a2b6580800000000000000
+      internalID: -8832919983581400304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_63
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 767
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a9413b4e54eafd70800000000000000
+      internalID: 9077819092558236065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 515
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7af4dd49816922cc0800000000000000
+      internalID: -3737259708443177049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_65
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 526
+        width: 82
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36d76dcafb8be1e0800000000000000
+      internalID: -2167484886344542657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_66
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 542
+        width: 49
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa16b3afd66702d20800000000000000
+      internalID: 3251729145683206570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_67
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 515
+        width: 71
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eceb1074cef9a7a0800000000000000
+      internalID: -6365276478663562008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_68
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 514
+        width: 128
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f014deb030a0590800000000000000
+      internalID: -7707344462531195049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_69
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 515
+        width: 118
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e191be5d1e9c13b00800000000000000
+      internalID: 806647780069808414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_70
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 511
+        width: 88
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66c8d3e7eff8e63f0800000000000000
+      internalID: -905628151852463002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_71
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 511
+        width: 90
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25854f93ed2ccd830800000000000000
+      internalID: 4097364020711151698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_72
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 260
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d61a6730a292b7f00800000000000000
+      internalID: 1115530593127801197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_73
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 270
+        width: 80
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5847d0a0d0cdd6800800000000000000
+      internalID: 607383473326224517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_74
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 287
+        width: 49
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a22c381939fbda200800000000000000
+      internalID: 193020999569228330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_75
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 258
+        width: 118
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb9ea7f1d1cb2dd60800000000000000
+      internalID: 7913594328511605180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_76
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 255
+        width: 89
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9752fe7eb9ebeea0800000000000000
+      internalID: -5842319087200217186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_77
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 255
+        width: 89
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90585c6e8a87b2490800000000000000
+      internalID: -7769984065276115703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_78
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 282
+        width: 128
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27e6af8f77b788720800000000000000
+      internalID: 2848662519520325234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_79
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 255
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eba914b1742bad1c0800000000000000
+      internalID: -4478070860996830530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 127
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2fa2f62300e8ba10800000000000000
+      internalID: 1925535144843849515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_81
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed0926967f76f9500800000000000000
+      internalID: 405156803809284318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_82
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2
+        width: 62
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e758dd5096cdab640800000000000000
+      internalID: 5096628271951218046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_83
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 2
+        width: 62
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ecc170820f7ab20800000000000000
+      internalID: 3145746919450267145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_84
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 0
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd0b82f2de438de0800000000000000
+      internalID: -1332134396852236809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_85
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 2
+        width: 64
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e085e8908462a10800000000000000
+      internalID: 1884272699981172293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_86
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552d7a5e448a66a40800000000000000
+      internalID: 5361157420295377493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_gravel_87
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 0
+        width: 128
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c9d0fa31bfd4e510800000000000000
+      internalID: 1577631721777584578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      street_curbs_01_blend_gravel_0: 2111521510251870116
+      street_curbs_01_blend_gravel_1: 2474236998937470942
+      street_curbs_01_blend_gravel_10: -1135380922410199104
+      street_curbs_01_blend_gravel_11: -9131677802832841799
+      street_curbs_01_blend_gravel_12: 7210154892277232115
+      street_curbs_01_blend_gravel_13: 1288276696230978944
+      street_curbs_01_blend_gravel_14: -6731896439606106070
+      street_curbs_01_blend_gravel_15: 4665628138639071555
+      street_curbs_01_blend_gravel_16: -8393461943608841931
+      street_curbs_01_blend_gravel_17: 6205091731204172383
+      street_curbs_01_blend_gravel_18: -7939385496637258999
+      street_curbs_01_blend_gravel_19: -6980802089019288114
+      street_curbs_01_blend_gravel_2: 2914384302033851867
+      street_curbs_01_blend_gravel_20: -7033278987232997066
+      street_curbs_01_blend_gravel_21: -2830653080403755031
+      street_curbs_01_blend_gravel_22: 8452752555228628128
+      street_curbs_01_blend_gravel_23: -563488401198223392
+      street_curbs_01_blend_gravel_24: -3215301435714458868
+      street_curbs_01_blend_gravel_25: -6106938465710646943
+      street_curbs_01_blend_gravel_26: 1237555595071385477
+      street_curbs_01_blend_gravel_27: 5398358729313220515
+      street_curbs_01_blend_gravel_28: 4519517532516955117
+      street_curbs_01_blend_gravel_29: -1903261447361437122
+      street_curbs_01_blend_gravel_3: 2698780399841382099
+      street_curbs_01_blend_gravel_30: 6245408529206665380
+      street_curbs_01_blend_gravel_31: -481127242946491868
+      street_curbs_01_blend_gravel_32: -8605271105153521635
+      street_curbs_01_blend_gravel_33: -8567970140882370074
+      street_curbs_01_blend_gravel_34: 6585755898504497932
+      street_curbs_01_blend_gravel_35: -5885219481995852590
+      street_curbs_01_blend_gravel_36: 5126747970541548716
+      street_curbs_01_blend_gravel_37: -3784296493974939053
+      street_curbs_01_blend_gravel_38: -6364871584833493651
+      street_curbs_01_blend_gravel_39: -5092747318853872638
+      street_curbs_01_blend_gravel_4: -4246486023714883788
+      street_curbs_01_blend_gravel_40: 6646603901745896971
+      street_curbs_01_blend_gravel_41: 1881761465531767791
+      street_curbs_01_blend_gravel_42: 544838968467187965
+      street_curbs_01_blend_gravel_43: 1548649883610692300
+      street_curbs_01_blend_gravel_44: -3621739490414113612
+      street_curbs_01_blend_gravel_45: -5726115934660952069
+      street_curbs_01_blend_gravel_46: -2148443447210420958
+      street_curbs_01_blend_gravel_47: 4016450385853264609
+      street_curbs_01_blend_gravel_48: 8058141857919033172
+      street_curbs_01_blend_gravel_49: 9208727152009228357
+      street_curbs_01_blend_gravel_5: 41766822950309055
+      street_curbs_01_blend_gravel_50: 8380854857914728757
+      street_curbs_01_blend_gravel_51: 1819363121925102959
+      street_curbs_01_blend_gravel_52: -1732297075303175389
+      street_curbs_01_blend_gravel_53: 2874294409595061987
+      street_curbs_01_blend_gravel_54: -3720341338908995237
+      street_curbs_01_blend_gravel_55: 1708615182071088057
+      street_curbs_01_blend_gravel_56: 9015569802430211550
+      street_curbs_01_blend_gravel_57: 5315950902271869294
+      street_curbs_01_blend_gravel_58: -7976464065109827439
+      street_curbs_01_blend_gravel_59: -2373054358833085598
+      street_curbs_01_blend_gravel_6: 936423352554251127
+      street_curbs_01_blend_gravel_60: 2624768319526390388
+      street_curbs_01_blend_gravel_61: -3654154586229490165
+      street_curbs_01_blend_gravel_62: -8832919983581400304
+      street_curbs_01_blend_gravel_63: 9077819092558236065
+      street_curbs_01_blend_gravel_64: -3737259708443177049
+      street_curbs_01_blend_gravel_65: -2167484886344542657
+      street_curbs_01_blend_gravel_66: 3251729145683206570
+      street_curbs_01_blend_gravel_67: -6365276478663562008
+      street_curbs_01_blend_gravel_68: -7707344462531195049
+      street_curbs_01_blend_gravel_69: 806647780069808414
+      street_curbs_01_blend_gravel_7: 2477609638565038161
+      street_curbs_01_blend_gravel_70: -905628151852463002
+      street_curbs_01_blend_gravel_71: 4097364020711151698
+      street_curbs_01_blend_gravel_72: 1115530593127801197
+      street_curbs_01_blend_gravel_73: 607383473326224517
+      street_curbs_01_blend_gravel_74: 193020999569228330
+      street_curbs_01_blend_gravel_75: 7913594328511605180
+      street_curbs_01_blend_gravel_76: -5842319087200217186
+      street_curbs_01_blend_gravel_77: -7769984065276115703
+      street_curbs_01_blend_gravel_78: 2848662519520325234
+      street_curbs_01_blend_gravel_79: -4478070860996830530
+      street_curbs_01_blend_gravel_8: 1930366411700194409
+      street_curbs_01_blend_gravel_80: 1925535144843849515
+      street_curbs_01_blend_gravel_81: 405156803809284318
+      street_curbs_01_blend_gravel_82: 5096628271951218046
+      street_curbs_01_blend_gravel_83: 3145746919450267145
+      street_curbs_01_blend_gravel_84: -1332134396852236809
+      street_curbs_01_blend_gravel_85: 1884272699981172293
+      street_curbs_01_blend_gravel_86: 5361157420295377493
+      street_curbs_01_blend_gravel_87: 1577631721777584578
+      street_curbs_01_blend_gravel_9: 4913162418311197878
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

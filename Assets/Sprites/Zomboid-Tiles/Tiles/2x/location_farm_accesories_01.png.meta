@@ -1,0 +1,429 @@
+fileFormatVersion: 2
+guid: 1c0050abb2c26e24b9e1d1479417456b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2367821585024633525
+    second: location_farm_accesories_01_0
+  - first:
+      213: -4936584665282533480
+    second: location_farm_accesories_01_1
+  - first:
+      213: 1565822599469403346
+    second: location_farm_accesories_01_2
+  - first:
+      213: -5369725563582861996
+    second: location_farm_accesories_01_3
+  - first:
+      213: -3856200673455169746
+    second: location_farm_accesories_01_4
+  - first:
+      213: -4426819083701023398
+    second: location_farm_accesories_01_5
+  - first:
+      213: -3922974113199849011
+    second: location_farm_accesories_01_6
+  - first:
+      213: -3605433968484923226
+    second: location_farm_accesories_01_7
+  - first:
+      213: -5833764267856879248
+    second: location_farm_accesories_01_8
+  - first:
+      213: -8774898661278827464
+    second: location_farm_accesories_01_9
+  - first:
+      213: 1524953249746208981
+    second: location_farm_accesories_01_10
+  - first:
+      213: -695882068615750433
+    second: location_farm_accesories_01_11
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: location_farm_accesories_01_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2311
+        width: 83
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b45ba1d40dec32fd0800000000000000
+      internalID: -2367821585024633525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_farm_accesories_01_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2325
+        width: 85
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 897a13ee66abd7bb0800000000000000
+      internalID: -4936584665282533480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_farm_accesories_01_2
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 2325
+        width: 87
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dc07aeab5beab510800000000000000
+      internalID: 1565822599469403346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_farm_accesories_01_3
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 2311
+        width: 82
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45d2f49cc07ea75b0800000000000000
+      internalID: -5369725563582861996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_farm_accesories_01_4
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 2311
+        width: 100
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f15142be50c7ac0800000000000000
+      internalID: -3856200673455169746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_farm_accesories_01_5
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 2308
+        width: 83
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d84176f77c092c0800000000000000
+      internalID: -4426819083701023398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_farm_accesories_01_6
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 2307
+        width: 86
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc18baf24dbce89c0800000000000000
+      internalID: -3922974113199849011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_farm_accesories_01_7
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 2311
+        width: 102
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a8445778ece6fdc0800000000000000
+      internalID: -3605433968484923226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_farm_accesories_01_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2051
+        width: 116
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07126079e4e4a0fa0800000000000000
+      internalID: -5833764267856879248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_farm_accesories_01_9
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 2051
+        width: 116
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83cbc62b82c493680800000000000000
+      internalID: -8774898661278827464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_farm_accesories_01_10
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 2051
+        width: 116
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8433ea6e8b92510800000000000000
+      internalID: 1524953249746208981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_farm_accesories_01_11
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 2051
+        width: 116
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdc189e02fab756f0800000000000000
+      internalID: -695882068615750433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      location_farm_accesories_01_0: -2367821585024633525
+      location_farm_accesories_01_1: -4936584665282533480
+      location_farm_accesories_01_10: 1524953249746208981
+      location_farm_accesories_01_11: -695882068615750433
+      location_farm_accesories_01_2: 1565822599469403346
+      location_farm_accesories_01_3: -5369725563582861996
+      location_farm_accesories_01_4: -3856200673455169746
+      location_farm_accesories_01_5: -4426819083701023398
+      location_farm_accesories_01_6: -3922974113199849011
+      location_farm_accesories_01_7: -3605433968484923226
+      location_farm_accesories_01_8: -5833764267856879248
+      location_farm_accesories_01_9: -8774898661278827464
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,4329 @@
+fileFormatVersion: 2
+guid: 9d9431e3d8a9c2d47af630d009ebf69a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5379109755245557725
+    second: radio_tower_0
+  - first:
+      213: 3437573704882136220
+    second: radio_tower_1
+  - first:
+      213: 1393533941272543397
+    second: radio_tower_2
+  - first:
+      213: 858619768693284883
+    second: radio_tower_3
+  - first:
+      213: -6648598368977267934
+    second: radio_tower_4
+  - first:
+      213: 1737959982722660336
+    second: radio_tower_5
+  - first:
+      213: -816907670791768528
+    second: radio_tower_6
+  - first:
+      213: 5702036529341743166
+    second: radio_tower_7
+  - first:
+      213: -5927326679550969047
+    second: radio_tower_8
+  - first:
+      213: -6883939550995526188
+    second: radio_tower_9
+  - first:
+      213: 5996903305571882377
+    second: radio_tower_10
+  - first:
+      213: 8741797328264324317
+    second: radio_tower_11
+  - first:
+      213: -7337614035009250885
+    second: radio_tower_12
+  - first:
+      213: -105901624166524773
+    second: radio_tower_13
+  - first:
+      213: -1024280017174878097
+    second: radio_tower_14
+  - first:
+      213: 1933980451105024412
+    second: radio_tower_15
+  - first:
+      213: 423857350128699736
+    second: radio_tower_16
+  - first:
+      213: -7812650081306065739
+    second: radio_tower_17
+  - first:
+      213: -8730821448851715427
+    second: radio_tower_18
+  - first:
+      213: -2440461328468449619
+    second: radio_tower_19
+  - first:
+      213: 850528491259890614
+    second: radio_tower_20
+  - first:
+      213: -3147309110720338387
+    second: radio_tower_21
+  - first:
+      213: -552800069389553333
+    second: radio_tower_22
+  - first:
+      213: -2837833683549282338
+    second: radio_tower_23
+  - first:
+      213: 798671295236226121
+    second: radio_tower_24
+  - first:
+      213: 6424210882462227959
+    second: radio_tower_25
+  - first:
+      213: 3048313074108950690
+    second: radio_tower_26
+  - first:
+      213: 6094679521662690901
+    second: radio_tower_27
+  - first:
+      213: 7395281442443185532
+    second: radio_tower_28
+  - first:
+      213: -5072481868412675541
+    second: radio_tower_29
+  - first:
+      213: 3172949432259169063
+    second: radio_tower_30
+  - first:
+      213: -7116045576748656721
+    second: radio_tower_31
+  - first:
+      213: -7973890487199449742
+    second: radio_tower_32
+  - first:
+      213: -75369484752506718
+    second: radio_tower_33
+  - first:
+      213: 498521462211829971
+    second: radio_tower_34
+  - first:
+      213: 8645675589637935977
+    second: radio_tower_35
+  - first:
+      213: -9060102418817385312
+    second: radio_tower_36
+  - first:
+      213: 7113729883019191423
+    second: radio_tower_37
+  - first:
+      213: -533079739444410436
+    second: radio_tower_38
+  - first:
+      213: 2356261248897292462
+    second: radio_tower_39
+  - first:
+      213: -8931576696169831615
+    second: radio_tower_40
+  - first:
+      213: -4056108742895775275
+    second: radio_tower_41
+  - first:
+      213: 4982464198444249169
+    second: radio_tower_42
+  - first:
+      213: 7507104297409755195
+    second: radio_tower_43
+  - first:
+      213: -6305654489137046438
+    second: radio_tower_44
+  - first:
+      213: -8389945208669184653
+    second: radio_tower_45
+  - first:
+      213: 5179846830269854293
+    second: radio_tower_46
+  - first:
+      213: -11264721851240763
+    second: radio_tower_47
+  - first:
+      213: -4027110754217340496
+    second: radio_tower_48
+  - first:
+      213: -8430838996767026783
+    second: radio_tower_49
+  - first:
+      213: 2368012821753446505
+    second: radio_tower_50
+  - first:
+      213: -6595450542681619804
+    second: radio_tower_51
+  - first:
+      213: 9089625143413082766
+    second: radio_tower_52
+  - first:
+      213: 3588694828001239572
+    second: radio_tower_53
+  - first:
+      213: -8215044435100366531
+    second: radio_tower_54
+  - first:
+      213: 5882015753768490485
+    second: radio_tower_55
+  - first:
+      213: 2598577617825161128
+    second: radio_tower_56
+  - first:
+      213: 3020182208220629783
+    second: radio_tower_57
+  - first:
+      213: -6237816069074668863
+    second: radio_tower_58
+  - first:
+      213: 4628715978229258816
+    second: radio_tower_59
+  - first:
+      213: -7108854322628023916
+    second: radio_tower_60
+  - first:
+      213: 161767078156240024
+    second: radio_tower_61
+  - first:
+      213: -6653262118656152904
+    second: radio_tower_62
+  - first:
+      213: -3365977377116036322
+    second: radio_tower_63
+  - first:
+      213: 1454283795222941059
+    second: radio_tower_64
+  - first:
+      213: 2070101556076671121
+    second: radio_tower_65
+  - first:
+      213: -8658205919658992469
+    second: radio_tower_66
+  - first:
+      213: 7474378171900802676
+    second: radio_tower_67
+  - first:
+      213: 9036631427091415529
+    second: radio_tower_68
+  - first:
+      213: 6134062017381106176
+    second: radio_tower_69
+  - first:
+      213: 2978716543464158511
+    second: radio_tower_70
+  - first:
+      213: 2825593818734746464
+    second: radio_tower_71
+  - first:
+      213: -2055679515416254377
+    second: radio_tower_72
+  - first:
+      213: 327182335195268826
+    second: radio_tower_73
+  - first:
+      213: -6084059331051891945
+    second: radio_tower_74
+  - first:
+      213: -5366814308039543885
+    second: radio_tower_75
+  - first:
+      213: -6845121927113324958
+    second: radio_tower_76
+  - first:
+      213: 3852731711421626710
+    second: radio_tower_77
+  - first:
+      213: -6821138381289582788
+    second: radio_tower_78
+  - first:
+      213: -8892777989651891473
+    second: radio_tower_79
+  - first:
+      213: 2684653328065205379
+    second: radio_tower_80
+  - first:
+      213: -6841225708294203094
+    second: radio_tower_81
+  - first:
+      213: -356232529552260291
+    second: radio_tower_82
+  - first:
+      213: -8727492014674388839
+    second: radio_tower_83
+  - first:
+      213: 5416890311833045774
+    second: radio_tower_84
+  - first:
+      213: -3156618294006999680
+    second: radio_tower_85
+  - first:
+      213: 4873376265314014483
+    second: radio_tower_86
+  - first:
+      213: 4894158770362999434
+    second: radio_tower_87
+  - first:
+      213: -6263042048944201159
+    second: radio_tower_88
+  - first:
+      213: -1688344141513313827
+    second: radio_tower_89
+  - first:
+      213: -6957965769851660271
+    second: radio_tower_90
+  - first:
+      213: -8288687404328626120
+    second: radio_tower_91
+  - first:
+      213: -1961023009287902125
+    second: radio_tower_92
+  - first:
+      213: -8586391537719098578
+    second: radio_tower_93
+  - first:
+      213: -7017638118579088954
+    second: radio_tower_94
+  - first:
+      213: -3272372161487249704
+    second: radio_tower_95
+  - first:
+      213: -7518435095805422400
+    second: radio_tower_96
+  - first:
+      213: 7643086679615351180
+    second: radio_tower_97
+  - first:
+      213: 1356581392097303549
+    second: radio_tower_98
+  - first:
+      213: 3966689022164492183
+    second: radio_tower_99
+  - first:
+      213: -2220279729825384687
+    second: radio_tower_100
+  - first:
+      213: -4130370856125443377
+    second: radio_tower_101
+  - first:
+      213: 1180737970851034859
+    second: radio_tower_102
+  - first:
+      213: -2714535875481527092
+    second: radio_tower_103
+  - first:
+      213: 5773484506157098047
+    second: radio_tower_104
+  - first:
+      213: -3735339224938608840
+    second: radio_tower_105
+  - first:
+      213: 2212906487674441504
+    second: radio_tower_106
+  - first:
+      213: -1682275932654389843
+    second: radio_tower_107
+  - first:
+      213: 8148741910614868739
+    second: radio_tower_108
+  - first:
+      213: -2402670658270449654
+    second: radio_tower_109
+  - first:
+      213: -3336798955537613491
+    second: radio_tower_110
+  - first:
+      213: -6297852341397992063
+    second: radio_tower_111
+  - first:
+      213: -5059912392716333936
+    second: radio_tower_112
+  - first:
+      213: 954039451898324794
+    second: radio_tower_113
+  - first:
+      213: -6842069408406050753
+    second: radio_tower_114
+  - first:
+      213: 7136994275503792725
+    second: radio_tower_115
+  - first:
+      213: -6616286554363028082
+    second: radio_tower_116
+  - first:
+      213: -7522697332568454848
+    second: radio_tower_117
+  - first:
+      213: -5746038210389238034
+    second: radio_tower_118
+  - first:
+      213: 8164098589101157215
+    second: radio_tower_119
+  - first:
+      213: 6995292469663033231
+    second: radio_tower_120
+  - first:
+      213: 6514957585429074225
+    second: radio_tower_121
+  - first:
+      213: 4762756748931324261
+    second: radio_tower_122
+  - first:
+      213: -5355116297461297607
+    second: radio_tower_123
+  - first:
+      213: -3198732375193492650
+    second: radio_tower_124
+  - first:
+      213: 3108381511584234307
+    second: radio_tower_125
+  - first:
+      213: 5507973743425773177
+    second: radio_tower_126
+  - first:
+      213: 1483821950947476739
+    second: radio_tower_127
+  - first:
+      213: -4579200466060539688
+    second: radio_tower_128
+  - first:
+      213: 949136094215709978
+    second: radio_tower_129
+  - first:
+      213: -7669686355548104222
+    second: radio_tower_130
+  - first:
+      213: -4638583928039577661
+    second: radio_tower_131
+  - first:
+      213: -8666581787393875791
+    second: radio_tower_132
+  - first:
+      213: 754496672247452903
+    second: radio_tower_133
+  - first:
+      213: 2630305732716694187
+    second: radio_tower_134
+  - first:
+      213: 2842800334966213346
+    second: radio_tower_135
+  - first:
+      213: 5121224012021855381
+    second: radio_tower_136
+  - first:
+      213: 1385928900164172661
+    second: radio_tower_137
+  - first:
+      213: -3072086938100354180
+    second: radio_tower_138
+  - first:
+      213: 1282807299120538606
+    second: radio_tower_139
+  - first:
+      213: -3818650866692669780
+    second: radio_tower_140
+  - first:
+      213: -2540234851785193879
+    second: radio_tower_141
+  - first:
+      213: -540688762969261539
+    second: radio_tower_142
+  - first:
+      213: 5166545922921924328
+    second: radio_tower_143
+  - first:
+      213: -5468791821360696142
+    second: radio_tower_144
+  - first:
+      213: -6723643186299356774
+    second: radio_tower_145
+  - first:
+      213: -1465913755843299165
+    second: radio_tower_146
+  - first:
+      213: 7788400767812737990
+    second: radio_tower_147
+  - first:
+      213: 2707015464434350388
+    second: radio_tower_148
+  - first:
+      213: 6603576810599017267
+    second: radio_tower_149
+  - first:
+      213: -2090022760461684629
+    second: radio_tower_150
+  - first:
+      213: 1294453896015870144
+    second: radio_tower_151
+  - first:
+      213: 1657592620844964896
+    second: radio_tower_152
+  - first:
+      213: 1883077082452835788
+    second: radio_tower_153
+  - first:
+      213: -8849878160312973983
+    second: radio_tower_154
+  - first:
+      213: -8469722083345712226
+    second: radio_tower_155
+  - first:
+      213: -1286037386527712768
+    second: radio_tower_156
+  - first:
+      213: 5296637917438038467
+    second: radio_tower_157
+  - first:
+      213: 3705040424410349358
+    second: radio_tower_158
+  - first:
+      213: -599724467030260911
+    second: radio_tower_159
+  - first:
+      213: -1074351916809637694
+    second: radio_tower_160
+  - first:
+      213: -6145503438509826223
+    second: radio_tower_161
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: radio_tower_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 3965
+        width: 51
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32800c66d209955b0800000000000000
+      internalID: -5379109755245557725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_1
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 3856
+        width: 95
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9429b05217b4bf20800000000000000
+      internalID: 3437573704882136220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_2
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 3996
+        width: 49
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a000008cb3d65310800000000000000
+      internalID: 1393533941272543397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_3
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 3840
+        width: 76
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3106716612e6aeb00800000000000000
+      internalID: 858619768693284883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_4
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 3964
+        width: 37
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2235eda520f6bb3a0800000000000000
+      internalID: -6648598368977267934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_5
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 3961
+        width: 38
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f7370c65697e1810800000000000000
+      internalID: 1737959982722660336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_6
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 3867
+        width: 76
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0363a243dc2c9a4f0800000000000000
+      internalID: -816907670791768528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_7
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 3934
+        width: 37
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3047b34304b12f40800000000000000
+      internalID: 5702036529341743166
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_8
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 3742
+        width: 38
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92b3bad0ac7edbda0800000000000000
+      internalID: -5927326679550969047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_9
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 3712
+        width: 49
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dd46a773755770a0800000000000000
+      internalID: -6883939550995526188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_10
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 3736
+        width: 50
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9855af098c7493350800000000000000
+      internalID: 5996903305571882377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_11
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 3597
+        width: 96
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd467a1aa5a115970800000000000000
+      internalID: 8741797328264324317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_12
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 3781
+        width: 71
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb95a5859ee8b2a90800000000000000
+      internalID: -7337614035009250885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_13
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 3613
+        width: 54
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b98da6ea803c78ef0800000000000000
+      internalID: -105901624166524773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_14
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 3619
+        width: 41
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f68a2c150c609c1f0800000000000000
+      internalID: -1024280017174878097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_15
+      rect:
+        serializedVersion: 2
+        x: 904
+        y: 3753
+        width: 66
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c992aae39f0e6da10800000000000000
+      internalID: 1933980451105024412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_16
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 3741
+        width: 68
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8590cd5a308d1e500800000000000000
+      internalID: 423857350128699736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_17
+      rect:
+        serializedVersion: 2
+        x: 906
+        y: 3740
+        width: 68
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4435de424e39390800000000000000
+      internalID: -7812650081306065739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_18
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 3615
+        width: 38
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9a05df6624e5d680800000000000000
+      internalID: -8730821448851715427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_19
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 3625
+        width: 13
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da66f841a5db12ed0800000000000000
+      internalID: -2440461328468449619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_20
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 3610
+        width: 31
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bb05e0182fadcb00800000000000000
+      internalID: 850528491259890614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_21
+      rect:
+        serializedVersion: 2
+        x: 956
+        y: 3620
+        width: 26
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26e929f9038254d0800000000000000
+      internalID: -3147309110720338387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_22
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 3501
+        width: 65
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b417938044f0458f0800000000000000
+      internalID: -552800069389553333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_23
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 3354
+        width: 40
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edf1860ec4dfd98d0800000000000000
+      internalID: -2837833683549282338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_24
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 3500
+        width: 66
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c3bdcbf43751b00800000000000000
+      internalID: 798671295236226121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_25
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 3476
+        width: 71
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fd1c5bb2c1672950800000000000000
+      internalID: 6424210882462227959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_26
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 3358
+        width: 52
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a8617a1798cd4a20800000000000000
+      internalID: 3048313074108950690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_27
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 3524
+        width: 70
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5566d84ebb6a49450800000000000000
+      internalID: 6094679521662690901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_28
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 3399
+        width: 80
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d4dde3a4151a660800000000000000
+      internalID: 7395281442443185532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_29
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 3476
+        width: 71
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2a17a7ad9cea99b0800000000000000
+      internalID: -5072481868412675541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_30
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 3466
+        width: 68
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72bc51892b4980c20800000000000000
+      internalID: 3172949432259169063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_31
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 3465
+        width: 68
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa71868104abe3d90800000000000000
+      internalID: -7116045576748656721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_32
+      rect:
+        serializedVersion: 2
+        x: 433
+        y: 3465
+        width: 69
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27d3c9079dc075190800000000000000
+      internalID: -7973890487199449742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_33
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 3485
+        width: 68
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a03c6a5adb34fef0800000000000000
+      internalID: -75369484752506718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_34
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 3464
+        width: 69
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d06b0ce0aa1be600800000000000000
+      internalID: 498521462211829971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_35
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 3355
+        width: 25
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96392ab542c9bf770800000000000000
+      internalID: 8645675589637935977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_36
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 3365
+        width: 32
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac7bb14adc044280800000000000000
+      internalID: -9060102418817385312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_37
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 3364
+        width: 31
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74a07173ab09b260800000000000000
+      internalID: 7113729883019191423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_38
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 3355
+        width: 26
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb745752dce1a98f0800000000000000
+      internalID: -533079739444410436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_39
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 3350
+        width: 13
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea89a823f1f13b020800000000000000
+      internalID: 2356261248897292462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_40
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 3360
+        width: 39
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 143e3acf05aac0480800000000000000
+      internalID: -8931576696169831615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_41
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 3370
+        width: 12
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d15759a69ec5b7c0800000000000000
+      internalID: -4056108742895775275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_42
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 3360
+        width: 40
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 150fe5e4ac4452540800000000000000
+      internalID: 4982464198444249169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_43
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 3358
+        width: 41
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38baea85979e2860800000000000000
+      internalID: 7507104297409755195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_44
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 3349
+        width: 13
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c93a2a6a0dd78a0800000000000000
+      internalID: -6305654489137046438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_45
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 3229
+        width: 69
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d5848d84de09b80800000000000000
+      internalID: -8389945208669184653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_46
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 3241
+        width: 67
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552fa258f3382e740800000000000000
+      internalID: 5179846830269854293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_47
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 3154
+        width: 80
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ce209f8bcaf7dff0800000000000000
+      internalID: -11264721851240763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_48
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 3143
+        width: 82
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b158b70b14dc18c0800000000000000
+      internalID: -4027110754217340496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_49
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 3156
+        width: 80
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1d037d994affa80800000000000000
+      internalID: -8430838996767026783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_50
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 3071
+        width: 205
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9604f287d1fdcd020800000000000000
+      internalID: 2368012821753446505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_51
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 3108
+        width: 27
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a20ec5fca04874a0800000000000000
+      internalID: -6595450542681619804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_52
+      rect:
+        serializedVersion: 2
+        x: 82
+        y: 3099
+        width: 31
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a8896b8e5d42e70800000000000000
+      internalID: 9089625143413082766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_53
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 3123
+        width: 62
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412ab4eaeea9dc130800000000000000
+      internalID: 3588694828001239572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_54
+      rect:
+        serializedVersion: 2
+        x: 818
+        y: 3125
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d390bc78c9c4efd80800000000000000
+      internalID: -8215044435100366531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_55
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 3111
+        width: 66
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f55f9ee92e11a150800000000000000
+      internalID: 5882015753768490485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_56
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 3109
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8afdfb75390001420800000000000000
+      internalID: 2598577617825161128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_57
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 2864
+        width: 75
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71b02fd77b7d9e920800000000000000
+      internalID: 3020182208220629783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_58
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 2869
+        width: 19
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2b494a553de69a0800000000000000
+      internalID: -6237816069074668863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_59
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2867
+        width: 63
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04a978088a08c3040800000000000000
+      internalID: 4628715978229258816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_60
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2832
+        width: 66
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 499a1cb68a6485d90800000000000000
+      internalID: -7108854322628023916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_61
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 2839
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8940bddec46be3200800000000000000
+      internalID: 161767078156240024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_62
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 2815
+        width: 130
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8baefe38a5ddaa3a0800000000000000
+      internalID: -6653262118656152904
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_63
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 2828
+        width: 65
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e136ff2c865a941d0800000000000000
+      internalID: -3365977377116036322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_64
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 2861
+        width: 71
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38dced81867ae2410800000000000000
+      internalID: 1454283795222941059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_65
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 2856
+        width: 38
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190feeab56a7abc10800000000000000
+      internalID: 2070101556076671121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_66
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 2895
+        width: 59
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bac9a86d69fd7d780800000000000000
+      internalID: -8658205919658992469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_67
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2853
+        width: 23
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 476b41da8535ab760800000000000000
+      internalID: 7474378171900802676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_68
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2826
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e14ae1a760986d70800000000000000
+      internalID: 9036631427091415529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_69
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2614
+        width: 75
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0028738b7e0902550800000000000000
+      internalID: 6134062017381106176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_70
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2604
+        width: 65
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25b2c31ae6865920800000000000000
+      internalID: 2978716543464158511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_71
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2593
+        width: 12
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b59358b96863720800000000000000
+      internalID: 2825593818734746464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_72
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 2610
+        width: 103
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75821974f52c873e0800000000000000
+      internalID: -2055679515416254377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_73
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 2584
+        width: 64
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6c812b9926a8400800000000000000
+      internalID: 327182335195268826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_74
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 2591
+        width: 16
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713504ce544119ba0800000000000000
+      internalID: -6084059331051891945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_75
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2601
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b3b1d942de3585b0800000000000000
+      internalID: -5366814308039543885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_76
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 2324
+        width: 68
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2664c22dfdd3101a0800000000000000
+      internalID: -6845121927113324958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_77
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 2342
+        width: 78
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6593b223417a77530800000000000000
+      internalID: 3852731711421626710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_78
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 2322
+        width: 92
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f837b38c27651a0800000000000000
+      internalID: -6821138381289582788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_79
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 2341
+        width: 78
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feaf26cc881869480800000000000000
+      internalID: -8892777989651891473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_80
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 2323
+        width: 69
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 384956c5afdc14520800000000000000
+      internalID: 2684653328065205379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_81
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 2338
+        width: 90
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a299ad4f6751f01a0800000000000000
+      internalID: -6841225708294203094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_82
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 2353
+        width: 76
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33499ad6686e0bf0800000000000000
+      internalID: -356232529552260291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_83
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 2352
+        width: 77
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998564db048b1e680800000000000000
+      internalID: -8727492014674388839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_84
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2079
+        width: 40
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0b4018e909ac2b40800000000000000
+      internalID: 5416890311833045774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_85
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 2092
+        width: 51
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0859636d2607134d0800000000000000
+      internalID: -3156618294006999680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_86
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 2072
+        width: 51
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3159cde94e5b1a340800000000000000
+      internalID: 4873376265314014483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_87
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 2096
+        width: 72
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8269d5a87b8be340800000000000000
+      internalID: 4894158770362999434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_88
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 2163
+        width: 68
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932a85380743519a0800000000000000
+      internalID: -6263042048944201159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_89
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 2079
+        width: 43
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1bc72d2fbc198e0800000000000000
+      internalID: -1688344141513313827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_90
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 2177
+        width: 68
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1181aa84ff6507f90800000000000000
+      internalID: -6957965769851660271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_91
+      rect:
+        serializedVersion: 2
+        x: 653
+        y: 2108
+        width: 71
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838dcba98baa8fc80800000000000000
+      internalID: -8288687404328626120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_92
+      rect:
+        serializedVersion: 2
+        x: 778
+        y: 2161
+        width: 69
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ce60786fb09c4e0800000000000000
+      internalID: -1961023009287902125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_93
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 2096
+        width: 73
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2345db936207d880800000000000000
+      internalID: -8586391537719098578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_94
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 2107
+        width: 71
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c15adbef475c9e90800000000000000
+      internalID: -7017638118579088954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_95
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 2180
+        width: 68
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dedcad5bd23692d0800000000000000
+      internalID: -3272372161487249704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_96
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1994
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c410bf5d1729a790800000000000000
+      internalID: -7518435095805422400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_97
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1994
+        width: 71
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c892efd17d2b11a60800000000000000
+      internalID: 7643086679615351180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_98
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1805
+        width: 45
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb5dd0b69b83d210800000000000000
+      internalID: 1356581392097303549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_99
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1821
+        width: 24
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f5e8436a28c0730800000000000000
+      internalID: 3966689022164492183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_100
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 2010
+        width: 71
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117f1c9695bff21e0800000000000000
+      internalID: -2220279729825384687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_101
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1853
+        width: 70
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc2540a0799fda6c0800000000000000
+      internalID: -4130370856125443377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_102
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1822
+        width: 25
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be6346dbde2d26010800000000000000
+      internalID: 1180737970851034859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_103
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 2010
+        width: 72
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccc9ed3e008045ad0800000000000000
+      internalID: -2714535875481527092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_104
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1852
+        width: 69
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3427b1b1998f1050800000000000000
+      internalID: 5773484506157098047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_105
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1844
+        width: 37
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83783fdf3c8692cc0800000000000000
+      internalID: -3735339224938608840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_106
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1835
+        width: 69
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f0efed9b2d5be10800000000000000
+      internalID: 2212906487674441504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_107
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1806
+        width: 68
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da532fbc3fa57a8e0800000000000000
+      internalID: -1682275932654389843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_108
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1836
+        width: 70
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30389840895261170800000000000000
+      internalID: 8148741910614868739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_109
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1805
+        width: 68
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a00398524cff7aed0800000000000000
+      internalID: -2402670658270449654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_110
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1822
+        width: 68
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d3940770f41b1d0800000000000000
+      internalID: -3336798955537613491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_111
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1822
+        width: 68
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18d4c17b9a88998a0800000000000000
+      internalID: -6297852341397992063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_112
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1738
+        width: 72
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ccb85cc7497c9b0800000000000000
+      internalID: -5059912392716333936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_113
+      rect:
+        serializedVersion: 2
+        x: 169
+        y: 1738
+        width: 71
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a37ab18a3dd6d3d00800000000000000
+      internalID: 954039451898324794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_114
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 1549
+        width: 45
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38e367bf161c01a0800000000000000
+      internalID: -6842069408406050753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_115
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 1565
+        width: 24
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552666bea72bb0360800000000000000
+      internalID: 7136994275503792725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_116
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 1754
+        width: 71
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8d9ff2fe6a3e24a0800000000000000
+      internalID: -6616286554363028082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_117
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1597
+        width: 70
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0498a7b02a20a9790800000000000000
+      internalID: -7522697332568454848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_118
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 1566
+        width: 25
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eee9de301b8f140b0800000000000000
+      internalID: -5746038210389238034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_119
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1754
+        width: 72
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b64aa5964bc4170800000000000000
+      internalID: 8164098589101157215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_120
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1596
+        width: 69
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f87ea324075441160800000000000000
+      internalID: 6995292469663033231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_121
+      rect:
+        serializedVersion: 2
+        x: 940
+        y: 1588
+        width: 37
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1319c3ef767c96a50800000000000000
+      internalID: 6514957585429074225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_122
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1579
+        width: 69
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56955ab6706b81240800000000000000
+      internalID: 4762756748931324261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_123
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1550
+        width: 68
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93e0aee991ecea5b0800000000000000
+      internalID: -5355116297461297607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_124
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1580
+        width: 70
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 653ec053ad1db93d0800000000000000
+      internalID: -3198732375193492650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_125
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1549
+        width: 68
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34bbe501480332b20800000000000000
+      internalID: 3108381511584234307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_126
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1566
+        width: 68
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97e5219efe0407c40800000000000000
+      internalID: 5507973743425773177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_127
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1566
+        width: 68
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 305c628e338979410800000000000000
+      internalID: 1483821950947476739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_128
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1292
+        width: 69
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8882110796370c0800000000000000
+      internalID: -4579200466060539688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_129
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1292
+        width: 69
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a15aa3bbf320c2d00800000000000000
+      internalID: 949136094215709978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_130
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1095
+        width: 32
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e915e635eccf8590800000000000000
+      internalID: -7669686355548104222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_131
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 1094
+        width: 24
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c76d546e7070afb0800000000000000
+      internalID: -4638583928039577661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_132
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 1095
+        width: 32
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b0a48928cd1ab780800000000000000
+      internalID: -8666581787393875791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_133
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1102
+        width: 24
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e41685d9b2887a00800000000000000
+      internalID: 754496672247452903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_134
+      rect:
+        serializedVersion: 2
+        x: 530
+        y: 1120
+        width: 85
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: baa8041c029b08420800000000000000
+      internalID: 2630305732716694187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_135
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 1119
+        width: 85
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eac505c7d7a37720800000000000000
+      internalID: 2842800334966213346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_136
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1101
+        width: 85
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59473c30b1e321740800000000000000
+      internalID: 5121224012021855381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_137
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1101
+        width: 85
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57bbb32edfecb3310800000000000000
+      internalID: 1385928900164172661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_138
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 778
+        width: 60
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c733967d431cd55d0800000000000000
+      internalID: -3072086938100354180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_139
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 776
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee3ab5321727dc110800000000000000
+      internalID: 1282807299120538606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_140
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 782
+        width: 59
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caebb81d44d610bc0800000000000000
+      internalID: -3818650866692669780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_141
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 780
+        width: 59
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 966c64d6cd54fbcd0800000000000000
+      internalID: -2540234851785193879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_142
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 779
+        width: 33
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1afb2d4f661f78f0800000000000000
+      internalID: -540688762969261539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_143
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 779
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e60183b42243b740800000000000000
+      internalID: 5166545922921924328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_144
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 779
+        width: 32
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4fb3930d2fa14b0800000000000000
+      internalID: -5468791821360696142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_145
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 779
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a99b62c3522d0b2a0800000000000000
+      internalID: -6723643186299356774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_146
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 596
+        width: 78
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8f99fa43708abe0800000000000000
+      internalID: -1465913755843299165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_147
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 599
+        width: 78
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb9bddcb35f51c60800000000000000
+      internalID: 7788400767812737990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_148
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 597
+        width: 78
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4393917f830419520800000000000000
+      internalID: 2707015464434350388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_149
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 599
+        width: 78
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33be2ca3f1e94ab50800000000000000
+      internalID: 6603576810599017267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_150
+      rect:
+        serializedVersion: 2
+        x: 554
+        y: 533
+        width: 52
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b60333e6f5fbef2e0800000000000000
+      internalID: -2090022760461684629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_151
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 554
+        width: 107
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c8752ac5f2d6f110800000000000000
+      internalID: 1294453896015870144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_152
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 527
+        width: 107
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02cd5c3d4b3f00710800000000000000
+      internalID: 1657592620844964896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_153
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 534
+        width: 53
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccdb74821a8022a10800000000000000
+      internalID: 1883077082452835788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_154
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 278
+        width: 11
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165ce0da3baee2580800000000000000
+      internalID: -8849878160312973983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_155
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 296
+        width: 11
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9bb5e3c3a0857a80800000000000000
+      internalID: -8469722083345712226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_156
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 314
+        width: 11
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00ad4288fc3172ee0800000000000000
+      internalID: -1286037386527712768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_157
+      rect:
+        serializedVersion: 2
+        x: 475
+        y: 297
+        width: 11
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c152c48f10718940800000000000000
+      internalID: 5296637917438038467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_158
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 279
+        width: 11
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2ff077c2a2fa6330800000000000000
+      internalID: 3705040424410349358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_159
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 297
+        width: 11
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1530d8356c95da7f0800000000000000
+      internalID: -599724467030260911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_160
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 315
+        width: 11
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c03dc2bf922711f0800000000000000
+      internalID: -1074351916809637694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: radio_tower_161
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 298
+        width: 11
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f1ea5de29c6baa0800000000000000
+      internalID: -6145503438509826223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      radio_tower_0: -5379109755245557725
+      radio_tower_1: 3437573704882136220
+      radio_tower_10: 5996903305571882377
+      radio_tower_100: -2220279729825384687
+      radio_tower_101: -4130370856125443377
+      radio_tower_102: 1180737970851034859
+      radio_tower_103: -2714535875481527092
+      radio_tower_104: 5773484506157098047
+      radio_tower_105: -3735339224938608840
+      radio_tower_106: 2212906487674441504
+      radio_tower_107: -1682275932654389843
+      radio_tower_108: 8148741910614868739
+      radio_tower_109: -2402670658270449654
+      radio_tower_11: 8741797328264324317
+      radio_tower_110: -3336798955537613491
+      radio_tower_111: -6297852341397992063
+      radio_tower_112: -5059912392716333936
+      radio_tower_113: 954039451898324794
+      radio_tower_114: -6842069408406050753
+      radio_tower_115: 7136994275503792725
+      radio_tower_116: -6616286554363028082
+      radio_tower_117: -7522697332568454848
+      radio_tower_118: -5746038210389238034
+      radio_tower_119: 8164098589101157215
+      radio_tower_12: -7337614035009250885
+      radio_tower_120: 6995292469663033231
+      radio_tower_121: 6514957585429074225
+      radio_tower_122: 4762756748931324261
+      radio_tower_123: -5355116297461297607
+      radio_tower_124: -3198732375193492650
+      radio_tower_125: 3108381511584234307
+      radio_tower_126: 5507973743425773177
+      radio_tower_127: 1483821950947476739
+      radio_tower_128: -4579200466060539688
+      radio_tower_129: 949136094215709978
+      radio_tower_13: -105901624166524773
+      radio_tower_130: -7669686355548104222
+      radio_tower_131: -4638583928039577661
+      radio_tower_132: -8666581787393875791
+      radio_tower_133: 754496672247452903
+      radio_tower_134: 2630305732716694187
+      radio_tower_135: 2842800334966213346
+      radio_tower_136: 5121224012021855381
+      radio_tower_137: 1385928900164172661
+      radio_tower_138: -3072086938100354180
+      radio_tower_139: 1282807299120538606
+      radio_tower_14: -1024280017174878097
+      radio_tower_140: -3818650866692669780
+      radio_tower_141: -2540234851785193879
+      radio_tower_142: -540688762969261539
+      radio_tower_143: 5166545922921924328
+      radio_tower_144: -5468791821360696142
+      radio_tower_145: -6723643186299356774
+      radio_tower_146: -1465913755843299165
+      radio_tower_147: 7788400767812737990
+      radio_tower_148: 2707015464434350388
+      radio_tower_149: 6603576810599017267
+      radio_tower_15: 1933980451105024412
+      radio_tower_150: -2090022760461684629
+      radio_tower_151: 1294453896015870144
+      radio_tower_152: 1657592620844964896
+      radio_tower_153: 1883077082452835788
+      radio_tower_154: -8849878160312973983
+      radio_tower_155: -8469722083345712226
+      radio_tower_156: -1286037386527712768
+      radio_tower_157: 5296637917438038467
+      radio_tower_158: 3705040424410349358
+      radio_tower_159: -599724467030260911
+      radio_tower_16: 423857350128699736
+      radio_tower_160: -1074351916809637694
+      radio_tower_161: -6145503438509826223
+      radio_tower_17: -7812650081306065739
+      radio_tower_18: -8730821448851715427
+      radio_tower_19: -2440461328468449619
+      radio_tower_2: 1393533941272543397
+      radio_tower_20: 850528491259890614
+      radio_tower_21: -3147309110720338387
+      radio_tower_22: -552800069389553333
+      radio_tower_23: -2837833683549282338
+      radio_tower_24: 798671295236226121
+      radio_tower_25: 6424210882462227959
+      radio_tower_26: 3048313074108950690
+      radio_tower_27: 6094679521662690901
+      radio_tower_28: 7395281442443185532
+      radio_tower_29: -5072481868412675541
+      radio_tower_3: 858619768693284883
+      radio_tower_30: 3172949432259169063
+      radio_tower_31: -7116045576748656721
+      radio_tower_32: -7973890487199449742
+      radio_tower_33: -75369484752506718
+      radio_tower_34: 498521462211829971
+      radio_tower_35: 8645675589637935977
+      radio_tower_36: -9060102418817385312
+      radio_tower_37: 7113729883019191423
+      radio_tower_38: -533079739444410436
+      radio_tower_39: 2356261248897292462
+      radio_tower_4: -6648598368977267934
+      radio_tower_40: -8931576696169831615
+      radio_tower_41: -4056108742895775275
+      radio_tower_42: 4982464198444249169
+      radio_tower_43: 7507104297409755195
+      radio_tower_44: -6305654489137046438
+      radio_tower_45: -8389945208669184653
+      radio_tower_46: 5179846830269854293
+      radio_tower_47: -11264721851240763
+      radio_tower_48: -4027110754217340496
+      radio_tower_49: -8430838996767026783
+      radio_tower_5: 1737959982722660336
+      radio_tower_50: 2368012821753446505
+      radio_tower_51: -6595450542681619804
+      radio_tower_52: 9089625143413082766
+      radio_tower_53: 3588694828001239572
+      radio_tower_54: -8215044435100366531
+      radio_tower_55: 5882015753768490485
+      radio_tower_56: 2598577617825161128
+      radio_tower_57: 3020182208220629783
+      radio_tower_58: -6237816069074668863
+      radio_tower_59: 4628715978229258816
+      radio_tower_6: -816907670791768528
+      radio_tower_60: -7108854322628023916
+      radio_tower_61: 161767078156240024
+      radio_tower_62: -6653262118656152904
+      radio_tower_63: -3365977377116036322
+      radio_tower_64: 1454283795222941059
+      radio_tower_65: 2070101556076671121
+      radio_tower_66: -8658205919658992469
+      radio_tower_67: 7474378171900802676
+      radio_tower_68: 9036631427091415529
+      radio_tower_69: 6134062017381106176
+      radio_tower_7: 5702036529341743166
+      radio_tower_70: 2978716543464158511
+      radio_tower_71: 2825593818734746464
+      radio_tower_72: -2055679515416254377
+      radio_tower_73: 327182335195268826
+      radio_tower_74: -6084059331051891945
+      radio_tower_75: -5366814308039543885
+      radio_tower_76: -6845121927113324958
+      radio_tower_77: 3852731711421626710
+      radio_tower_78: -6821138381289582788
+      radio_tower_79: -8892777989651891473
+      radio_tower_8: -5927326679550969047
+      radio_tower_80: 2684653328065205379
+      radio_tower_81: -6841225708294203094
+      radio_tower_82: -356232529552260291
+      radio_tower_83: -8727492014674388839
+      radio_tower_84: 5416890311833045774
+      radio_tower_85: -3156618294006999680
+      radio_tower_86: 4873376265314014483
+      radio_tower_87: 4894158770362999434
+      radio_tower_88: -6263042048944201159
+      radio_tower_89: -1688344141513313827
+      radio_tower_9: -6883939550995526188
+      radio_tower_90: -6957965769851660271
+      radio_tower_91: -8288687404328626120
+      radio_tower_92: -1961023009287902125
+      radio_tower_93: -8586391537719098578
+      radio_tower_94: -7017638118579088954
+      radio_tower_95: -3272372161487249704
+      radio_tower_96: -7518435095805422400
+      radio_tower_97: 7643086679615351180
+      radio_tower_98: 1356581392097303549
+      radio_tower_99: 3966689022164492183
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,507 @@
+fileFormatVersion: 2
+guid: ee075d0bc5988fe40b7b08623d1a151d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5738577154157369461
+    second: vegetation_indoor_01_0
+  - first:
+      213: -601055956377967191
+    second: vegetation_indoor_01_1
+  - first:
+      213: -2031722976855581359
+    second: vegetation_indoor_01_2
+  - first:
+      213: 2900347453409687377
+    second: vegetation_indoor_01_3
+  - first:
+      213: 7171330452277005699
+    second: vegetation_indoor_01_4
+  - first:
+      213: 9081440410769292952
+    second: vegetation_indoor_01_5
+  - first:
+      213: -613715682842876944
+    second: vegetation_indoor_01_6
+  - first:
+      213: 835279416028260120
+    second: vegetation_indoor_01_7
+  - first:
+      213: -320648716717026927
+    second: vegetation_indoor_01_8
+  - first:
+      213: -9163260471078358945
+    second: vegetation_indoor_01_9
+  - first:
+      213: -1008161690575228607
+    second: vegetation_indoor_01_10
+  - first:
+      213: -5882396214581044840
+    second: vegetation_indoor_01_11
+  - first:
+      213: -8029689613801912571
+    second: vegetation_indoor_01_12
+  - first:
+      213: 1173902544107418393
+    second: vegetation_indoor_01_13
+  - first:
+      213: 6151964112979223132
+    second: vegetation_indoor_01_14
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vegetation_indoor_01_0
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1883
+        width: 26
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578d8b5748583af40800000000000000
+      internalID: 5738577154157369461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetation_indoor_01_1
+      rect:
+        serializedVersion: 2
+        x: 174
+        y: 1892
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a565fdcace98a7f0800000000000000
+      internalID: -601055956377967191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetation_indoor_01_2
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1884
+        width: 32
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15d168297beddc3e0800000000000000
+      internalID: -2031722976855581359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetation_indoor_01_3
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1883
+        width: 26
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15771b564aa104820800000000000000
+      internalID: 2900347453409687377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetation_indoor_01_4
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 1887
+        width: 61
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38d89ee0d0fa58360800000000000000
+      internalID: 7171330452277005699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetation_indoor_01_5
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1887
+        width: 61
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89ef7c420f1c70e70800000000000000
+      internalID: 9081440410769292952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetation_indoor_01_6
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 1884
+        width: 30
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f3601b86d4ab77f0800000000000000
+      internalID: -613715682842876944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetation_indoor_01_7
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1813
+        width: 69
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8176f801432879b00800000000000000
+      internalID: 835279416028260120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetation_indoor_01_8
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 1538
+        width: 110
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1919566e0b3dc8bf0800000000000000
+      internalID: -320648716717026927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetation_indoor_01_9
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1557
+        width: 111
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f50fefc862f85d080800000000000000
+      internalID: -9163260471078358945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetation_indoor_01_10
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 1558
+        width: 69
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1413b1da84a4202f0800000000000000
+      internalID: -1008161690575228607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetation_indoor_01_11
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 1559
+        width: 124
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8995bc12fc78d5ea0800000000000000
+      internalID: -5882396214581044840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetation_indoor_01_12
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1561
+        width: 92
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50781b0e6dfc09090800000000000000
+      internalID: -8029689613801912571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetation_indoor_01_13
+      rect:
+        serializedVersion: 2
+        x: 612
+        y: 1650
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913337ee42a8a4010800000000000000
+      internalID: 1173902544107418393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetation_indoor_01_14
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 1598
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c52e31924ca206550800000000000000
+      internalID: 6151964112979223132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      vegetation_indoor_01_0: 5738577154157369461
+      vegetation_indoor_01_1: -601055956377967191
+      vegetation_indoor_01_10: -1008161690575228607
+      vegetation_indoor_01_11: -5882396214581044840
+      vegetation_indoor_01_12: -8029689613801912571
+      vegetation_indoor_01_13: 1173902544107418393
+      vegetation_indoor_01_14: 6151964112979223132
+      vegetation_indoor_01_2: -2031722976855581359
+      vegetation_indoor_01_3: 2900347453409687377
+      vegetation_indoor_01_4: 7171330452277005699
+      vegetation_indoor_01_5: 9081440410769292952
+      vegetation_indoor_01_6: -613715682842876944
+      vegetation_indoor_01_7: 835279416028260120
+      vegetation_indoor_01_8: -320648716717026927
+      vegetation_indoor_01_9: -9163260471078358945
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

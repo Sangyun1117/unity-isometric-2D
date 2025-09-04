@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: 5bdfb6cc1d946394d9a22fd7d263a125
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4829076435013378906
+    second: location_business_machinery_01_0
+  - first:
+      213: 36533995066714103
+    second: location_business_machinery_01_1
+  - first:
+      213: -4731815699098148497
+    second: location_business_machinery_01_2
+  - first:
+      213: -1697118569830132648
+    second: location_business_machinery_01_3
+  - first:
+      213: 2788145286347346594
+    second: location_business_machinery_01_4
+  - first:
+      213: -296873103281020664
+    second: location_business_machinery_01_5
+  - first:
+      213: 4322976537832167764
+    second: location_business_machinery_01_6
+  - first:
+      213: 2250910893821739024
+    second: location_business_machinery_01_7
+  - first:
+      213: -8010042875136353992
+    second: location_business_machinery_01_8
+  - first:
+      213: -8220219404001172919
+    second: location_business_machinery_01_9
+  - first:
+      213: 513167031040455224
+    second: location_business_machinery_01_10
+  - first:
+      213: -9161104594411254357
+    second: location_business_machinery_01_11
+  - first:
+      213: 6224377576690262212
+    second: location_business_machinery_01_12
+  - first:
+      213: -3297280174200473138
+    second: location_business_machinery_01_13
+  - first:
+      213: 7110990660153754713
+    second: location_business_machinery_01_14
+  - first:
+      213: 1335449269422298864
+    second: location_business_machinery_01_15
+  - first:
+      213: -7609067614229330025
+    second: location_business_machinery_01_16
+  - first:
+      213: -493620897608590088
+    second: location_business_machinery_01_17
+  - first:
+      213: -9138486247196745135
+    second: location_business_machinery_01_18
+  - first:
+      213: 3420808067996250241
+    second: location_business_machinery_01_19
+  - first:
+      213: -2815824864463133099
+    second: location_business_machinery_01_20
+  - first:
+      213: 9124659226158562808
+    second: location_business_machinery_01_21
+  - first:
+      213: 9043028457243380657
+    second: location_business_machinery_01_22
+  - first:
+      213: -7842946277467849594
+    second: location_business_machinery_01_23
+  - first:
+      213: 8647155337905894728
+    second: location_business_machinery_01_24
+  - first:
+      213: 5158786885843422535
+    second: location_business_machinery_01_25
+  - first:
+      213: 3156256357591045910
+    second: location_business_machinery_01_26
+  - first:
+      213: 1516680690107211670
+    second: location_business_machinery_01_27
+  - first:
+      213: 5388057030757364113
+    second: location_business_machinery_01_28
+  - first:
+      213: 495843637759102947
+    second: location_business_machinery_01_29
+  - first:
+      213: 9207635289177276315
+    second: location_business_machinery_01_30
+  - first:
+      213: 5002311539717318499
+    second: location_business_machinery_01_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: location_business_machinery_01_0
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 1807
+        width: 71
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a53ae2e9e63540340800000000000000
+      internalID: 4829076435013378906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_business_machinery_01_1
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1985
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f76d26997bc18000800000000000000
+      internalID: 36533995066714103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_business_machinery_01_2
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1814
+        width: 89
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6163a021b6355eb0800000000000000
+      internalID: -4731815699098148497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_business_machinery_01_3
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 1792
+        width: 96
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8545e8707af9278e0800000000000000
+      internalID: -1697118569830132648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_business_machinery_01_4
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1804
+        width: 85
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a2d9ee9d5b71b620800000000000000
+      internalID: 2788145286347346594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_business_machinery_01_5
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 1804
+        width: 108
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80121974c7b41ebf0800000000000000
+      internalID: -296873103281020664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_business_machinery_01_6
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1562
+        width: 84
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45995ddc14c4efb30800000000000000
+      internalID: 4322976537832167764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_business_machinery_01_7
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 1729
+        width: 89
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0104d473887dc3f10800000000000000
+      internalID: 2250910893821739024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_business_machinery_01_8
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 1485
+        width: 76
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83959dfa17c96d090800000000000000
+      internalID: -8010042875136353992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_business_machinery_01_9
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1548
+        width: 107
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942acb0310aebed80800000000000000
+      internalID: -8220219404001172919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_business_machinery_01_10
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 1548
+        width: 85
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 832bb9322b22f1700800000000000000
+      internalID: 513167031040455224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_business_machinery_01_11
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1535
+        width: 97
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bad0be3b8e73dd080800000000000000
+      internalID: -9161104594411254357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_business_machinery_01_12
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 1285
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0a7868d6e616650800000000000000
+      internalID: 6224377576690262212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_business_machinery_01_13
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 1289
+        width: 118
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec9b7dbb625bd32d0800000000000000
+      internalID: -3297280174200473138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_business_machinery_01_14
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 1289
+        width: 117
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 954c59b64505fa260800000000000000
+      internalID: 7110990660153754713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_business_machinery_01_15
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1285
+        width: 111
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f69877f808788210800000000000000
+      internalID: 1335449269422298864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_business_machinery_01_16
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1279
+        width: 115
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7978ee5c159276690800000000000000
+      internalID: -7609067614229330025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_business_machinery_01_17
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1282
+        width: 125
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fc9450b86e4629f0800000000000000
+      internalID: -493620897608590088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_business_machinery_01_18
+      rect:
+        serializedVersion: 2
+        x: 784
+        y: 1283
+        width: 112
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152ab0b0d239d2180800000000000000
+      internalID: -9138486247196745135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_business_machinery_01_19
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 1280
+        width: 117
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 180f4b940d6297f20800000000000000
+      internalID: 3420808067996250241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_business_machinery_01_20
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1128
+        width: 48
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55666f3643e2ce8d0800000000000000
+      internalID: -2815824864463133099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_business_machinery_01_21
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1133
+        width: 58
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fdfbafb83d41ae70800000000000000
+      internalID: 9124659226158562808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_business_machinery_01_22
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1133
+        width: 58
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb8db7487a4f7d70800000000000000
+      internalID: 9043028457243380657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_business_machinery_01_23
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1128
+        width: 48
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c7e031ae1482390800000000000000
+      internalID: -7842946277467849594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_business_machinery_01_24
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1095
+        width: 48
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 845f08917fdd00870800000000000000
+      internalID: 8647155337905894728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_business_machinery_01_25
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1100
+        width: 58
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d04aa1751b79740800000000000000
+      internalID: 5158786885843422535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_business_machinery_01_26
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 1100
+        width: 50
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61758464f664dcb20800000000000000
+      internalID: 3156256357591045910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_business_machinery_01_27
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1091
+        width: 56
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69fd88b4d055c0510800000000000000
+      internalID: 1516680690107211670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_business_machinery_01_28
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 774
+        width: 106
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191b6d3825936ca40800000000000000
+      internalID: 5388057030757364113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_business_machinery_01_29
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 774
+        width: 106
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3efc4c4592791e600800000000000000
+      internalID: 495843637759102947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_business_machinery_01_30
+      rect:
+        serializedVersion: 2
+        x: 267
+        y: 774
+        width: 106
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9f33c8e28718cf70800000000000000
+      internalID: 9207635289177276315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_business_machinery_01_31
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 774
+        width: 106
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36720bc87d7cb6540800000000000000
+      internalID: 5002311539717318499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      location_business_machinery_01_0: 4829076435013378906
+      location_business_machinery_01_1: 36533995066714103
+      location_business_machinery_01_10: 513167031040455224
+      location_business_machinery_01_11: -9161104594411254357
+      location_business_machinery_01_12: 6224377576690262212
+      location_business_machinery_01_13: -3297280174200473138
+      location_business_machinery_01_14: 7110990660153754713
+      location_business_machinery_01_15: 1335449269422298864
+      location_business_machinery_01_16: -7609067614229330025
+      location_business_machinery_01_17: -493620897608590088
+      location_business_machinery_01_18: -9138486247196745135
+      location_business_machinery_01_19: 3420808067996250241
+      location_business_machinery_01_2: -4731815699098148497
+      location_business_machinery_01_20: -2815824864463133099
+      location_business_machinery_01_21: 9124659226158562808
+      location_business_machinery_01_22: 9043028457243380657
+      location_business_machinery_01_23: -7842946277467849594
+      location_business_machinery_01_24: 8647155337905894728
+      location_business_machinery_01_25: 5158786885843422535
+      location_business_machinery_01_26: 3156256357591045910
+      location_business_machinery_01_27: 1516680690107211670
+      location_business_machinery_01_28: 5388057030757364113
+      location_business_machinery_01_29: 495843637759102947
+      location_business_machinery_01_3: -1697118569830132648
+      location_business_machinery_01_30: 9207635289177276315
+      location_business_machinery_01_31: 5002311539717318499
+      location_business_machinery_01_4: 2788145286347346594
+      location_business_machinery_01_5: -296873103281020664
+      location_business_machinery_01_6: 4322976537832167764
+      location_business_machinery_01_7: 2250910893821739024
+      location_business_machinery_01_8: -8010042875136353992
+      location_business_machinery_01_9: -8220219404001172919
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

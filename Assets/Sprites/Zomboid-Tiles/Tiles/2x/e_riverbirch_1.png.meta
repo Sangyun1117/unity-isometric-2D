@@ -1,0 +1,1547 @@
+fileFormatVersion: 2
+guid: e67a196daa4b46d4c9985141c25f9935
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4989317284378842618
+    second: e_riverbirch_1_0
+  - first:
+      213: -1201728155109934221
+    second: e_riverbirch_1_1
+  - first:
+      213: -5171829998391391208
+    second: e_riverbirch_1_2
+  - first:
+      213: -7650863487827652655
+    second: e_riverbirch_1_3
+  - first:
+      213: -7631806141820679126
+    second: e_riverbirch_1_4
+  - first:
+      213: 6406718818866340416
+    second: e_riverbirch_1_5
+  - first:
+      213: 2620415391595544641
+    second: e_riverbirch_1_6
+  - first:
+      213: -3394956667985581840
+    second: e_riverbirch_1_7
+  - first:
+      213: -1348994089263832956
+    second: e_riverbirch_1_8
+  - first:
+      213: 7286693354303188174
+    second: e_riverbirch_1_9
+  - first:
+      213: 7252832728385592313
+    second: e_riverbirch_1_10
+  - first:
+      213: -3642505282164499379
+    second: e_riverbirch_1_11
+  - first:
+      213: -6292010419401471483
+    second: e_riverbirch_1_12
+  - first:
+      213: -8325240470373501081
+    second: e_riverbirch_1_13
+  - first:
+      213: 298407754543341701
+    second: e_riverbirch_1_14
+  - first:
+      213: 3262129597661216041
+    second: e_riverbirch_1_15
+  - first:
+      213: -1675197800231855572
+    second: e_riverbirch_1_16
+  - first:
+      213: -1356182560329906205
+    second: e_riverbirch_1_17
+  - first:
+      213: -4404084912671581922
+    second: e_riverbirch_1_18
+  - first:
+      213: 24976655391804192
+    second: e_riverbirch_1_19
+  - first:
+      213: 7844553008859499998
+    second: e_riverbirch_1_20
+  - first:
+      213: -5218494982581247714
+    second: e_riverbirch_1_21
+  - first:
+      213: -3671822774296656360
+    second: e_riverbirch_1_22
+  - first:
+      213: 5332240798680889541
+    second: e_riverbirch_1_23
+  - first:
+      213: 2738023592690303464
+    second: e_riverbirch_1_24
+  - first:
+      213: 5756908228513589984
+    second: e_riverbirch_1_25
+  - first:
+      213: 3928021975491223894
+    second: e_riverbirch_1_26
+  - first:
+      213: 3755591249168287944
+    second: e_riverbirch_1_27
+  - first:
+      213: -7566692647959302713
+    second: e_riverbirch_1_28
+  - first:
+      213: -5105686749071336835
+    second: e_riverbirch_1_29
+  - first:
+      213: -2223852619575664283
+    second: e_riverbirch_1_30
+  - first:
+      213: 1289574462066996970
+    second: e_riverbirch_1_31
+  - first:
+      213: -7214919272149052087
+    second: e_riverbirch_1_32
+  - first:
+      213: 5732669033096762525
+    second: e_riverbirch_1_33
+  - first:
+      213: 7374208048645815190
+    second: e_riverbirch_1_34
+  - first:
+      213: -6756467694771988242
+    second: e_riverbirch_1_35
+  - first:
+      213: 6790436741190344061
+    second: e_riverbirch_1_36
+  - first:
+      213: -6452688959439367716
+    second: e_riverbirch_1_37
+  - first:
+      213: -3671046829131134597
+    second: e_riverbirch_1_38
+  - first:
+      213: -8789236832879528559
+    second: e_riverbirch_1_39
+  - first:
+      213: 1049117050562521335
+    second: e_riverbirch_1_40
+  - first:
+      213: 6127342590054863830
+    second: e_riverbirch_1_41
+  - first:
+      213: 6593284993268217492
+    second: e_riverbirch_1_42
+  - first:
+      213: -6264213672129261720
+    second: e_riverbirch_1_43
+  - first:
+      213: 2324880680698576339
+    second: e_riverbirch_1_44
+  - first:
+      213: 7114600843817307255
+    second: e_riverbirch_1_45
+  - first:
+      213: -5766246204581302140
+    second: e_riverbirch_1_46
+  - first:
+      213: -5675842692967416692
+    second: e_riverbirch_1_47
+  - first:
+      213: -3625425955790678132
+    second: e_riverbirch_1_48
+  - first:
+      213: -9059174029208800025
+    second: e_riverbirch_1_49
+  - first:
+      213: -7053324484850322213
+    second: e_riverbirch_1_50
+  - first:
+      213: -3507475927861199508
+    second: e_riverbirch_1_51
+  - first:
+      213: -6933153546458167802
+    second: e_riverbirch_1_52
+  - first:
+      213: 254559841740035424
+    second: e_riverbirch_1_53
+  - first:
+      213: -5919288885068375619
+    second: e_riverbirch_1_54
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: e_riverbirch_1_0
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1790
+        width: 22
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af51e17b2ad9d3540800000000000000
+      internalID: 4989317284378842618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_riverbirch_1_1
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1835
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37b36162c9a925fe0800000000000000
+      internalID: -1201728155109934221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_riverbirch_1_2
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1809
+        width: 45
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c0c2b9408f938b0800000000000000
+      internalID: -5171829998391391208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_riverbirch_1_3
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1807
+        width: 69
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dfc60f913ca2d590800000000000000
+      internalID: -7650863487827652655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_riverbirch_1_4
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1808
+        width: 101
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c4222cfb0661690800000000000000
+      internalID: -7631806141820679126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_riverbirch_1_5
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 1534
+        width: 22
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 042a65e42dc39e850800000000000000
+      internalID: 6406718818866340416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_riverbirch_1_6
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1579
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 140c4044ae59d5420800000000000000
+      internalID: 2620415391595544641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_riverbirch_1_7
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1551
+        width: 45
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f820e0d5e0b2e0d0800000000000000
+      internalID: -3394956667985581840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_riverbirch_1_8
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 1549
+        width: 69
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480e359e509674de0800000000000000
+      internalID: -1348994089263832956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_riverbirch_1_9
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1549
+        width: 101
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecce07acff88f1560800000000000000
+      internalID: 7286693354303188174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_riverbirch_1_10
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1326
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fb10c670fc37a460800000000000000
+      internalID: 7252832728385592313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_riverbirch_1_11
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 1322
+        width: 46
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4cd914aeb8337dc0800000000000000
+      internalID: -3642505282164499379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_riverbirch_1_12
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1359
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50ac48c2cd94ea8a0800000000000000
+      internalID: -6292010419401471483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_riverbirch_1_13
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1334
+        width: 111
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7677ea5b6edc67c80800000000000000
+      internalID: -8325240470373501081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_riverbirch_1_14
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1356
+        width: 128
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58027cf8548242400800000000000000
+      internalID: 298407754543341701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_riverbirch_1_15
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1064
+        width: 110
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92d72e7e599654d20800000000000000
+      internalID: 3262129597661216041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_riverbirch_1_16
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 1145
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a1aace97080c8e0800000000000000
+      internalID: -1675197800231855572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_riverbirch_1_17
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1080
+        width: 128
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e7c4f0952fdd2de0800000000000000
+      internalID: -1356182560329906205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_riverbirch_1_18
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1095
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e199d831b1c81e2c0800000000000000
+      internalID: -4404084912671581922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_riverbirch_1_19
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 1060
+        width: 47
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02b4e40c22cb85000800000000000000
+      internalID: 24976655391804192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_riverbirch_1_20
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 1103
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eddcaca36637ddc60800000000000000
+      internalID: 7844553008859499998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_riverbirch_1_21
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 1083
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e11261d467e2497b0800000000000000
+      internalID: -5218494982581247714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_riverbirch_1_22
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 1070
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 816cbd314a01b0dc0800000000000000
+      internalID: -3671822774296656360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_riverbirch_1_23
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 1075
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c8383641cceff940800000000000000
+      internalID: 5332240798680889541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_riverbirch_1_24
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 1078
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1c1fc63f96ff520800000000000000
+      internalID: 2738023592690303464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_riverbirch_1_25
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 1071
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea631d4885a4ef40800000000000000
+      internalID: 5756908228513589984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_riverbirch_1_26
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 804
+        width: 110
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6512517dc23238630800000000000000
+      internalID: 3928021975491223894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_riverbirch_1_27
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 889
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c8cd38d75a8e1430800000000000000
+      internalID: 3755591249168287944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_riverbirch_1_28
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 822
+        width: 128
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd63d17025bdf690800000000000000
+      internalID: -7566692647959302713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_riverbirch_1_29
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 827
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7a1f2be3f4f429b0800000000000000
+      internalID: -5105686749071336835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_riverbirch_1_30
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 839
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561ee5133d94321e0800000000000000
+      internalID: -2223852619575664283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_riverbirch_1_31
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 822
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae63bea042d75e110800000000000000
+      internalID: 1289574462066996970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_riverbirch_1_32
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 800
+        width: 48
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9459f64f5257fdb90800000000000000
+      internalID: -7214919272149052087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_riverbirch_1_33
+      rect:
+        serializedVersion: 2
+        x: 45
+        y: 814
+        width: 12
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d945d94dc188e8f40800000000000000
+      internalID: 5732669033096762525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_riverbirch_1_34
+      rect:
+        serializedVersion: 2
+        x: 56
+        y: 819
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b3c576623765660800000000000000
+      internalID: 7374208048645815190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_riverbirch_1_35
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 815
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee896bccd643c32a0800000000000000
+      internalID: -6756467694771988242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_riverbirch_1_36
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 548
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7d59642d3a7c3e50800000000000000
+      internalID: 6790436741190344061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_riverbirch_1_37
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 550
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1188644917376a0800000000000000
+      internalID: -6452688959439367716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_riverbirch_1_38
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 569
+        width: 111
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7980d3eb52dd0dc0800000000000000
+      internalID: -3671046829131134597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_riverbirch_1_39
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 565
+        width: 128
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 195bf69faab560680800000000000000
+      internalID: -8789236832879528559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_riverbirch_1_40
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 563
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8a59626663f8e00800000000000000
+      internalID: 1049117050562521335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_riverbirch_1_41
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 551
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d397512f91b80550800000000000000
+      internalID: 6127342590054863830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_riverbirch_1_42
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 555
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4967aa6c4cd008b50800000000000000
+      internalID: 6593284993268217492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_riverbirch_1_43
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 555
+        width: 14
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f079bbada0119a0800000000000000
+      internalID: -6264213672129261720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_riverbirch_1_44
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 541
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ddf43e49a2a34020800000000000000
+      internalID: 2324880680698576339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_riverbirch_1_45
+      rect:
+        serializedVersion: 2
+        x: 201
+        y: 541
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ccc6ec5c32cb260800000000000000
+      internalID: 7114600843817307255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_riverbirch_1_46
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 543
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 480bc78b0ad2affa0800000000000000
+      internalID: -5766246204581302140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_riverbirch_1_47
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 535
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c3ea4842b5b31b0800000000000000
+      internalID: -5675842692967416692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_riverbirch_1_48
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 541
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c879d913d46efadc0800000000000000
+      internalID: -3625425955790678132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_riverbirch_1_49
+      rect:
+        serializedVersion: 2
+        x: 462
+        y: 534
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e4b09ec739574280800000000000000
+      internalID: -9059174029208800025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_riverbirch_1_50
+      rect:
+        serializedVersion: 2
+        x: 491
+        y: 543
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd47eea40ce8d1e90800000000000000
+      internalID: -7053324484850322213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_riverbirch_1_51
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 532
+        width: 14
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6d799d1a31f25fc0800000000000000
+      internalID: -3507475927861199508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_riverbirch_1_52
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 530
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6060f1a359d78cf90800000000000000
+      internalID: -6933153546458167802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_riverbirch_1_53
+      rect:
+        serializedVersion: 2
+        x: 338
+        y: 527
+        width: 15
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0659efcc3d0688300800000000000000
+      internalID: 254559841740035424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_riverbirch_1_54
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 529
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db9d49aee167adda0800000000000000
+      internalID: -5919288885068375619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      e_riverbirch_1_0: 4989317284378842618
+      e_riverbirch_1_1: -1201728155109934221
+      e_riverbirch_1_10: 7252832728385592313
+      e_riverbirch_1_11: -3642505282164499379
+      e_riverbirch_1_12: -6292010419401471483
+      e_riverbirch_1_13: -8325240470373501081
+      e_riverbirch_1_14: 298407754543341701
+      e_riverbirch_1_15: 3262129597661216041
+      e_riverbirch_1_16: -1675197800231855572
+      e_riverbirch_1_17: -1356182560329906205
+      e_riverbirch_1_18: -4404084912671581922
+      e_riverbirch_1_19: 24976655391804192
+      e_riverbirch_1_2: -5171829998391391208
+      e_riverbirch_1_20: 7844553008859499998
+      e_riverbirch_1_21: -5218494982581247714
+      e_riverbirch_1_22: -3671822774296656360
+      e_riverbirch_1_23: 5332240798680889541
+      e_riverbirch_1_24: 2738023592690303464
+      e_riverbirch_1_25: 5756908228513589984
+      e_riverbirch_1_26: 3928021975491223894
+      e_riverbirch_1_27: 3755591249168287944
+      e_riverbirch_1_28: -7566692647959302713
+      e_riverbirch_1_29: -5105686749071336835
+      e_riverbirch_1_3: -7650863487827652655
+      e_riverbirch_1_30: -2223852619575664283
+      e_riverbirch_1_31: 1289574462066996970
+      e_riverbirch_1_32: -7214919272149052087
+      e_riverbirch_1_33: 5732669033096762525
+      e_riverbirch_1_34: 7374208048645815190
+      e_riverbirch_1_35: -6756467694771988242
+      e_riverbirch_1_36: 6790436741190344061
+      e_riverbirch_1_37: -6452688959439367716
+      e_riverbirch_1_38: -3671046829131134597
+      e_riverbirch_1_39: -8789236832879528559
+      e_riverbirch_1_4: -7631806141820679126
+      e_riverbirch_1_40: 1049117050562521335
+      e_riverbirch_1_41: 6127342590054863830
+      e_riverbirch_1_42: 6593284993268217492
+      e_riverbirch_1_43: -6264213672129261720
+      e_riverbirch_1_44: 2324880680698576339
+      e_riverbirch_1_45: 7114600843817307255
+      e_riverbirch_1_46: -5766246204581302140
+      e_riverbirch_1_47: -5675842692967416692
+      e_riverbirch_1_48: -3625425955790678132
+      e_riverbirch_1_49: -9059174029208800025
+      e_riverbirch_1_5: 6406718818866340416
+      e_riverbirch_1_50: -7053324484850322213
+      e_riverbirch_1_51: -3507475927861199508
+      e_riverbirch_1_52: -6933153546458167802
+      e_riverbirch_1_53: 254559841740035424
+      e_riverbirch_1_54: -5919288885068375619
+      e_riverbirch_1_6: 2620415391595544641
+      e_riverbirch_1_7: -3394956667985581840
+      e_riverbirch_1_8: -1348994089263832956
+      e_riverbirch_1_9: 7286693354303188174
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

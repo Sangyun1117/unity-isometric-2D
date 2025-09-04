@@ -1,0 +1,2613 @@
+fileFormatVersion: 2
+guid: 82ff2409db75c3d479b243bd106901cb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7697289213133324099
+    second: fixtures_windows_curtains_01_0
+  - first:
+      213: -3454388695229717594
+    second: fixtures_windows_curtains_01_1
+  - first:
+      213: -6923567089449269120
+    second: fixtures_windows_curtains_01_2
+  - first:
+      213: -8107556356454393136
+    second: fixtures_windows_curtains_01_3
+  - first:
+      213: 5219846386768114891
+    second: fixtures_windows_curtains_01_4
+  - first:
+      213: 7803555790963839526
+    second: fixtures_windows_curtains_01_5
+  - first:
+      213: -2528576383441436544
+    second: fixtures_windows_curtains_01_6
+  - first:
+      213: -292103521803202793
+    second: fixtures_windows_curtains_01_7
+  - first:
+      213: -596723848158098722
+    second: fixtures_windows_curtains_01_8
+  - first:
+      213: -6137675800970173963
+    second: fixtures_windows_curtains_01_9
+  - first:
+      213: 8602355118731250676
+    second: fixtures_windows_curtains_01_10
+  - first:
+      213: 8775026514815108558
+    second: fixtures_windows_curtains_01_11
+  - first:
+      213: -1940426008728596394
+    second: fixtures_windows_curtains_01_12
+  - first:
+      213: -3038304610884173269
+    second: fixtures_windows_curtains_01_13
+  - first:
+      213: 1388608210418330111
+    second: fixtures_windows_curtains_01_14
+  - first:
+      213: 8714163259527168836
+    second: fixtures_windows_curtains_01_15
+  - first:
+      213: -1301147372476423713
+    second: fixtures_windows_curtains_01_16
+  - first:
+      213: 440876779574684633
+    second: fixtures_windows_curtains_01_17
+  - first:
+      213: -8883141062693447066
+    second: fixtures_windows_curtains_01_18
+  - first:
+      213: -6023790487577815312
+    second: fixtures_windows_curtains_01_19
+  - first:
+      213: 5680818561086654759
+    second: fixtures_windows_curtains_01_20
+  - first:
+      213: 2916393372454455066
+    second: fixtures_windows_curtains_01_21
+  - first:
+      213: 2955565668514287619
+    second: fixtures_windows_curtains_01_22
+  - first:
+      213: -5066677155120247562
+    second: fixtures_windows_curtains_01_23
+  - first:
+      213: 4713008806770776796
+    second: fixtures_windows_curtains_01_24
+  - first:
+      213: 4213688393419599234
+    second: fixtures_windows_curtains_01_25
+  - first:
+      213: 9041171663871270179
+    second: fixtures_windows_curtains_01_26
+  - first:
+      213: 143896174857650708
+    second: fixtures_windows_curtains_01_27
+  - first:
+      213: -6561687932711995564
+    second: fixtures_windows_curtains_01_28
+  - first:
+      213: -4984690531674680215
+    second: fixtures_windows_curtains_01_29
+  - first:
+      213: -458934163625877273
+    second: fixtures_windows_curtains_01_30
+  - first:
+      213: 8343189671996063427
+    second: fixtures_windows_curtains_01_31
+  - first:
+      213: 5618326880768220387
+    second: fixtures_windows_curtains_01_32
+  - first:
+      213: 1549600494898113781
+    second: fixtures_windows_curtains_01_33
+  - first:
+      213: 8111116204929810943
+    second: fixtures_windows_curtains_01_34
+  - first:
+      213: -3726888703289293296
+    second: fixtures_windows_curtains_01_35
+  - first:
+      213: 2453373414730168408
+    second: fixtures_windows_curtains_01_36
+  - first:
+      213: -2288559684684808595
+    second: fixtures_windows_curtains_01_37
+  - first:
+      213: -5260419084912304796
+    second: fixtures_windows_curtains_01_38
+  - first:
+      213: 5743323562506885223
+    second: fixtures_windows_curtains_01_39
+  - first:
+      213: -6417290411261030874
+    second: fixtures_windows_curtains_01_40
+  - first:
+      213: 4679049609647655578
+    second: fixtures_windows_curtains_01_41
+  - first:
+      213: -8734236727054671873
+    second: fixtures_windows_curtains_01_42
+  - first:
+      213: -5400801894378030676
+    second: fixtures_windows_curtains_01_43
+  - first:
+      213: -3187594630293490113
+    second: fixtures_windows_curtains_01_44
+  - first:
+      213: -342077704053732444
+    second: fixtures_windows_curtains_01_45
+  - first:
+      213: -5054657642081859692
+    second: fixtures_windows_curtains_01_46
+  - first:
+      213: -2908520766963588180
+    second: fixtures_windows_curtains_01_47
+  - first:
+      213: -8121748050064413543
+    second: fixtures_windows_curtains_01_48
+  - first:
+      213: 5581553508620619354
+    second: fixtures_windows_curtains_01_49
+  - first:
+      213: -2416142551278037538
+    second: fixtures_windows_curtains_01_50
+  - first:
+      213: -7411910144127638930
+    second: fixtures_windows_curtains_01_51
+  - first:
+      213: -7792027990708932309
+    second: fixtures_windows_curtains_01_52
+  - first:
+      213: -4462021788262831862
+    second: fixtures_windows_curtains_01_53
+  - first:
+      213: -6003839500977942812
+    second: fixtures_windows_curtains_01_54
+  - first:
+      213: 435984096714957012
+    second: fixtures_windows_curtains_01_55
+  - first:
+      213: 4405588562818810063
+    second: fixtures_windows_curtains_01_56
+  - first:
+      213: 6567946629590045384
+    second: fixtures_windows_curtains_01_57
+  - first:
+      213: -5023479227989401192
+    second: fixtures_windows_curtains_01_58
+  - first:
+      213: 317554203605546788
+    second: fixtures_windows_curtains_01_59
+  - first:
+      213: 3384464655544867974
+    second: fixtures_windows_curtains_01_60
+  - first:
+      213: -8291089158893778694
+    second: fixtures_windows_curtains_01_61
+  - first:
+      213: -896490201538151850
+    second: fixtures_windows_curtains_01_62
+  - first:
+      213: -2865264013900115588
+    second: fixtures_windows_curtains_01_63
+  - first:
+      213: -3296955347632691936
+    second: fixtures_windows_curtains_01_64
+  - first:
+      213: -1282555970806587623
+    second: fixtures_windows_curtains_01_65
+  - first:
+      213: -6223078271444540297
+    second: fixtures_windows_curtains_01_66
+  - first:
+      213: 4138926089547069000
+    second: fixtures_windows_curtains_01_67
+  - first:
+      213: 2493502911162802726
+    second: fixtures_windows_curtains_01_68
+  - first:
+      213: -306386258888873685
+    second: fixtures_windows_curtains_01_69
+  - first:
+      213: 260267373824616291
+    second: fixtures_windows_curtains_01_70
+  - first:
+      213: 1551114681212895189
+    second: fixtures_windows_curtains_01_71
+  - first:
+      213: 4873044318875802713
+    second: fixtures_windows_curtains_01_72
+  - first:
+      213: -8375595993288439568
+    second: fixtures_windows_curtains_01_73
+  - first:
+      213: 7292820168809777872
+    second: fixtures_windows_curtains_01_74
+  - first:
+      213: -8086669135620176048
+    second: fixtures_windows_curtains_01_75
+  - first:
+      213: 3593527853465485842
+    second: fixtures_windows_curtains_01_76
+  - first:
+      213: 2351112336362660579
+    second: fixtures_windows_curtains_01_77
+  - first:
+      213: -1168300590657746746
+    second: fixtures_windows_curtains_01_78
+  - first:
+      213: 8880692429389623200
+    second: fixtures_windows_curtains_01_79
+  - first:
+      213: 3990650114956094221
+    second: fixtures_windows_curtains_01_80
+  - first:
+      213: 5343279377106862496
+    second: fixtures_windows_curtains_01_81
+  - first:
+      213: 8937270718546691042
+    second: fixtures_windows_curtains_01_82
+  - first:
+      213: 7524095315505084121
+    second: fixtures_windows_curtains_01_83
+  - first:
+      213: -5286782674906589669
+    second: fixtures_windows_curtains_01_84
+  - first:
+      213: -6127821598822872400
+    second: fixtures_windows_curtains_01_85
+  - first:
+      213: -8757261086361937462
+    second: fixtures_windows_curtains_01_86
+  - first:
+      213: 3660730717784683119
+    second: fixtures_windows_curtains_01_87
+  - first:
+      213: -2214965414732947583
+    second: fixtures_windows_curtains_01_88
+  - first:
+      213: 4564986771337135205
+    second: fixtures_windows_curtains_01_89
+  - first:
+      213: 4985300289201473383
+    second: fixtures_windows_curtains_01_90
+  - first:
+      213: 6045567439017075396
+    second: fixtures_windows_curtains_01_91
+  - first:
+      213: -5976766186164952729
+    second: fixtures_windows_curtains_01_92
+  - first:
+      213: -2769663863868866426
+    second: fixtures_windows_curtains_01_93
+  - first:
+      213: -1592259207240784767
+    second: fixtures_windows_curtains_01_94
+  - first:
+      213: -7091899009662741293
+    second: fixtures_windows_curtains_01_95
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3877
+        width: 65
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db00ebd1e3cbd2590800000000000000
+      internalID: -7697289213133324099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_1
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 3851
+        width: 65
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a325b8a8cb8f00d0800000000000000
+      internalID: -3454388695229717594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_2
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 3879
+        width: 65
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0888ace2a6c8aef90800000000000000
+      internalID: -6923567089449269120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 3851
+        width: 65
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da5311137c2c7f80800000000000000
+      internalID: -8107556356454393136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_4
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 3879
+        width: 65
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc47b6102ae907840800000000000000
+      internalID: 5219846386768114891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_5
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 3852
+        width: 65
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622975995accb4c60800000000000000
+      internalID: 7803555790963839526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_6
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 3879
+        width: 65
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 080088d1d21b8ecd0800000000000000
+      internalID: -2528576383441436544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_7
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 3852
+        width: 73
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f8741056d32fbf0800000000000000
+      internalID: -292103521803202793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_8
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3621
+        width: 65
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eda488952d208b7f0800000000000000
+      internalID: -596723848158098722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_9
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 3595
+        width: 65
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f169a8b06892daa0800000000000000
+      internalID: -6137675800970173963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_10
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 3623
+        width: 65
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fb4dbb3764b16770800000000000000
+      internalID: 8602355118731250676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_11
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 3595
+        width: 65
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec540368f1827c970800000000000000
+      internalID: 8775026514815108558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_12
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 3623
+        width: 65
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6509dcc63d83215e0800000000000000
+      internalID: -1940426008728596394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_13
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 3596
+        width: 65
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2241d4dd06c5d5d0800000000000000
+      internalID: -3038304610884173269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_14
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 3623
+        width: 65
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff9ec2a6fc3554310800000000000000
+      internalID: 1388608210418330111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_15
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 3596
+        width: 73
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44380ee905deee870800000000000000
+      internalID: 8714163259527168836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_16
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 3421
+        width: 66
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd12c17cb5561fde0800000000000000
+      internalID: -1301147372476423713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_17
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 3395
+        width: 66
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db644c581f4e1600800000000000000
+      internalID: 440876779574684633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_18
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 3421
+        width: 66
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a9874b44eb8b480800000000000000
+      internalID: -8883141062693447066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_19
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 3393
+        width: 66
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f61c8a8772376ca0800000000000000
+      internalID: -6023790487577815312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_20
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 3480
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 729040f026256de40800000000000000
+      internalID: 5680818561086654759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_21
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 3451
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17837e025c197820800000000000000
+      internalID: 2916393372454455066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_22
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 3480
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3005226f057440920800000000000000
+      internalID: 2955565668514287619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_23
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 3452
+        width: 65
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fc8879c8fb8fa9b0800000000000000
+      internalID: -5066677155120247562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_24
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 3165
+        width: 64
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cda1cd60a88f76140800000000000000
+      internalID: 4713008806770776796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_25
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 3138
+        width: 64
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d26fbc4470a7a30800000000000000
+      internalID: 4213688393419599234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_26
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 3166
+        width: 78
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32ddf52e9b1b87d70800000000000000
+      internalID: 9041171663871270179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_27
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 3138
+        width: 64
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4128de20fc83ff100800000000000000
+      internalID: 143896174857650708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_28
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 3166
+        width: 64
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 457fbbb279330f4a0800000000000000
+      internalID: -6561687932711995564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_29
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 3138
+        width: 64
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96417481f52d2dab0800000000000000
+      internalID: -4984690531674680215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_30
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 3166
+        width: 64
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e0e9c94fc981a9f0800000000000000
+      internalID: -458934163625877273
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_31
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 3138
+        width: 73
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce78057dc6f8c370800000000000000
+      internalID: 8343189671996063427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_32
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2909
+        width: 64
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ecd738e78e48fd40800000000000000
+      internalID: 5618326880768220387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_33
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2882
+        width: 64
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fceb22a079418510800000000000000
+      internalID: 1549600494898113781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_34
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 2910
+        width: 64
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff181ceb639709070800000000000000
+      internalID: 8111116204929810943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_35
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 2882
+        width: 64
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0168603687e674cc0800000000000000
+      internalID: -3726888703289293296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_36
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 2910
+        width: 64
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 858f0664f122c0220800000000000000
+      internalID: 2453373414730168408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_37
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 2882
+        width: 64
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ef41397176d30e0800000000000000
+      internalID: -2288559684684808595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_38
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 2910
+        width: 64
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46ddd1296bc3ff6b0800000000000000
+      internalID: -5260419084912304796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_39
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 2882
+        width: 73
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7689a55c95264bf40800000000000000
+      internalID: 5743323562506885223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_40
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2653
+        width: 64
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e04480f5431f6a0800000000000000
+      internalID: -6417290411261030874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_41
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2626
+        width: 64
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a8a7d44d25fe040800000000000000
+      internalID: 4679049609647655578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_42
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 2654
+        width: 64
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff5cb309f1c9c680800000000000000
+      internalID: -8734236727054671873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_43
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 2626
+        width: 64
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9375faa4f7c05b0800000000000000
+      internalID: -5400801894378030676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_44
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 2654
+        width: 64
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f36f965829363c3d0800000000000000
+      internalID: -3187594630293490113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_45
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 2626
+        width: 64
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4abcb4cf322b04bf0800000000000000
+      internalID: -342077704053732444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_46
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 2654
+        width: 64
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4974f7eb7af3ad9b0800000000000000
+      internalID: -5054657642081859692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_47
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 2626
+        width: 73
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca3e94fb5cbd2a7d0800000000000000
+      internalID: -2908520766963588180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_48
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2397
+        width: 64
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99c60b8ed21c94f80800000000000000
+      internalID: -8121748050064413543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_49
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2370
+        width: 64
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5eca200859a57d40800000000000000
+      internalID: 5581553508620619354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_50
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 2398
+        width: 64
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5dd50a623287ed0800000000000000
+      internalID: -2416142551278037538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_51
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 2370
+        width: 64
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6268207efa932990800000000000000
+      internalID: -7411910144127638930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_52
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 2398
+        width: 64
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b21b4ed83d72dd390800000000000000
+      internalID: -7792027990708932309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_53
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 2370
+        width: 64
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a096a8a03d6b312c0800000000000000
+      internalID: -4462021788262831862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_54
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 2398
+        width: 64
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee40c798c31eaca0800000000000000
+      internalID: -6003839500977942812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_55
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 2370
+        width: 73
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d02a6cd93dec0600800000000000000
+      internalID: 435984096714957012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_56
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2141
+        width: 64
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc0c651c47bc32d30800000000000000
+      internalID: 4405588562818810063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_57
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 2114
+        width: 64
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2507049a8062b50800000000000000
+      internalID: 6567946629590045384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_58
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 2142
+        width: 64
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8916327f144094ab0800000000000000
+      internalID: -5023479227989401192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_59
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 2114
+        width: 64
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42737de9ddd286400800000000000000
+      internalID: 317554203605546788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_60
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 2142
+        width: 64
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68cdd9c2ca808fe20800000000000000
+      internalID: 3384464655544867974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_61
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 2114
+        width: 64
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af84b0b865220fc80800000000000000
+      internalID: -8291089158893778694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_62
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 2142
+        width: 64
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a33b859e60f83f0800000000000000
+      internalID: -896490201538151850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_63
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 2114
+        width: 73
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7116c76f898c38d0800000000000000
+      internalID: -2865264013900115588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_64
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1885
+        width: 64
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0256700549cde32d0800000000000000
+      internalID: -3296955347632691936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_65
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1858
+        width: 64
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91f548bc322733ee0800000000000000
+      internalID: -1282555970806587623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_66
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1886
+        width: 64
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774a81d884f23a9a0800000000000000
+      internalID: -6223078271444540297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_67
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1858
+        width: 64
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 846bc07795b607930800000000000000
+      internalID: 4138926089547069000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_68
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1886
+        width: 64
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 622e242cfa3ba9220800000000000000
+      internalID: 2493502911162802726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_69
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1858
+        width: 64
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b292ed2225f7fbbf0800000000000000
+      internalID: -306386258888873685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_70
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1886
+        width: 64
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 367a07b2cc7ac9300800000000000000
+      internalID: 260267373824616291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_71
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1858
+        width: 73
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5df769b959aa68510800000000000000
+      internalID: 1551114681212895189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_72
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1629
+        width: 64
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95cd3515df780a340800000000000000
+      internalID: 4873044318875802713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_73
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1602
+        width: 64
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f88bd5e1d7e3cb80800000000000000
+      internalID: -8375595993288439568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_74
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1630
+        width: 64
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0da06b4fd4d453560800000000000000
+      internalID: 7292820168809777872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_75
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1602
+        width: 64
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0578e33244166cf80800000000000000
+      internalID: -8086669135620176048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_76
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1630
+        width: 64
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 212484c1b86ced130800000000000000
+      internalID: 3593527853465485842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_77
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1602
+        width: 64
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e26fe39634d0a020800000000000000
+      internalID: 2351112336362660579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_78
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1630
+        width: 64
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c847fe7dcc59cfe0800000000000000
+      internalID: -1168300590657746746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_79
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1602
+        width: 73
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0afe44d66be8e3b70800000000000000
+      internalID: 8880692429389623200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_80
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1373
+        width: 64
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b64dcd223a16730800000000000000
+      internalID: 3990650114956094221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_81
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1346
+        width: 64
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a100289844272a40800000000000000
+      internalID: 5343279377106862496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_82
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1374
+        width: 64
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e3c978ed50970c70800000000000000
+      internalID: 8937270718546691042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_83
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1346
+        width: 64
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d67cd833d4fa6860800000000000000
+      internalID: 7524095315505084121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_84
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1374
+        width: 64
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16d081fa2391a6b0800000000000000
+      internalID: -5286782674906589669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_85
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1346
+        width: 64
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba4233f8ba95faa0800000000000000
+      internalID: -6127821598822872400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_86
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1374
+        width: 64
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac99b0e9075f77680800000000000000
+      internalID: -8757261086361937462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_87
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1346
+        width: 73
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f62bae341378dc230800000000000000
+      internalID: 3660730717784683119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_88
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1061
+        width: 64
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f1111d0bcd241e0800000000000000
+      internalID: -2214965414732947583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_89
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1035
+        width: 64
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56448ed38471a5f30800000000000000
+      internalID: 4564986771337135205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_90
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1063
+        width: 64
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767818423385f2540800000000000000
+      internalID: 4985300289201473383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_91
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1035
+        width: 64
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c2e7441e8b26e350800000000000000
+      internalID: 6045567439017075396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_92
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1063
+        width: 64
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7616218e1d24e0da0800000000000000
+      internalID: -5976766186164952729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_93
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1036
+        width: 64
+        height: 173
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6804cded36d2099d0800000000000000
+      internalID: -2769663863868866426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_94
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1022
+        width: 64
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 184611aefa827e9e0800000000000000
+      internalID: -1592259207240784767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_curtains_01_95
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1036
+        width: 73
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d49b1adc63849d90800000000000000
+      internalID: -7091899009662741293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fixtures_windows_curtains_01_0: -7697289213133324099
+      fixtures_windows_curtains_01_1: -3454388695229717594
+      fixtures_windows_curtains_01_10: 8602355118731250676
+      fixtures_windows_curtains_01_11: 8775026514815108558
+      fixtures_windows_curtains_01_12: -1940426008728596394
+      fixtures_windows_curtains_01_13: -3038304610884173269
+      fixtures_windows_curtains_01_14: 1388608210418330111
+      fixtures_windows_curtains_01_15: 8714163259527168836
+      fixtures_windows_curtains_01_16: -1301147372476423713
+      fixtures_windows_curtains_01_17: 440876779574684633
+      fixtures_windows_curtains_01_18: -8883141062693447066
+      fixtures_windows_curtains_01_19: -6023790487577815312
+      fixtures_windows_curtains_01_2: -6923567089449269120
+      fixtures_windows_curtains_01_20: 5680818561086654759
+      fixtures_windows_curtains_01_21: 2916393372454455066
+      fixtures_windows_curtains_01_22: 2955565668514287619
+      fixtures_windows_curtains_01_23: -5066677155120247562
+      fixtures_windows_curtains_01_24: 4713008806770776796
+      fixtures_windows_curtains_01_25: 4213688393419599234
+      fixtures_windows_curtains_01_26: 9041171663871270179
+      fixtures_windows_curtains_01_27: 143896174857650708
+      fixtures_windows_curtains_01_28: -6561687932711995564
+      fixtures_windows_curtains_01_29: -4984690531674680215
+      fixtures_windows_curtains_01_3: -8107556356454393136
+      fixtures_windows_curtains_01_30: -458934163625877273
+      fixtures_windows_curtains_01_31: 8343189671996063427
+      fixtures_windows_curtains_01_32: 5618326880768220387
+      fixtures_windows_curtains_01_33: 1549600494898113781
+      fixtures_windows_curtains_01_34: 8111116204929810943
+      fixtures_windows_curtains_01_35: -3726888703289293296
+      fixtures_windows_curtains_01_36: 2453373414730168408
+      fixtures_windows_curtains_01_37: -2288559684684808595
+      fixtures_windows_curtains_01_38: -5260419084912304796
+      fixtures_windows_curtains_01_39: 5743323562506885223
+      fixtures_windows_curtains_01_4: 5219846386768114891
+      fixtures_windows_curtains_01_40: -6417290411261030874
+      fixtures_windows_curtains_01_41: 4679049609647655578
+      fixtures_windows_curtains_01_42: -8734236727054671873
+      fixtures_windows_curtains_01_43: -5400801894378030676
+      fixtures_windows_curtains_01_44: -3187594630293490113
+      fixtures_windows_curtains_01_45: -342077704053732444
+      fixtures_windows_curtains_01_46: -5054657642081859692
+      fixtures_windows_curtains_01_47: -2908520766963588180
+      fixtures_windows_curtains_01_48: -8121748050064413543
+      fixtures_windows_curtains_01_49: 5581553508620619354
+      fixtures_windows_curtains_01_5: 7803555790963839526
+      fixtures_windows_curtains_01_50: -2416142551278037538
+      fixtures_windows_curtains_01_51: -7411910144127638930
+      fixtures_windows_curtains_01_52: -7792027990708932309
+      fixtures_windows_curtains_01_53: -4462021788262831862
+      fixtures_windows_curtains_01_54: -6003839500977942812
+      fixtures_windows_curtains_01_55: 435984096714957012
+      fixtures_windows_curtains_01_56: 4405588562818810063
+      fixtures_windows_curtains_01_57: 6567946629590045384
+      fixtures_windows_curtains_01_58: -5023479227989401192
+      fixtures_windows_curtains_01_59: 317554203605546788
+      fixtures_windows_curtains_01_6: -2528576383441436544
+      fixtures_windows_curtains_01_60: 3384464655544867974
+      fixtures_windows_curtains_01_61: -8291089158893778694
+      fixtures_windows_curtains_01_62: -896490201538151850
+      fixtures_windows_curtains_01_63: -2865264013900115588
+      fixtures_windows_curtains_01_64: -3296955347632691936
+      fixtures_windows_curtains_01_65: -1282555970806587623
+      fixtures_windows_curtains_01_66: -6223078271444540297
+      fixtures_windows_curtains_01_67: 4138926089547069000
+      fixtures_windows_curtains_01_68: 2493502911162802726
+      fixtures_windows_curtains_01_69: -306386258888873685
+      fixtures_windows_curtains_01_7: -292103521803202793
+      fixtures_windows_curtains_01_70: 260267373824616291
+      fixtures_windows_curtains_01_71: 1551114681212895189
+      fixtures_windows_curtains_01_72: 4873044318875802713
+      fixtures_windows_curtains_01_73: -8375595993288439568
+      fixtures_windows_curtains_01_74: 7292820168809777872
+      fixtures_windows_curtains_01_75: -8086669135620176048
+      fixtures_windows_curtains_01_76: 3593527853465485842
+      fixtures_windows_curtains_01_77: 2351112336362660579
+      fixtures_windows_curtains_01_78: -1168300590657746746
+      fixtures_windows_curtains_01_79: 8880692429389623200
+      fixtures_windows_curtains_01_8: -596723848158098722
+      fixtures_windows_curtains_01_80: 3990650114956094221
+      fixtures_windows_curtains_01_81: 5343279377106862496
+      fixtures_windows_curtains_01_82: 8937270718546691042
+      fixtures_windows_curtains_01_83: 7524095315505084121
+      fixtures_windows_curtains_01_84: -5286782674906589669
+      fixtures_windows_curtains_01_85: -6127821598822872400
+      fixtures_windows_curtains_01_86: -8757261086361937462
+      fixtures_windows_curtains_01_87: 3660730717784683119
+      fixtures_windows_curtains_01_88: -2214965414732947583
+      fixtures_windows_curtains_01_89: 4564986771337135205
+      fixtures_windows_curtains_01_9: -6137675800970173963
+      fixtures_windows_curtains_01_90: 4985300289201473383
+      fixtures_windows_curtains_01_91: 6045567439017075396
+      fixtures_windows_curtains_01_92: -5976766186164952729
+      fixtures_windows_curtains_01_93: -2769663863868866426
+      fixtures_windows_curtains_01_94: -1592259207240784767
+      fixtures_windows_curtains_01_95: -7091899009662741293
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

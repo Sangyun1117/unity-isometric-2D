@@ -1,0 +1,455 @@
+fileFormatVersion: 2
+guid: 7b4060bc988dd834089da7f7c8abff3a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2993813673440260696
+    second: vegetation_foliage_01_0
+  - first:
+      213: -3296801803974394561
+    second: vegetation_foliage_01_1
+  - first:
+      213: 4680626877941813369
+    second: vegetation_foliage_01_2
+  - first:
+      213: -5152779396682226172
+    second: vegetation_foliage_01_3
+  - first:
+      213: 6560436911423041036
+    second: vegetation_foliage_01_4
+  - first:
+      213: -1538903570906309860
+    second: vegetation_foliage_01_5
+  - first:
+      213: -6079677217698891165
+    second: vegetation_foliage_01_6
+  - first:
+      213: 896997432643992179
+    second: vegetation_foliage_01_7
+  - first:
+      213: 6028134438677889369
+    second: vegetation_foliage_01_8
+  - first:
+      213: -3757099955269392601
+    second: vegetation_foliage_01_9
+  - first:
+      213: -4674676375755608843
+    second: vegetation_foliage_01_10
+  - first:
+      213: -7955006671499984361
+    second: vegetation_foliage_01_11
+  - first:
+      213: 3722685277003235843
+    second: vegetation_foliage_01_12
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vegetation_foliage_01_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 900
+        width: 61
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8adc2ee6356d376d0800000000000000
+      internalID: -2993813673440260696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetation_foliage_01_1
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 903
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3d3d3bf9386f32d0800000000000000
+      internalID: -3296801803974394561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetation_foliage_01_2
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 901
+        width: 61
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9701ed1b85de4f040800000000000000
+      internalID: 4680626877941813369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetation_foliage_01_3
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 899
+        width: 43
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 406edc67076ad78b0800000000000000
+      internalID: -5152779396682226172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetation_foliage_01_4
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 901
+        width: 61
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0e2bbcbc9a5b0b50800000000000000
+      internalID: 6560436911423041036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetation_foliage_01_5
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 902
+        width: 61
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1b9c801b57b4aae0800000000000000
+      internalID: -1538903570906309860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetation_foliage_01_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 775
+        width: 64
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ab50238c5a0aba0800000000000000
+      internalID: -6079677217698891165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetation_foliage_01_7
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 774
+        width: 54
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37abe299966c27c00800000000000000
+      internalID: 896997432643992179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetation_foliage_01_8
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 773
+        width: 65
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951c1b3655c38a350800000000000000
+      internalID: 6028134438677889369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetation_foliage_01_9
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 773
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72728842f791cdbc0800000000000000
+      internalID: -3757099955269392601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetation_foliage_01_10
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 773
+        width: 54
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fc2d2f8a96302fb0800000000000000
+      internalID: -4674676375755608843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetation_foliage_01_11
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 776
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 712816764932a9190800000000000000
+      internalID: -7955006671499984361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetation_foliage_01_12
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 775
+        width: 59
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302ca5a2982a9a330800000000000000
+      internalID: 3722685277003235843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      vegetation_foliage_01_0: -2993813673440260696
+      vegetation_foliage_01_1: -3296801803974394561
+      vegetation_foliage_01_10: -4674676375755608843
+      vegetation_foliage_01_11: -7955006671499984361
+      vegetation_foliage_01_12: 3722685277003235843
+      vegetation_foliage_01_2: 4680626877941813369
+      vegetation_foliage_01_3: -5152779396682226172
+      vegetation_foliage_01_4: 6560436911423041036
+      vegetation_foliage_01_5: -1538903570906309860
+      vegetation_foliage_01_6: -6079677217698891165
+      vegetation_foliage_01_7: 896997432643992179
+      vegetation_foliage_01_8: 6028134438677889369
+      vegetation_foliage_01_9: -3757099955269392601
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

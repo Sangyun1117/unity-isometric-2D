@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: 70aab588662196f478a663a2c4c54c0b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1019653988951670264
+    second: crafted_01_0
+  - first:
+      213: -8456406552757023795
+    second: crafted_01_1
+  - first:
+      213: -8884773937535159849
+    second: crafted_01_2
+  - first:
+      213: 1192432776251122551
+    second: crafted_01_3
+  - first:
+      213: -110517591584459721
+    second: crafted_01_4
+  - first:
+      213: 7192792535912801989
+    second: crafted_01_5
+  - first:
+      213: -7367306966909236140
+    second: crafted_01_6
+  - first:
+      213: 738663497107680809
+    second: crafted_01_7
+  - first:
+      213: 6447322036973886138
+    second: crafted_01_8
+  - first:
+      213: -2142297919314066748
+    second: crafted_01_9
+  - first:
+      213: -8157343900023630524
+    second: crafted_01_10
+  - first:
+      213: -7725988848533206929
+    second: crafted_01_11
+  - first:
+      213: 5834282356887624894
+    second: crafted_01_12
+  - first:
+      213: -1345399778063197219
+    second: crafted_01_13
+  - first:
+      213: 9117165761790478634
+    second: crafted_01_14
+  - first:
+      213: -6748308449388600476
+    second: crafted_01_15
+  - first:
+      213: 3524982210930686049
+    second: crafted_01_16
+  - first:
+      213: 102439289174814767
+    second: crafted_01_17
+  - first:
+      213: 8735035054600595403
+    second: crafted_01_18
+  - first:
+      213: 5319957420915401462
+    second: crafted_01_19
+  - first:
+      213: -7676173722844178788
+    second: crafted_01_20
+  - first:
+      213: -8486767679139992163
+    second: crafted_01_21
+  - first:
+      213: 5904287654051097719
+    second: crafted_01_22
+  - first:
+      213: 1978799659506123064
+    second: crafted_01_23
+  - first:
+      213: -2971857212549201280
+    second: crafted_01_24
+  - first:
+      213: 4816295937080580106
+    second: crafted_01_25
+  - first:
+      213: 1279036613162786221
+    second: crafted_01_26
+  - first:
+      213: 3805078887874887042
+    second: crafted_01_27
+  - first:
+      213: -7560687910358443535
+    second: crafted_01_28
+  - first:
+      213: -2516999631958617010
+    second: crafted_01_29
+  - first:
+      213: -1910384924722800982
+    second: crafted_01_30
+  - first:
+      213: 6165022545720732782
+    second: crafted_01_31
+  - first:
+      213: -8920956430812002989
+    second: crafted_01_32
+  - first:
+      213: -5781369152542388773
+    second: crafted_01_33
+  - first:
+      213: 8350787263864899239
+    second: crafted_01_34
+  - first:
+      213: 5325835213189573523
+    second: crafted_01_35
+  - first:
+      213: 860478791841621041
+    second: crafted_01_36
+  - first:
+      213: -3898657143338114962
+    second: crafted_01_37
+  - first:
+      213: 2810730514708900221
+    second: crafted_01_38
+  - first:
+      213: -5970401590992328954
+    second: crafted_01_39
+  - first:
+      213: 7915173515807130231
+    second: crafted_01_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: crafted_01_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1833
+        width: 18
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd364d86e9862e00800000000000000
+      internalID: 1019653988951670264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crafted_01_1
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1833
+        width: 18
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcbc1a25b0fc4aa80800000000000000
+      internalID: -8456406552757023795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crafted_01_2
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1813
+        width: 11
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d171976d21f2b480800000000000000
+      internalID: -8884773937535159849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crafted_01_3
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1867
+        width: 21
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7732bfeca4f5c8010800000000000000
+      internalID: 1192432776251122551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crafted_01_4
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1868
+        width: 21
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7343d2406dc577ef0800000000000000
+      internalID: -110517591584459721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crafted_01_5
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1813
+        width: 11
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c6e92ec3bee1d360800000000000000
+      internalID: 7192792535912801989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crafted_01_6
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 1576
+        width: 13
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45c4d16e85112c990800000000000000
+      internalID: -7367306966909236140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crafted_01_7
+      rect:
+        serializedVersion: 2
+        x: 209
+        y: 1576
+        width: 13
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ea6a97982404a00800000000000000
+      internalID: 738663497107680809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crafted_01_8
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 1557
+        width: 11
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aba5066bb3d797950800000000000000
+      internalID: 6447322036973886138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crafted_01_9
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 1534
+        width: 42
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c20a3c84670542e0800000000000000
+      internalID: -2142297919314066748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crafted_01_10
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 1679
+        width: 11
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445546041fa4bce80800000000000000
+      internalID: -8157343900023630524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crafted_01_11
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 1710
+        width: 11
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f688c888316c7c490800000000000000
+      internalID: -7725988848533206929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crafted_01_12
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 1285
+        width: 116
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc9d9964e887f050800000000000000
+      internalID: 5834282356887624894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crafted_01_13
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 1280
+        width: 116
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddb57a3b70e245de0800000000000000
+      internalID: -1345399778063197219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crafted_01_14
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 1419
+        width: 10
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2900ed94fda68e70800000000000000
+      internalID: 9117165761790478634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crafted_01_15
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 1367
+        width: 63
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 463ec6728313952a0800000000000000
+      internalID: -6748308449388600476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crafted_01_16
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1296
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 168381a05a04be030800000000000000
+      internalID: 3524982210930686049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crafted_01_17
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1356
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20fe42adffeb6100800000000000000
+      internalID: 102439289174814767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crafted_01_18
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1294
+        width: 59
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc7ad0a1a14193970800000000000000
+      internalID: 8735035054600595403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crafted_01_19
+      rect:
+        serializedVersion: 2
+        x: 423
+        y: 1363
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f2add5861944d940800000000000000
+      internalID: 5319957420915401462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crafted_01_20
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1296
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c965faf4ba0c87590800000000000000
+      internalID: -7676173722844178788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crafted_01_21
+      rect:
+        serializedVersion: 2
+        x: 482
+        y: 1342
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9d2899b2c1f83a80800000000000000
+      internalID: -8486767679139992163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crafted_01_22
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 1301
+        width: 62
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ca07fc65e30f150800000000000000
+      internalID: 5904287654051097719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crafted_01_23
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 1039
+        width: 70
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 831c6826ecb167b10800000000000000
+      internalID: 1978799659506123064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crafted_01_24
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 1039
+        width: 70
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08282da5c97d1c6d0800000000000000
+      internalID: -2971857212549201280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crafted_01_25
+      rect:
+        serializedVersion: 2
+        x: 287
+        y: 1039
+        width: 70
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0858de03abe6d240800000000000000
+      internalID: 4816295937080580106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crafted_01_26
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1039
+        width: 71
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dad5946e50d00c110800000000000000
+      internalID: 1279036613162786221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crafted_01_27
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1039
+        width: 70
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28dfe1e961b5ec430800000000000000
+      internalID: 3805078887874887042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crafted_01_28
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1039
+        width: 70
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f99e7d576a031790800000000000000
+      internalID: -7560687910358443535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crafted_01_29
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 1039
+        width: 70
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e44515d9b22d11dd0800000000000000
+      internalID: -2516999631958617010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crafted_01_30
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1039
+        width: 70
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa6d2a95803fc75e0800000000000000
+      internalID: -1910384924722800982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crafted_01_31
+      rect:
+        serializedVersion: 2
+        x: 31
+        y: 783
+        width: 70
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c65f5775f8e8550800000000000000
+      internalID: 6165022545720732782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crafted_01_32
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 503
+        width: 118
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 355c6b43465623480800000000000000
+      internalID: -8920956430812002989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crafted_01_33
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 503
+        width: 124
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd4f43036374cfa0800000000000000
+      internalID: -5781369152542388773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crafted_01_34
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 510
+        width: 118
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a60689a5c4f3e370800000000000000
+      internalID: 8350787263864899239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crafted_01_35
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 510
+        width: 118
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b6e6ea8ea29e940800000000000000
+      internalID: 5325835213189573523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crafted_01_36
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 522
+        width: 66
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1342a74f6e801fb00800000000000000
+      internalID: 860478791841621041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crafted_01_37
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 294
+        width: 14
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60ea4eebff25e9c0800000000000000
+      internalID: -3898657143338114962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crafted_01_38
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 294
+        width: 14
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d792390e288b10720800000000000000
+      internalID: 2810730514708900221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crafted_01_39
+      rect:
+        serializedVersion: 2
+        x: 348
+        y: 277
+        width: 11
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 607a972b26fd42da0800000000000000
+      internalID: -5970401590992328954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: crafted_01_40
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 277
+        width: 14
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7728341506858dd60800000000000000
+      internalID: 7915173515807130231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      crafted_01_0: 1019653988951670264
+      crafted_01_1: -8456406552757023795
+      crafted_01_10: -8157343900023630524
+      crafted_01_11: -7725988848533206929
+      crafted_01_12: 5834282356887624894
+      crafted_01_13: -1345399778063197219
+      crafted_01_14: 9117165761790478634
+      crafted_01_15: -6748308449388600476
+      crafted_01_16: 3524982210930686049
+      crafted_01_17: 102439289174814767
+      crafted_01_18: 8735035054600595403
+      crafted_01_19: 5319957420915401462
+      crafted_01_2: -8884773937535159849
+      crafted_01_20: -7676173722844178788
+      crafted_01_21: -8486767679139992163
+      crafted_01_22: 5904287654051097719
+      crafted_01_23: 1978799659506123064
+      crafted_01_24: -2971857212549201280
+      crafted_01_25: 4816295937080580106
+      crafted_01_26: 1279036613162786221
+      crafted_01_27: 3805078887874887042
+      crafted_01_28: -7560687910358443535
+      crafted_01_29: -2516999631958617010
+      crafted_01_3: 1192432776251122551
+      crafted_01_30: -1910384924722800982
+      crafted_01_31: 6165022545720732782
+      crafted_01_32: -8920956430812002989
+      crafted_01_33: -5781369152542388773
+      crafted_01_34: 8350787263864899239
+      crafted_01_35: 5325835213189573523
+      crafted_01_36: 860478791841621041
+      crafted_01_37: -3898657143338114962
+      crafted_01_38: 2810730514708900221
+      crafted_01_39: -5970401590992328954
+      crafted_01_4: -110517591584459721
+      crafted_01_40: 7915173515807130231
+      crafted_01_5: 7192792535912801989
+      crafted_01_6: -7367306966909236140
+      crafted_01_7: 738663497107680809
+      crafted_01_8: 6447322036973886138
+      crafted_01_9: -2142297919314066748
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

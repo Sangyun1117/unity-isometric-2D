@@ -1,0 +1,6149 @@
+fileFormatVersion: 2
+guid: 26846088ad740794e9dc550de19a8f4b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2937209935043479561
+    second: fixtures_overlay_counters_01_0
+  - first:
+      213: -145039275472298120
+    second: fixtures_overlay_counters_01_1
+  - first:
+      213: -2361287075412534641
+    second: fixtures_overlay_counters_01_2
+  - first:
+      213: -1091764505275711704
+    second: fixtures_overlay_counters_01_3
+  - first:
+      213: -3685792793415370295
+    second: fixtures_overlay_counters_01_4
+  - first:
+      213: -8107662415693217426
+    second: fixtures_overlay_counters_01_5
+  - first:
+      213: -1347175062937558330
+    second: fixtures_overlay_counters_01_6
+  - first:
+      213: -9068445548594410157
+    second: fixtures_overlay_counters_01_7
+  - first:
+      213: -6262400215798800890
+    second: fixtures_overlay_counters_01_8
+  - first:
+      213: 1646425532971514124
+    second: fixtures_overlay_counters_01_9
+  - first:
+      213: 3081584853908831650
+    second: fixtures_overlay_counters_01_10
+  - first:
+      213: -5711802298584605211
+    second: fixtures_overlay_counters_01_11
+  - first:
+      213: 2060316308188955472
+    second: fixtures_overlay_counters_01_12
+  - first:
+      213: 8469043057231658002
+    second: fixtures_overlay_counters_01_13
+  - first:
+      213: -8545826223057481107
+    second: fixtures_overlay_counters_01_14
+  - first:
+      213: -3958499826323392755
+    second: fixtures_overlay_counters_01_15
+  - first:
+      213: -2614008016110377896
+    second: fixtures_overlay_counters_01_16
+  - first:
+      213: 3778197912013539926
+    second: fixtures_overlay_counters_01_17
+  - first:
+      213: -7017691327289901043
+    second: fixtures_overlay_counters_01_18
+  - first:
+      213: -6977486107225339310
+    second: fixtures_overlay_counters_01_19
+  - first:
+      213: -325626947856912061
+    second: fixtures_overlay_counters_01_20
+  - first:
+      213: 18744429219703357
+    second: fixtures_overlay_counters_01_21
+  - first:
+      213: 1950672326774210942
+    second: fixtures_overlay_counters_01_22
+  - first:
+      213: -2472517539565030659
+    second: fixtures_overlay_counters_01_23
+  - first:
+      213: -4100392229182826168
+    second: fixtures_overlay_counters_01_24
+  - first:
+      213: -8287741915248568354
+    second: fixtures_overlay_counters_01_25
+  - first:
+      213: 6900087502809678981
+    second: fixtures_overlay_counters_01_26
+  - first:
+      213: 8107469429357935062
+    second: fixtures_overlay_counters_01_27
+  - first:
+      213: -3102452965608955384
+    second: fixtures_overlay_counters_01_28
+  - first:
+      213: -864616767910244955
+    second: fixtures_overlay_counters_01_29
+  - first:
+      213: 2427342427456782660
+    second: fixtures_overlay_counters_01_30
+  - first:
+      213: 1372156796640205826
+    second: fixtures_overlay_counters_01_31
+  - first:
+      213: 8318916372130267945
+    second: fixtures_overlay_counters_01_32
+  - first:
+      213: 5634007038869825224
+    second: fixtures_overlay_counters_01_33
+  - first:
+      213: -5309640847317215911
+    second: fixtures_overlay_counters_01_34
+  - first:
+      213: 3919568794887800719
+    second: fixtures_overlay_counters_01_35
+  - first:
+      213: -8842958531399229310
+    second: fixtures_overlay_counters_01_36
+  - first:
+      213: -9119649730816594388
+    second: fixtures_overlay_counters_01_37
+  - first:
+      213: 3393674298033072618
+    second: fixtures_overlay_counters_01_38
+  - first:
+      213: 8777425820654612373
+    second: fixtures_overlay_counters_01_39
+  - first:
+      213: 8617481732015056565
+    second: fixtures_overlay_counters_01_40
+  - first:
+      213: -7938678252962273679
+    second: fixtures_overlay_counters_01_41
+  - first:
+      213: -9081420215671036498
+    second: fixtures_overlay_counters_01_42
+  - first:
+      213: -6052386488105216584
+    second: fixtures_overlay_counters_01_43
+  - first:
+      213: -8743128410034679630
+    second: fixtures_overlay_counters_01_44
+  - first:
+      213: 4737542709278063560
+    second: fixtures_overlay_counters_01_45
+  - first:
+      213: 4035100916747463470
+    second: fixtures_overlay_counters_01_46
+  - first:
+      213: -5647718539516531742
+    second: fixtures_overlay_counters_01_47
+  - first:
+      213: -3395673820402200143
+    second: fixtures_overlay_counters_01_48
+  - first:
+      213: -2883089776960745287
+    second: fixtures_overlay_counters_01_49
+  - first:
+      213: 5585385787923350152
+    second: fixtures_overlay_counters_01_50
+  - first:
+      213: -6002331065611987928
+    second: fixtures_overlay_counters_01_51
+  - first:
+      213: -1218849442692531592
+    second: fixtures_overlay_counters_01_52
+  - first:
+      213: -6945868594561939548
+    second: fixtures_overlay_counters_01_53
+  - first:
+      213: -246510572287862303
+    second: fixtures_overlay_counters_01_54
+  - first:
+      213: -5312699205063796589
+    second: fixtures_overlay_counters_01_55
+  - first:
+      213: -5932028994633219469
+    second: fixtures_overlay_counters_01_56
+  - first:
+      213: -1558369265344739979
+    second: fixtures_overlay_counters_01_57
+  - first:
+      213: 1830210721673325692
+    second: fixtures_overlay_counters_01_58
+  - first:
+      213: -4519297229713709523
+    second: fixtures_overlay_counters_01_59
+  - first:
+      213: -1684594787856271037
+    second: fixtures_overlay_counters_01_60
+  - first:
+      213: -968418995420379357
+    second: fixtures_overlay_counters_01_61
+  - first:
+      213: -4603397795472287531
+    second: fixtures_overlay_counters_01_62
+  - first:
+      213: 1469323444239163148
+    second: fixtures_overlay_counters_01_63
+  - first:
+      213: 4737432420324553112
+    second: fixtures_overlay_counters_01_64
+  - first:
+      213: -398691350401165263
+    second: fixtures_overlay_counters_01_65
+  - first:
+      213: 6731384274292713464
+    second: fixtures_overlay_counters_01_66
+  - first:
+      213: 2590035491034897564
+    second: fixtures_overlay_counters_01_67
+  - first:
+      213: -840498504307957617
+    second: fixtures_overlay_counters_01_68
+  - first:
+      213: 6893112562452012895
+    second: fixtures_overlay_counters_01_69
+  - first:
+      213: 1174846535134839782
+    second: fixtures_overlay_counters_01_70
+  - first:
+      213: -68772196633870262
+    second: fixtures_overlay_counters_01_71
+  - first:
+      213: 8892806888262045566
+    second: fixtures_overlay_counters_01_72
+  - first:
+      213: -2406934495539114459
+    second: fixtures_overlay_counters_01_73
+  - first:
+      213: 7535605156549355575
+    second: fixtures_overlay_counters_01_74
+  - first:
+      213: -2654677657413075222
+    second: fixtures_overlay_counters_01_75
+  - first:
+      213: 437877237859223269
+    second: fixtures_overlay_counters_01_76
+  - first:
+      213: 3389937438318319601
+    second: fixtures_overlay_counters_01_77
+  - first:
+      213: 4963795978719892133
+    second: fixtures_overlay_counters_01_78
+  - first:
+      213: -6465852292630288804
+    second: fixtures_overlay_counters_01_79
+  - first:
+      213: -1090736557431178448
+    second: fixtures_overlay_counters_01_80
+  - first:
+      213: -2595689724019705153
+    second: fixtures_overlay_counters_01_81
+  - first:
+      213: -5048663652646306948
+    second: fixtures_overlay_counters_01_82
+  - first:
+      213: -4133952894404641997
+    second: fixtures_overlay_counters_01_83
+  - first:
+      213: 5085052711869052144
+    second: fixtures_overlay_counters_01_84
+  - first:
+      213: -4466169657923131576
+    second: fixtures_overlay_counters_01_85
+  - first:
+      213: 1986705794918656145
+    second: fixtures_overlay_counters_01_86
+  - first:
+      213: -6405770767878211614
+    second: fixtures_overlay_counters_01_87
+  - first:
+      213: 3139655197076262601
+    second: fixtures_overlay_counters_01_88
+  - first:
+      213: 7620455028559467666
+    second: fixtures_overlay_counters_01_89
+  - first:
+      213: -8629565926098361370
+    second: fixtures_overlay_counters_01_90
+  - first:
+      213: 6109386058365905102
+    second: fixtures_overlay_counters_01_91
+  - first:
+      213: -2471296314143530216
+    second: fixtures_overlay_counters_01_92
+  - first:
+      213: 5344607286527080543
+    second: fixtures_overlay_counters_01_93
+  - first:
+      213: -6596715511702807283
+    second: fixtures_overlay_counters_01_94
+  - first:
+      213: -7500916382739700693
+    second: fixtures_overlay_counters_01_95
+  - first:
+      213: 7135163036277918290
+    second: fixtures_overlay_counters_01_96
+  - first:
+      213: 7627515634998802225
+    second: fixtures_overlay_counters_01_97
+  - first:
+      213: 4578535475367679757
+    second: fixtures_overlay_counters_01_98
+  - first:
+      213: -629341738097789277
+    second: fixtures_overlay_counters_01_99
+  - first:
+      213: 5139325379372421395
+    second: fixtures_overlay_counters_01_100
+  - first:
+      213: -8002332519864092223
+    second: fixtures_overlay_counters_01_101
+  - first:
+      213: -1617506017566150695
+    second: fixtures_overlay_counters_01_102
+  - first:
+      213: -5990719237505204378
+    second: fixtures_overlay_counters_01_103
+  - first:
+      213: -1806320715388554211
+    second: fixtures_overlay_counters_01_104
+  - first:
+      213: -4204112429429383917
+    second: fixtures_overlay_counters_01_105
+  - first:
+      213: 7475737686341302495
+    second: fixtures_overlay_counters_01_106
+  - first:
+      213: -7715587030689719441
+    second: fixtures_overlay_counters_01_107
+  - first:
+      213: 3256851047529833823
+    second: fixtures_overlay_counters_01_108
+  - first:
+      213: -911884895989212426
+    second: fixtures_overlay_counters_01_109
+  - first:
+      213: -9182862801087447439
+    second: fixtures_overlay_counters_01_110
+  - first:
+      213: 7316374731766230417
+    second: fixtures_overlay_counters_01_111
+  - first:
+      213: -446302662951661929
+    second: fixtures_overlay_counters_01_112
+  - first:
+      213: -6573331374148595159
+    second: fixtures_overlay_counters_01_113
+  - first:
+      213: -5870228390195657301
+    second: fixtures_overlay_counters_01_114
+  - first:
+      213: -3093297761282305842
+    second: fixtures_overlay_counters_01_115
+  - first:
+      213: 6637639680606045714
+    second: fixtures_overlay_counters_01_116
+  - first:
+      213: -5866983636584345328
+    second: fixtures_overlay_counters_01_117
+  - first:
+      213: 4303422038432807851
+    second: fixtures_overlay_counters_01_118
+  - first:
+      213: -8960195369751452232
+    second: fixtures_overlay_counters_01_119
+  - first:
+      213: 7023849199226929768
+    second: fixtures_overlay_counters_01_120
+  - first:
+      213: 7382347378733826636
+    second: fixtures_overlay_counters_01_121
+  - first:
+      213: -6008183750435059754
+    second: fixtures_overlay_counters_01_122
+  - first:
+      213: -4120623722236714354
+    second: fixtures_overlay_counters_01_123
+  - first:
+      213: -6739809908246560176
+    second: fixtures_overlay_counters_01_124
+  - first:
+      213: -4009670979254826413
+    second: fixtures_overlay_counters_01_125
+  - first:
+      213: -6555275315399996745
+    second: fixtures_overlay_counters_01_126
+  - first:
+      213: -5310506219105335781
+    second: fixtures_overlay_counters_01_127
+  - first:
+      213: -7375956543735994854
+    second: fixtures_overlay_counters_01_128
+  - first:
+      213: -8565631885025336046
+    second: fixtures_overlay_counters_01_129
+  - first:
+      213: 2322431056263946723
+    second: fixtures_overlay_counters_01_130
+  - first:
+      213: -6193215772353361960
+    second: fixtures_overlay_counters_01_131
+  - first:
+      213: 2487510477176761059
+    second: fixtures_overlay_counters_01_132
+  - first:
+      213: -3977697940243242428
+    second: fixtures_overlay_counters_01_133
+  - first:
+      213: -4242019716792588582
+    second: fixtures_overlay_counters_01_134
+  - first:
+      213: -7560028479148851794
+    second: fixtures_overlay_counters_01_135
+  - first:
+      213: -4957312753020374123
+    second: fixtures_overlay_counters_01_136
+  - first:
+      213: 4183750493833506865
+    second: fixtures_overlay_counters_01_137
+  - first:
+      213: -8309180185665978359
+    second: fixtures_overlay_counters_01_138
+  - first:
+      213: 7900624289508671640
+    second: fixtures_overlay_counters_01_139
+  - first:
+      213: 7261861358273701278
+    second: fixtures_overlay_counters_01_140
+  - first:
+      213: -7967979338769261036
+    second: fixtures_overlay_counters_01_141
+  - first:
+      213: -7681040320371890484
+    second: fixtures_overlay_counters_01_142
+  - first:
+      213: 413179224655227024
+    second: fixtures_overlay_counters_01_143
+  - first:
+      213: 8868133232469621459
+    second: fixtures_overlay_counters_01_144
+  - first:
+      213: -8659766868032509302
+    second: fixtures_overlay_counters_01_145
+  - first:
+      213: -8710034116371017794
+    second: fixtures_overlay_counters_01_146
+  - first:
+      213: -2757858388036005477
+    second: fixtures_overlay_counters_01_147
+  - first:
+      213: 7399810511727244201
+    second: fixtures_overlay_counters_01_148
+  - first:
+      213: -8659585745079782486
+    second: fixtures_overlay_counters_01_149
+  - first:
+      213: -335106546991243002
+    second: fixtures_overlay_counters_01_150
+  - first:
+      213: -4897642578915317354
+    second: fixtures_overlay_counters_01_151
+  - first:
+      213: 4593477806561364322
+    second: fixtures_overlay_counters_01_152
+  - first:
+      213: -9150861353916008324
+    second: fixtures_overlay_counters_01_153
+  - first:
+      213: 7713102921014381165
+    second: fixtures_overlay_counters_01_154
+  - first:
+      213: 991865908210209585
+    second: fixtures_overlay_counters_01_155
+  - first:
+      213: 8053502132611399155
+    second: fixtures_overlay_counters_01_156
+  - first:
+      213: 5709113110251071739
+    second: fixtures_overlay_counters_01_157
+  - first:
+      213: -7079215090361814312
+    second: fixtures_overlay_counters_01_158
+  - first:
+      213: -6488129713875466583
+    second: fixtures_overlay_counters_01_159
+  - first:
+      213: 4327127592147351604
+    second: fixtures_overlay_counters_01_160
+  - first:
+      213: 2636885695347621860
+    second: fixtures_overlay_counters_01_161
+  - first:
+      213: 6931413047034662472
+    second: fixtures_overlay_counters_01_162
+  - first:
+      213: 4163644031565178696
+    second: fixtures_overlay_counters_01_163
+  - first:
+      213: 3984105348771988986
+    second: fixtures_overlay_counters_01_164
+  - first:
+      213: -5307279068830347810
+    second: fixtures_overlay_counters_01_165
+  - first:
+      213: -5676352066112123657
+    second: fixtures_overlay_counters_01_166
+  - first:
+      213: 1847357114072249502
+    second: fixtures_overlay_counters_01_167
+  - first:
+      213: 2888961178711221539
+    second: fixtures_overlay_counters_01_168
+  - first:
+      213: 4440974960944108239
+    second: fixtures_overlay_counters_01_169
+  - first:
+      213: -2960921922248029731
+    second: fixtures_overlay_counters_01_170
+  - first:
+      213: -3966964563895176929
+    second: fixtures_overlay_counters_01_171
+  - first:
+      213: 2869120588830941809
+    second: fixtures_overlay_counters_01_172
+  - first:
+      213: -8630739649519942927
+    second: fixtures_overlay_counters_01_173
+  - first:
+      213: -6127873454094820824
+    second: fixtures_overlay_counters_01_174
+  - first:
+      213: 3711417961726197460
+    second: fixtures_overlay_counters_01_175
+  - first:
+      213: -3486619453707816116
+    second: fixtures_overlay_counters_01_176
+  - first:
+      213: -4404864538485394316
+    second: fixtures_overlay_counters_01_177
+  - first:
+      213: -4672942137146254923
+    second: fixtures_overlay_counters_01_178
+  - first:
+      213: 5913969252027448483
+    second: fixtures_overlay_counters_01_179
+  - first:
+      213: 4549077948770629333
+    second: fixtures_overlay_counters_01_180
+  - first:
+      213: -8363268842175067383
+    second: fixtures_overlay_counters_01_181
+  - first:
+      213: 6270611975757642576
+    second: fixtures_overlay_counters_01_182
+  - first:
+      213: 524357666871143023
+    second: fixtures_overlay_counters_01_183
+  - first:
+      213: -5621838622415652392
+    second: fixtures_overlay_counters_01_184
+  - first:
+      213: 5994661845158663312
+    second: fixtures_overlay_counters_01_185
+  - first:
+      213: -8638989949223375375
+    second: fixtures_overlay_counters_01_186
+  - first:
+      213: 232960111566863568
+    second: fixtures_overlay_counters_01_187
+  - first:
+      213: -3633578033770496667
+    second: fixtures_overlay_counters_01_188
+  - first:
+      213: 5402757299652063703
+    second: fixtures_overlay_counters_01_189
+  - first:
+      213: -737154701234470440
+    second: fixtures_overlay_counters_01_190
+  - first:
+      213: 4259053078203166096
+    second: fixtures_overlay_counters_01_191
+  - first:
+      213: -2565484268305100475
+    second: fixtures_overlay_counters_01_192
+  - first:
+      213: -5105303273845054957
+    second: fixtures_overlay_counters_01_193
+  - first:
+      213: 1415011583628685298
+    second: fixtures_overlay_counters_01_194
+  - first:
+      213: -5056602361284285016
+    second: fixtures_overlay_counters_01_195
+  - first:
+      213: -9178170890456525702
+    second: fixtures_overlay_counters_01_196
+  - first:
+      213: -8513388047508466968
+    second: fixtures_overlay_counters_01_197
+  - first:
+      213: -6523137522708660562
+    second: fixtures_overlay_counters_01_198
+  - first:
+      213: 3213843090534971055
+    second: fixtures_overlay_counters_01_199
+  - first:
+      213: -2054266906393710959
+    second: fixtures_overlay_counters_01_200
+  - first:
+      213: -977828033270711468
+    second: fixtures_overlay_counters_01_201
+  - first:
+      213: -8825441794622804256
+    second: fixtures_overlay_counters_01_202
+  - first:
+      213: -7450203139986611300
+    second: fixtures_overlay_counters_01_203
+  - first:
+      213: -4883914917436910496
+    second: fixtures_overlay_counters_01_204
+  - first:
+      213: -4951872619936132859
+    second: fixtures_overlay_counters_01_205
+  - first:
+      213: 5372662681642328231
+    second: fixtures_overlay_counters_01_206
+  - first:
+      213: 8419196081789396471
+    second: fixtures_overlay_counters_01_207
+  - first:
+      213: -6743934392909131101
+    second: fixtures_overlay_counters_01_208
+  - first:
+      213: 6145671592420962950
+    second: fixtures_overlay_counters_01_209
+  - first:
+      213: -8106827239332885089
+    second: fixtures_overlay_counters_01_210
+  - first:
+      213: -1497301848331901553
+    second: fixtures_overlay_counters_01_211
+  - first:
+      213: 6286992059495043494
+    second: fixtures_overlay_counters_01_212
+  - first:
+      213: 5099552390977252892
+    second: fixtures_overlay_counters_01_213
+  - first:
+      213: 8771626891143274328
+    second: fixtures_overlay_counters_01_214
+  - first:
+      213: -6964864468173227928
+    second: fixtures_overlay_counters_01_215
+  - first:
+      213: 7496710887023065277
+    second: fixtures_overlay_counters_01_216
+  - first:
+      213: -5136894741730570559
+    second: fixtures_overlay_counters_01_217
+  - first:
+      213: -7118654366053885686
+    second: fixtures_overlay_counters_01_218
+  - first:
+      213: -6379550687821263190
+    second: fixtures_overlay_counters_01_219
+  - first:
+      213: 3595855591052080791
+    second: fixtures_overlay_counters_01_220
+  - first:
+      213: 3008177289811499919
+    second: fixtures_overlay_counters_01_221
+  - first:
+      213: -7194171981617898234
+    second: fixtures_overlay_counters_01_222
+  - first:
+      213: 1704398048339889281
+    second: fixtures_overlay_counters_01_223
+  - first:
+      213: 940793688487989940
+    second: fixtures_overlay_counters_01_224
+  - first:
+      213: -2988415413805465068
+    second: fixtures_overlay_counters_01_225
+  - first:
+      213: 9191592269615756740
+    second: fixtures_overlay_counters_01_226
+  - first:
+      213: 3638269891590222587
+    second: fixtures_overlay_counters_01_227
+  - first:
+      213: -4364565436665946376
+    second: fixtures_overlay_counters_01_228
+  - first:
+      213: -734668217530620165
+    second: fixtures_overlay_counters_01_229
+  - first:
+      213: -366058759913751747
+    second: fixtures_overlay_counters_01_230
+  - first:
+      213: 3247994441015340774
+    second: fixtures_overlay_counters_01_231
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_0
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 3946
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f73cf6402fec37d0800000000000000
+      internalID: -2937209935043479561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_1
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 3955
+        width: 18
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f5ef22c87bcfdf0800000000000000
+      internalID: -145039275472298120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_2
+      rect:
+        serializedVersion: 2
+        x: 582
+        y: 3951
+        width: 18
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a90516ae50b3fd0800000000000000
+      internalID: -2361287075412534641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_3
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 3947
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f39a487f549d0f0800000000000000
+      internalID: -1091764505275711704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_4
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 3944
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c938c88bfe69dcc0800000000000000
+      internalID: -3685792793415370295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_5
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 3927
+        width: 17
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6102d93dfbcb7f80800000000000000
+      internalID: -8107662415693217426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_6
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 3863
+        width: 62
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2a75bfa6fdd4de0800000000000000
+      internalID: -1347175062937558330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_7
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 3940
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35dce0bf1d8662280800000000000000
+      internalID: -9068445548594410157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_8
+      rect:
+        serializedVersion: 2
+        x: 673
+        y: 3937
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e9bffee2c7719a0800000000000000
+      internalID: -6262400215798800890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_9
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 3930
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0976e19c4749d610800000000000000
+      internalID: 1646425532971514124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_10
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 3931
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2adb572091df3ca20800000000000000
+      internalID: 3081584853908831650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_11
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 3923
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5edda95621a9bb0b0800000000000000
+      internalID: -5711802298584605211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_12
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 3927
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0530c8a24c6b79c10800000000000000
+      internalID: 2060316308188955472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_13
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 3931
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21cf7c52ac5188570800000000000000
+      internalID: 8469043057231658002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_14
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 3929
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d62d07ee350276980800000000000000
+      internalID: -8545826223057481107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_15
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 3921
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d077c8881659019c0800000000000000
+      internalID: -3958499826323392755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_16
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 3876
+        width: 31
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854a7b71f8d29bbd0800000000000000
+      internalID: -2614008016110377896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_17
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 3922
+        width: 26
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a80b4bbfade6430800000000000000
+      internalID: 3778197912013539926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_18
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 3875
+        width: 33
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00cb8d4be62c9e90800000000000000
+      internalID: -7017691327289901043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_19
+      rect:
+        serializedVersion: 2
+        x: 918
+        y: 3925
+        width: 20
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a4c919a5dfa2f90800000000000000
+      internalID: -6977486107225339310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_20
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 3923
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 341b1b324042b7bf0800000000000000
+      internalID: -325626947856912061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_21
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 3863
+        width: 31
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a682585f7924000800000000000000
+      internalID: 18744429219703357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_22
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 3913
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e71cf86652e221b10800000000000000
+      internalID: 1950672326774210942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_23
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 3865
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2bd41d56adfadd0800000000000000
+      internalID: -2472517539565030659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_24
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 3846
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84919cb0efa7817c0800000000000000
+      internalID: -4100392229182826168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_25
+      rect:
+        serializedVersion: 2
+        x: 862
+        y: 3861
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed75e7f63a60cfc80800000000000000
+      internalID: -8287741915248568354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_26
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 3851
+        width: 40
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584451c860902cf50800000000000000
+      internalID: 6900087502809678981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_27
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 3847
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d9f734ad74838070800000000000000
+      internalID: 8107469429357935062
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_28
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 3846
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 802658c177fd1f4d0800000000000000
+      internalID: -3102452965608955384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_29
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 3849
+        width: 24
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad0dd961a34004f0800000000000000
+      internalID: -864616767910244955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_30
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 3657
+        width: 88
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 441cbc0c317afa120800000000000000
+      internalID: 2427342427456782660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_31
+      rect:
+        serializedVersion: 2
+        x: 143
+        y: 3655
+        width: 74
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20c90e72651ea0310800000000000000
+      internalID: 1372156796640205826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_32
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 3671
+        width: 40
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 923810d6d5ab27370800000000000000
+      internalID: 8318916372130267945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_33
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 3666
+        width: 54
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c6e2e53d83003e40800000000000000
+      internalID: 5634007038869825224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_34
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 3687
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 955d0c2f7cd5056b0800000000000000
+      internalID: -5309640847317215911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_35
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 3686
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f874efb5d0b156630800000000000000
+      internalID: 3919568794887800719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_36
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 3668
+        width: 44
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28060745110874580800000000000000
+      internalID: -8842958531399229310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_37
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 3690
+        width: 34
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2ea0b643ee707180800000000000000
+      internalID: -9119649730816594388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_38
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 3671
+        width: 57
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae962a92bc0c81f20800000000000000
+      internalID: 3393674298033072618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_39
+      rect:
+        serializedVersion: 2
+        x: 933
+        y: 3667
+        width: 56
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59fa572774eafc970800000000000000
+      internalID: 8777425820654612373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_40
+      rect:
+        serializedVersion: 2
+        x: 295
+        y: 3605
+        width: 55
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b6ec275af1779770800000000000000
+      internalID: 8617481732015056565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_41
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 3619
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 176a01a903624d190800000000000000
+      internalID: -7938678252962273679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_42
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 3621
+        width: 57
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea560e4ed6058f180800000000000000
+      internalID: -9081420215671036498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_43
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 3608
+        width: 57
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b55d155e8a910ca0800000000000000
+      internalID: -6052386488105216584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_44
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 3655
+        width: 55
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0d14eb80b2aa680800000000000000
+      internalID: -8743128410034679630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_45
+      rect:
+        serializedVersion: 2
+        x: 978
+        y: 3664
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cbb2c65ef12fb140800000000000000
+      internalID: 4737542709278063560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_46
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 3602
+        width: 14
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2be597a7ee8ff730800000000000000
+      internalID: 4035100916747463470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_47
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 3599
+        width: 6
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ebaab449e54f91b0800000000000000
+      internalID: -5647718539516531742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_48
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 3607
+        width: 24
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b155d1c6a420e0d0800000000000000
+      internalID: -3395673820402200143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_49
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 3598
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b0d1b48f153df7d0800000000000000
+      internalID: -2883089776960745287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_50
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 3591
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 882cfae08c6438d40800000000000000
+      internalID: 5585385787923350152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_51
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 3599
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 824d7e192bf63bca0800000000000000
+      internalID: -6002331065611987928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_52
+      rect:
+        serializedVersion: 2
+        x: 860
+        y: 3604
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87af0adb3e6c51fe0800000000000000
+      internalID: -1218849442692531592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_53
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 3590
+        width: 27
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7089460515b9f90800000000000000
+      internalID: -6945868594561939548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_54
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 3590
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e95769c0f7349cf0800000000000000
+      internalID: -246510572287862303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_55
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 3445
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3981cab88308546b0800000000000000
+      internalID: -5312699205063796589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_56
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 3433
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372c1910f033dada0800000000000000
+      internalID: -5932028994633219469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_57
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 3427
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5758d36e86f8f5ae0800000000000000
+      internalID: -1558369265344739979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_58
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 3429
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7c237954f6366910800000000000000
+      internalID: 1830210721673325692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_59
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 3427
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26e1842d1b3841c0800000000000000
+      internalID: -4519297229713709523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_60
+      rect:
+        serializedVersion: 2
+        x: 573
+        y: 3433
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3493a5f37fd1f98e0800000000000000
+      internalID: -1684594787856271037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_61
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 3429
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3274a38fd0c7f82f0800000000000000
+      internalID: -968418995420379357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_62
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 3426
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8de0948127d10c0800000000000000
+      internalID: -4603397795472287531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_63
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3415
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0f570243e5146410800000000000000
+      internalID: 1469323444239163148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_64
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 3417
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8913dd0bfadbeb140800000000000000
+      internalID: 4737432420324553112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_65
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 3419
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13851544450977af0800000000000000
+      internalID: -398691350401165263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_66
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 3399
+        width: 20
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f72ed3455eaa6d50800000000000000
+      internalID: 6731384274292713464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_67
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 3383
+        width: 30
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c1ac67e87a1f320800000000000000
+      internalID: 2590035491034897564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_68
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 3416
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f802a704013f554f0800000000000000
+      internalID: -840498504307957617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_69
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 3423
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f1cb1ba5149af50800000000000000
+      internalID: 6893112562452012895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_70
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 3419
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e38f48f2b4ed4010800000000000000
+      internalID: 1174846535134839782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_71
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 3424
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4007313d0cab0ff0800000000000000
+      internalID: -68772196633870262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_72
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 3383
+        width: 30
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7f810fafb8996b70800000000000000
+      internalID: 8892806888262045566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_73
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 3422
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ec1cb24d9d89ed0800000000000000
+      internalID: -2406934495539114459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_74
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 3420
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738e9bbe6f8d39860800000000000000
+      internalID: 7535605156549355575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_75
+      rect:
+        serializedVersion: 2
+        x: 840
+        y: 3417
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee3ab45cb0b82bd0800000000000000
+      internalID: -2654677657413075222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_76
+      rect:
+        serializedVersion: 2
+        x: 1010
+        y: 3415
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e604d12707a31600800000000000000
+      internalID: 437877237859223269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_77
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 3404
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f7d2c5b32a7b0f20800000000000000
+      internalID: 3389937438318319601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_78
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 3411
+        width: 15
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a29c11b422f2e440800000000000000
+      internalID: 4963795978719892133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_79
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 3409
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5660afe89da446a0800000000000000
+      internalID: -6465852292630288804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_80
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 3399
+        width: 28
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b38c641ececd0f0800000000000000
+      internalID: -1090736557431178448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_81
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 3369
+        width: 34
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba7ca4d2f14afbd0800000000000000
+      internalID: -2595689724019705153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_82
+      rect:
+        serializedVersion: 2
+        x: 704
+        y: 3407
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b3799282b8fe9b0800000000000000
+      internalID: -5048663652646306948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_83
+      rect:
+        serializedVersion: 2
+        x: 864
+        y: 3407
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33b30d2cebf31a6c0800000000000000
+      internalID: -4133952894404641997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_84
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 3407
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4771bef7cb19640800000000000000
+      internalID: 5085052711869052144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_85
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 3401
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8472dd0eb5af402c0800000000000000
+      internalID: -4466169657923131576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_86
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 3396
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198265bf462329b10800000000000000
+      internalID: 1986705794918656145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_87
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 3395
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7b9040d612a17a0800000000000000
+      internalID: -6405770767878211614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_88
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 3396
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ce80f264cb429b20800000000000000
+      internalID: 3139655197076262601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_89
+      rect:
+        serializedVersion: 2
+        x: 852
+        y: 3401
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 294502c397b41c960800000000000000
+      internalID: 7620455028559467666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_90
+      rect:
+        serializedVersion: 2
+        x: 958
+        y: 3390
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e3a719f28f9d3880800000000000000
+      internalID: -8629565926098361370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_91
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 3372
+        width: 29
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec8af9c4046e8c450800000000000000
+      internalID: 6109386058365905102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_92
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 3175
+        width: 13
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8132eb4881134bdd0800000000000000
+      internalID: -2471296314143530216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_93
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 3168
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f583969920cdb2a40800000000000000
+      internalID: 5344607286527080543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_94
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 3178
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d15a86132c374a0800000000000000
+      internalID: -6596715511702807283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_95
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 3169
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2464ec9a4467e790800000000000000
+      internalID: -7500916382739700693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_96
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 3178
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25ac7df4af0350360800000000000000
+      internalID: 7135163036277918290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_97
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 3178
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13777d6ce016ad960800000000000000
+      internalID: 7627515634998802225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_98
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 3168
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0790d8b1c93a8f30800000000000000
+      internalID: 4578535475367679757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_99
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 3172
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6ba5a06012447f0800000000000000
+      internalID: -629341738097789277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_100
+      rect:
+        serializedVersion: 2
+        x: 733
+        y: 3171
+        width: 19
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31194a6043d825740800000000000000
+      internalID: 5139325379372421395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_101
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 3174
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9b1faa8f002f090800000000000000
+      internalID: -8002332519864092223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_102
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3154
+        width: 22
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dfa9e0d8d67d89e0800000000000000
+      internalID: -1617506017566150695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_103
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 3156
+        width: 32
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f376bf790bcdca0800000000000000
+      internalID: -5990719237505204378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_104
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 3162
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14f5d031e8aee6e0800000000000000
+      internalID: -1806320715388554211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_105
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 3095
+        width: 58
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31d9e00150ef7a5c0800000000000000
+      internalID: -4204112429429383917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_106
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 3165
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd8bf5c41d72fb760800000000000000
+      internalID: 7475737686341302495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_107
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 3154
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6bd02a797abce490800000000000000
+      internalID: -7715587030689719441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_108
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 3136
+        width: 30
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55ef5ea5c8a23d20800000000000000
+      internalID: 3256851047529833823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_109
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 3161
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fad48ab4855853f0800000000000000
+      internalID: -911884895989212426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_110
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 3145
+        width: 38
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17eb8007feaef8080800000000000000
+      internalID: -9182862801087447439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_111
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 3148
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19de1920e0cf88560800000000000000
+      internalID: 7316374731766230417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_112
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 3093
+        width: 35
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e8478b71a6ec9f0800000000000000
+      internalID: -446302662951661929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_113
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 3131
+        width: 32
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92251f431f5d6c4a0800000000000000
+      internalID: -6573331374148595159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_114
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 3144
+        width: 21
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba589f38162c88ea0800000000000000
+      internalID: -5870228390195657301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_115
+      rect:
+        serializedVersion: 2
+        x: 975
+        y: 3153
+        width: 23
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec0d14a33166215d0800000000000000
+      internalID: -3093297761282305842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_116
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 3146
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2168f8d2f12ad1c50800000000000000
+      internalID: 6637639680606045714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_117
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 3140
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0115c569779449ea0800000000000000
+      internalID: -5866983636584345328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_118
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 3133
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: babff5f1b83d8bb30800000000000000
+      internalID: 4303422038432807851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_119
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 3105
+        width: 30
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b56ddbc8cdf6a380800000000000000
+      internalID: -8960195369751452232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_120
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 3084
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86245dbf1a9b97160800000000000000
+      internalID: 7023849199226929768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_121
+      rect:
+        serializedVersion: 2
+        x: 564
+        y: 3093
+        width: 32
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4247fdd3dd537660800000000000000
+      internalID: 7382347378733826636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_122
+      rect:
+        serializedVersion: 2
+        x: 331
+        y: 2934
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d74b0236b4ae9ca0800000000000000
+      internalID: -6008183750435059754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_123
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 2932
+        width: 15
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e82680f7e8a90d6c0800000000000000
+      internalID: -4120623722236714354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_124
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 2928
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0524e45f8926772a0800000000000000
+      internalID: -6739809908246560176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_125
+      rect:
+        serializedVersion: 2
+        x: 333
+        y: 2914
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ac25f0d79ca58c0800000000000000
+      internalID: -4009670979254826413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_126
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 2917
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ba42bcf4dbf605a0800000000000000
+      internalID: -6555275315399996745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_127
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 2925
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1649b0eaba4d46b0800000000000000
+      internalID: -5310506219105335781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_128
+      rect:
+        serializedVersion: 2
+        x: 968
+        y: 2917
+        width: 12
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16e5eb5a9653a990800000000000000
+      internalID: -7375956543735994854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_129
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 2907
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2152e48ee23c02980800000000000000
+      internalID: -8565631885025336046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_130
+      rect:
+        serializedVersion: 2
+        x: 210
+        y: 2906
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e1a2fbadbeea3020800000000000000
+      internalID: 2322431056263946723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_131
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 2908
+        width: 14
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7088f61174d0aa0800000000000000
+      internalID: -6193215772353361960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_132
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 2853
+        width: 30
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eaee2f7999658220800000000000000
+      internalID: 2487510477176761059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_133
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 2914
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 442afff4cc06cc8c0800000000000000
+      internalID: -3977697940243242428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_134
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 2908
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6ef52fa815125c0800000000000000
+      internalID: -4242019716792588582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_135
+      rect:
+        serializedVersion: 2
+        x: 995
+        y: 2905
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eadfe782722651790800000000000000
+      internalID: -7560028479148851794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_136
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2898
+        width: 19
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 593f4bbe056143bb0800000000000000
+      internalID: -4957312753020374123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_137
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2894
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 130bfcd58eaaf0a30800000000000000
+      internalID: 4183750493833506865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_138
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 2898
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9004aa225acdfac80800000000000000
+      internalID: -8309180185665978359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_139
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2901
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890ccf79ee7a4ad60800000000000000
+      internalID: 7900624289508671640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_140
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2873
+        width: 31
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e952a0c2e6057c460800000000000000
+      internalID: 7261861358273701278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_141
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 2897
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e910fe10d0c6190800000000000000
+      internalID: -7967979338769261036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_142
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 2852
+        width: 29
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc6e7c64686776590800000000000000
+      internalID: -7681040320371890484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_143
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 2897
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0986522d058ebb500800000000000000
+      internalID: 413179224655227024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_144
+      rect:
+        serializedVersion: 2
+        x: 835
+        y: 2886
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da30368030f11b70800000000000000
+      internalID: 8868133232469621459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_145
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 2891
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8aa9393ae352d780800000000000000
+      internalID: -8659766868032509302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_146
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 2878
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebf0c207e1ebf1780800000000000000
+      internalID: -8710034116371017794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_147
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 2877
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b915848686e1ab9d0800000000000000
+      internalID: -2757858388036005477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_148
+      rect:
+        serializedVersion: 2
+        x: 689
+        y: 2837
+        width: 34
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a334bc547861b660800000000000000
+      internalID: 7399810511727244201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_149
+      rect:
+        serializedVersion: 2
+        x: 837
+        y: 2876
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa3bb7235a8f2d780800000000000000
+      internalID: -8659585745079782486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_150
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 2884
+        width: 15
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 601eda8fe56795bf0800000000000000
+      internalID: -335106546991243002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_151
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 2877
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 699ace6f504180cb0800000000000000
+      internalID: -4897642578915317354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_152
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 2840
+        width: 29
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2690bbf4abf4fbf30800000000000000
+      internalID: 4593477806561364322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_153
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 2663
+        width: 27
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c787cfaf41c910180800000000000000
+      internalID: -9150861353916008324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_154
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 2676
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6a071bad327a0b60800000000000000
+      internalID: 7713102921014381165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_155
+      rect:
+        serializedVersion: 2
+        x: 721
+        y: 2669
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13390b3d9c0d3cd00800000000000000
+      internalID: 991865908210209585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_156
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 2665
+        width: 20
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fd37243589c3cf60800000000000000
+      internalID: 8053502132611399155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_157
+      rect:
+        serializedVersion: 2
+        x: 177
+        y: 2662
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf86a072028da3f40800000000000000
+      internalID: 5709113110251071739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_158
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 2657
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d23662f16391cd90800000000000000
+      internalID: -7079215090361814312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_159
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 2655
+        width: 22
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a6cbcb966885f5a0800000000000000
+      internalID: -6488129713875466583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_160
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 2658
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 438fbb37e9b0d0c30800000000000000
+      internalID: 4327127592147351604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_161
+      rect:
+        serializedVersion: 2
+        x: 601
+        y: 2656
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eff080b199189420800000000000000
+      internalID: 2636885695347621860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_162
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 2656
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84e420c2173513060800000000000000
+      internalID: 6931413047034662472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_163
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 2652
+        width: 17
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8472e90df2c38c930800000000000000
+      internalID: 4163644031565178696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_164
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 2647
+        width: 21
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af5c94db4b26a4730800000000000000
+      internalID: 3984105348771988986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_165
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 2645
+        width: 17
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd408a5ec1c856b0800000000000000
+      internalID: -5307279068830347810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_166
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 2635
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc0557dedb8931b0800000000000000
+      internalID: -5676352066112123657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_167
+      rect:
+        serializedVersion: 2
+        x: 305
+        y: 2643
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e94319de18123a910800000000000000
+      internalID: 1847357114072249502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_168
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 2637
+        width: 31
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 325e9fab2e6a71820800000000000000
+      internalID: 2888961178711221539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_169
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 2648
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc25a7b923381ad30800000000000000
+      internalID: 4440974960944108239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_170
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 2584
+        width: 57
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd94db80331b8e6d0800000000000000
+      internalID: -2960921922248029731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_171
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 2647
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11377c3fb282f8c0800000000000000
+      internalID: -3966964563895176929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_172
+      rect:
+        serializedVersion: 2
+        x: 427
+        y: 2624
+        width: 31
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172270b69f921d720800000000000000
+      internalID: 2869120588830941809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_173
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 2583
+        width: 35
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f20c713404793880800000000000000
+      internalID: -8630739649519942927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_174
+      rect:
+        serializedVersion: 2
+        x: 843
+        y: 2635
+        width: 32
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82ad1247f8b65faa0800000000000000
+      internalID: -6127873454094820824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_175
+      rect:
+        serializedVersion: 2
+        x: 981
+        y: 2626
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4deb1b5e8fa918330800000000000000
+      internalID: 3711417961726197460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_176
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 2636
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4377ca641a0d9fc0800000000000000
+      internalID: -3486619453707816116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_177
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 2617
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 474fcdb4a07ced2c0800000000000000
+      internalID: -4404864538485394316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_178
+      rect:
+        serializedVersion: 2
+        x: 329
+        y: 2597
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9517372ef562fb0800000000000000
+      internalID: -4672942137146254923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_179
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 2585
+        width: 29
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3acbdaf73b3a21250800000000000000
+      internalID: 5913969252027448483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_180
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 2407
+        width: 16
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d63908da42912f30800000000000000
+      internalID: 4549077948770629333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_181
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 2410
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90b001d6c43bfeb80800000000000000
+      internalID: -8363268842175067383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_182
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2409
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b385b6e50b50750800000000000000
+      internalID: 6270611975757642576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_183
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 2413
+        width: 25
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6a6b151584e64700800000000000000
+      internalID: 524357666871143023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_184
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 2410
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d9f7560f873bf1b0800000000000000
+      internalID: -5621838622415652392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_185
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 2413
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0941545ef21513350800000000000000
+      internalID: 5994661845158663312
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_186
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 2411
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fdee5a99642c1880800000000000000
+      internalID: -8638989949223375375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_187
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 2405
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc37c8bcf3ab3300800000000000000
+      internalID: 232960111566863568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_188
+      rect:
+        serializedVersion: 2
+        x: 728
+        y: 2403
+        width: 23
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56d7271a700f29dc0800000000000000
+      internalID: -3633578033770496667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_189
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 2338
+        width: 30
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d1f86593237afa40800000000000000
+      internalID: 5402757299652063703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_190
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 2403
+        width: 20
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d1096074b915c5f0800000000000000
+      internalID: -737154701234470440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_191
+      rect:
+        serializedVersion: 2
+        x: 869
+        y: 2392
+        width: 15
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09d65dd85323b1b30800000000000000
+      internalID: 4259053078203166096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_192
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 2376
+        width: 23
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54152d686a1956cd0800000000000000
+      internalID: -2565484268305100475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_193
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 2386
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 312a3d3b8b15629b0800000000000000
+      internalID: -5105303273845054957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_194
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 2381
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff204bc98123a310800000000000000
+      internalID: 1415011583628685298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_195
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 2385
+        width: 16
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8adaf3581f653d9b0800000000000000
+      internalID: -5056602361284285016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_196
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2328
+        width: 57
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a741282043690a080800000000000000
+      internalID: -9178170890456525702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_197
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 2387
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e293393dae5ad980800000000000000
+      internalID: -8513388047508466968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_198
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 2340
+        width: 29
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaebde1fbf82975a0800000000000000
+      internalID: -6523137522708660562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_199
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 2390
+        width: 22
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa63e2f534dd99c20800000000000000
+      internalID: 3213843090534971055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_200
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 2390
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19eef82f127cd73e0800000000000000
+      internalID: -2054266906393710959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_201
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 2388
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45bfa71a59e0e62f0800000000000000
+      internalID: -977828033270711468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_202
+      rect:
+        serializedVersion: 2
+        x: 985
+        y: 2391
+        width: 26
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee2f9d627bb58580800000000000000
+      internalID: -8825441794622804256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_203
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 2368
+        width: 29
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c93299097bf8b9890800000000000000
+      internalID: -7450203139986611300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_204
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 2379
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06411f83249d83cb0800000000000000
+      internalID: -4883914917436910496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_205
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 2326
+        width: 29
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50159bb961a674bb0800000000000000
+      internalID: -4951872619936132859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_206
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 2161
+        width: 22
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a0e94d4e388f8a40800000000000000
+      internalID: 5372662681642328231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_207
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 2157
+        width: 21
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f5ea65ca3ef6d470800000000000000
+      internalID: 8419196081789396471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_208
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 2162
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a29c1a866bb862a0800000000000000
+      internalID: -6743934392909131101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_209
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 2151
+        width: 24
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682f57c80cfc94550800000000000000
+      internalID: 6145671592420962950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_210
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 2160
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d4a10e393ce7f80800000000000000
+      internalID: -8106827239332885089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_211
+      rect:
+        serializedVersion: 2
+        x: 41
+        y: 2142
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8524a8e6e3883be0800000000000000
+      internalID: -1497301848331901553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_212
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 2149
+        width: 13
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a157ebd7f1ef3750800000000000000
+      internalID: 6286992059495043494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_213
+      rect:
+        serializedVersion: 2
+        x: 291
+        y: 2137
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1e61b981ef35c640800000000000000
+      internalID: 5099552390977252892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_214
+      rect:
+        serializedVersion: 2
+        x: 340
+        y: 2150
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85fdbd4fe241bb970800000000000000
+      internalID: 8771626891143274328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_215
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 2141
+        width: 17
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8687bc9eaa4d75f90800000000000000
+      internalID: -6964864468173227928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_216
+      rect:
+        serializedVersion: 2
+        x: 801
+        y: 2139
+        width: 39
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db830dc15daa90860800000000000000
+      internalID: 7496710887023065277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_217
+      rect:
+        serializedVersion: 2
+        x: 988
+        y: 2140
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cec396e27516b8b0800000000000000
+      internalID: -5136894741730570559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_218
+      rect:
+        serializedVersion: 2
+        x: 1000
+        y: 2148
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0913900295753d90800000000000000
+      internalID: -7118654366053885686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_219
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 2140
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae80d123784777a0800000000000000
+      internalID: -6379550687821263190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_220
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 2136
+        width: 21
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 796f240cb9b07e130800000000000000
+      internalID: 3595855591052080791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_221
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 2069
+        width: 57
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b9c9c9e413fb920800000000000000
+      internalID: 3008177289811499919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_222
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 2140
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60dd896f2ba292c90800000000000000
+      internalID: -7194171981617898234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_223
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 2070
+        width: 55
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18c0b23aefc37a710800000000000000
+      internalID: 1704398048339889281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_224
+      rect:
+        serializedVersion: 2
+        x: 434
+        y: 2136
+        width: 28
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b2914900ee5e0d00800000000000000
+      internalID: 940793688487989940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_225
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 2072
+        width: 57
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 412c2d2b3040786d0800000000000000
+      internalID: -2988415413805465068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_226
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 2129
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c57ca658781f8f70800000000000000
+      internalID: 9191592269615756740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_227
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 2142
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf2fb35a03bbd7230800000000000000
+      internalID: 3638269891590222587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_228
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 2084
+        width: 30
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fe149c1cd2fd63c0800000000000000
+      internalID: -4364565436665946376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_229
+      rect:
+        serializedVersion: 2
+        x: 838
+        y: 2131
+        width: 12
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf6615a062fedc5f0800000000000000
+      internalID: -734668217530620165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_230
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 2129
+        width: 19
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3bbb605f7f7beaf0800000000000000
+      internalID: -366058759913751747
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_overlay_counters_01_231
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 2117
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eea9294cb1331d20800000000000000
+      internalID: 3247994441015340774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fixtures_overlay_counters_01_0: -2937209935043479561
+      fixtures_overlay_counters_01_1: -145039275472298120
+      fixtures_overlay_counters_01_10: 3081584853908831650
+      fixtures_overlay_counters_01_100: 5139325379372421395
+      fixtures_overlay_counters_01_101: -8002332519864092223
+      fixtures_overlay_counters_01_102: -1617506017566150695
+      fixtures_overlay_counters_01_103: -5990719237505204378
+      fixtures_overlay_counters_01_104: -1806320715388554211
+      fixtures_overlay_counters_01_105: -4204112429429383917
+      fixtures_overlay_counters_01_106: 7475737686341302495
+      fixtures_overlay_counters_01_107: -7715587030689719441
+      fixtures_overlay_counters_01_108: 3256851047529833823
+      fixtures_overlay_counters_01_109: -911884895989212426
+      fixtures_overlay_counters_01_11: -5711802298584605211
+      fixtures_overlay_counters_01_110: -9182862801087447439
+      fixtures_overlay_counters_01_111: 7316374731766230417
+      fixtures_overlay_counters_01_112: -446302662951661929
+      fixtures_overlay_counters_01_113: -6573331374148595159
+      fixtures_overlay_counters_01_114: -5870228390195657301
+      fixtures_overlay_counters_01_115: -3093297761282305842
+      fixtures_overlay_counters_01_116: 6637639680606045714
+      fixtures_overlay_counters_01_117: -5866983636584345328
+      fixtures_overlay_counters_01_118: 4303422038432807851
+      fixtures_overlay_counters_01_119: -8960195369751452232
+      fixtures_overlay_counters_01_12: 2060316308188955472
+      fixtures_overlay_counters_01_120: 7023849199226929768
+      fixtures_overlay_counters_01_121: 7382347378733826636
+      fixtures_overlay_counters_01_122: -6008183750435059754
+      fixtures_overlay_counters_01_123: -4120623722236714354
+      fixtures_overlay_counters_01_124: -6739809908246560176
+      fixtures_overlay_counters_01_125: -4009670979254826413
+      fixtures_overlay_counters_01_126: -6555275315399996745
+      fixtures_overlay_counters_01_127: -5310506219105335781
+      fixtures_overlay_counters_01_128: -7375956543735994854
+      fixtures_overlay_counters_01_129: -8565631885025336046
+      fixtures_overlay_counters_01_13: 8469043057231658002
+      fixtures_overlay_counters_01_130: 2322431056263946723
+      fixtures_overlay_counters_01_131: -6193215772353361960
+      fixtures_overlay_counters_01_132: 2487510477176761059
+      fixtures_overlay_counters_01_133: -3977697940243242428
+      fixtures_overlay_counters_01_134: -4242019716792588582
+      fixtures_overlay_counters_01_135: -7560028479148851794
+      fixtures_overlay_counters_01_136: -4957312753020374123
+      fixtures_overlay_counters_01_137: 4183750493833506865
+      fixtures_overlay_counters_01_138: -8309180185665978359
+      fixtures_overlay_counters_01_139: 7900624289508671640
+      fixtures_overlay_counters_01_14: -8545826223057481107
+      fixtures_overlay_counters_01_140: 7261861358273701278
+      fixtures_overlay_counters_01_141: -7967979338769261036
+      fixtures_overlay_counters_01_142: -7681040320371890484
+      fixtures_overlay_counters_01_143: 413179224655227024
+      fixtures_overlay_counters_01_144: 8868133232469621459
+      fixtures_overlay_counters_01_145: -8659766868032509302
+      fixtures_overlay_counters_01_146: -8710034116371017794
+      fixtures_overlay_counters_01_147: -2757858388036005477
+      fixtures_overlay_counters_01_148: 7399810511727244201
+      fixtures_overlay_counters_01_149: -8659585745079782486
+      fixtures_overlay_counters_01_15: -3958499826323392755
+      fixtures_overlay_counters_01_150: -335106546991243002
+      fixtures_overlay_counters_01_151: -4897642578915317354
+      fixtures_overlay_counters_01_152: 4593477806561364322
+      fixtures_overlay_counters_01_153: -9150861353916008324
+      fixtures_overlay_counters_01_154: 7713102921014381165
+      fixtures_overlay_counters_01_155: 991865908210209585
+      fixtures_overlay_counters_01_156: 8053502132611399155
+      fixtures_overlay_counters_01_157: 5709113110251071739
+      fixtures_overlay_counters_01_158: -7079215090361814312
+      fixtures_overlay_counters_01_159: -6488129713875466583
+      fixtures_overlay_counters_01_16: -2614008016110377896
+      fixtures_overlay_counters_01_160: 4327127592147351604
+      fixtures_overlay_counters_01_161: 2636885695347621860
+      fixtures_overlay_counters_01_162: 6931413047034662472
+      fixtures_overlay_counters_01_163: 4163644031565178696
+      fixtures_overlay_counters_01_164: 3984105348771988986
+      fixtures_overlay_counters_01_165: -5307279068830347810
+      fixtures_overlay_counters_01_166: -5676352066112123657
+      fixtures_overlay_counters_01_167: 1847357114072249502
+      fixtures_overlay_counters_01_168: 2888961178711221539
+      fixtures_overlay_counters_01_169: 4440974960944108239
+      fixtures_overlay_counters_01_17: 3778197912013539926
+      fixtures_overlay_counters_01_170: -2960921922248029731
+      fixtures_overlay_counters_01_171: -3966964563895176929
+      fixtures_overlay_counters_01_172: 2869120588830941809
+      fixtures_overlay_counters_01_173: -8630739649519942927
+      fixtures_overlay_counters_01_174: -6127873454094820824
+      fixtures_overlay_counters_01_175: 3711417961726197460
+      fixtures_overlay_counters_01_176: -3486619453707816116
+      fixtures_overlay_counters_01_177: -4404864538485394316
+      fixtures_overlay_counters_01_178: -4672942137146254923
+      fixtures_overlay_counters_01_179: 5913969252027448483
+      fixtures_overlay_counters_01_18: -7017691327289901043
+      fixtures_overlay_counters_01_180: 4549077948770629333
+      fixtures_overlay_counters_01_181: -8363268842175067383
+      fixtures_overlay_counters_01_182: 6270611975757642576
+      fixtures_overlay_counters_01_183: 524357666871143023
+      fixtures_overlay_counters_01_184: -5621838622415652392
+      fixtures_overlay_counters_01_185: 5994661845158663312
+      fixtures_overlay_counters_01_186: -8638989949223375375
+      fixtures_overlay_counters_01_187: 232960111566863568
+      fixtures_overlay_counters_01_188: -3633578033770496667
+      fixtures_overlay_counters_01_189: 5402757299652063703
+      fixtures_overlay_counters_01_19: -6977486107225339310
+      fixtures_overlay_counters_01_190: -737154701234470440
+      fixtures_overlay_counters_01_191: 4259053078203166096
+      fixtures_overlay_counters_01_192: -2565484268305100475
+      fixtures_overlay_counters_01_193: -5105303273845054957
+      fixtures_overlay_counters_01_194: 1415011583628685298
+      fixtures_overlay_counters_01_195: -5056602361284285016
+      fixtures_overlay_counters_01_196: -9178170890456525702
+      fixtures_overlay_counters_01_197: -8513388047508466968
+      fixtures_overlay_counters_01_198: -6523137522708660562
+      fixtures_overlay_counters_01_199: 3213843090534971055
+      fixtures_overlay_counters_01_2: -2361287075412534641
+      fixtures_overlay_counters_01_20: -325626947856912061
+      fixtures_overlay_counters_01_200: -2054266906393710959
+      fixtures_overlay_counters_01_201: -977828033270711468
+      fixtures_overlay_counters_01_202: -8825441794622804256
+      fixtures_overlay_counters_01_203: -7450203139986611300
+      fixtures_overlay_counters_01_204: -4883914917436910496
+      fixtures_overlay_counters_01_205: -4951872619936132859
+      fixtures_overlay_counters_01_206: 5372662681642328231
+      fixtures_overlay_counters_01_207: 8419196081789396471
+      fixtures_overlay_counters_01_208: -6743934392909131101
+      fixtures_overlay_counters_01_209: 6145671592420962950
+      fixtures_overlay_counters_01_21: 18744429219703357
+      fixtures_overlay_counters_01_210: -8106827239332885089
+      fixtures_overlay_counters_01_211: -1497301848331901553
+      fixtures_overlay_counters_01_212: 6286992059495043494
+      fixtures_overlay_counters_01_213: 5099552390977252892
+      fixtures_overlay_counters_01_214: 8771626891143274328
+      fixtures_overlay_counters_01_215: -6964864468173227928
+      fixtures_overlay_counters_01_216: 7496710887023065277
+      fixtures_overlay_counters_01_217: -5136894741730570559
+      fixtures_overlay_counters_01_218: -7118654366053885686
+      fixtures_overlay_counters_01_219: -6379550687821263190
+      fixtures_overlay_counters_01_22: 1950672326774210942
+      fixtures_overlay_counters_01_220: 3595855591052080791
+      fixtures_overlay_counters_01_221: 3008177289811499919
+      fixtures_overlay_counters_01_222: -7194171981617898234
+      fixtures_overlay_counters_01_223: 1704398048339889281
+      fixtures_overlay_counters_01_224: 940793688487989940
+      fixtures_overlay_counters_01_225: -2988415413805465068
+      fixtures_overlay_counters_01_226: 9191592269615756740
+      fixtures_overlay_counters_01_227: 3638269891590222587
+      fixtures_overlay_counters_01_228: -4364565436665946376
+      fixtures_overlay_counters_01_229: -734668217530620165
+      fixtures_overlay_counters_01_23: -2472517539565030659
+      fixtures_overlay_counters_01_230: -366058759913751747
+      fixtures_overlay_counters_01_231: 3247994441015340774
+      fixtures_overlay_counters_01_24: -4100392229182826168
+      fixtures_overlay_counters_01_25: -8287741915248568354
+      fixtures_overlay_counters_01_26: 6900087502809678981
+      fixtures_overlay_counters_01_27: 8107469429357935062
+      fixtures_overlay_counters_01_28: -3102452965608955384
+      fixtures_overlay_counters_01_29: -864616767910244955
+      fixtures_overlay_counters_01_3: -1091764505275711704
+      fixtures_overlay_counters_01_30: 2427342427456782660
+      fixtures_overlay_counters_01_31: 1372156796640205826
+      fixtures_overlay_counters_01_32: 8318916372130267945
+      fixtures_overlay_counters_01_33: 5634007038869825224
+      fixtures_overlay_counters_01_34: -5309640847317215911
+      fixtures_overlay_counters_01_35: 3919568794887800719
+      fixtures_overlay_counters_01_36: -8842958531399229310
+      fixtures_overlay_counters_01_37: -9119649730816594388
+      fixtures_overlay_counters_01_38: 3393674298033072618
+      fixtures_overlay_counters_01_39: 8777425820654612373
+      fixtures_overlay_counters_01_4: -3685792793415370295
+      fixtures_overlay_counters_01_40: 8617481732015056565
+      fixtures_overlay_counters_01_41: -7938678252962273679
+      fixtures_overlay_counters_01_42: -9081420215671036498
+      fixtures_overlay_counters_01_43: -6052386488105216584
+      fixtures_overlay_counters_01_44: -8743128410034679630
+      fixtures_overlay_counters_01_45: 4737542709278063560
+      fixtures_overlay_counters_01_46: 4035100916747463470
+      fixtures_overlay_counters_01_47: -5647718539516531742
+      fixtures_overlay_counters_01_48: -3395673820402200143
+      fixtures_overlay_counters_01_49: -2883089776960745287
+      fixtures_overlay_counters_01_5: -8107662415693217426
+      fixtures_overlay_counters_01_50: 5585385787923350152
+      fixtures_overlay_counters_01_51: -6002331065611987928
+      fixtures_overlay_counters_01_52: -1218849442692531592
+      fixtures_overlay_counters_01_53: -6945868594561939548
+      fixtures_overlay_counters_01_54: -246510572287862303
+      fixtures_overlay_counters_01_55: -5312699205063796589
+      fixtures_overlay_counters_01_56: -5932028994633219469
+      fixtures_overlay_counters_01_57: -1558369265344739979
+      fixtures_overlay_counters_01_58: 1830210721673325692
+      fixtures_overlay_counters_01_59: -4519297229713709523
+      fixtures_overlay_counters_01_6: -1347175062937558330
+      fixtures_overlay_counters_01_60: -1684594787856271037
+      fixtures_overlay_counters_01_61: -968418995420379357
+      fixtures_overlay_counters_01_62: -4603397795472287531
+      fixtures_overlay_counters_01_63: 1469323444239163148
+      fixtures_overlay_counters_01_64: 4737432420324553112
+      fixtures_overlay_counters_01_65: -398691350401165263
+      fixtures_overlay_counters_01_66: 6731384274292713464
+      fixtures_overlay_counters_01_67: 2590035491034897564
+      fixtures_overlay_counters_01_68: -840498504307957617
+      fixtures_overlay_counters_01_69: 6893112562452012895
+      fixtures_overlay_counters_01_7: -9068445548594410157
+      fixtures_overlay_counters_01_70: 1174846535134839782
+      fixtures_overlay_counters_01_71: -68772196633870262
+      fixtures_overlay_counters_01_72: 8892806888262045566
+      fixtures_overlay_counters_01_73: -2406934495539114459
+      fixtures_overlay_counters_01_74: 7535605156549355575
+      fixtures_overlay_counters_01_75: -2654677657413075222
+      fixtures_overlay_counters_01_76: 437877237859223269
+      fixtures_overlay_counters_01_77: 3389937438318319601
+      fixtures_overlay_counters_01_78: 4963795978719892133
+      fixtures_overlay_counters_01_79: -6465852292630288804
+      fixtures_overlay_counters_01_8: -6262400215798800890
+      fixtures_overlay_counters_01_80: -1090736557431178448
+      fixtures_overlay_counters_01_81: -2595689724019705153
+      fixtures_overlay_counters_01_82: -5048663652646306948
+      fixtures_overlay_counters_01_83: -4133952894404641997
+      fixtures_overlay_counters_01_84: 5085052711869052144
+      fixtures_overlay_counters_01_85: -4466169657923131576
+      fixtures_overlay_counters_01_86: 1986705794918656145
+      fixtures_overlay_counters_01_87: -6405770767878211614
+      fixtures_overlay_counters_01_88: 3139655197076262601
+      fixtures_overlay_counters_01_89: 7620455028559467666
+      fixtures_overlay_counters_01_9: 1646425532971514124
+      fixtures_overlay_counters_01_90: -8629565926098361370
+      fixtures_overlay_counters_01_91: 6109386058365905102
+      fixtures_overlay_counters_01_92: -2471296314143530216
+      fixtures_overlay_counters_01_93: 5344607286527080543
+      fixtures_overlay_counters_01_94: -6596715511702807283
+      fixtures_overlay_counters_01_95: -7500916382739700693
+      fixtures_overlay_counters_01_96: 7135163036277918290
+      fixtures_overlay_counters_01_97: 7627515634998802225
+      fixtures_overlay_counters_01_98: 4578535475367679757
+      fixtures_overlay_counters_01_99: -629341738097789277
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

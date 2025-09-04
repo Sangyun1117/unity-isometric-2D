@@ -1,0 +1,3263 @@
+fileFormatVersion: 2
+guid: e48c66cf009e1014783c747a8ab0c374
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3404389450071100283
+    second: d_wallcracks_1_0
+  - first:
+      213: 8957289506923178430
+    second: d_wallcracks_1_1
+  - first:
+      213: 183593053096059323
+    second: d_wallcracks_1_2
+  - first:
+      213: 2168916769117809293
+    second: d_wallcracks_1_3
+  - first:
+      213: -4081698377616070867
+    second: d_wallcracks_1_4
+  - first:
+      213: -1718711583094705252
+    second: d_wallcracks_1_5
+  - first:
+      213: 3472337025040159901
+    second: d_wallcracks_1_6
+  - first:
+      213: -937036594854310873
+    second: d_wallcracks_1_7
+  - first:
+      213: 6299306328194503215
+    second: d_wallcracks_1_8
+  - first:
+      213: 5379858404682410623
+    second: d_wallcracks_1_9
+  - first:
+      213: -1998213491703966712
+    second: d_wallcracks_1_10
+  - first:
+      213: 5291076101948210911
+    second: d_wallcracks_1_11
+  - first:
+      213: 3589170091706813789
+    second: d_wallcracks_1_12
+  - first:
+      213: -7242039187519350047
+    second: d_wallcracks_1_13
+  - first:
+      213: -4295946025205007278
+    second: d_wallcracks_1_14
+  - first:
+      213: -6816221866884213171
+    second: d_wallcracks_1_15
+  - first:
+      213: 4433349337886628348
+    second: d_wallcracks_1_16
+  - first:
+      213: -1651309103623724230
+    second: d_wallcracks_1_17
+  - first:
+      213: 3808030359002971002
+    second: d_wallcracks_1_18
+  - first:
+      213: -1576753492534931323
+    second: d_wallcracks_1_19
+  - first:
+      213: -1652147659852476634
+    second: d_wallcracks_1_20
+  - first:
+      213: -3742787194770362856
+    second: d_wallcracks_1_21
+  - first:
+      213: 4000713846418654093
+    second: d_wallcracks_1_22
+  - first:
+      213: 6733280613838341256
+    second: d_wallcracks_1_23
+  - first:
+      213: 6658035821643641422
+    second: d_wallcracks_1_24
+  - first:
+      213: 2370200517702091445
+    second: d_wallcracks_1_25
+  - first:
+      213: 3958536804813192646
+    second: d_wallcracks_1_26
+  - first:
+      213: -4708356422220035178
+    second: d_wallcracks_1_27
+  - first:
+      213: -6492332603199732614
+    second: d_wallcracks_1_28
+  - first:
+      213: -5406209051788058297
+    second: d_wallcracks_1_29
+  - first:
+      213: 5509146500211517344
+    second: d_wallcracks_1_30
+  - first:
+      213: 3095743328016494175
+    second: d_wallcracks_1_31
+  - first:
+      213: -2156887685396776068
+    second: d_wallcracks_1_32
+  - first:
+      213: 3930813636209766859
+    second: d_wallcracks_1_33
+  - first:
+      213: -7817368457454797629
+    second: d_wallcracks_1_34
+  - first:
+      213: -3025099769460811879
+    second: d_wallcracks_1_35
+  - first:
+      213: -300485010582086839
+    second: d_wallcracks_1_36
+  - first:
+      213: 8220195482255394056
+    second: d_wallcracks_1_37
+  - first:
+      213: 5670729696212969573
+    second: d_wallcracks_1_38
+  - first:
+      213: -3477404309423525291
+    second: d_wallcracks_1_39
+  - first:
+      213: 1616426117059204427
+    second: d_wallcracks_1_40
+  - first:
+      213: -2187272018717171351
+    second: d_wallcracks_1_41
+  - first:
+      213: 6929394137560383319
+    second: d_wallcracks_1_42
+  - first:
+      213: 2372866093634837655
+    second: d_wallcracks_1_43
+  - first:
+      213: -4749302099577600848
+    second: d_wallcracks_1_44
+  - first:
+      213: 4947898996521901418
+    second: d_wallcracks_1_45
+  - first:
+      213: -1140576833553961222
+    second: d_wallcracks_1_46
+  - first:
+      213: -1282435833134300422
+    second: d_wallcracks_1_47
+  - first:
+      213: -9170932566090672047
+    second: d_wallcracks_1_48
+  - first:
+      213: -3598107639274324136
+    second: d_wallcracks_1_49
+  - first:
+      213: -6266533032126382678
+    second: d_wallcracks_1_50
+  - first:
+      213: -91025550540293264
+    second: d_wallcracks_1_51
+  - first:
+      213: 3269322327907458625
+    second: d_wallcracks_1_52
+  - first:
+      213: -2858352739406259673
+    second: d_wallcracks_1_53
+  - first:
+      213: 906651922428558351
+    second: d_wallcracks_1_54
+  - first:
+      213: -4457617352221657563
+    second: d_wallcracks_1_55
+  - first:
+      213: 7143892580775489675
+    second: d_wallcracks_1_56
+  - first:
+      213: 3256216721553548774
+    second: d_wallcracks_1_57
+  - first:
+      213: -1548451154108340875
+    second: d_wallcracks_1_58
+  - first:
+      213: -1533702499229638752
+    second: d_wallcracks_1_59
+  - first:
+      213: -4393119260663819087
+    second: d_wallcracks_1_60
+  - first:
+      213: -5642495691407828965
+    second: d_wallcracks_1_61
+  - first:
+      213: 2396510330722809187
+    second: d_wallcracks_1_62
+  - first:
+      213: -7434586054208118519
+    second: d_wallcracks_1_63
+  - first:
+      213: 5227002562551653275
+    second: d_wallcracks_1_64
+  - first:
+      213: -2232051686627478689
+    second: d_wallcracks_1_65
+  - first:
+      213: 183573761701462637
+    second: d_wallcracks_1_66
+  - first:
+      213: 8934343348479498593
+    second: d_wallcracks_1_67
+  - first:
+      213: -8894292055407828566
+    second: d_wallcracks_1_68
+  - first:
+      213: -2461120957352766987
+    second: d_wallcracks_1_69
+  - first:
+      213: 7991708265424319606
+    second: d_wallcracks_1_70
+  - first:
+      213: 6089345175048153213
+    second: d_wallcracks_1_71
+  - first:
+      213: -8964618729503461809
+    second: d_wallcracks_1_72
+  - first:
+      213: 4127431448709848667
+    second: d_wallcracks_1_73
+  - first:
+      213: 2382375270129677664
+    second: d_wallcracks_1_74
+  - first:
+      213: -8812622156785303793
+    second: d_wallcracks_1_75
+  - first:
+      213: -1290289866963523406
+    second: d_wallcracks_1_76
+  - first:
+      213: -3152774603993355069
+    second: d_wallcracks_1_77
+  - first:
+      213: 1530642837461579479
+    second: d_wallcracks_1_78
+  - first:
+      213: -9170800116745010977
+    second: d_wallcracks_1_79
+  - first:
+      213: -8541928513898902390
+    second: d_wallcracks_1_80
+  - first:
+      213: 8849711577735872790
+    second: d_wallcracks_1_81
+  - first:
+      213: -1243744346881113604
+    second: d_wallcracks_1_82
+  - first:
+      213: 3236778627127482129
+    second: d_wallcracks_1_83
+  - first:
+      213: -7847130061690549296
+    second: d_wallcracks_1_84
+  - first:
+      213: 7307239013980057539
+    second: d_wallcracks_1_85
+  - first:
+      213: -8151610392626950999
+    second: d_wallcracks_1_86
+  - first:
+      213: 1066528035445239135
+    second: d_wallcracks_1_87
+  - first:
+      213: 7433618886761338158
+    second: d_wallcracks_1_88
+  - first:
+      213: 4501390559433630644
+    second: d_wallcracks_1_89
+  - first:
+      213: 5737657017799572732
+    second: d_wallcracks_1_90
+  - first:
+      213: 1264488992054326092
+    second: d_wallcracks_1_91
+  - first:
+      213: 7139746076414490697
+    second: d_wallcracks_1_92
+  - first:
+      213: -3615899679540429470
+    second: d_wallcracks_1_93
+  - first:
+      213: 3413329485406726664
+    second: d_wallcracks_1_94
+  - first:
+      213: -137316456607389065
+    second: d_wallcracks_1_95
+  - first:
+      213: 1841440462086264529
+    second: d_wallcracks_1_96
+  - first:
+      213: -1547118463791227627
+    second: d_wallcracks_1_97
+  - first:
+      213: 2040802193816310012
+    second: d_wallcracks_1_98
+  - first:
+      213: 1369186905913726995
+    second: d_wallcracks_1_99
+  - first:
+      213: -9108295882170365807
+    second: d_wallcracks_1_100
+  - first:
+      213: 6532721094167724561
+    second: d_wallcracks_1_101
+  - first:
+      213: 6821470202649432586
+    second: d_wallcracks_1_102
+  - first:
+      213: 3157007889949513200
+    second: d_wallcracks_1_103
+  - first:
+      213: -1792147774834748851
+    second: d_wallcracks_1_104
+  - first:
+      213: 6141591693252263523
+    second: d_wallcracks_1_105
+  - first:
+      213: 6766915723446918652
+    second: d_wallcracks_1_106
+  - first:
+      213: -8643677034846392866
+    second: d_wallcracks_1_107
+  - first:
+      213: -281893807436778533
+    second: d_wallcracks_1_108
+  - first:
+      213: -6165046627247461018
+    second: d_wallcracks_1_109
+  - first:
+      213: -2640700371582508180
+    second: d_wallcracks_1_110
+  - first:
+      213: 4478322733955061569
+    second: d_wallcracks_1_111
+  - first:
+      213: 258053336454403142
+    second: d_wallcracks_1_112
+  - first:
+      213: 8457217641269959307
+    second: d_wallcracks_1_113
+  - first:
+      213: 8328838213433036289
+    second: d_wallcracks_1_114
+  - first:
+      213: -6456814565108507610
+    second: d_wallcracks_1_115
+  - first:
+      213: 8290017407715992133
+    second: d_wallcracks_1_116
+  - first:
+      213: -8634120734080317356
+    second: d_wallcracks_1_117
+  - first:
+      213: 9127314235573206642
+    second: d_wallcracks_1_118
+  - first:
+      213: 4786670789527443008
+    second: d_wallcracks_1_119
+  - first:
+      213: 8042758533495294882
+    second: d_wallcracks_1_120
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: d_wallcracks_1_0
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1836
+        width: 50
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584bc6715dd21c0d0800000000000000
+      internalID: -3404389450071100283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_1
+      rect:
+        serializedVersion: 2
+        x: 146
+        y: 1842
+        width: 49
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb96d7a495fae4c70800000000000000
+      internalID: 8957289506923178430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_2
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1959
+        width: 32
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb12509b8e04c8200800000000000000
+      internalID: 183593053096059323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_3
+      rect:
+        serializedVersion: 2
+        x: 468
+        y: 1959
+        width: 32
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8aa7a26f4a891e10800000000000000
+      internalID: 2168916769117809293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_4
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1842
+        width: 49
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d27e7e983f4ea57c0800000000000000
+      internalID: -4081698377616070867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_5
+      rect:
+        serializedVersion: 2
+        x: 714
+        y: 1836
+        width: 50
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c937a4adbe8e528e0800000000000000
+      internalID: -1718711583094705252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_6
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1830
+        width: 66
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9494f58028303030800000000000000
+      internalID: 3472337025040159901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_7
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 1963
+        width: 40
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72cca2e7e2afef2f0800000000000000
+      internalID: -937036594854310873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_8
+      rect:
+        serializedVersion: 2
+        x: 1077
+        y: 1879
+        width: 28
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f225767fab1ab6750800000000000000
+      internalID: 6299306328194503215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_9
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1883
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7aaef027b819aa40800000000000000
+      internalID: 5379858404682410623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_10
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1881
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80497919a6be444e0800000000000000
+      internalID: -1998213491703966712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_11
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1881
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fde7e207eadad6940800000000000000
+      internalID: 5291076101948210911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_12
+      rect:
+        serializedVersion: 2
+        x: 470
+        y: 1883
+        width: 38
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5d04a2ae2b4fc130800000000000000
+      internalID: 3589170091706813789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_13
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1843
+        width: 30
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ea537a9abb1f7b90800000000000000
+      internalID: -7242039187519350047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_14
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1821
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25c7769d9dbb164c0800000000000000
+      internalID: -4295946025205007278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_15
+      rect:
+        serializedVersion: 2
+        x: 625
+        y: 1821
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46dd12735ae761a0800000000000000
+      internalID: -6816221866884213171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_16
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 1830
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf912f1ebbb668d30800000000000000
+      internalID: 4433349337886628348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_17
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 1836
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a33a3288e1f5519e0800000000000000
+      internalID: -1651309103623724230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_18
+      rect:
+        serializedVersion: 2
+        x: 1119
+        y: 1829
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7b764a8f67d8d430800000000000000
+      internalID: 3808030359002971002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_19
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1725
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58059137d0f3e1ae0800000000000000
+      internalID: -1576753492534931323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_20
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1699
+        width: 15
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62f0002f4746219e0800000000000000
+      internalID: -1652147659852476634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_21
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1699
+        width: 15
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81ee4d160e2fe0cc0800000000000000
+      internalID: -3742787194770362856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_22
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1725
+        width: 21
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8345cfeb04658730800000000000000
+      internalID: 4000713846418654093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_23
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1578
+        width: 44
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 884cbd83b0b617d50800000000000000
+      internalID: 6733280613838341256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_24
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 1575
+        width: 18
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4235e2dd48166c50800000000000000
+      internalID: 6658035821643641422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_25
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1576
+        width: 29
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b2841020d4a4e020800000000000000
+      internalID: 2370200517702091445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_26
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1666
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd3331304c8fe630800000000000000
+      internalID: 3958536804813192646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_27
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1569
+        width: 44
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69b45a9a7ce88aeb0800000000000000
+      internalID: -4708356422220035178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_28
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 1569
+        width: 44
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a74c79e25e996e5a0800000000000000
+      internalID: -6492332603199732614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_29
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1666
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741ebaeb28949f4b0800000000000000
+      internalID: -5406209051788058297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_30
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 1576
+        width: 29
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a7a1b0ad8b647c40800000000000000
+      internalID: 5509146500211517344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_31
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1575
+        width: 18
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e6536a72a46fa20800000000000000
+      internalID: 3095743328016494175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_32
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1591
+        width: 34
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7bb28be3123112e0800000000000000
+      internalID: -2156887685396776068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_33
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 1585
+        width: 35
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc17b800d2e0d8630800000000000000
+      internalID: 3930813636209766859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_34
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1467
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc301f5ec0238390800000000000000
+      internalID: -7817368457454797629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_35
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1497
+        width: 13
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9971c2f89cfa406d0800000000000000
+      internalID: -3025099769460811879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_36
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1431
+        width: 34
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94bdce3997674dbf0800000000000000
+      internalID: -300485010582086839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_37
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1323
+        width: 66
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8058a181d30041270800000000000000
+      internalID: 8220195482255394056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_38
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1323
+        width: 66
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56868082d9a72be40800000000000000
+      internalID: 5670729696212969573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_39
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1431
+        width: 34
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552f5646437cdbfc0800000000000000
+      internalID: -3477404309423525291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_40
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1497
+        width: 13
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b455af04df2be6610800000000000000
+      internalID: 1616426117059204427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_41
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 1467
+        width: 45
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961263900bf35a1e0800000000000000
+      internalID: -2187272018717171351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_42
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1328
+        width: 50
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75ff5fd21472a2060800000000000000
+      internalID: 6929394137560383319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_43
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1324
+        width: 82
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c5ca2e32d1ee020800000000000000
+      internalID: 2372866093634837655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_44
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 1318
+        width: 35
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b409af37e6171eb0800000000000000
+      internalID: -4749302099577600848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_45
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 1318
+        width: 35
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6d13381ce77aa440800000000000000
+      internalID: 4947898996521901418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_46
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1323
+        width: 80
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afee9f4b96bdb20f0800000000000000
+      internalID: -1140576833553961222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_47
+      rect:
+        serializedVersion: 2
+        x: 1123
+        y: 1320
+        width: 22
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af24cc6876fd33ee0800000000000000
+      internalID: -1282435833134300422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_48
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1062
+        width: 40
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1589a1bbb6d4ab080800000000000000
+      internalID: -9170932566090672047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_49
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 1233
+        width: 16
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f3f696a24f01ec0800000000000000
+      internalID: -3598107639274324136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_50
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1135
+        width: 31
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aadfad6a86dc809a0800000000000000
+      internalID: -6266533032126382678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_51
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1062
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07bbf8a7ebc9cbef0800000000000000
+      internalID: -91025550540293264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_52
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1019
+        width: 65
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14e5d2be557fe5d20800000000000000
+      internalID: 3269322327907458625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_53
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1062
+        width: 61
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72adce4e3571558d0800000000000000
+      internalID: -2858352739406259673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_54
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1062
+        width: 61
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c774bae13159c00800000000000000
+      internalID: 906651922428558351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_55
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1019
+        width: 65
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 526f538b2ac5322c0800000000000000
+      internalID: -4457617352221657563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_56
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1062
+        width: 65
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80fba6c374342360800000000000000
+      internalID: 7143892580775489675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_57
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1077
+        width: 16
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e5e2e72bd7603d20800000000000000
+      internalID: 3256216721553548774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_58
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 1066
+        width: 18
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575245f11ebc28ae0800000000000000
+      internalID: -1548451154108340875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_59
+      rect:
+        serializedVersion: 2
+        x: 1027
+        y: 1058
+        width: 28
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0afd94ee3b137bae0800000000000000
+      internalID: -1533702499229638752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_60
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 1058
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4d434ee418803c0800000000000000
+      internalID: -4393119260663819087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_61
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 1058
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18d6fa5014d1b1b0800000000000000
+      internalID: -5642495691407828965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_62
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 873
+        width: 41
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3657943d27d124120800000000000000
+      internalID: 2396510330722809187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_63
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 987
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9012ad2bf5b03d890800000000000000
+      internalID: -7434586054208118519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_64
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 914
+        width: 29
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b93a2f4032b0a8840800000000000000
+      internalID: 5227002562551653275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_65
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 914
+        width: 29
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53f14221d82601e0800000000000000
+      internalID: -2232051686627478689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_66
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 873
+        width: 41
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d624c481d5f2c8200800000000000000
+      internalID: 183573761701462637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_67
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 987
+        width: 19
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1699e7370f92dfb70800000000000000
+      internalID: 8934343348479498593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_68
+      rect:
+        serializedVersion: 2
+        x: 811
+        y: 855
+        width: 31
+        height: 167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa166d4ef70219480800000000000000
+      internalID: -8894292055407828566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_69
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 951
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f118b3678758ddd0800000000000000
+      internalID: -2461120957352766987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_70
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 816
+        width: 58
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6747b25535048ee60800000000000000
+      internalID: 7991708265424319606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_71
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 804
+        width: 62
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d78eb798c23b18450800000000000000
+      internalID: 6089345175048153213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_72
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 804
+        width: 62
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ee12913c6479380800000000000000
+      internalID: -8964618729503461809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_73
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 805
+        width: 28
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5e5027d805974930800000000000000
+      internalID: 4127431448709848667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_74
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 818
+        width: 30
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06531c19fa5ef0120800000000000000
+      internalID: 2382375270129677664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_75
+      rect:
+        serializedVersion: 2
+        x: 983
+        y: 813
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0f3315f6d643b580800000000000000
+      internalID: -8812622156785303793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_76
+      rect:
+        serializedVersion: 2
+        x: 1039
+        y: 804
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b86a56c338f71ee0800000000000000
+      internalID: -1290289866963523406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_77
+      rect:
+        serializedVersion: 2
+        x: 991
+        y: 808
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cc6a18a3381f34d0800000000000000
+      internalID: -3152774603993355069
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_78
+      rect:
+        serializedVersion: 2
+        x: 170
+        y: 743
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d6b4ec0d8fed3510800000000000000
+      internalID: 1530642837461579479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_79
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 743
+        width: 13
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd08d4ff1e5cab080800000000000000
+      internalID: -9170800116745010977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_80
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 550
+        width: 20
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c86401649f47980800000000000000
+      internalID: -8541928513898902390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_81
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 562
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 611cb9bcacd70da70800000000000000
+      internalID: 8849711577735872790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_82
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 557
+        width: 49
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf140cc2b155dbee0800000000000000
+      internalID: -1243744346881113604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_83
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 552
+        width: 43
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117928e13095bec20800000000000000
+      internalID: 3236778627127482129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_84
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 552
+        width: 43
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db45a6e8c4691390800000000000000
+      internalID: -7847130061690549296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_85
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 557
+        width: 49
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf2825fa27886560800000000000000
+      internalID: 7307239013980057539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_86
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 562
+        width: 19
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ac86187989afde80800000000000000
+      internalID: -8151610392626950999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_87
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 550
+        width: 20
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5d65b7f8911dce00800000000000000
+      internalID: 1066528035445239135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_88
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 563
+        width: 33
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e255b051ef4892760800000000000000
+      internalID: 7433618886761338158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_89
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 555
+        width: 45
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b3a65a4dd6287e30800000000000000
+      internalID: 4501390559433630644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_90
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 566
+        width: 34
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc78f488a040af40800000000000000
+      internalID: 5737657017799572732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_91
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 541
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c433ac9e90e5c8110800000000000000
+      internalID: 1264488992054326092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_92
+      rect:
+        serializedVersion: 2
+        x: 500
+        y: 541
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 948bc2f7a39751360800000000000000
+      internalID: 7139746076414490697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_93
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 359
+        width: 44
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26d3b89366eb1ddc0800000000000000
+      internalID: -3615899679540429470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_94
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 361
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80ae80715159e5f20800000000000000
+      internalID: 3413329485406726664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_95
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 361
+        width: 15
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ae9160967281ef0800000000000000
+      internalID: -137316456607389065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_96
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 359
+        width: 44
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d6dea9085c1e8910800000000000000
+      internalID: 1841440462086264529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_97
+      rect:
+        serializedVersion: 2
+        x: 799
+        y: 300
+        width: 88
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51d964444f7878ae0800000000000000
+      internalID: -1547118463791227627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_98
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 299
+        width: 82
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf0524b58c2625c10800000000000000
+      internalID: 2040802193816310012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_99
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 305
+        width: 48
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3189a169c34500310800000000000000
+      internalID: 1369186905913726995
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_100
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 288
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198051a2725d89180800000000000000
+      internalID: -9108295882170365807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_101
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 308
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 112819a2933e8aa50800000000000000
+      internalID: 6532721094167724561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_102
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 286
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a02d4d2f10bbaae50800000000000000
+      internalID: 6821470202649432586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_103
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 286
+        width: 66
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f5db8903f1ffcb20800000000000000
+      internalID: 3157007889949513200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_104
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 308
+        width: 19
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42d7ff08130127e0800000000000000
+      internalID: -1792147774834748851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_105
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 288
+        width: 39
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e7acffa115b3550800000000000000
+      internalID: 6141591693252263523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_106
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 295
+        width: 24
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfd1f017ff9e8ed50800000000000000
+      internalID: 6766915723446918652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_107
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 111
+        width: 32
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd67c0788d7b0880800000000000000
+      internalID: -8643677034846392866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_108
+      rect:
+        serializedVersion: 2
+        x: 970
+        y: 209
+        width: 15
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd3395f5313861cf0800000000000000
+      internalID: -281893807436778533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_109
+      rect:
+        serializedVersion: 2
+        x: 1107
+        y: 39
+        width: 38
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66de13f91ca517aa0800000000000000
+      internalID: -6165046627247461018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_110
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 33
+        width: 61
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c632599c0095a5bd0800000000000000
+      internalID: -2640700371582508180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_111
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 30
+        width: 18
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14792f2acc2362e30800000000000000
+      internalID: 4478322733955061569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_112
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 50
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644187c642ac49300800000000000000
+      internalID: 258053336454403142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_113
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 29
+        width: 48
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8a1010f2a21e5570800000000000000
+      internalID: 8457217641269959307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_114
+      rect:
+        serializedVersion: 2
+        x: 460
+        y: 29
+        width: 49
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e006f1a3af59370800000000000000
+      internalID: 8328838213433036289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_115
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 50
+        width: 23
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62c932adc59c466a0800000000000000
+      internalID: -6456814565108507610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_116
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 30
+        width: 18
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54267b0f8ee0c0370800000000000000
+      internalID: 8290017407715992133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_117
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 33
+        width: 61
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 458ce4910f07d2880800000000000000
+      internalID: -8634120734080317356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_118
+      rect:
+        serializedVersion: 2
+        x: 861
+        y: 35
+        width: 28
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27ef4bc40fbbaae70800000000000000
+      internalID: 9127314235573206642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_119
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 41
+        width: 18
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0469582e8bbad6240800000000000000
+      internalID: 4786670789527443008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_wallcracks_1_120
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 54
+        width: 16
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab8a3b164e9d9f60800000000000000
+      internalID: 8042758533495294882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      d_wallcracks_1_0: -3404389450071100283
+      d_wallcracks_1_1: 8957289506923178430
+      d_wallcracks_1_10: -1998213491703966712
+      d_wallcracks_1_100: -9108295882170365807
+      d_wallcracks_1_101: 6532721094167724561
+      d_wallcracks_1_102: 6821470202649432586
+      d_wallcracks_1_103: 3157007889949513200
+      d_wallcracks_1_104: -1792147774834748851
+      d_wallcracks_1_105: 6141591693252263523
+      d_wallcracks_1_106: 6766915723446918652
+      d_wallcracks_1_107: -8643677034846392866
+      d_wallcracks_1_108: -281893807436778533
+      d_wallcracks_1_109: -6165046627247461018
+      d_wallcracks_1_11: 5291076101948210911
+      d_wallcracks_1_110: -2640700371582508180
+      d_wallcracks_1_111: 4478322733955061569
+      d_wallcracks_1_112: 258053336454403142
+      d_wallcracks_1_113: 8457217641269959307
+      d_wallcracks_1_114: 8328838213433036289
+      d_wallcracks_1_115: -6456814565108507610
+      d_wallcracks_1_116: 8290017407715992133
+      d_wallcracks_1_117: -8634120734080317356
+      d_wallcracks_1_118: 9127314235573206642
+      d_wallcracks_1_119: 4786670789527443008
+      d_wallcracks_1_12: 3589170091706813789
+      d_wallcracks_1_120: 8042758533495294882
+      d_wallcracks_1_13: -7242039187519350047
+      d_wallcracks_1_14: -4295946025205007278
+      d_wallcracks_1_15: -6816221866884213171
+      d_wallcracks_1_16: 4433349337886628348
+      d_wallcracks_1_17: -1651309103623724230
+      d_wallcracks_1_18: 3808030359002971002
+      d_wallcracks_1_19: -1576753492534931323
+      d_wallcracks_1_2: 183593053096059323
+      d_wallcracks_1_20: -1652147659852476634
+      d_wallcracks_1_21: -3742787194770362856
+      d_wallcracks_1_22: 4000713846418654093
+      d_wallcracks_1_23: 6733280613838341256
+      d_wallcracks_1_24: 6658035821643641422
+      d_wallcracks_1_25: 2370200517702091445
+      d_wallcracks_1_26: 3958536804813192646
+      d_wallcracks_1_27: -4708356422220035178
+      d_wallcracks_1_28: -6492332603199732614
+      d_wallcracks_1_29: -5406209051788058297
+      d_wallcracks_1_3: 2168916769117809293
+      d_wallcracks_1_30: 5509146500211517344
+      d_wallcracks_1_31: 3095743328016494175
+      d_wallcracks_1_32: -2156887685396776068
+      d_wallcracks_1_33: 3930813636209766859
+      d_wallcracks_1_34: -7817368457454797629
+      d_wallcracks_1_35: -3025099769460811879
+      d_wallcracks_1_36: -300485010582086839
+      d_wallcracks_1_37: 8220195482255394056
+      d_wallcracks_1_38: 5670729696212969573
+      d_wallcracks_1_39: -3477404309423525291
+      d_wallcracks_1_4: -4081698377616070867
+      d_wallcracks_1_40: 1616426117059204427
+      d_wallcracks_1_41: -2187272018717171351
+      d_wallcracks_1_42: 6929394137560383319
+      d_wallcracks_1_43: 2372866093634837655
+      d_wallcracks_1_44: -4749302099577600848
+      d_wallcracks_1_45: 4947898996521901418
+      d_wallcracks_1_46: -1140576833553961222
+      d_wallcracks_1_47: -1282435833134300422
+      d_wallcracks_1_48: -9170932566090672047
+      d_wallcracks_1_49: -3598107639274324136
+      d_wallcracks_1_5: -1718711583094705252
+      d_wallcracks_1_50: -6266533032126382678
+      d_wallcracks_1_51: -91025550540293264
+      d_wallcracks_1_52: 3269322327907458625
+      d_wallcracks_1_53: -2858352739406259673
+      d_wallcracks_1_54: 906651922428558351
+      d_wallcracks_1_55: -4457617352221657563
+      d_wallcracks_1_56: 7143892580775489675
+      d_wallcracks_1_57: 3256216721553548774
+      d_wallcracks_1_58: -1548451154108340875
+      d_wallcracks_1_59: -1533702499229638752
+      d_wallcracks_1_6: 3472337025040159901
+      d_wallcracks_1_60: -4393119260663819087
+      d_wallcracks_1_61: -5642495691407828965
+      d_wallcracks_1_62: 2396510330722809187
+      d_wallcracks_1_63: -7434586054208118519
+      d_wallcracks_1_64: 5227002562551653275
+      d_wallcracks_1_65: -2232051686627478689
+      d_wallcracks_1_66: 183573761701462637
+      d_wallcracks_1_67: 8934343348479498593
+      d_wallcracks_1_68: -8894292055407828566
+      d_wallcracks_1_69: -2461120957352766987
+      d_wallcracks_1_7: -937036594854310873
+      d_wallcracks_1_70: 7991708265424319606
+      d_wallcracks_1_71: 6089345175048153213
+      d_wallcracks_1_72: -8964618729503461809
+      d_wallcracks_1_73: 4127431448709848667
+      d_wallcracks_1_74: 2382375270129677664
+      d_wallcracks_1_75: -8812622156785303793
+      d_wallcracks_1_76: -1290289866963523406
+      d_wallcracks_1_77: -3152774603993355069
+      d_wallcracks_1_78: 1530642837461579479
+      d_wallcracks_1_79: -9170800116745010977
+      d_wallcracks_1_8: 6299306328194503215
+      d_wallcracks_1_80: -8541928513898902390
+      d_wallcracks_1_81: 8849711577735872790
+      d_wallcracks_1_82: -1243744346881113604
+      d_wallcracks_1_83: 3236778627127482129
+      d_wallcracks_1_84: -7847130061690549296
+      d_wallcracks_1_85: 7307239013980057539
+      d_wallcracks_1_86: -8151610392626950999
+      d_wallcracks_1_87: 1066528035445239135
+      d_wallcracks_1_88: 7433618886761338158
+      d_wallcracks_1_89: 4501390559433630644
+      d_wallcracks_1_9: 5379858404682410623
+      d_wallcracks_1_90: 5737657017799572732
+      d_wallcracks_1_91: 1264488992054326092
+      d_wallcracks_1_92: 7139746076414490697
+      d_wallcracks_1_93: -3615899679540429470
+      d_wallcracks_1_94: 3413329485406726664
+      d_wallcracks_1_95: -137316456607389065
+      d_wallcracks_1_96: 1841440462086264529
+      d_wallcracks_1_97: -1547118463791227627
+      d_wallcracks_1_98: 2040802193816310012
+      d_wallcracks_1_99: 1369186905913726995
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

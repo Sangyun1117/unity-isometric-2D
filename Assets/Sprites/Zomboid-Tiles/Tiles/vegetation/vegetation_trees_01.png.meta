@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: 896a9bc2e0692b74bbbe6ef35d6695f5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2261171497651746432
+    second: vegetation_trees_01_0
+  - first:
+      213: -8232609271755290126
+    second: vegetation_trees_01_1
+  - first:
+      213: 6131324318825046269
+    second: vegetation_trees_01_2
+  - first:
+      213: 4238712432151755167
+    second: vegetation_trees_01_3
+  - first:
+      213: 2380882624613891279
+    second: vegetation_trees_01_4
+  - first:
+      213: -4030763633647259732
+    second: vegetation_trees_01_5
+  - first:
+      213: -1352088273736494959
+    second: vegetation_trees_01_6
+  - first:
+      213: 4274562072542361720
+    second: vegetation_trees_01_7
+  - first:
+      213: -5803535175233973378
+    second: vegetation_trees_01_8
+  - first:
+      213: -889568465495196736
+    second: vegetation_trees_01_9
+  - first:
+      213: 5832716543949297112
+    second: vegetation_trees_01_10
+  - first:
+      213: -4350874920438056636
+    second: vegetation_trees_01_11
+  - first:
+      213: -8537078186521249290
+    second: vegetation_trees_01_12
+  - first:
+      213: -5170646958487929934
+    second: vegetation_trees_01_13
+  - first:
+      213: 2533040619308197286
+    second: vegetation_trees_01_14
+  - first:
+      213: -6782709258848074951
+    second: vegetation_trees_01_15
+  - first:
+      213: 4744920199128788017
+    second: vegetation_trees_01_16
+  - first:
+      213: -168130629340643794
+    second: vegetation_trees_01_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: vegetation_trees_01_0
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 901
+        width: 39
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08635c53f7b416f10800000000000000
+      internalID: 2261171497651746432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetation_trees_01_1
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 908
+        width: 45
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f9407e4c75efbd80800000000000000
+      internalID: -8232609271755290126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetation_trees_01_2
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 902
+        width: 29
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0e74a9bf6d61550800000000000000
+      internalID: 6131324318825046269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetation_trees_01_3
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 904
+        width: 36
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f99ff67df7ee2da30800000000000000
+      internalID: 4238712432151755167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetation_trees_01_4
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 773
+        width: 57
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fccb204f1289a0120800000000000000
+      internalID: 2380882624613891279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetation_trees_01_5
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 773
+        width: 64
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caf64e2c4d9df08c0800000000000000
+      internalID: -4030763633647259732
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetation_trees_01_6
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 772
+        width: 54
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19017f2f0ea6c3de0800000000000000
+      internalID: -1352088273736494959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetation_trees_01_7
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 771
+        width: 62
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 878be30be8b425b30800000000000000
+      internalID: 4274562072542361720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetation_trees_01_8
+      rect:
+        serializedVersion: 2
+        x: 320
+        y: 772
+        width: 61
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73d1bea183b57fa0800000000000000
+      internalID: -5803535175233973378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetation_trees_01_9
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 773
+        width: 59
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cbf4ca913e97a3f0800000000000000
+      internalID: -889568465495196736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetation_trees_01_10
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 831
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d554ad2bc8f1f050800000000000000
+      internalID: 5832716543949297112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetation_trees_01_11
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 836
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4493221df469e93c0800000000000000
+      internalID: -4350874920438056636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetation_trees_01_12
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 775
+        width: 58
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f93aa8ee94368980800000000000000
+      internalID: -8537078186521249290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetation_trees_01_13
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 779
+        width: 25
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb7f5c8cfb2e38b0800000000000000
+      internalID: -5170646958487929934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetation_trees_01_14
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 655
+        width: 57
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a5208bc50b272320800000000000000
+      internalID: 2533040619308197286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetation_trees_01_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 521
+        width: 26
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9338b9b8dd9fed1a0800000000000000
+      internalID: -6782709258848074951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetation_trees_01_16
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 518
+        width: 38
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ca5ac08c759d140800000000000000
+      internalID: 4744920199128788017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: vegetation_trees_01_17
+      rect:
+        serializedVersion: 2
+        x: 86
+        y: 599
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2eb94a551eaaadf0800000000000000
+      internalID: -168130629340643794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      vegetation_trees_01_0: 2261171497651746432
+      vegetation_trees_01_1: -8232609271755290126
+      vegetation_trees_01_10: 5832716543949297112
+      vegetation_trees_01_11: -4350874920438056636
+      vegetation_trees_01_12: -8537078186521249290
+      vegetation_trees_01_13: -5170646958487929934
+      vegetation_trees_01_14: 2533040619308197286
+      vegetation_trees_01_15: -6782709258848074951
+      vegetation_trees_01_16: 4744920199128788017
+      vegetation_trees_01_17: -168130629340643794
+      vegetation_trees_01_2: 6131324318825046269
+      vegetation_trees_01_3: 4238712432151755167
+      vegetation_trees_01_4: 2380882624613891279
+      vegetation_trees_01_5: -4030763633647259732
+      vegetation_trees_01_6: -1352088273736494959
+      vegetation_trees_01_7: 4274562072542361720
+      vegetation_trees_01_8: -5803535175233973378
+      vegetation_trees_01_9: -889568465495196736
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

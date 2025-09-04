@@ -1,0 +1,1599 @@
+fileFormatVersion: 2
+guid: 20cd66e14b149b04d94db0e3511777f1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3783423587447994016
+    second: e_roof_snow_1_0
+  - first:
+      213: -8994188707785579255
+    second: e_roof_snow_1_1
+  - first:
+      213: 2307846068162675210
+    second: e_roof_snow_1_2
+  - first:
+      213: 3951766370229476160
+    second: e_roof_snow_1_3
+  - first:
+      213: -2694081269077182138
+    second: e_roof_snow_1_4
+  - first:
+      213: 2556693410814028237
+    second: e_roof_snow_1_5
+  - first:
+      213: 6145522669587456699
+    second: e_roof_snow_1_6
+  - first:
+      213: 8079094333444977352
+    second: e_roof_snow_1_7
+  - first:
+      213: 9164348078895203525
+    second: e_roof_snow_1_8
+  - first:
+      213: -6423125604818259320
+    second: e_roof_snow_1_9
+  - first:
+      213: 3317122412342523368
+    second: e_roof_snow_1_10
+  - first:
+      213: 8305142004450103008
+    second: e_roof_snow_1_11
+  - first:
+      213: -687804571416084681
+    second: e_roof_snow_1_12
+  - first:
+      213: -546592444971519872
+    second: e_roof_snow_1_13
+  - first:
+      213: 8074089460598072426
+    second: e_roof_snow_1_14
+  - first:
+      213: 4146108554110887228
+    second: e_roof_snow_1_15
+  - first:
+      213: -4613181493070769462
+    second: e_roof_snow_1_16
+  - first:
+      213: -1689043742691206000
+    second: e_roof_snow_1_17
+  - first:
+      213: -5679624514850123371
+    second: e_roof_snow_1_18
+  - first:
+      213: -9084368532131192946
+    second: e_roof_snow_1_19
+  - first:
+      213: -6259183942948624351
+    second: e_roof_snow_1_20
+  - first:
+      213: -6920983366711669634
+    second: e_roof_snow_1_21
+  - first:
+      213: -408616739691260880
+    second: e_roof_snow_1_22
+  - first:
+      213: 5718613880907577856
+    second: e_roof_snow_1_23
+  - first:
+      213: 7155621445239051767
+    second: e_roof_snow_1_24
+  - first:
+      213: 905343145543054431
+    second: e_roof_snow_1_25
+  - first:
+      213: 6620158556880216521
+    second: e_roof_snow_1_26
+  - first:
+      213: 5424338701097373661
+    second: e_roof_snow_1_27
+  - first:
+      213: -4395529037421196977
+    second: e_roof_snow_1_28
+  - first:
+      213: -934026991371200412
+    second: e_roof_snow_1_29
+  - first:
+      213: -1196748654653339130
+    second: e_roof_snow_1_30
+  - first:
+      213: -3696832940008489713
+    second: e_roof_snow_1_31
+  - first:
+      213: 6486540977679914316
+    second: e_roof_snow_1_32
+  - first:
+      213: -6299458637992507573
+    second: e_roof_snow_1_33
+  - first:
+      213: -3958764109067706549
+    second: e_roof_snow_1_34
+  - first:
+      213: -2742881744525701821
+    second: e_roof_snow_1_35
+  - first:
+      213: -8201186217653463700
+    second: e_roof_snow_1_36
+  - first:
+      213: 2940886137240187627
+    second: e_roof_snow_1_37
+  - first:
+      213: -1351112535911946510
+    second: e_roof_snow_1_38
+  - first:
+      213: -7493005740619287500
+    second: e_roof_snow_1_39
+  - first:
+      213: -5620213121662223645
+    second: e_roof_snow_1_40
+  - first:
+      213: 832032213630955493
+    second: e_roof_snow_1_41
+  - first:
+      213: 7566518528870330854
+    second: e_roof_snow_1_42
+  - first:
+      213: 3988287727131096477
+    second: e_roof_snow_1_43
+  - first:
+      213: 3332322889302624778
+    second: e_roof_snow_1_44
+  - first:
+      213: 5610972710868503605
+    second: e_roof_snow_1_45
+  - first:
+      213: 2072778332441932345
+    second: e_roof_snow_1_46
+  - first:
+      213: -7276676005684064986
+    second: e_roof_snow_1_47
+  - first:
+      213: 2911235741792887579
+    second: e_roof_snow_1_48
+  - first:
+      213: -5897242348606749721
+    second: e_roof_snow_1_49
+  - first:
+      213: -6243802041315533059
+    second: e_roof_snow_1_50
+  - first:
+      213: 6113526479188171026
+    second: e_roof_snow_1_51
+  - first:
+      213: 1781672748002451483
+    second: e_roof_snow_1_52
+  - first:
+      213: 8167304681232391125
+    second: e_roof_snow_1_53
+  - first:
+      213: 4231390972959015961
+    second: e_roof_snow_1_54
+  - first:
+      213: -7682879894848492568
+    second: e_roof_snow_1_55
+  - first:
+      213: -1460459765048476526
+    second: e_roof_snow_1_56
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: e_roof_snow_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3199
+        width: 769
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a6fba415bb618430800000000000000
+      internalID: 3783423587447994016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_roof_snow_1_1
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 3504
+        width: 178
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9056c9506093e2380800000000000000
+      internalID: -8994188707785579255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_roof_snow_1_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3071
+        width: 129
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a024e1185cd170020800000000000000
+      internalID: 2307846068162675210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_roof_snow_1_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 3135
+        width: 131
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04bdcdc839e77d630800000000000000
+      internalID: 3951766370229476160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_roof_snow_1_4
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 3070
+        width: 130
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 649fe901c53bc9ad0800000000000000
+      internalID: -2694081269077182138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_roof_snow_1_5
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 3135
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc9e6277c133b7320800000000000000
+      internalID: 2556693410814028237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_roof_snow_1_6
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 3135
+        width: 205
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb2eedfbe48494550800000000000000
+      internalID: 6145522669587456699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_roof_snow_1_7
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 3005
+        width: 130
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c2fbdbcd75be1070800000000000000
+      internalID: 8079094333444977352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_roof_snow_1_8
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 3026
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c40590e50e4e2f70800000000000000
+      internalID: 9164348078895203525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_roof_snow_1_9
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 2815
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88277192b497cd6a0800000000000000
+      internalID: -6423125604818259320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_roof_snow_1_10
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 2815
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e5b9285249c80e20800000000000000
+      internalID: 3317122412342523368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_roof_snow_1_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2557
+        width: 770
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee8c6886aac14370800000000000000
+      internalID: 8305142004450103008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_roof_snow_1_12
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 2748
+        width: 94
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73fbadde26d6476f0800000000000000
+      internalID: -687804571416084681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_roof_snow_1_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2302
+        width: 384
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0807f88311d1a68f0800000000000000
+      internalID: -546592444971519872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_roof_snow_1_14
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 2175
+        width: 386
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a646ca7069dec0070800000000000000
+      internalID: 8074089460598072426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_roof_snow_1_15
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 2490
+        width: 176
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35ecff43cfe98930800000000000000
+      internalID: 4146108554110887228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_roof_snow_1_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2046
+        width: 129
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac25c1dafdfaaffb0800000000000000
+      internalID: -4613181493070769462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_roof_snow_1_17
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2110
+        width: 129
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c5bca3aaf4f88e0800000000000000
+      internalID: -1689043742691206000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_roof_snow_1_18
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 2174
+        width: 131
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59112ce789bed21b0800000000000000
+      internalID: -5679624514850123371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_roof_snow_1_19
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 2046
+        width: 130
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8f559973f6dde180800000000000000
+      internalID: -9084368532131192946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_roof_snow_1_20
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 2111
+        width: 131
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 128e7b0dd59e229a0800000000000000
+      internalID: -6259183942948624351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_roof_snow_1_21
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 2111
+        width: 204
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7c83c20c4ab3ff90800000000000000
+      internalID: -6920983366711669634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_roof_snow_1_22
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1978
+        width: 130
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0349c6d7d3d445af0800000000000000
+      internalID: -408616739691260880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_roof_snow_1_23
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 1999
+        width: 48
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a3d13b6099c5f40800000000000000
+      internalID: 5718613880907577856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_roof_snow_1_24
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1791
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f514a6dacfdd4360800000000000000
+      internalID: 7155621445239051767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_roof_snow_1_25
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1791
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f54bded4bcc609c00800000000000000
+      internalID: 905343145543054431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_roof_snow_1_26
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1534
+        width: 770
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c1ab93e1278fdb50800000000000000
+      internalID: 6620158556880216521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_roof_snow_1_27
+      rect:
+        serializedVersion: 2
+        x: 847
+        y: 1722
+        width: 96
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf005c2f4f174b40800000000000000
+      internalID: 5424338701097373661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_roof_snow_1_28
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1343
+        width: 130
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f49489401a1fff2c0800000000000000
+      internalID: -4395529037421196977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_roof_snow_1_29
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1407
+        width: 130
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46851b8666ba903f0800000000000000
+      internalID: -934026991371200412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_roof_snow_1_30
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 1326
+        width: 68
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60a06f1707b446fe0800000000000000
+      internalID: -1196748654653339130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_roof_snow_1_31
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 1390
+        width: 69
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0db4d8170632bcc0800000000000000
+      internalID: -3696832940008489713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_roof_snow_1_32
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 1407
+        width: 197
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4550abe6a2d40a50800000000000000
+      internalID: 6486540977679914316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_roof_snow_1_33
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1279
+        width: 129
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b47c035aeb3d398a0800000000000000
+      internalID: -6299458637992507573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_roof_snow_1_34
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 1262
+        width: 69
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f14796405af09c0800000000000000
+      internalID: -3958764109067706549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_roof_snow_1_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 797
+        width: 129
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34d44a4f5935fe9d0800000000000000
+      internalID: -2742881744525701821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_roof_snow_1_36
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 813
+        width: 131
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c659fe736988f2e80800000000000000
+      internalID: -8201186217653463700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_roof_snow_1_37
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 827
+        width: 130
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2721f3c5020d820800000000000000
+      internalID: 2940886137240187627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_roof_snow_1_38
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 804
+        width: 258
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f6246d9e42ef3de0800000000000000
+      internalID: -1351112535911946510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_roof_snow_1_39
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 827
+        width: 131
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 434bc628afe730890800000000000000
+      internalID: -7493005740619287500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_roof_snow_1_40
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 813
+        width: 131
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ea755961fdf002b0800000000000000
+      internalID: -5620213121662223645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_roof_snow_1_41
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 797
+        width: 129
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5efa727d3e8fb8b00800000000000000
+      internalID: 832032213630955493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_roof_snow_1_42
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 575
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e13abb438ca10960800000000000000
+      internalID: 7566518528870330854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_roof_snow_1_43
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 575
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d95f2b59e8e395730800000000000000
+      internalID: 3988287727131096477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_roof_snow_1_44
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 639
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a49cd230ace3e20800000000000000
+      internalID: 3332322889302624778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_roof_snow_1_45
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 639
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c4abbc3fd2edd40800000000000000
+      internalID: 5610972710868503605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_roof_snow_1_46
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 548
+        width: 252
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 932f35b49ecf3cc10800000000000000
+      internalID: 2072778332441932345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_roof_snow_1_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 285
+        width: 129
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62dc79fe9bd040b90800000000000000
+      internalID: -7276676005684064986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_roof_snow_1_48
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 301
+        width: 131
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b136cf69b79c66820800000000000000
+      internalID: 2911235741792887579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_roof_snow_1_49
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 315
+        width: 130
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e387e03459c82ea0800000000000000
+      internalID: -5897242348606749721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_roof_snow_1_50
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 285
+        width: 258
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe578fdf1f8959a0800000000000000
+      internalID: -6243802041315533059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_roof_snow_1_51
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 315
+        width: 131
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21994f421fb97d450800000000000000
+      internalID: 6113526479188171026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_roof_snow_1_52
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 301
+        width: 131
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b102ea2bce5c9b810800000000000000
+      internalID: 1781672748002451483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_roof_snow_1_53
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 285
+        width: 129
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dbdd39d558185170800000000000000
+      internalID: 8167304681232391125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_roof_snow_1_54
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 63
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9144409cbabe8ba30800000000000000
+      internalID: 4231390972959015961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_roof_snow_1_55
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 63
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8eba097f07de06590800000000000000
+      internalID: -7682879894848492568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: e_roof_snow_1_56
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 127
+        width: 256
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29cf88fd4976bbbe0800000000000000
+      internalID: -1460459765048476526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      e_roof_snow_1_0: 3783423587447994016
+      e_roof_snow_1_1: -8994188707785579255
+      e_roof_snow_1_10: 3317122412342523368
+      e_roof_snow_1_11: 8305142004450103008
+      e_roof_snow_1_12: -687804571416084681
+      e_roof_snow_1_13: -546592444971519872
+      e_roof_snow_1_14: 8074089460598072426
+      e_roof_snow_1_15: 4146108554110887228
+      e_roof_snow_1_16: -4613181493070769462
+      e_roof_snow_1_17: -1689043742691206000
+      e_roof_snow_1_18: -5679624514850123371
+      e_roof_snow_1_19: -9084368532131192946
+      e_roof_snow_1_2: 2307846068162675210
+      e_roof_snow_1_20: -6259183942948624351
+      e_roof_snow_1_21: -6920983366711669634
+      e_roof_snow_1_22: -408616739691260880
+      e_roof_snow_1_23: 5718613880907577856
+      e_roof_snow_1_24: 7155621445239051767
+      e_roof_snow_1_25: 905343145543054431
+      e_roof_snow_1_26: 6620158556880216521
+      e_roof_snow_1_27: 5424338701097373661
+      e_roof_snow_1_28: -4395529037421196977
+      e_roof_snow_1_29: -934026991371200412
+      e_roof_snow_1_3: 3951766370229476160
+      e_roof_snow_1_30: -1196748654653339130
+      e_roof_snow_1_31: -3696832940008489713
+      e_roof_snow_1_32: 6486540977679914316
+      e_roof_snow_1_33: -6299458637992507573
+      e_roof_snow_1_34: -3958764109067706549
+      e_roof_snow_1_35: -2742881744525701821
+      e_roof_snow_1_36: -8201186217653463700
+      e_roof_snow_1_37: 2940886137240187627
+      e_roof_snow_1_38: -1351112535911946510
+      e_roof_snow_1_39: -7493005740619287500
+      e_roof_snow_1_4: -2694081269077182138
+      e_roof_snow_1_40: -5620213121662223645
+      e_roof_snow_1_41: 832032213630955493
+      e_roof_snow_1_42: 7566518528870330854
+      e_roof_snow_1_43: 3988287727131096477
+      e_roof_snow_1_44: 3332322889302624778
+      e_roof_snow_1_45: 5610972710868503605
+      e_roof_snow_1_46: 2072778332441932345
+      e_roof_snow_1_47: -7276676005684064986
+      e_roof_snow_1_48: 2911235741792887579
+      e_roof_snow_1_49: -5897242348606749721
+      e_roof_snow_1_5: 2556693410814028237
+      e_roof_snow_1_50: -6243802041315533059
+      e_roof_snow_1_51: 6113526479188171026
+      e_roof_snow_1_52: 1781672748002451483
+      e_roof_snow_1_53: 8167304681232391125
+      e_roof_snow_1_54: 4231390972959015961
+      e_roof_snow_1_55: -7682879894848492568
+      e_roof_snow_1_56: -1460459765048476526
+      e_roof_snow_1_6: 6145522669587456699
+      e_roof_snow_1_7: 8079094333444977352
+      e_roof_snow_1_8: 9164348078895203525
+      e_roof_snow_1_9: -6423125604818259320
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

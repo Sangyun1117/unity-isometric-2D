@@ -1,0 +1,2405 @@
+fileFormatVersion: 2
+guid: 295b5d702fc3ecd4d9b2c837f2fe1c97
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8842028579762175132
+    second: roofs_05_0
+  - first:
+      213: 8652152306913499005
+    second: roofs_05_1
+  - first:
+      213: -9177111617914960313
+    second: roofs_05_2
+  - first:
+      213: 2828859958028157920
+    second: roofs_05_3
+  - first:
+      213: 5314198820794807177
+    second: roofs_05_4
+  - first:
+      213: 9015205289911233971
+    second: roofs_05_5
+  - first:
+      213: -1830239968743324516
+    second: roofs_05_6
+  - first:
+      213: -3011227825907901914
+    second: roofs_05_7
+  - first:
+      213: -7211855049335221905
+    second: roofs_05_8
+  - first:
+      213: 1683639837732523261
+    second: roofs_05_9
+  - first:
+      213: -1270802316871037561
+    second: roofs_05_10
+  - first:
+      213: 1076969908443613612
+    second: roofs_05_11
+  - first:
+      213: 4093853016054869844
+    second: roofs_05_12
+  - first:
+      213: 814018934241165054
+    second: roofs_05_13
+  - first:
+      213: 5769251256650508493
+    second: roofs_05_14
+  - first:
+      213: -5648743063486977967
+    second: roofs_05_15
+  - first:
+      213: -4498932715408311755
+    second: roofs_05_16
+  - first:
+      213: 2888819006758761332
+    second: roofs_05_17
+  - first:
+      213: 9094170482115905020
+    second: roofs_05_18
+  - first:
+      213: -3965609205967607536
+    second: roofs_05_19
+  - first:
+      213: -3023895141746840110
+    second: roofs_05_20
+  - first:
+      213: 2813395748106135091
+    second: roofs_05_21
+  - first:
+      213: 520674044194544358
+    second: roofs_05_22
+  - first:
+      213: -4011612861435802484
+    second: roofs_05_23
+  - first:
+      213: 8593255212684732945
+    second: roofs_05_24
+  - first:
+      213: -4917547344999010868
+    second: roofs_05_25
+  - first:
+      213: 4574224433365332287
+    second: roofs_05_26
+  - first:
+      213: -3978771848947781988
+    second: roofs_05_27
+  - first:
+      213: -6106106023008514663
+    second: roofs_05_28
+  - first:
+      213: -2994754897896338639
+    second: roofs_05_29
+  - first:
+      213: 8291266631054897940
+    second: roofs_05_30
+  - first:
+      213: -8081293717905598565
+    second: roofs_05_31
+  - first:
+      213: -2797177951382348059
+    second: roofs_05_32
+  - first:
+      213: -3215462815672104606
+    second: roofs_05_33
+  - first:
+      213: 2330199745424576275
+    second: roofs_05_34
+  - first:
+      213: 7093148791612775481
+    second: roofs_05_35
+  - first:
+      213: 2796102413322272562
+    second: roofs_05_36
+  - first:
+      213: -3118692219431649472
+    second: roofs_05_37
+  - first:
+      213: 2340789528101246646
+    second: roofs_05_38
+  - first:
+      213: -6997674964970360480
+    second: roofs_05_39
+  - first:
+      213: -3756566179034966583
+    second: roofs_05_40
+  - first:
+      213: -7012194491440711911
+    second: roofs_05_41
+  - first:
+      213: 239347117492857925
+    second: roofs_05_42
+  - first:
+      213: -8012990069963898299
+    second: roofs_05_43
+  - first:
+      213: 5079244389965667181
+    second: roofs_05_44
+  - first:
+      213: -5723184578652687260
+    second: roofs_05_45
+  - first:
+      213: 246955508486278733
+    second: roofs_05_46
+  - first:
+      213: 7800990190519081530
+    second: roofs_05_47
+  - first:
+      213: 2840894020218088484
+    second: roofs_05_48
+  - first:
+      213: 583951764594270634
+    second: roofs_05_49
+  - first:
+      213: -8411524404122188880
+    second: roofs_05_50
+  - first:
+      213: -8346151070852205634
+    second: roofs_05_51
+  - first:
+      213: 2416393320370002100
+    second: roofs_05_52
+  - first:
+      213: -6777304039535214721
+    second: roofs_05_53
+  - first:
+      213: -3841419936256101089
+    second: roofs_05_54
+  - first:
+      213: 3286407449081681186
+    second: roofs_05_55
+  - first:
+      213: 3739025624078687199
+    second: roofs_05_56
+  - first:
+      213: 5383882101380820555
+    second: roofs_05_57
+  - first:
+      213: -4416217793261965072
+    second: roofs_05_58
+  - first:
+      213: -2735341719471836415
+    second: roofs_05_59
+  - first:
+      213: -1141148771277499820
+    second: roofs_05_60
+  - first:
+      213: -594222904523121539
+    second: roofs_05_61
+  - first:
+      213: 6694389232897732730
+    second: roofs_05_62
+  - first:
+      213: 5024561227393614901
+    second: roofs_05_63
+  - first:
+      213: 8435315090104337953
+    second: roofs_05_64
+  - first:
+      213: -5682079782211507370
+    second: roofs_05_65
+  - first:
+      213: 8526040529399333595
+    second: roofs_05_66
+  - first:
+      213: -1597379877290487710
+    second: roofs_05_67
+  - first:
+      213: 1201859965037165778
+    second: roofs_05_68
+  - first:
+      213: 6645421511785275985
+    second: roofs_05_69
+  - first:
+      213: -563601706211617587
+    second: roofs_05_70
+  - first:
+      213: 5049574537049301262
+    second: roofs_05_71
+  - first:
+      213: 6348479399469238534
+    second: roofs_05_72
+  - first:
+      213: 8182786056431967398
+    second: roofs_05_73
+  - first:
+      213: 4419605954514458879
+    second: roofs_05_74
+  - first:
+      213: -3295947982775542448
+    second: roofs_05_75
+  - first:
+      213: -6111584059470649748
+    second: roofs_05_76
+  - first:
+      213: 5374575858342280203
+    second: roofs_05_77
+  - first:
+      213: -8313568297060268369
+    second: roofs_05_78
+  - first:
+      213: -5777997184605028196
+    second: roofs_05_79
+  - first:
+      213: -5922097993044509630
+    second: roofs_05_80
+  - first:
+      213: 2536973493227301365
+    second: roofs_05_81
+  - first:
+      213: 3361198446787239331
+    second: roofs_05_82
+  - first:
+      213: -106937915237723472
+    second: roofs_05_83
+  - first:
+      213: -3992660975649894043
+    second: roofs_05_84
+  - first:
+      213: 4598998525686013657
+    second: roofs_05_85
+  - first:
+      213: -1715620203429508810
+    second: roofs_05_86
+  - first:
+      213: -4615772990800860303
+    second: roofs_05_87
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: roofs_05_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5503
+        width: 769
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c739e652235ba70800000000000000
+      internalID: 8842028579762175132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_1
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 5808
+        width: 178
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d77d72c9eae921870800000000000000
+      internalID: 8652152306913499005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_2
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 5375
+        width: 129
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 746811e1b9954a080800000000000000
+      internalID: -9177111617914960313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_3
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 5439
+        width: 131
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e34895d421224720800000000000000
+      internalID: 2828859958028157920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_4
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 5374
+        width: 130
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9833643fba3dfb940800000000000000
+      internalID: 5314198820794807177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_5
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 5439
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bda16252717c1d70800000000000000
+      internalID: 9015205289911233971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_6
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 5439
+        width: 205
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c940559027ea996e0800000000000000
+      internalID: -1830239968743324516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_7
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 5309
+        width: 130
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62adcfa1f38f536d0800000000000000
+      internalID: -3011227825907901914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_8
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 5330
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6154ccea085aeb90800000000000000
+      internalID: -7211855049335221905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_9
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 5119
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfc4eb9138d7d5710800000000000000
+      internalID: 1683639837732523261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_10
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 5119
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d882b96043d5ee0800000000000000
+      internalID: -1270802316871037561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4861
+        width: 770
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9019afc6a22fe00800000000000000
+      internalID: 1076969908443613612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_12
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 5052
+        width: 94
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45fac90c0a940d830800000000000000
+      internalID: 4093853016054869844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_13
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4479
+        width: 769
+        height: 386
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efef2e768e9fb4b00800000000000000
+      internalID: 814018934241165054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_14
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 4784
+        width: 178
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc821ac737f701050800000000000000
+      internalID: 5769251256650508493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4351
+        width: 129
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1582861bc12ab91b0800000000000000
+      internalID: -5648743063486977967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_16
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 4415
+        width: 131
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a34bd18849091c0800000000000000
+      internalID: -4498932715408311755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_17
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 4350
+        width: 130
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 473b04eb495271820800000000000000
+      internalID: 2888819006758761332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_18
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 4415
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf58c59dedbf43e70800000000000000
+      internalID: 9094170482115905020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_19
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 4415
+        width: 205
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0192848107357f8c0800000000000000
+      internalID: -3965609205967607536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_20
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 4285
+        width: 130
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dd662ec367f806d0800000000000000
+      internalID: -3023895141746840110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_21
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 4306
+        width: 51
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336e572e6803b0720800000000000000
+      internalID: 2813395748106135091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_22
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 4095
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ea5bf7d84ec93700800000000000000
+      internalID: 520674044194544358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_23
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 4095
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8c0bb16b53e358c0800000000000000
+      internalID: -4011612861435802484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3837
+        width: 770
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11ae8504610614770800000000000000
+      internalID: 8593255212684732945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_25
+      rect:
+        serializedVersion: 2
+        x: 849
+        y: 4028
+        width: 94
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ccd2b277ebc51cbb0800000000000000
+      internalID: -4917547344999010868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_26
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 3647
+        width: 130
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3137a903e8ea7f30800000000000000
+      internalID: 4574224433365332287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_27
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 3711
+        width: 130
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ea425751098c8c0800000000000000
+      internalID: -3978771848947781988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_28
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 3630
+        width: 68
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99d44b17ce0c24ba0800000000000000
+      internalID: -6106106023008514663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_29
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 3694
+        width: 69
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b0789894e7076d0800000000000000
+      internalID: -2994754897896338639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_30
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 3711
+        width: 205
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413b31a621f701370800000000000000
+      internalID: 8291266631054897940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_31
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3583
+        width: 129
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9714aa1e2a79df80800000000000000
+      internalID: -8081293717905598565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_32
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 3566
+        width: 69
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eedc4a297d6e29d0800000000000000
+      internalID: -2797177951382348059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_33
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 3391
+        width: 130
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 269036bfa916063d0800000000000000
+      internalID: -3215462815672104606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_34
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 3455
+        width: 130
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fccb19258865020800000000000000
+      internalID: 2330199745424576275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_35
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 3374
+        width: 68
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93c121fae3def6260800000000000000
+      internalID: 7093148791612775481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_36
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 3438
+        width: 69
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23fbfad9450cdc620800000000000000
+      internalID: 2796102413322272562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_37
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 3455
+        width: 205
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04f700133fd28b4d0800000000000000
+      internalID: -3118692219431649472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_38
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3327
+        width: 129
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b6dd6c7ca72c7020800000000000000
+      internalID: 2340789528101246646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_39
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 3310
+        width: 69
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0613c43d1b343ee90800000000000000
+      internalID: -6997674964970360480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3101
+        width: 129
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c5df5b96fefddbc0800000000000000
+      internalID: -3756566179034966583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_41
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 3117
+        width: 131
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 917b9b1234eafae90800000000000000
+      internalID: -7012194491440711911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_42
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 3131
+        width: 130
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54cec2c6fe4525300800000000000000
+      internalID: 239347117492857925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_43
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 3108
+        width: 258
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542c11b6cf32cc090800000000000000
+      internalID: -8012990069963898299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_44
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 3131
+        width: 131
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6b9c479cd91d7640800000000000000
+      internalID: 5079244389965667181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_45
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 3117
+        width: 131
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 464b96dc2f92390b0800000000000000
+      internalID: -5723184578652687260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_46
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 3101
+        width: 129
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4e86aef9bc5d6300800000000000000
+      internalID: 246955508486278733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_47
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2879
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3a52323f3fa24c60800000000000000
+      internalID: 7800990190519081530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_48
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 2879
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42c61a74f02ec6720800000000000000
+      internalID: 2840894020218088484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_49
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 2943
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1aa96390d9a1800800000000000000
+      internalID: 583951764594270634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_50
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 2943
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b384c0ee13444b80800000000000000
+      internalID: -8411524404122188880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_51
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2852
+        width: 252
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3bb1422d38c2c80800000000000000
+      internalID: -8346151070852205634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_52
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2589
+        width: 129
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b8d74a1ce0c88120800000000000000
+      internalID: 2416393320370002100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_53
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 2605
+        width: 131
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ffeac32ed22f1a0800000000000000
+      internalID: -6777304039535214721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_54
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2619
+        width: 130
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15f952bbe880bac0800000000000000
+      internalID: -3841419936256101089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_55
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 2589
+        width: 258
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22516bda92aab9d20800000000000000
+      internalID: 3286407449081681186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_56
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 2619
+        width: 131
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb1b41beffa3e330800000000000000
+      internalID: 3739025624078687199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_57
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 2605
+        width: 131
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4e23650f3467ba40800000000000000
+      internalID: 5383882101380820555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_58
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 2589
+        width: 129
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f07cdda05176b2c0800000000000000
+      internalID: -4416217793261965072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_59
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2303
+        width: 257
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1033397d23d1a0ad0800000000000000
+      internalID: -2735341719471836415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_60
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2303
+        width: 258
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45291241d33d920f0800000000000000
+      internalID: -1141148771277499820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_61
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 2303
+        width: 256
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7c9f7aaa65e0c7f0800000000000000
+      internalID: -594222904523121539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_62
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 2367
+        width: 126
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a70b117f98f37ec50800000000000000
+      internalID: 6694389232897732730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_63
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 2303
+        width: 126
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5344ff6a0d3dab540800000000000000
+      internalID: 5024561227393614901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2077
+        width: 129
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 126492ad162401570800000000000000
+      internalID: 8435315090104337953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_65
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 2093
+        width: 131
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65baad30b823521b0800000000000000
+      internalID: -5682079782211507370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_66
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2107
+        width: 130
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd24e6740b4925670800000000000000
+      internalID: 8526040529399333595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_67
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 2084
+        width: 258
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2605eb20777f4d9e0800000000000000
+      internalID: -1597379877290487710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_68
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 2107
+        width: 131
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dcbdcd354ddda010800000000000000
+      internalID: 1201859965037165778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_69
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 2093
+        width: 131
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15263b0f7a7493c50800000000000000
+      internalID: 6645421511785275985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_70
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 2077
+        width: 129
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4d37afb3fad28f0800000000000000
+      internalID: -563601706211617587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_71
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1855
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e016ea3a941b31640800000000000000
+      internalID: 5049574537049301262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_72
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1855
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609cf3dc0645a1850800000000000000
+      internalID: 6348479399469238534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_73
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1919
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ac95a660981f8170800000000000000
+      internalID: 8182786056431967398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_74
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1919
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff819061338955d30800000000000000
+      internalID: 4419605954514458879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_75
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1828
+        width: 252
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05d9f78b5c07242d0800000000000000
+      internalID: -3295947982775542448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_76
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1565
+        width: 129
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66ef40bdaa4f2ba0800000000000000
+      internalID: -6111584059470649748
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_77
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1581
+        width: 131
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0cb1e67444569a40800000000000000
+      internalID: 5374575858342280203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_78
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1595
+        width: 130
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa606c55ea540ac80800000000000000
+      internalID: -8313568297060268369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_79
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1565
+        width: 258
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c90096a7c2e60dfa0800000000000000
+      internalID: -5777997184605028196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_80
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1595
+        width: 131
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24c378f704b70dda0800000000000000
+      internalID: -5922097993044509630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_81
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1581
+        width: 131
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f9256c53f3253320800000000000000
+      internalID: 2536973493227301365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_82
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1565
+        width: 129
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ad1950dd2065ae20800000000000000
+      internalID: 3361198446787239331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_83
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1279
+        width: 257
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b21c3d5884148ef0800000000000000
+      internalID: -106937915237723472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_84
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1279
+        width: 258
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 561d2d52ff73798c0800000000000000
+      internalID: -3992660975649894043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_85
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1279
+        width: 256
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9de5f06eacce2df30800000000000000
+      internalID: 4598998525686013657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_86
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1343
+        width: 126
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 639c915c384e038e0800000000000000
+      internalID: -1715620203429508810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_05_87
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1279
+        width: 126
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17be8779bea71ffb0800000000000000
+      internalID: -4615772990800860303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      roofs_05_0: 8842028579762175132
+      roofs_05_1: 8652152306913499005
+      roofs_05_10: -1270802316871037561
+      roofs_05_11: 1076969908443613612
+      roofs_05_12: 4093853016054869844
+      roofs_05_13: 814018934241165054
+      roofs_05_14: 5769251256650508493
+      roofs_05_15: -5648743063486977967
+      roofs_05_16: -4498932715408311755
+      roofs_05_17: 2888819006758761332
+      roofs_05_18: 9094170482115905020
+      roofs_05_19: -3965609205967607536
+      roofs_05_2: -9177111617914960313
+      roofs_05_20: -3023895141746840110
+      roofs_05_21: 2813395748106135091
+      roofs_05_22: 520674044194544358
+      roofs_05_23: -4011612861435802484
+      roofs_05_24: 8593255212684732945
+      roofs_05_25: -4917547344999010868
+      roofs_05_26: 4574224433365332287
+      roofs_05_27: -3978771848947781988
+      roofs_05_28: -6106106023008514663
+      roofs_05_29: -2994754897896338639
+      roofs_05_3: 2828859958028157920
+      roofs_05_30: 8291266631054897940
+      roofs_05_31: -8081293717905598565
+      roofs_05_32: -2797177951382348059
+      roofs_05_33: -3215462815672104606
+      roofs_05_34: 2330199745424576275
+      roofs_05_35: 7093148791612775481
+      roofs_05_36: 2796102413322272562
+      roofs_05_37: -3118692219431649472
+      roofs_05_38: 2340789528101246646
+      roofs_05_39: -6997674964970360480
+      roofs_05_4: 5314198820794807177
+      roofs_05_40: -3756566179034966583
+      roofs_05_41: -7012194491440711911
+      roofs_05_42: 239347117492857925
+      roofs_05_43: -8012990069963898299
+      roofs_05_44: 5079244389965667181
+      roofs_05_45: -5723184578652687260
+      roofs_05_46: 246955508486278733
+      roofs_05_47: 7800990190519081530
+      roofs_05_48: 2840894020218088484
+      roofs_05_49: 583951764594270634
+      roofs_05_5: 9015205289911233971
+      roofs_05_50: -8411524404122188880
+      roofs_05_51: -8346151070852205634
+      roofs_05_52: 2416393320370002100
+      roofs_05_53: -6777304039535214721
+      roofs_05_54: -3841419936256101089
+      roofs_05_55: 3286407449081681186
+      roofs_05_56: 3739025624078687199
+      roofs_05_57: 5383882101380820555
+      roofs_05_58: -4416217793261965072
+      roofs_05_59: -2735341719471836415
+      roofs_05_6: -1830239968743324516
+      roofs_05_60: -1141148771277499820
+      roofs_05_61: -594222904523121539
+      roofs_05_62: 6694389232897732730
+      roofs_05_63: 5024561227393614901
+      roofs_05_64: 8435315090104337953
+      roofs_05_65: -5682079782211507370
+      roofs_05_66: 8526040529399333595
+      roofs_05_67: -1597379877290487710
+      roofs_05_68: 1201859965037165778
+      roofs_05_69: 6645421511785275985
+      roofs_05_7: -3011227825907901914
+      roofs_05_70: -563601706211617587
+      roofs_05_71: 5049574537049301262
+      roofs_05_72: 6348479399469238534
+      roofs_05_73: 8182786056431967398
+      roofs_05_74: 4419605954514458879
+      roofs_05_75: -3295947982775542448
+      roofs_05_76: -6111584059470649748
+      roofs_05_77: 5374575858342280203
+      roofs_05_78: -8313568297060268369
+      roofs_05_79: -5777997184605028196
+      roofs_05_8: -7211855049335221905
+      roofs_05_80: -5922097993044509630
+      roofs_05_81: 2536973493227301365
+      roofs_05_82: 3361198446787239331
+      roofs_05_83: -106937915237723472
+      roofs_05_84: -3992660975649894043
+      roofs_05_85: 4598998525686013657
+      roofs_05_86: -1715620203429508810
+      roofs_05_87: -4615772990800860303
+      roofs_05_9: 1683639837732523261
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

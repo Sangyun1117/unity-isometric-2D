@@ -1,0 +1,1209 @@
+fileFormatVersion: 2
+guid: 467251b2fc2387a40bcab823aa8191bc
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3981647495131122471
+    second: location_sewer_01_0
+  - first:
+      213: 3491756285298888288
+    second: location_sewer_01_1
+  - first:
+      213: 4493360684731627789
+    second: location_sewer_01_2
+  - first:
+      213: -5333689937799462579
+    second: location_sewer_01_3
+  - first:
+      213: 8501495663416636549
+    second: location_sewer_01_4
+  - first:
+      213: -8500715924430082803
+    second: location_sewer_01_5
+  - first:
+      213: 6397664328912826203
+    second: location_sewer_01_6
+  - first:
+      213: 3143143451154706381
+    second: location_sewer_01_7
+  - first:
+      213: 6913952313208815197
+    second: location_sewer_01_8
+  - first:
+      213: -195715639161095635
+    second: location_sewer_01_9
+  - first:
+      213: -2693829392435445869
+    second: location_sewer_01_10
+  - first:
+      213: 4077050795730334512
+    second: location_sewer_01_11
+  - first:
+      213: 8488010153209463038
+    second: location_sewer_01_12
+  - first:
+      213: -2247144621421366559
+    second: location_sewer_01_13
+  - first:
+      213: 6749722966472804825
+    second: location_sewer_01_14
+  - first:
+      213: -5714963260428631215
+    second: location_sewer_01_15
+  - first:
+      213: 1210602207501127283
+    second: location_sewer_01_16
+  - first:
+      213: -262452536879539990
+    second: location_sewer_01_17
+  - first:
+      213: -5610011882310403906
+    second: location_sewer_01_18
+  - first:
+      213: -2938318931218074245
+    second: location_sewer_01_19
+  - first:
+      213: 1607021768769427003
+    second: location_sewer_01_20
+  - first:
+      213: -1798143712679961044
+    second: location_sewer_01_21
+  - first:
+      213: 3049045761058576762
+    second: location_sewer_01_22
+  - first:
+      213: 3527636001391930001
+    second: location_sewer_01_23
+  - first:
+      213: -922077156513580917
+    second: location_sewer_01_24
+  - first:
+      213: 34589839130869887
+    second: location_sewer_01_25
+  - first:
+      213: 5580364589072669477
+    second: location_sewer_01_26
+  - first:
+      213: 7481533917941050448
+    second: location_sewer_01_27
+  - first:
+      213: 3792946844094602185
+    second: location_sewer_01_28
+  - first:
+      213: -2359242279318799813
+    second: location_sewer_01_29
+  - first:
+      213: 8069431069838672758
+    second: location_sewer_01_30
+  - first:
+      213: -7155530392146486875
+    second: location_sewer_01_31
+  - first:
+      213: 286834501856272406
+    second: location_sewer_01_32
+  - first:
+      213: -4022922061396732228
+    second: location_sewer_01_33
+  - first:
+      213: -315811423902840195
+    second: location_sewer_01_34
+  - first:
+      213: -1184809971099547119
+    second: location_sewer_01_35
+  - first:
+      213: -8167375937736280310
+    second: location_sewer_01_36
+  - first:
+      213: -4448113211504077977
+    second: location_sewer_01_37
+  - first:
+      213: 6982001256530993378
+    second: location_sewer_01_38
+  - first:
+      213: -1286311281243629617
+    second: location_sewer_01_39
+  - first:
+      213: -8562740255046410264
+    second: location_sewer_01_40
+  - first:
+      213: 6326005495232730368
+    second: location_sewer_01_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: location_sewer_01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1818
+        width: 67
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4b2e7e2b85eb8c0800000000000000
+      internalID: -3981647495131122471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_sewer_01_1
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1821
+        width: 68
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06e4a7367d5357030800000000000000
+      internalID: 3491756285298888288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_sewer_01_2
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1821
+        width: 128
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0972256cbf9b5e30800000000000000
+      internalID: 4493360684731627789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_sewer_01_3
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1851
+        width: 8
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41436bb24deaf5b0800000000000000
+      internalID: -5333689937799462579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_sewer_01_4
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1818
+        width: 68
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 584f87553416bf570800000000000000
+      internalID: 8501495663416636549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_sewer_01_5
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1821
+        width: 68
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0da6dbc7e3670a80800000000000000
+      internalID: -8500715924430082803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_sewer_01_6
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1818
+        width: 68
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5f69059fc119c850800000000000000
+      internalID: 6397664328912826203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_sewer_01_7
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1821
+        width: 68
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcfeb24d050be9b20800000000000000
+      internalID: 3143143451154706381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_sewer_01_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1565
+        width: 67
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e3dc64ffa43ff50800000000000000
+      internalID: 6913952313208815197
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_sewer_01_9
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1565
+        width: 68
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2a70d2c9ada84df0800000000000000
+      internalID: -195715639161095635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_sewer_01_10
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1565
+        width: 128
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39ff06aa0789d9ad0800000000000000
+      internalID: -2693829392435445869
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_sewer_01_11
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1595
+        width: 8
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033fabaf818949830800000000000000
+      internalID: 4077050795730334512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_sewer_01_12
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1565
+        width: 68
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef085ff43487bc570800000000000000
+      internalID: 8488010153209463038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_sewer_01_13
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1565
+        width: 68
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2ff396fd980d0e0800000000000000
+      internalID: -2247144621421366559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_sewer_01_14
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1565
+        width: 68
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d948e4c645dbad50800000000000000
+      internalID: 6749722966472804825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_sewer_01_15
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1565
+        width: 68
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1534ebd913f50b0b0800000000000000
+      internalID: -5714963260428631215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_sewer_01_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1309
+        width: 67
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37e886e2b4cecc010800000000000000
+      internalID: 1210602207501127283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_sewer_01_17
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1309
+        width: 68
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae815e8eec49b5cf0800000000000000
+      internalID: -262452536879539990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_sewer_01_18
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1309
+        width: 68
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb8fa298aeb3522b0800000000000000
+      internalID: -5610011882310403906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_sewer_01_19
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1309
+        width: 68
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b75f0fbff7ef837d0800000000000000
+      internalID: -2938318931218074245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_sewer_01_20
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1309
+        width: 68
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3652d9c8c94d4610800000000000000
+      internalID: 1607021768769427003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_sewer_01_21
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1334
+        width: 68
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2edb9ef1d5bb07e0800000000000000
+      internalID: -1798143712679961044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_sewer_01_22
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1334
+        width: 68
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a799ec317f2605a20800000000000000
+      internalID: 3049045761058576762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_sewer_01_23
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1309
+        width: 68
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19a68d7c04ea4f030800000000000000
+      internalID: 3527636001391930001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_sewer_01_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1053
+        width: 67
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88718626bf1433f0800000000000000
+      internalID: -922077156513580917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_sewer_01_25
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1053
+        width: 68
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f70cb328643ea7000800000000000000
+      internalID: 34589839130869887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_sewer_01_26
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1151
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52b58d81700717d40800000000000000
+      internalID: 5580364589072669477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_sewer_01_27
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 802
+        width: 39
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ca9e1a57fb3d760800000000000000
+      internalID: 7481533917941050448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_sewer_01_28
+      rect:
+        serializedVersion: 2
+        x: 199
+        y: 802
+        width: 39
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cb923e0f0143a430800000000000000
+      internalID: 3792946844094602185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_sewer_01_29
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 788
+        width: 61
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3abe1295a9424fd0800000000000000
+      internalID: -2359242279318799813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_sewer_01_30
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 796
+        width: 45
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6730c39edc06cff60800000000000000
+      internalID: 8069431069838672758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_sewer_01_31
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 796
+        width: 45
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a9d89c150372bc90800000000000000
+      internalID: -7155530392146486875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_sewer_01_32
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 788
+        width: 61
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6102870b57a0bf300800000000000000
+      internalID: 286834501856272406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_sewer_01_33
+      rect:
+        serializedVersion: 2
+        x: 805
+        y: 835
+        width: 86
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb69d5313b5bb28c0800000000000000
+      internalID: -4022922061396732228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_sewer_01_34
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 834
+        width: 85
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7ac246ee230e9bf0800000000000000
+      internalID: -315811423902840195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_sewer_01_35
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 724
+        width: 66
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a4542db95be8fe0800000000000000
+      internalID: -1184809971099547119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_sewer_01_36
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 724
+        width: 66
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a07f7247bd6a7ae80800000000000000
+      internalID: -8167375937736280310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_sewer_01_37
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 755
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 763d39be9902542c0800000000000000
+      internalID: -4448113211504077977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_sewer_01_38
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 724
+        width: 124
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e06cdc862d05e060800000000000000
+      internalID: 6982001256530993378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_sewer_01_39
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 511
+        width: 127
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc755e274ba162ee0800000000000000
+      internalID: -1286311281243629617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_sewer_01_40
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 511
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef550afa190b2980800000000000000
+      internalID: -8562740255046410264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_sewer_01_41
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 510
+        width: 128
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00514863b7c7ac750800000000000000
+      internalID: 6326005495232730368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      location_sewer_01_0: -3981647495131122471
+      location_sewer_01_1: 3491756285298888288
+      location_sewer_01_10: -2693829392435445869
+      location_sewer_01_11: 4077050795730334512
+      location_sewer_01_12: 8488010153209463038
+      location_sewer_01_13: -2247144621421366559
+      location_sewer_01_14: 6749722966472804825
+      location_sewer_01_15: -5714963260428631215
+      location_sewer_01_16: 1210602207501127283
+      location_sewer_01_17: -262452536879539990
+      location_sewer_01_18: -5610011882310403906
+      location_sewer_01_19: -2938318931218074245
+      location_sewer_01_2: 4493360684731627789
+      location_sewer_01_20: 1607021768769427003
+      location_sewer_01_21: -1798143712679961044
+      location_sewer_01_22: 3049045761058576762
+      location_sewer_01_23: 3527636001391930001
+      location_sewer_01_24: -922077156513580917
+      location_sewer_01_25: 34589839130869887
+      location_sewer_01_26: 5580364589072669477
+      location_sewer_01_27: 7481533917941050448
+      location_sewer_01_28: 3792946844094602185
+      location_sewer_01_29: -2359242279318799813
+      location_sewer_01_3: -5333689937799462579
+      location_sewer_01_30: 8069431069838672758
+      location_sewer_01_31: -7155530392146486875
+      location_sewer_01_32: 286834501856272406
+      location_sewer_01_33: -4022922061396732228
+      location_sewer_01_34: -315811423902840195
+      location_sewer_01_35: -1184809971099547119
+      location_sewer_01_36: -8167375937736280310
+      location_sewer_01_37: -4448113211504077977
+      location_sewer_01_38: 6982001256530993378
+      location_sewer_01_39: -1286311281243629617
+      location_sewer_01_4: 8501495663416636549
+      location_sewer_01_40: -8562740255046410264
+      location_sewer_01_41: 6326005495232730368
+      location_sewer_01_5: -8500715924430082803
+      location_sewer_01_6: 6397664328912826203
+      location_sewer_01_7: 3143143451154706381
+      location_sewer_01_8: 6913952313208815197
+      location_sewer_01_9: -195715639161095635
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

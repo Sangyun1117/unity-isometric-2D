@@ -1,0 +1,1183 @@
+fileFormatVersion: 2
+guid: 32454b2253198ee4dafd9021593d6e6a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5065352629362107330
+    second: fixtures_escalators_01_0
+  - first:
+      213: 2575328367243049718
+    second: fixtures_escalators_01_1
+  - first:
+      213: -1094115191113909750
+    second: fixtures_escalators_01_2
+  - first:
+      213: -8408676218307147000
+    second: fixtures_escalators_01_3
+  - first:
+      213: 7512769653662491604
+    second: fixtures_escalators_01_4
+  - first:
+      213: -8185270478971771836
+    second: fixtures_escalators_01_5
+  - first:
+      213: 7816402147618017154
+    second: fixtures_escalators_01_6
+  - first:
+      213: 7313433478399794698
+    second: fixtures_escalators_01_7
+  - first:
+      213: -2578868167569832568
+    second: fixtures_escalators_01_8
+  - first:
+      213: 412133299125460651
+    second: fixtures_escalators_01_9
+  - first:
+      213: 4875273902363399525
+    second: fixtures_escalators_01_10
+  - first:
+      213: 3503427175652211262
+    second: fixtures_escalators_01_11
+  - first:
+      213: -6500144494041765139
+    second: fixtures_escalators_01_12
+  - first:
+      213: -8692619357767103280
+    second: fixtures_escalators_01_13
+  - first:
+      213: -7764289974467106284
+    second: fixtures_escalators_01_14
+  - first:
+      213: -2172681623142183031
+    second: fixtures_escalators_01_15
+  - first:
+      213: 8333070586658373932
+    second: fixtures_escalators_01_16
+  - first:
+      213: -4460565054966281349
+    second: fixtures_escalators_01_17
+  - first:
+      213: -1304405532048571470
+    second: fixtures_escalators_01_18
+  - first:
+      213: 4428866640896207055
+    second: fixtures_escalators_01_19
+  - first:
+      213: -5717350355607943779
+    second: fixtures_escalators_01_20
+  - first:
+      213: -4439945414259921271
+    second: fixtures_escalators_01_21
+  - first:
+      213: -605891271053193053
+    second: fixtures_escalators_01_22
+  - first:
+      213: 3654562450808710523
+    second: fixtures_escalators_01_23
+  - first:
+      213: -6644699013704948561
+    second: fixtures_escalators_01_24
+  - first:
+      213: 8460070770737533539
+    second: fixtures_escalators_01_25
+  - first:
+      213: -3005541517581514897
+    second: fixtures_escalators_01_26
+  - first:
+      213: 8228820189660185471
+    second: fixtures_escalators_01_27
+  - first:
+      213: 8297622211528014714
+    second: fixtures_escalators_01_28
+  - first:
+      213: 1508551457705162389
+    second: fixtures_escalators_01_29
+  - first:
+      213: 4615016363623743064
+    second: fixtures_escalators_01_30
+  - first:
+      213: 1120988299150717442
+    second: fixtures_escalators_01_31
+  - first:
+      213: 997754702872246089
+    second: fixtures_escalators_01_32
+  - first:
+      213: 1147165459769213386
+    second: fixtures_escalators_01_33
+  - first:
+      213: 2886523216600563519
+    second: fixtures_escalators_01_34
+  - first:
+      213: 545757908199623543
+    second: fixtures_escalators_01_35
+  - first:
+      213: -5789737040222263165
+    second: fixtures_escalators_01_36
+  - first:
+      213: 7056532188051699082
+    second: fixtures_escalators_01_37
+  - first:
+      213: -1263164526986442086
+    second: fixtures_escalators_01_38
+  - first:
+      213: -8241054315946360784
+    second: fixtures_escalators_01_39
+  - first:
+      213: 8122826024621552774
+    second: fixtures_escalators_01_40
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fixtures_escalators_01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1791
+        width: 129
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3cd7c8fe9044b9b0800000000000000
+      internalID: -5065352629362107330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_escalators_01_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1848
+        width: 130
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fa328d51876db320800000000000000
+      internalID: 2575328367243049718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_escalators_01_2
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1912
+        width: 130
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0afb42d70ce0d0f0800000000000000
+      internalID: -1094115191113909750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_escalators_01_3
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1811
+        width: 55
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b0780d7816e4b80800000000000000
+      internalID: -8408676218307147000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_escalators_01_4
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1537
+        width: 385
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d323e51238b24860800000000000000
+      internalID: 7512769653662491604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_escalators_01_5
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1791
+        width: 128
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4446566edd3186e80800000000000000
+      internalID: -8185270478971771836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_escalators_01_6
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1791
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28f4f561750797c60800000000000000
+      internalID: 7816402147618017154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_escalators_01_7
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 1791
+        width: 129
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0e187810098e7560800000000000000
+      internalID: 7313433478399794698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_escalators_01_8
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1388
+        width: 128
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8850075a015063cd0800000000000000
+      internalID: -2578868167569832568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_escalators_01_9
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1535
+        width: 257
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bae9b7e4d0138b500800000000000000
+      internalID: 412133299125460651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_escalators_01_10
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1303
+        width: 51
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5655a1da8c378a340800000000000000
+      internalID: 4875273902363399525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_escalators_01_11
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1287
+        width: 83
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a333d447cae9030800000000000000
+      internalID: 3503427175652211262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_escalators_01_12
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1305
+        width: 82
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deaedeb9509dac5a0800000000000000
+      internalID: -6500144494041765139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_escalators_01_13
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 1311
+        width: 74
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc8b94efbc9d5780800000000000000
+      internalID: -8692619357767103280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_escalators_01_14
+      rect:
+        serializedVersion: 2
+        x: 256
+        y: 1155
+        width: 65
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ae2cab763bf3490800000000000000
+      internalID: -7764289974467106284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_escalators_01_15
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1093
+        width: 66
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f479a339519d1e0800000000000000
+      internalID: -2172681623142183031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_escalators_01_16
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1028
+        width: 70
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c21470e4c8305a370800000000000000
+      internalID: 8333070586658373932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_escalators_01_17
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1031
+        width: 77
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7bc63137b3e812c0800000000000000
+      internalID: -4460565054966281349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_escalators_01_18
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1023
+        width: 51
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3c0336412d5ede0800000000000000
+      internalID: -1304405532048571470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_escalators_01_19
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1023
+        width: 86
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc82238aebe767d30800000000000000
+      internalID: 4428866640896207055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_escalators_01_20
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 876
+        width: 86
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d950985b424e7a0b0800000000000000
+      internalID: -5717350355607943779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_escalators_01_21
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 799
+        width: 77
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ea9e86b252262c0800000000000000
+      internalID: -4439945414259921271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_escalators_01_22
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 796
+        width: 80
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a05d5069117797f0800000000000000
+      internalID: -605891271053193053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_escalators_01_23
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 775
+        width: 83
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b752fe1bf2d97b230800000000000000
+      internalID: 3654562450808710523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_escalators_01_24
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 791
+        width: 51
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa46ab0c37949c3a0800000000000000
+      internalID: -6644699013704948561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_escalators_01_25
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 519
+        width: 77
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 362d978ea85386570800000000000000
+      internalID: 8460070770737533539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_escalators_01_26
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 513
+        width: 71
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f678ddee9eb2a46d0800000000000000
+      internalID: -3005541517581514897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_escalators_01_27
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 570
+        width: 68
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7302454d54a23270800000000000000
+      internalID: 8228820189660185471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_escalators_01_28
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 636
+        width: 68
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7bb48e4073172370800000000000000
+      internalID: 8297622211528014714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_escalators_01_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 284
+        width: 67
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 596f9e1ee837fe410800000000000000
+      internalID: 1508551457705162389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_escalators_01_30
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 287
+        width: 72
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85e786a6ee4db0040800000000000000
+      internalID: 4615016363623743064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_escalators_01_31
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 287
+        width: 72
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2027f383bec8e8f00800000000000000
+      internalID: 1120988299150717442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_escalators_01_32
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 284
+        width: 68
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 947fcadad9cb8dd00800000000000000
+      internalID: 997754702872246089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_escalators_01_33
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 511
+        width: 86
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac1442068ec8bef00800000000000000
+      internalID: 1147165459769213386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_escalators_01_34
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 511
+        width: 51
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ff461729dfe0820800000000000000
+      internalID: 2886523216600563519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_escalators_01_35
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 280
+        width: 87
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77b499b0debe29700800000000000000
+      internalID: 545757908199623543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_escalators_01_36
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 280
+        width: 85
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38861a656d8b6afa0800000000000000
+      internalID: -5789737040222263165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_escalators_01_37
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 253
+        width: 15
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a857eee43a6dde160800000000000000
+      internalID: 7056532188051699082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_escalators_01_38
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 241
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9a49142e86587ee0800000000000000
+      internalID: -1263164526986442086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_escalators_01_39
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 119
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030415b33c4e1ad80800000000000000
+      internalID: -8241054315946360784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_escalators_01_40
+      rect:
+        serializedVersion: 2
+        x: 221
+        y: 119
+        width: 15
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 684bdd99b331ab070800000000000000
+      internalID: 8122826024621552774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fixtures_escalators_01_0: -5065352629362107330
+      fixtures_escalators_01_1: 2575328367243049718
+      fixtures_escalators_01_10: 4875273902363399525
+      fixtures_escalators_01_11: 3503427175652211262
+      fixtures_escalators_01_12: -6500144494041765139
+      fixtures_escalators_01_13: -8692619357767103280
+      fixtures_escalators_01_14: -7764289974467106284
+      fixtures_escalators_01_15: -2172681623142183031
+      fixtures_escalators_01_16: 8333070586658373932
+      fixtures_escalators_01_17: -4460565054966281349
+      fixtures_escalators_01_18: -1304405532048571470
+      fixtures_escalators_01_19: 4428866640896207055
+      fixtures_escalators_01_2: -1094115191113909750
+      fixtures_escalators_01_20: -5717350355607943779
+      fixtures_escalators_01_21: -4439945414259921271
+      fixtures_escalators_01_22: -605891271053193053
+      fixtures_escalators_01_23: 3654562450808710523
+      fixtures_escalators_01_24: -6644699013704948561
+      fixtures_escalators_01_25: 8460070770737533539
+      fixtures_escalators_01_26: -3005541517581514897
+      fixtures_escalators_01_27: 8228820189660185471
+      fixtures_escalators_01_28: 8297622211528014714
+      fixtures_escalators_01_29: 1508551457705162389
+      fixtures_escalators_01_3: -8408676218307147000
+      fixtures_escalators_01_30: 4615016363623743064
+      fixtures_escalators_01_31: 1120988299150717442
+      fixtures_escalators_01_32: 997754702872246089
+      fixtures_escalators_01_33: 1147165459769213386
+      fixtures_escalators_01_34: 2886523216600563519
+      fixtures_escalators_01_35: 545757908199623543
+      fixtures_escalators_01_36: -5789737040222263165
+      fixtures_escalators_01_37: 7056532188051699082
+      fixtures_escalators_01_38: -1263164526986442086
+      fixtures_escalators_01_39: -8241054315946360784
+      fixtures_escalators_01_4: 7512769653662491604
+      fixtures_escalators_01_40: 8122826024621552774
+      fixtures_escalators_01_5: -8185270478971771836
+      fixtures_escalators_01_6: 7816402147618017154
+      fixtures_escalators_01_7: 7313433478399794698
+      fixtures_escalators_01_8: -2578868167569832568
+      fixtures_escalators_01_9: 412133299125460651
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

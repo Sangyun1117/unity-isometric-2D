@@ -1,0 +1,481 @@
+fileFormatVersion: 2
+guid: b9fa6545c60d31948bdd35d83b2f5f6b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -992729986015281577
+    second: industry_bunker_01_0
+  - first:
+      213: 3944682268964347635
+    second: industry_bunker_01_1
+  - first:
+      213: 2743560226845546025
+    second: industry_bunker_01_2
+  - first:
+      213: -8786690758199525586
+    second: industry_bunker_01_3
+  - first:
+      213: -6533054378995293960
+    second: industry_bunker_01_4
+  - first:
+      213: 8141244337066974751
+    second: industry_bunker_01_5
+  - first:
+      213: -6262803044691109612
+    second: industry_bunker_01_6
+  - first:
+      213: -3648061676077035168
+    second: industry_bunker_01_7
+  - first:
+      213: -732302598560085310
+    second: industry_bunker_01_8
+  - first:
+      213: -3359770976654259989
+    second: industry_bunker_01_9
+  - first:
+      213: -2658205322465957684
+    second: industry_bunker_01_10
+  - first:
+      213: -950115088042259991
+    second: industry_bunker_01_11
+  - first:
+      213: 2210255446696480213
+    second: industry_bunker_01_12
+  - first:
+      213: 273372206120281053
+    second: industry_bunker_01_13
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: industry_bunker_01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2302
+        width: 384
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75e3ea1665d1932f0800000000000000
+      internalID: -992729986015281577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_bunker_01_1
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 2174
+        width: 131
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fed661bf935eb630800000000000000
+      internalID: 3944682268964347635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_bunker_01_2
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 2175
+        width: 386
+        height: 385
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 926d4058d75131620800000000000000
+      internalID: 2743560226845546025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_bunker_01_3
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 2303
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2f3f4e2f476f0680800000000000000
+      internalID: -8786690758199525586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_bunker_01_4
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 2303
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f0eca9e7ade555a0800000000000000
+      internalID: -6533054378995293960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_bunker_01_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2046
+        width: 129
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1e998427928bf070800000000000000
+      internalID: 8141244337066974751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_bunker_01_6
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2110
+        width: 129
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41993f600dd0619a0800000000000000
+      internalID: -6262803044691109612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_bunker_01_7
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 2046
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06156bedb3b7f5dc0800000000000000
+      internalID: -3648061676077035168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_bunker_01_8
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 2111
+        width: 131
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ca0bb0aaa656d5f0800000000000000
+      internalID: -732302598560085310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_bunker_01_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1790
+        width: 769
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be80bd9f812bf51d0800000000000000
+      internalID: -3359770976654259989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_bunker_01_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1565
+        width: 67
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc82d5ec7582c1bd0800000000000000
+      internalID: -2658205322465957684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_bunker_01_11
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1565
+        width: 68
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e980818c5380d2f0800000000000000
+      internalID: -950115088042259991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_bunker_01_12
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1564
+        width: 128
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dd473b4e976cae10800000000000000
+      internalID: 2210255446696480213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_bunker_01_13
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1595
+        width: 9
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3a345b2963bc300800000000000000
+      internalID: 273372206120281053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      industry_bunker_01_0: -992729986015281577
+      industry_bunker_01_1: 3944682268964347635
+      industry_bunker_01_10: -2658205322465957684
+      industry_bunker_01_11: -950115088042259991
+      industry_bunker_01_12: 2210255446696480213
+      industry_bunker_01_13: 273372206120281053
+      industry_bunker_01_2: 2743560226845546025
+      industry_bunker_01_3: -8786690758199525586
+      industry_bunker_01_4: -6533054378995293960
+      industry_bunker_01_5: 8141244337066974751
+      industry_bunker_01_6: -6262803044691109612
+      industry_bunker_01_7: -3648061676077035168
+      industry_bunker_01_8: -732302598560085310
+      industry_bunker_01_9: -3359770976654259989
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

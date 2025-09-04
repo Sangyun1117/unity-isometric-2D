@@ -1,0 +1,845 @@
+fileFormatVersion: 2
+guid: a878a1c3a28448844aa91b5774940709
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5852260988837777457
+    second: appliances_laundry_01_0
+  - first:
+      213: -490808308716925304
+    second: appliances_laundry_01_1
+  - first:
+      213: 3088264020094840179
+    second: appliances_laundry_01_2
+  - first:
+      213: -2274119860410763001
+    second: appliances_laundry_01_3
+  - first:
+      213: 4830553604597365785
+    second: appliances_laundry_01_4
+  - first:
+      213: 1302371123689689704
+    second: appliances_laundry_01_5
+  - first:
+      213: 5914569729396098672
+    second: appliances_laundry_01_6
+  - first:
+      213: -4448483765060351091
+    second: appliances_laundry_01_7
+  - first:
+      213: -1033730565999217020
+    second: appliances_laundry_01_8
+  - first:
+      213: -2065706603642351745
+    second: appliances_laundry_01_9
+  - first:
+      213: 7022016672286635350
+    second: appliances_laundry_01_10
+  - first:
+      213: 5116400781090958289
+    second: appliances_laundry_01_11
+  - first:
+      213: -3391695941203065019
+    second: appliances_laundry_01_12
+  - first:
+      213: 2686399222181259858
+    second: appliances_laundry_01_13
+  - first:
+      213: 3138673061051591669
+    second: appliances_laundry_01_14
+  - first:
+      213: -2142750541800964376
+    second: appliances_laundry_01_15
+  - first:
+      213: 8034911969998145887
+    second: appliances_laundry_01_16
+  - first:
+      213: 3348591152978725905
+    second: appliances_laundry_01_17
+  - first:
+      213: -62261428940647769
+    second: appliances_laundry_01_18
+  - first:
+      213: 7742806846131985075
+    second: appliances_laundry_01_19
+  - first:
+      213: 4667241177463631023
+    second: appliances_laundry_01_20
+  - first:
+      213: 8888620049958355119
+    second: appliances_laundry_01_21
+  - first:
+      213: -3040703793072538922
+    second: appliances_laundry_01_22
+  - first:
+      213: 2779781614290406403
+    second: appliances_laundry_01_23
+  - first:
+      213: 8517586891677372629
+    second: appliances_laundry_01_24
+  - first:
+      213: 8597951058750832883
+    second: appliances_laundry_01_25
+  - first:
+      213: -7051383466804907402
+    second: appliances_laundry_01_26
+  - first:
+      213: -3387366548770311022
+    second: appliances_laundry_01_27
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: appliances_laundry_01_0
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1801
+        width: 99
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1305d8cdc58673150800000000000000
+      internalID: 5852260988837777457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_laundry_01_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 1800
+        width: 100
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e0e12917c4039f0800000000000000
+      internalID: -490808308716925304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_laundry_01_2
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 1795
+        width: 101
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37d6f5293c7bbda20800000000000000
+      internalID: 3088264020094840179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_laundry_01_3
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1795
+        width: 101
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7093e872904b070e0800000000000000
+      internalID: -2274119860410763001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_laundry_01_4
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1802
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91c3286f8e2990340800000000000000
+      internalID: 4830553604597365785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_laundry_01_5
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1801
+        width: 96
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 862104103a3f21210800000000000000
+      internalID: 1302371123689689704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_laundry_01_6
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1798
+        width: 99
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 076cee705d5c41250800000000000000
+      internalID: 5914569729396098672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_laundry_01_7
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1798
+        width: 99
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8b4c72b59fc342c0800000000000000
+      internalID: -4448483765060351091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_laundry_01_8
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1546
+        width: 96
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4863724f68377a1f0800000000000000
+      internalID: -1033730565999217020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_laundry_01_9
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 1545
+        width: 96
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7f08bfd9c22553e0800000000000000
+      internalID: -2065706603642351745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_laundry_01_10
+      rect:
+        serializedVersion: 2
+        x: 775
+        y: 1539
+        width: 99
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 655f38e85f6337160800000000000000
+      internalID: 7022016672286635350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_laundry_01_11
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 1542
+        width: 99
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db257d076b110740800000000000000
+      internalID: 5116400781090958289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_laundry_01_12
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1461
+        width: 54
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547057ee2864ee0d0800000000000000
+      internalID: -3391695941203065019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_laundry_01_13
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1461
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25aeff20cd1084520800000000000000
+      internalID: 2686399222181259858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_laundry_01_14
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1461
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5fb6116058ece8b20800000000000000
+      internalID: 3138673061051591669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_laundry_01_15
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1473
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee7da92cbb6342e0800000000000000
+      internalID: -2142750541800964376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_laundry_01_16
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1471
+        width: 50
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59064dadddb18f60800000000000000
+      internalID: 8034911969998145887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_laundry_01_17
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1462
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c005b79e5987e20800000000000000
+      internalID: 3348591152978725905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_laundry_01_18
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 1462
+        width: 66
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2d8cc6f8dc22ff0800000000000000
+      internalID: -62261428940647769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_laundry_01_19
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1462
+        width: 52
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bad82cadc9f37b60800000000000000
+      internalID: 7742806846131985075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_laundry_01_20
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 1056
+        width: 72
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: facabcf6f1f55c040800000000000000
+      internalID: 4667241177463631023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_laundry_01_21
+      rect:
+        serializedVersion: 2
+        x: 381
+        y: 1056
+        width: 74
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0ce2d67d8ba5b70800000000000000
+      internalID: 8888620049958355119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_laundry_01_22
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1056
+        width: 74
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6da7ab2b2004dc5d0800000000000000
+      internalID: -3040703793072538922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_laundry_01_23
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1056
+        width: 72
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30c01f876a4c39620800000000000000
+      internalID: 2779781614290406403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_laundry_01_24
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1199
+        width: 132
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d014fd562c843670800000000000000
+      internalID: 8517586891677372629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_laundry_01_25
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 1173
+        width: 132
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f0890d1fee025770800000000000000
+      internalID: 8597951058750832883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_laundry_01_26
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1031
+        width: 96
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672f706c814742e90800000000000000
+      internalID: -7051383466804907402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_laundry_01_27
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1031
+        width: 98
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29431882218adf0d0800000000000000
+      internalID: -3387366548770311022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      appliances_laundry_01_0: 5852260988837777457
+      appliances_laundry_01_1: -490808308716925304
+      appliances_laundry_01_10: 7022016672286635350
+      appliances_laundry_01_11: 5116400781090958289
+      appliances_laundry_01_12: -3391695941203065019
+      appliances_laundry_01_13: 2686399222181259858
+      appliances_laundry_01_14: 3138673061051591669
+      appliances_laundry_01_15: -2142750541800964376
+      appliances_laundry_01_16: 8034911969998145887
+      appliances_laundry_01_17: 3348591152978725905
+      appliances_laundry_01_18: -62261428940647769
+      appliances_laundry_01_19: 7742806846131985075
+      appliances_laundry_01_2: 3088264020094840179
+      appliances_laundry_01_20: 4667241177463631023
+      appliances_laundry_01_21: 8888620049958355119
+      appliances_laundry_01_22: -3040703793072538922
+      appliances_laundry_01_23: 2779781614290406403
+      appliances_laundry_01_24: 8517586891677372629
+      appliances_laundry_01_25: 8597951058750832883
+      appliances_laundry_01_26: -7051383466804907402
+      appliances_laundry_01_27: -3387366548770311022
+      appliances_laundry_01_3: -2274119860410763001
+      appliances_laundry_01_4: 4830553604597365785
+      appliances_laundry_01_5: 1302371123689689704
+      appliances_laundry_01_6: 5914569729396098672
+      appliances_laundry_01_7: -4448483765060351091
+      appliances_laundry_01_8: -1033730565999217020
+      appliances_laundry_01_9: -2065706603642351745
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

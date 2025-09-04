@@ -1,0 +1,533 @@
+fileFormatVersion: 2
+guid: 68c707724087cd5419b78c197bfffd57
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2706602418299375186
+    second: constructedobjects_signs_01_0
+  - first:
+      213: 4915560156802764275
+    second: constructedobjects_signs_01_1
+  - first:
+      213: -4092947366763910430
+    second: constructedobjects_signs_01_2
+  - first:
+      213: 7564167863052861244
+    second: constructedobjects_signs_01_3
+  - first:
+      213: -6286153847168452985
+    second: constructedobjects_signs_01_4
+  - first:
+      213: 4416622887518352847
+    second: constructedobjects_signs_01_5
+  - first:
+      213: 2720588229894275691
+    second: constructedobjects_signs_01_6
+  - first:
+      213: 6695292949235558025
+    second: constructedobjects_signs_01_7
+  - first:
+      213: -6339225312864760027
+    second: constructedobjects_signs_01_8
+  - first:
+      213: -4911815335970498061
+    second: constructedobjects_signs_01_9
+  - first:
+      213: 5468691818907647774
+    second: constructedobjects_signs_01_10
+  - first:
+      213: -4288351131945274711
+    second: constructedobjects_signs_01_11
+  - first:
+      213: 2500001255678179646
+    second: constructedobjects_signs_01_12
+  - first:
+      213: 3119976536978363809
+    second: constructedobjects_signs_01_13
+  - first:
+      213: -1401026028849567188
+    second: constructedobjects_signs_01_14
+  - first:
+      213: 8615241625998017232
+    second: constructedobjects_signs_01_15
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: constructedobjects_signs_01_0
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 1576
+        width: 59
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea17d05d077307ad0800000000000000
+      internalID: -2706602418299375186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: constructedobjects_signs_01_1
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 1063
+        width: 59
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fdca4a3be3973440800000000000000
+      internalID: 4915560156802764275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: constructedobjects_signs_01_2
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 857
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eaaaa72e0ee237c0800000000000000
+      internalID: -4092947366763910430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: constructedobjects_signs_01_3
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 856
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ff0b2489259f860800000000000000
+      internalID: 7564167863052861244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: constructedobjects_signs_01_4
+      rect:
+        serializedVersion: 2
+        x: 327
+        y: 853
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786b118a16813c8a0800000000000000
+      internalID: -6286153847168452985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: constructedobjects_signs_01_5
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 851
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5346dad1ffa4d30800000000000000
+      internalID: 4416622887518352847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: constructedobjects_signs_01_6
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 859
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6205fea49871c520800000000000000
+      internalID: 2720588229894275691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: constructedobjects_signs_01_7
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 849
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 986ec52d6757aec50800000000000000
+      internalID: 6695292949235558025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: constructedobjects_signs_01_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 600
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52f08832a2c8608a0800000000000000
+      internalID: -6339225312864760027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: constructedobjects_signs_01_9
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 601
+        width: 42
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f99921d9f9b5dbb0800000000000000
+      internalID: -4911815335970498061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: constructedobjects_signs_01_10
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 597
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f33142c32b4eb40800000000000000
+      internalID: 5468691818907647774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: constructedobjects_signs_01_11
+      rect:
+        serializedVersion: 2
+        x: 405
+        y: 595
+        width: 32
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a2f14cbd57bc74c0800000000000000
+      internalID: -4288351131945274711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: constructedobjects_signs_01_12
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 603
+        width: 51
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e397abe75e9c1b220800000000000000
+      internalID: 2500001255678179646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: constructedobjects_signs_01_13
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 593
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a5162a41226c4b20800000000000000
+      internalID: 3119976536978363809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: constructedobjects_signs_01_14
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 11
+        width: 62
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2a685def3e8e8ce0800000000000000
+      internalID: -1401026028849567188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: constructedobjects_signs_01_15
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 11
+        width: 188
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d245c30d9c7f8770800000000000000
+      internalID: 8615241625998017232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      constructedobjects_signs_01_0: -2706602418299375186
+      constructedobjects_signs_01_1: 4915560156802764275
+      constructedobjects_signs_01_10: 5468691818907647774
+      constructedobjects_signs_01_11: -4288351131945274711
+      constructedobjects_signs_01_12: 2500001255678179646
+      constructedobjects_signs_01_13: 3119976536978363809
+      constructedobjects_signs_01_14: -1401026028849567188
+      constructedobjects_signs_01_15: 8615241625998017232
+      constructedobjects_signs_01_2: -4092947366763910430
+      constructedobjects_signs_01_3: 7564167863052861244
+      constructedobjects_signs_01_4: -6286153847168452985
+      constructedobjects_signs_01_5: 4416622887518352847
+      constructedobjects_signs_01_6: 2720588229894275691
+      constructedobjects_signs_01_7: 6695292949235558025
+      constructedobjects_signs_01_8: -6339225312864760027
+      constructedobjects_signs_01_9: -4911815335970498061
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

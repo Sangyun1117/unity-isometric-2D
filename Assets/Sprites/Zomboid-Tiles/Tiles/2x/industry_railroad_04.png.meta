@@ -1,0 +1,1209 @@
+fileFormatVersion: 2
+guid: fd212b6851c12154f814eefdd169b77d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3363859775584293087
+    second: industry_railroad_04_0
+  - first:
+      213: 4012060923484113383
+    second: industry_railroad_04_1
+  - first:
+      213: -7420831536967654194
+    second: industry_railroad_04_2
+  - first:
+      213: 1965782521434962799
+    second: industry_railroad_04_3
+  - first:
+      213: 6764831010272644409
+    second: industry_railroad_04_4
+  - first:
+      213: -7515957896663819169
+    second: industry_railroad_04_5
+  - first:
+      213: -3973545035618425192
+    second: industry_railroad_04_6
+  - first:
+      213: 4448207866939182170
+    second: industry_railroad_04_7
+  - first:
+      213: -1233203066626902574
+    second: industry_railroad_04_8
+  - first:
+      213: 6043774582459526482
+    second: industry_railroad_04_9
+  - first:
+      213: -4125212124449435751
+    second: industry_railroad_04_10
+  - first:
+      213: 7541804711038509156
+    second: industry_railroad_04_11
+  - first:
+      213: 5818819278519359546
+    second: industry_railroad_04_12
+  - first:
+      213: -4709958486426896084
+    second: industry_railroad_04_13
+  - first:
+      213: -3055986041989823601
+    second: industry_railroad_04_14
+  - first:
+      213: -7941564829340630249
+    second: industry_railroad_04_15
+  - first:
+      213: 7104928136716737694
+    second: industry_railroad_04_16
+  - first:
+      213: -5435683828370323692
+    second: industry_railroad_04_17
+  - first:
+      213: -4052972179630995351
+    second: industry_railroad_04_18
+  - first:
+      213: -8971248262043586840
+    second: industry_railroad_04_19
+  - first:
+      213: -2273317111827513372
+    second: industry_railroad_04_20
+  - first:
+      213: 911188132387863484
+    second: industry_railroad_04_21
+  - first:
+      213: -7900226600348227665
+    second: industry_railroad_04_22
+  - first:
+      213: -2613960879325328201
+    second: industry_railroad_04_23
+  - first:
+      213: -6399266404093226474
+    second: industry_railroad_04_24
+  - first:
+      213: -3479562735703921894
+    second: industry_railroad_04_25
+  - first:
+      213: -6358595665914169242
+    second: industry_railroad_04_26
+  - first:
+      213: 2241324197532633275
+    second: industry_railroad_04_27
+  - first:
+      213: -8057652193479354041
+    second: industry_railroad_04_28
+  - first:
+      213: 1050551263069041052
+    second: industry_railroad_04_29
+  - first:
+      213: 8744478070886964130
+    second: industry_railroad_04_30
+  - first:
+      213: -3125527535092099015
+    second: industry_railroad_04_31
+  - first:
+      213: -28634458132841454
+    second: industry_railroad_04_32
+  - first:
+      213: 3082020825451740842
+    second: industry_railroad_04_33
+  - first:
+      213: -4227608510657573025
+    second: industry_railroad_04_34
+  - first:
+      213: -6201151859012958596
+    second: industry_railroad_04_35
+  - first:
+      213: 6583808518470268145
+    second: industry_railroad_04_36
+  - first:
+      213: 2612281872437238570
+    second: industry_railroad_04_37
+  - first:
+      213: 7921748874761059665
+    second: industry_railroad_04_38
+  - first:
+      213: 1298294289531827663
+    second: industry_railroad_04_39
+  - first:
+      213: -1069968230967621802
+    second: industry_railroad_04_40
+  - first:
+      213: 5674105225509009537
+    second: industry_railroad_04_41
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: industry_railroad_04_0
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 1800
+        width: 41
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd05de5b4a4deae20800000000000000
+      internalID: 3363859775584293087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_railroad_04_1
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1808
+        width: 14
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e90f713724bda730800000000000000
+      internalID: 4012060923484113383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_railroad_04_2
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1796
+        width: 16
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4e60dc809e30990800000000000000
+      internalID: -7420831536967654194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_railroad_04_3
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 1800
+        width: 15
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b7dcfb9ccd74b10800000000000000
+      internalID: 1965782521434962799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_railroad_04_4
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 1810
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d09d456f181ed50800000000000000
+      internalID: 6764831010272644409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_railroad_04_5
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1810
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5c9f8e3d14f1b790800000000000000
+      internalID: -7515957896663819169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_railroad_04_6
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 1546
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89662f4c7d12bd8c0800000000000000
+      internalID: -3973545035618425192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_railroad_04_7
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1563
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5c0204cc753bbd30800000000000000
+      internalID: 4448207866939182170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_railroad_04_8
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1535
+        width: 57
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5f7cd3858c2eee0800000000000000
+      internalID: -1233203066626902574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_railroad_04_9
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 1562
+        width: 12
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25de80226fccfd350800000000000000
+      internalID: 6043774582459526482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_railroad_04_10
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1564
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99f8e0bdd6d40c6c0800000000000000
+      internalID: -4125212124449435751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_railroad_04_11
+      rect:
+        serializedVersion: 2
+        x: 522
+        y: 1552
+        width: 59
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46061de2d6fd9a860800000000000000
+      internalID: 7541804711038509156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_railroad_04_12
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 1555
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a38575ced4990c050800000000000000
+      internalID: 5818819278519359546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_railroad_04_13
+      rect:
+        serializedVersion: 2
+        x: 71
+        y: 1550
+        width: 24
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2930b506bdd2aeb0800000000000000
+      internalID: -4709958486426896084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_railroad_04_14
+      rect:
+        serializedVersion: 2
+        x: 572
+        y: 1549
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8305a8d2e4f695d0800000000000000
+      internalID: -3055986041989823601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_railroad_04_15
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 1302
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7138a6a2dd4e9c190800000000000000
+      internalID: -7941564829340630249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_railroad_04_16
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1296
+        width: 23
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9cddaf2f76c99260800000000000000
+      internalID: 7104928136716737694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_railroad_04_17
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 1284
+        width: 13
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417c6aa8b529094b0800000000000000
+      internalID: -5435683828370323692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_railroad_04_18
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 1285
+        width: 29
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968cd84b643f0c7c0800000000000000
+      internalID: -4052972179630995351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_railroad_04_19
+      rect:
+        serializedVersion: 2
+        x: 746
+        y: 1301
+        width: 13
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ee2d05cc39bf7380800000000000000
+      internalID: -8971248262043586840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_railroad_04_20
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1292
+        width: 23
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef34bf912e8370e0800000000000000
+      internalID: -2273317111827513372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_railroad_04_21
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1023
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbbb78a57c035ac00800000000000000
+      internalID: 911188132387863484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_railroad_04_22
+      rect:
+        serializedVersion: 2
+        x: 208
+        y: 1041
+        width: 35
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa7e621a3c1cc5290800000000000000
+      internalID: -7900226600348227665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_railroad_04_23
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1049
+        width: 68
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bccb0bfd6859bbd0800000000000000
+      internalID: -2613960879325328201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_railroad_04_24
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 1040
+        width: 62
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6129ee83c1d3137a0800000000000000
+      internalID: -6399266404093226474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_railroad_04_25
+      rect:
+        serializedVersion: 2
+        x: 626
+        y: 1051
+        width: 14
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1b6eac902c16bfc0800000000000000
+      internalID: -3479562735703921894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_railroad_04_26
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 787
+        width: 46
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 668f8de5eeab1c7a0800000000000000
+      internalID: -6358595665914169242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_railroad_04_27
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 784
+        width: 14
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb88b6c8b78ca1f10800000000000000
+      internalID: 2241324197532633275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_railroad_04_28
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 771
+        width: 23
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 749140475087d2090800000000000000
+      internalID: -8057652193479354041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_railroad_04_29
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 778
+        width: 20
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c917195cece449e00800000000000000
+      internalID: 1050551263069041052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_railroad_04_30
+      rect:
+        serializedVersion: 2
+        x: 756
+        y: 794
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ab1969a970aa5970800000000000000
+      internalID: 8744478070886964130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_railroad_04_31
+      rect:
+        serializedVersion: 2
+        x: 924
+        y: 778
+        width: 77
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938122f3445ef94d0800000000000000
+      internalID: -3125527535092099015
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_railroad_04_32
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 511
+        width: 148
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21cf7aeac154a9ff0800000000000000
+      internalID: -28634458132841454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_railroad_04_33
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 524
+        width: 73
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aae386b8c9985ca20800000000000000
+      internalID: 3082020825451740842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_railroad_04_34
+      rect:
+        serializedVersion: 2
+        x: 736
+        y: 528
+        width: 52
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f46d855748455c0800000000000000
+      internalID: -4227608510657573025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_railroad_04_35
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 511
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7687454d3511f9a0800000000000000
+      internalID: -6201151859012958596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_railroad_04_36
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 525
+        width: 72
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f47c9c07f26e5b50800000000000000
+      internalID: 6583808518470268145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_railroad_04_37
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 273
+        width: 13
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b50d3c580b04420800000000000000
+      internalID: 2612281872437238570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_railroad_04_38
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 268
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15dbbff51a4bfed60800000000000000
+      internalID: 7921748874761059665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_railroad_04_39
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 262
+        width: 57
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc5767517c7740210800000000000000
+      internalID: 1298294289531827663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_railroad_04_40
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 262
+        width: 31
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 657c8381095b621f0800000000000000
+      internalID: -1069968230967621802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_railroad_04_41
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 266
+        width: 221
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 188f6a0d3a87ebe40800000000000000
+      internalID: 5674105225509009537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      industry_railroad_04_0: 3363859775584293087
+      industry_railroad_04_1: 4012060923484113383
+      industry_railroad_04_10: -4125212124449435751
+      industry_railroad_04_11: 7541804711038509156
+      industry_railroad_04_12: 5818819278519359546
+      industry_railroad_04_13: -4709958486426896084
+      industry_railroad_04_14: -3055986041989823601
+      industry_railroad_04_15: -7941564829340630249
+      industry_railroad_04_16: 7104928136716737694
+      industry_railroad_04_17: -5435683828370323692
+      industry_railroad_04_18: -4052972179630995351
+      industry_railroad_04_19: -8971248262043586840
+      industry_railroad_04_2: -7420831536967654194
+      industry_railroad_04_20: -2273317111827513372
+      industry_railroad_04_21: 911188132387863484
+      industry_railroad_04_22: -7900226600348227665
+      industry_railroad_04_23: -2613960879325328201
+      industry_railroad_04_24: -6399266404093226474
+      industry_railroad_04_25: -3479562735703921894
+      industry_railroad_04_26: -6358595665914169242
+      industry_railroad_04_27: 2241324197532633275
+      industry_railroad_04_28: -8057652193479354041
+      industry_railroad_04_29: 1050551263069041052
+      industry_railroad_04_3: 1965782521434962799
+      industry_railroad_04_30: 8744478070886964130
+      industry_railroad_04_31: -3125527535092099015
+      industry_railroad_04_32: -28634458132841454
+      industry_railroad_04_33: 3082020825451740842
+      industry_railroad_04_34: -4227608510657573025
+      industry_railroad_04_35: -6201151859012958596
+      industry_railroad_04_36: 6583808518470268145
+      industry_railroad_04_37: 2612281872437238570
+      industry_railroad_04_38: 7921748874761059665
+      industry_railroad_04_39: 1298294289531827663
+      industry_railroad_04_4: 6764831010272644409
+      industry_railroad_04_40: -1069968230967621802
+      industry_railroad_04_41: 5674105225509009537
+      industry_railroad_04_5: -7515957896663819169
+      industry_railroad_04_6: -3973545035618425192
+      industry_railroad_04_7: 4448207866939182170
+      industry_railroad_04_8: -1233203066626902574
+      industry_railroad_04_9: 6043774582459526482
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

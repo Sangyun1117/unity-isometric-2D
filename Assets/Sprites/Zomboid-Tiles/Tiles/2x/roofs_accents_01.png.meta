@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: 1d0002a144bf3aa4e98d1887887b3b3b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -964123752705573953
+    second: roofs_accents_01_0
+  - first:
+      213: 3632665743462179524
+    second: roofs_accents_01_1
+  - first:
+      213: -6507556126240679664
+    second: roofs_accents_01_2
+  - first:
+      213: -1634904337942592479
+    second: roofs_accents_01_3
+  - first:
+      213: -767136429896218950
+    second: roofs_accents_01_4
+  - first:
+      213: 2584717822859254322
+    second: roofs_accents_01_5
+  - first:
+      213: -230209189570749432
+    second: roofs_accents_01_6
+  - first:
+      213: -5623305711851052803
+    second: roofs_accents_01_7
+  - first:
+      213: 2418849786698998883
+    second: roofs_accents_01_8
+  - first:
+      213: -5481710344144828979
+    second: roofs_accents_01_9
+  - first:
+      213: 8560800342074746524
+    second: roofs_accents_01_10
+  - first:
+      213: -7526242789762954891
+    second: roofs_accents_01_11
+  - first:
+      213: -5433833293153007882
+    second: roofs_accents_01_12
+  - first:
+      213: -3266875245144349760
+    second: roofs_accents_01_13
+  - first:
+      213: 1735406657254537309
+    second: roofs_accents_01_14
+  - first:
+      213: 8905607138554149907
+    second: roofs_accents_01_15
+  - first:
+      213: -482978902457363489
+    second: roofs_accents_01_16
+  - first:
+      213: -6923579971384009622
+    second: roofs_accents_01_17
+  - first:
+      213: 5292843980802255031
+    second: roofs_accents_01_18
+  - first:
+      213: 3886875607709946833
+    second: roofs_accents_01_19
+  - first:
+      213: 6249995737375576215
+    second: roofs_accents_01_20
+  - first:
+      213: -2025420919824768729
+    second: roofs_accents_01_21
+  - first:
+      213: 1138609632453930599
+    second: roofs_accents_01_22
+  - first:
+      213: -8803596796317453737
+    second: roofs_accents_01_23
+  - first:
+      213: -2428617840266843668
+    second: roofs_accents_01_24
+  - first:
+      213: 1585296668857663307
+    second: roofs_accents_01_25
+  - first:
+      213: -7736645337212015826
+    second: roofs_accents_01_26
+  - first:
+      213: -5881446825218165249
+    second: roofs_accents_01_27
+  - first:
+      213: -9059609894489498307
+    second: roofs_accents_01_28
+  - first:
+      213: 3863708716656782110
+    second: roofs_accents_01_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: roofs_accents_01_0
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 2456
+        width: 81
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbbb7781e8ebe92f0800000000000000
+      internalID: -964123752705573953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_accents_01_1
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 2392
+        width: 80
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c22bca3f32d96230800000000000000
+      internalID: 3632665743462179524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_accents_01_2
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 2359
+        width: 68
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019d1838e2480b5a0800000000000000
+      internalID: -6507556126240679664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_accents_01_3
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 2370
+        width: 69
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124cf2faa27af49e0800000000000000
+      internalID: -1634904337942592479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_accents_01_4
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 2354
+        width: 66
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab646c14b759a55f0800000000000000
+      internalID: -767136429896218950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_accents_01_5
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 2339
+        width: 68
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a952c5a23ced320800000000000000
+      internalID: 2584717822859254322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_accents_01_6
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 2327
+        width: 81
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80cda9736f12eccf0800000000000000
+      internalID: -230209189570749432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_accents_01_7
+      rect:
+        serializedVersion: 2
+        x: 562
+        y: 2222
+        width: 72
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df061b5af3106f1b0800000000000000
+      internalID: -5623305711851052803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_accents_01_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2083
+        width: 67
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364293db01b719120800000000000000
+      internalID: 2418849786698998883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_accents_01_9
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2098
+        width: 66
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5c9af3c7d0de3b0800000000000000
+      internalID: -5481710344144828979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_accents_01_10
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 2114
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c966866dd821ec670800000000000000
+      internalID: 8560800342074746524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_accents_01_11
+      rect:
+        serializedVersion: 2
+        x: 688
+        y: 2158
+        width: 73
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57985d6fe0a6d8790800000000000000
+      internalID: -7526242789762954891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_accents_01_12
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 2103
+        width: 68
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f68ce8d8652794b0800000000000000
+      internalID: -5433833293153007882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_accents_01_13
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 2096
+        width: 61
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c367afe54ab9a2d0800000000000000
+      internalID: -3266875245144349760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_accents_01_14
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 2010
+        width: 26
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5831820927651810800000000000000
+      internalID: 1735406657254537309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_accents_01_15
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1978
+        width: 74
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cf3b23282179b70800000000000000
+      internalID: 8905607138554149907
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_accents_01_16
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1980
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd355054f3d1c49f0800000000000000
+      internalID: -482978902457363489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_accents_01_17
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 1851
+        width: 12
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c95afd2b08aef90800000000000000
+      internalID: -6923579971384009622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_accents_01_18
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 1821
+        width: 146
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b8684fce85f37940800000000000000
+      internalID: 5292843980802255031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_accents_01_19
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 1852
+        width: 11
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d39eab85c4f0f530800000000000000
+      internalID: 3886875607709946833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_accents_01_20
+      rect:
+        serializedVersion: 2
+        x: 640
+        y: 1623
+        width: 80
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7901afd52027cb650800000000000000
+      internalID: 6249995737375576215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_accents_01_21
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1687
+        width: 81
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7212331976244e3e0800000000000000
+      internalID: -2025420919824768729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_accents_01_22
+      rect:
+        serializedVersion: 2
+        x: 512
+        y: 1558
+        width: 81
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e21489d672dcf00800000000000000
+      internalID: 1138609632453930599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_accents_01_23
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1453
+        width: 72
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7523bb17b5753d580800000000000000
+      internalID: -8803596796317453737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_accents_01_24
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1389
+        width: 73
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce9e7bf01f0db4ed0800000000000000
+      internalID: -2428617840266843668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_accents_01_25
+      rect:
+        serializedVersion: 2
+        x: 520
+        y: 1327
+        width: 61
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4ffedacbea100610800000000000000
+      internalID: 1585296668857663307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_accents_01_26
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 1211
+        width: 74
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2bab4a6e0ae1a490800000000000000
+      internalID: -7736645337212015826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_accents_01_27
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 1209
+        width: 74
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff5b5811647e06ea0800000000000000
+      internalID: -5881446825218165249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_accents_01_28
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1241
+        width: 26
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3dd6530dccc54280800000000000000
+      internalID: -9059609894489498307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: roofs_accents_01_29
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 1242
+        width: 13
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1b68e36b96ae9530800000000000000
+      internalID: 3863708716656782110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      roofs_accents_01_0: -964123752705573953
+      roofs_accents_01_1: 3632665743462179524
+      roofs_accents_01_10: 8560800342074746524
+      roofs_accents_01_11: -7526242789762954891
+      roofs_accents_01_12: -5433833293153007882
+      roofs_accents_01_13: -3266875245144349760
+      roofs_accents_01_14: 1735406657254537309
+      roofs_accents_01_15: 8905607138554149907
+      roofs_accents_01_16: -482978902457363489
+      roofs_accents_01_17: -6923579971384009622
+      roofs_accents_01_18: 5292843980802255031
+      roofs_accents_01_19: 3886875607709946833
+      roofs_accents_01_2: -6507556126240679664
+      roofs_accents_01_20: 6249995737375576215
+      roofs_accents_01_21: -2025420919824768729
+      roofs_accents_01_22: 1138609632453930599
+      roofs_accents_01_23: -8803596796317453737
+      roofs_accents_01_24: -2428617840266843668
+      roofs_accents_01_25: 1585296668857663307
+      roofs_accents_01_26: -7736645337212015826
+      roofs_accents_01_27: -5881446825218165249
+      roofs_accents_01_28: -9059609894489498307
+      roofs_accents_01_29: 3863708716656782110
+      roofs_accents_01_3: -1634904337942592479
+      roofs_accents_01_4: -767136429896218950
+      roofs_accents_01_5: 2584717822859254322
+      roofs_accents_01_6: -230209189570749432
+      roofs_accents_01_7: -5623305711851052803
+      roofs_accents_01_8: 2418849786698998883
+      roofs_accents_01_9: -5481710344144828979
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

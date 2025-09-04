@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: dc97cfb50c570f542b196108218cebae
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1348777487577656621
+    second: location_shop_accessories_01_0
+  - first:
+      213: 6537859905804657385
+    second: location_shop_accessories_01_1
+  - first:
+      213: 332356608341402928
+    second: location_shop_accessories_01_2
+  - first:
+      213: -5214168413293486145
+    second: location_shop_accessories_01_3
+  - first:
+      213: -7367822799308209759
+    second: location_shop_accessories_01_4
+  - first:
+      213: -4868970428558140662
+    second: location_shop_accessories_01_5
+  - first:
+      213: 1538237804176030825
+    second: location_shop_accessories_01_6
+  - first:
+      213: 2599244930785425557
+    second: location_shop_accessories_01_7
+  - first:
+      213: 42934380196377496
+    second: location_shop_accessories_01_8
+  - first:
+      213: -5742473292555801437
+    second: location_shop_accessories_01_9
+  - first:
+      213: -7368085589756889898
+    second: location_shop_accessories_01_10
+  - first:
+      213: -5481932453256900608
+    second: location_shop_accessories_01_11
+  - first:
+      213: 1490376289505208441
+    second: location_shop_accessories_01_12
+  - first:
+      213: -4679679141338877445
+    second: location_shop_accessories_01_13
+  - first:
+      213: -4663026237063169876
+    second: location_shop_accessories_01_14
+  - first:
+      213: -3498646406079452772
+    second: location_shop_accessories_01_15
+  - first:
+      213: -8862869801442021479
+    second: location_shop_accessories_01_16
+  - first:
+      213: 4229481914409894889
+    second: location_shop_accessories_01_17
+  - first:
+      213: -1040895048270917231
+    second: location_shop_accessories_01_18
+  - first:
+      213: -3680990278215334110
+    second: location_shop_accessories_01_19
+  - first:
+      213: -7212883124804161350
+    second: location_shop_accessories_01_20
+  - first:
+      213: 5965743557305773415
+    second: location_shop_accessories_01_21
+  - first:
+      213: 6892658332496565927
+    second: location_shop_accessories_01_22
+  - first:
+      213: 4759420597675948095
+    second: location_shop_accessories_01_23
+  - first:
+      213: -2702667734419523027
+    second: location_shop_accessories_01_24
+  - first:
+      213: 1863101336556567053
+    second: location_shop_accessories_01_25
+  - first:
+      213: -5747128796235232309
+    second: location_shop_accessories_01_26
+  - first:
+      213: 3576533540653988972
+    second: location_shop_accessories_01_27
+  - first:
+      213: 481120139582622346
+    second: location_shop_accessories_01_28
+  - first:
+      213: 3908353833693876264
+    second: location_shop_accessories_01_29
+  - first:
+      213: -6673035850766060267
+    second: location_shop_accessories_01_30
+  - first:
+      213: -6537513266080863717
+    second: location_shop_accessories_01_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: location_shop_accessories_01_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1880
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d2d3eb650e284de0800000000000000
+      internalID: -1348777487577656621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_shop_accessories_01_1
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 1880
+        width: 70
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e261ccf1f42bba50800000000000000
+      internalID: 6537859905804657385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_shop_accessories_01_2
+      rect:
+        serializedVersion: 2
+        x: 273
+        y: 1866
+        width: 70
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03561fa0394cc9400800000000000000
+      internalID: 332356608341402928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_shop_accessories_01_3
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1867
+        width: 70
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbf5496347d83a7b0800000000000000
+      internalID: -5214168413293486145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_shop_accessories_01_4
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 1624
+        width: 82
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a1c53f433c30c990800000000000000
+      internalID: -7367822799308209759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_shop_accessories_01_5
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1624
+        width: 82
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0b19ef2131fd6cb0800000000000000
+      internalID: -4868970428558140662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_shop_accessories_01_6
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 1645
+        width: 47
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c3df9022be85510800000000000000
+      internalID: 1538237804176030825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_shop_accessories_01_7
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1645
+        width: 48
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59833bf3e7f521420800000000000000
+      internalID: 2599244930785425557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_shop_accessories_01_8
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1608
+        width: 85
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893b1406798889000800000000000000
+      internalID: 42934380196377496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_shop_accessories_01_9
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1607
+        width: 87
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac2b0127f2ae40b0800000000000000
+      internalID: -5742473292555801437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_shop_accessories_01_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1287
+        width: 109
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d4bdd3a13d4fb990800000000000000
+      internalID: -7368085589756889898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_shop_accessories_01_11
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1287
+        width: 107
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 000dfe07a734ce3b0800000000000000
+      internalID: -5481932453256900608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_shop_accessories_01_12
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1289
+        width: 105
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9786f95c651eea410800000000000000
+      internalID: 1490376289505208441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_shop_accessories_01_13
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1289
+        width: 104
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf1f0bd6d907e0fb0800000000000000
+      internalID: -4679679141338877445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_shop_accessories_01_14
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1368
+        width: 72
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca8f589d75a994fb0800000000000000
+      internalID: -4663026237063169876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_shop_accessories_01_15
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 1368
+        width: 72
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c99efea51af427fc0800000000000000
+      internalID: -3498646406079452772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_shop_accessories_01_16
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1354
+        width: 70
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99fe2828fd2c00580800000000000000
+      internalID: -8862869801442021479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_shop_accessories_01_17
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 1355
+        width: 70
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e34754746322ba30800000000000000
+      internalID: 4229481914409894889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_shop_accessories_01_18
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 1141
+        width: 57
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 191595fe77ffd81f0800000000000000
+      internalID: -1040895048270917231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_shop_accessories_01_19
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 1143
+        width: 57
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2270f4d38de7aecc0800000000000000
+      internalID: -3680990278215334110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_shop_accessories_01_20
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 1128
+        width: 41
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab073a37301b6eb90800000000000000
+      internalID: -7212883124804161350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_shop_accessories_01_21
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 1133
+        width: 41
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76d294258249ac250800000000000000
+      internalID: 5965743557305773415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_shop_accessories_01_22
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1025
+        width: 102
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a6189a0c34a7af50800000000000000
+      internalID: 6892658332496565927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_shop_accessories_01_23
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 1024
+        width: 102
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f38f62d21dbdc0240800000000000000
+      internalID: 4759420597675948095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_shop_accessories_01_24
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1025
+        width: 99
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2ab300d3023e7ad0800000000000000
+      internalID: -2702667734419523027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_shop_accessories_01_25
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 1025
+        width: 99
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0a72026bc01bd910800000000000000
+      internalID: 1863101336556567053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_shop_accessories_01_26
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 949
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb0bf53fc81e30b0800000000000000
+      internalID: -5747128796235232309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_shop_accessories_01_27
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 948
+        width: 68
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c73f15e4662a130800000000000000
+      internalID: 3576533540653988972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_shop_accessories_01_28
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 967
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8acb16c7384da600800000000000000
+      internalID: 481120139582622346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_shop_accessories_01_29
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 966
+        width: 34
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8201cd9ba134d3630800000000000000
+      internalID: 3908353833693876264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_shop_accessories_01_30
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 948
+        width: 68
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51574adbf3d9463a0800000000000000
+      internalID: -6673035850766060267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_shop_accessories_01_31
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 949
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1aa8dc52561645a0800000000000000
+      internalID: -6537513266080863717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      location_shop_accessories_01_0: -1348777487577656621
+      location_shop_accessories_01_1: 6537859905804657385
+      location_shop_accessories_01_10: -7368085589756889898
+      location_shop_accessories_01_11: -5481932453256900608
+      location_shop_accessories_01_12: 1490376289505208441
+      location_shop_accessories_01_13: -4679679141338877445
+      location_shop_accessories_01_14: -4663026237063169876
+      location_shop_accessories_01_15: -3498646406079452772
+      location_shop_accessories_01_16: -8862869801442021479
+      location_shop_accessories_01_17: 4229481914409894889
+      location_shop_accessories_01_18: -1040895048270917231
+      location_shop_accessories_01_19: -3680990278215334110
+      location_shop_accessories_01_2: 332356608341402928
+      location_shop_accessories_01_20: -7212883124804161350
+      location_shop_accessories_01_21: 5965743557305773415
+      location_shop_accessories_01_22: 6892658332496565927
+      location_shop_accessories_01_23: 4759420597675948095
+      location_shop_accessories_01_24: -2702667734419523027
+      location_shop_accessories_01_25: 1863101336556567053
+      location_shop_accessories_01_26: -5747128796235232309
+      location_shop_accessories_01_27: 3576533540653988972
+      location_shop_accessories_01_28: 481120139582622346
+      location_shop_accessories_01_29: 3908353833693876264
+      location_shop_accessories_01_3: -5214168413293486145
+      location_shop_accessories_01_30: -6673035850766060267
+      location_shop_accessories_01_31: -6537513266080863717
+      location_shop_accessories_01_4: -7367822799308209759
+      location_shop_accessories_01_5: -4868970428558140662
+      location_shop_accessories_01_6: 1538237804176030825
+      location_shop_accessories_01_7: 2599244930785425557
+      location_shop_accessories_01_8: 42934380196377496
+      location_shop_accessories_01_9: -5742473292555801437
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

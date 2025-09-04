@@ -1,0 +1,3237 @@
+fileFormatVersion: 2
+guid: 1ffd5f275e6417146ae34d9b2385dbe6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4353438330591682688
+    second: desks_01_0
+  - first:
+      213: 1770266105658854547
+    second: desks_01_1
+  - first:
+      213: -8443273586338463030
+    second: desks_01_2
+  - first:
+      213: -7028682571069968249
+    second: desks_01_3
+  - first:
+      213: -3068998955524700561
+    second: desks_01_4
+  - first:
+      213: 1677623669225682955
+    second: desks_01_5
+  - first:
+      213: 5784844320467908938
+    second: desks_01_6
+  - first:
+      213: 5645928197051902817
+    second: desks_01_7
+  - first:
+      213: 8689068752221541003
+    second: desks_01_8
+  - first:
+      213: -1453076219802640987
+    second: desks_01_9
+  - first:
+      213: -7937296509336013522
+    second: desks_01_10
+  - first:
+      213: 5060000395724929003
+    second: desks_01_11
+  - first:
+      213: -6280448246203429370
+    second: desks_01_12
+  - first:
+      213: 6312077854798405859
+    second: desks_01_13
+  - first:
+      213: 1708291475505268098
+    second: desks_01_14
+  - first:
+      213: -1578175377886745391
+    second: desks_01_15
+  - first:
+      213: 6883990105770533846
+    second: desks_01_16
+  - first:
+      213: 4500313284744750365
+    second: desks_01_17
+  - first:
+      213: -1093086507864358288
+    second: desks_01_18
+  - first:
+      213: -8295023076120019030
+    second: desks_01_19
+  - first:
+      213: 795674635419653220
+    second: desks_01_20
+  - first:
+      213: 5169145401201836410
+    second: desks_01_21
+  - first:
+      213: 4236528569963031717
+    second: desks_01_22
+  - first:
+      213: 2582221714114122067
+    second: desks_01_23
+  - first:
+      213: -6611774911461034615
+    second: desks_01_24
+  - first:
+      213: -6778550583140332756
+    second: desks_01_25
+  - first:
+      213: 6603686215545463382
+    second: desks_01_26
+  - first:
+      213: -2527971724370280435
+    second: desks_01_27
+  - first:
+      213: -3426659429212028691
+    second: desks_01_28
+  - first:
+      213: -8065632466265994634
+    second: desks_01_29
+  - first:
+      213: -5719379302278061270
+    second: desks_01_30
+  - first:
+      213: -8162307967919894248
+    second: desks_01_31
+  - first:
+      213: -566475657006115150
+    second: desks_01_32
+  - first:
+      213: 6493548101969203679
+    second: desks_01_33
+  - first:
+      213: 7560658519884061647
+    second: desks_01_34
+  - first:
+      213: 1008664955286995255
+    second: desks_01_35
+  - first:
+      213: 3609006240555528790
+    second: desks_01_36
+  - first:
+      213: -3638680428598832366
+    second: desks_01_37
+  - first:
+      213: -9124515629770887948
+    second: desks_01_38
+  - first:
+      213: -5460627756181651153
+    second: desks_01_39
+  - first:
+      213: 6020487342540830120
+    second: desks_01_40
+  - first:
+      213: -173772087881424402
+    second: desks_01_41
+  - first:
+      213: 7633657031526781814
+    second: desks_01_42
+  - first:
+      213: -1637254384986752842
+    second: desks_01_43
+  - first:
+      213: -7633582502532542758
+    second: desks_01_44
+  - first:
+      213: -4913948096467150579
+    second: desks_01_45
+  - first:
+      213: 1327987243050644421
+    second: desks_01_46
+  - first:
+      213: -8870354100334993865
+    second: desks_01_47
+  - first:
+      213: -3836360527032694302
+    second: desks_01_48
+  - first:
+      213: -7405428077271240432
+    second: desks_01_49
+  - first:
+      213: -3354445778419358531
+    second: desks_01_50
+  - first:
+      213: -2487599773312602126
+    second: desks_01_51
+  - first:
+      213: 7346144431625050936
+    second: desks_01_52
+  - first:
+      213: 3013111869523187816
+    second: desks_01_53
+  - first:
+      213: -7310543876559273932
+    second: desks_01_54
+  - first:
+      213: 1299637353128980103
+    second: desks_01_55
+  - first:
+      213: -8908960235519443192
+    second: desks_01_56
+  - first:
+      213: 6745161034672919660
+    second: desks_01_57
+  - first:
+      213: 4741076367476055041
+    second: desks_01_58
+  - first:
+      213: -4330620405000556597
+    second: desks_01_59
+  - first:
+      213: 3885329745655482154
+    second: desks_01_60
+  - first:
+      213: 4186591427132954749
+    second: desks_01_61
+  - first:
+      213: -5580144266652594225
+    second: desks_01_62
+  - first:
+      213: 7957682218900672999
+    second: desks_01_63
+  - first:
+      213: -6848761289101587476
+    second: desks_01_64
+  - first:
+      213: -6441439088542092226
+    second: desks_01_65
+  - first:
+      213: 6278327457737003165
+    second: desks_01_66
+  - first:
+      213: 5533419235385741801
+    second: desks_01_67
+  - first:
+      213: 8037178055340671959
+    second: desks_01_68
+  - first:
+      213: 6491617713619568277
+    second: desks_01_69
+  - first:
+      213: 1888120591244647921
+    second: desks_01_70
+  - first:
+      213: 305695236478424514
+    second: desks_01_71
+  - first:
+      213: -2381698716985602479
+    second: desks_01_72
+  - first:
+      213: -5901366109269448930
+    second: desks_01_73
+  - first:
+      213: 4096882037891001885
+    second: desks_01_74
+  - first:
+      213: -3586439405819693496
+    second: desks_01_75
+  - first:
+      213: 2145920108347961989
+    second: desks_01_76
+  - first:
+      213: -1516690315405213114
+    second: desks_01_77
+  - first:
+      213: -6650263636169260331
+    second: desks_01_78
+  - first:
+      213: 7354333989478237998
+    second: desks_01_79
+  - first:
+      213: -6071794429150762198
+    second: desks_01_80
+  - first:
+      213: 2213227950395509678
+    second: desks_01_81
+  - first:
+      213: -2455354883576489925
+    second: desks_01_82
+  - first:
+      213: 6841809320285218686
+    second: desks_01_83
+  - first:
+      213: 6351297733483334016
+    second: desks_01_84
+  - first:
+      213: -773015819078845400
+    second: desks_01_85
+  - first:
+      213: 5172845075115424060
+    second: desks_01_86
+  - first:
+      213: -6024475123334212992
+    second: desks_01_87
+  - first:
+      213: -2609934237717022263
+    second: desks_01_88
+  - first:
+      213: -4258359474038714549
+    second: desks_01_89
+  - first:
+      213: 6565477639094822444
+    second: desks_01_90
+  - first:
+      213: 8724443818516005525
+    second: desks_01_91
+  - first:
+      213: -1369083779782301301
+    second: desks_01_92
+  - first:
+      213: -3243736170324718223
+    second: desks_01_93
+  - first:
+      213: 453118515747852007
+    second: desks_01_94
+  - first:
+      213: -7665196211716510252
+    second: desks_01_95
+  - first:
+      213: 7064882024476799139
+    second: desks_01_96
+  - first:
+      213: -443398130705586675
+    second: desks_01_97
+  - first:
+      213: 2036398653635430009
+    second: desks_01_98
+  - first:
+      213: -8592965974984772663
+    second: desks_01_99
+  - first:
+      213: -6598309052518094917
+    second: desks_01_100
+  - first:
+      213: 4225986277799441864
+    second: desks_01_101
+  - first:
+      213: -5605366961757582231
+    second: desks_01_102
+  - first:
+      213: -3530455046543131791
+    second: desks_01_103
+  - first:
+      213: 2176188552359947678
+    second: desks_01_104
+  - first:
+      213: -6380829807236968770
+    second: desks_01_105
+  - first:
+      213: -8459682886508316963
+    second: desks_01_106
+  - first:
+      213: 7361341628757154363
+    second: desks_01_107
+  - first:
+      213: -2446484664722485193
+    second: desks_01_108
+  - first:
+      213: 2306833237631356785
+    second: desks_01_109
+  - first:
+      213: 3739575008146685844
+    second: desks_01_110
+  - first:
+      213: 2707017234105979792
+    second: desks_01_111
+  - first:
+      213: 7182162177232014511
+    second: desks_01_112
+  - first:
+      213: -7936894130066960480
+    second: desks_01_113
+  - first:
+      213: 7873807284510398010
+    second: desks_01_114
+  - first:
+      213: 8129836100639126895
+    second: desks_01_115
+  - first:
+      213: -7539658191816729393
+    second: desks_01_116
+  - first:
+      213: 3277499322435360615
+    second: desks_01_117
+  - first:
+      213: -2629487188221557899
+    second: desks_01_118
+  - first:
+      213: -5206701595025277490
+    second: desks_01_119
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: desks_01_0
+      rect:
+        serializedVersion: 2
+        x: 198
+        y: 2903
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08f538167ea7593c0800000000000000
+      internalID: -4353438330591682688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_1
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2901
+        width: 68
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39cc5b1d4af319810800000000000000
+      internalID: 1770266105658854547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_2
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 2886
+        width: 82
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac28bd8586773da80800000000000000
+      internalID: -8443273586338463030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_3
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 2896
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7803560f07a157e90800000000000000
+      internalID: -7028682571069968249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_4
+      rect:
+        serializedVersion: 2
+        x: 674
+        y: 2893
+        width: 70
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f66c7efc5b9b865d0800000000000000
+      internalID: -3068998955524700561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_5
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 2925
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08fbf6b6dd184710800000000000000
+      internalID: 1677623669225682955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_6
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 2892
+        width: 70
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49fc629245e74050800000000000000
+      internalID: 5784844320467908938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_7
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 2920
+        width: 15
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16be3a428cd5a5e40800000000000000
+      internalID: 5645928197051902817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_8
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 2885
+        width: 50
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b829c155ef5c59870800000000000000
+      internalID: 8689068752221541003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_9
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 2885
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ad981770e2a5dbe0800000000000000
+      internalID: -1453076219802640987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_10
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 2636
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e25341cd0ee09d190800000000000000
+      internalID: -7937296509336013522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_11
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 2633
+        width: 61
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be735860d8bb83640800000000000000
+      internalID: 5060000395724929003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_12
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 2645
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ec1d6689d57d8a0800000000000000
+      internalID: -6280448246203429370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_13
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 2634
+        width: 62
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e06ed9bd51099750800000000000000
+      internalID: 6312077854798405859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_14
+      rect:
+        serializedVersion: 2
+        x: 459
+        y: 2648
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285c15acb0215b710800000000000000
+      internalID: 1708291475505268098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_15
+      rect:
+        serializedVersion: 2
+        x: 575
+        y: 2642
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dceac7fad1391ae0800000000000000
+      internalID: -1578175377886745391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_16
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 2642
+        width: 33
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3a1cb3788d88f50800000000000000
+      internalID: 6883990105770533846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_17
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 2635
+        width: 72
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15ae2bb613547e30800000000000000
+      internalID: 4500313284744750365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_18
+      rect:
+        serializedVersion: 2
+        x: 945
+        y: 2643
+        width: 47
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07209fdcc9394d0f0800000000000000
+      internalID: -1093086507864358288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_19
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 2387
+        width: 55
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aafb230167822ec80800000000000000
+      internalID: -8295023076120019030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_20
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 2381
+        width: 70
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4641af08dddca0b00800000000000000
+      internalID: 795674635419653220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_21
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 2413
+        width: 12
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71caf6ea5e7cb740800000000000000
+      internalID: 5169145401201836410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_22
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 2384
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aca07dc94c2bca30800000000000000
+      internalID: 4236528569963031717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_23
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 2382
+        width: 53
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3519211c7f4e5d320800000000000000
+      internalID: 2582221714114122067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_24
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 2373
+        width: 70
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 985768bafb14e34a0800000000000000
+      internalID: -6611774911461034615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_25
+      rect:
+        serializedVersion: 2
+        x: 949
+        y: 2399
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2b47efa820cde1a0800000000000000
+      internalID: -6778550583140332756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_26
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 2373
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6522bbd00a105ab50800000000000000
+      internalID: 6603686215545463382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_27
+      rect:
+        serializedVersion: 2
+        x: 464
+        y: 2381
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d008da64c17daecd0800000000000000
+      internalID: -2527971724370280435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_28
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 2370
+        width: 82
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de00393876f0270d0800000000000000
+      internalID: -3426659429212028691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_29
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 2367
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a8b57610e111090800000000000000
+      internalID: -8065632466265994634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_30
+      rect:
+        serializedVersion: 2
+        x: 173
+        y: 2131
+        width: 41
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a23aeffb3dea0a0b0800000000000000
+      internalID: -5719379302278061270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_31
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2136
+        width: 46
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8115bc02628a9be80800000000000000
+      internalID: -8162307967919894248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_32
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 2154
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b69e3a24697328f0800000000000000
+      internalID: -566475657006115150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_33
+      rect:
+        serializedVersion: 2
+        x: 694
+        y: 2150
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd159cd2897bd1a50800000000000000
+      internalID: 6493548101969203679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_34
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 2122
+        width: 71
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb58b1addadce860800000000000000
+      internalID: 7560658519884061647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_35
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 2130
+        width: 93
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7314445ce6f7ffd00800000000000000
+      internalID: 1008664955286995255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_36
+      rect:
+        serializedVersion: 2
+        x: 52
+        y: 2131
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 652fa70fd04c51230800000000000000
+      internalID: 3609006240555528790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_37
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 2110
+        width: 62
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2135332cd6fc08dc0800000000000000
+      internalID: -3638680428598832366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_38
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 2127
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fca104e0653f5180800000000000000
+      internalID: -9124515629770887948
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_39
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 2123
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f218726ccf3f734b0800000000000000
+      internalID: -5460627756181651153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_40
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 1861
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a5b1e217511d8350800000000000000
+      internalID: 6020487342540830120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_41
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 1874
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee123fde433a69df0800000000000000
+      internalID: -173772087881424402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_42
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 1885
+        width: 43
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 673115510a230f960800000000000000
+      internalID: 7633657031526781814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_43
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 1865
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b8f9e7bfcd4749e0800000000000000
+      internalID: -1637254384986752842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_44
+      rect:
+        serializedVersion: 2
+        x: 466
+        y: 1873
+        width: 8
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ade09ec8821101690800000000000000
+      internalID: -7633582502532542758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_45
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 1861
+        width: 82
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d095e51dd362ecbb0800000000000000
+      internalID: -4913948096467150579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_46
+      rect:
+        serializedVersion: 2
+        x: 786
+        y: 1866
+        width: 59
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c3b8409c55fd6210800000000000000
+      internalID: 1327987243050644421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_47
+      rect:
+        serializedVersion: 2
+        x: 934
+        y: 1870
+        width: 70
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73e5a9161fb26e480800000000000000
+      internalID: -8870354100334993865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_48
+      rect:
+        serializedVersion: 2
+        x: 700
+        y: 1877
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e9c2e33d6282cac0800000000000000
+      internalID: -3836360527032694302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_49
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1611
+        width: 95
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0113b8c3662aa3990800000000000000
+      internalID: -7405428077271240432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_50
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1607
+        width: 49
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db4610f465d9271d0800000000000000
+      internalID: -3354445778419358531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_51
+      rect:
+        serializedVersion: 2
+        x: 415
+        y: 1610
+        width: 62
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ff2c50af254a7dd0800000000000000
+      internalID: -2487599773312602126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_52
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1616
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b99b3607fb2f560800000000000000
+      internalID: 7346144431625050936
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_53
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1602
+        width: 72
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868517bf749b0d920800000000000000
+      internalID: 3013111869523187816
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_54
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 1642
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43007c2c31bbb8a90800000000000000
+      internalID: -7310543876559273932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_55
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 1610
+        width: 45
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ee412794d390210800000000000000
+      internalID: 1299637353128980103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_56
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1614
+        width: 79
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80f78c31ed30d5480800000000000000
+      internalID: -8908960235519443192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_57
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 1613
+        width: 42
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c645c704930ab9d50800000000000000
+      internalID: 6745161034672919660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_58
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1369
+        width: 50
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10cd86046dfabc140800000000000000
+      internalID: 4741076367476055041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_59
+      rect:
+        serializedVersion: 2
+        x: 176
+        y: 1359
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf22eeafab86e3c0800000000000000
+      internalID: -4330620405000556597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_60
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 1350
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a27cd0d71d67be530800000000000000
+      internalID: 3885329745655482154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_61
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 1356
+        width: 52
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7894f1b8b2c91a30800000000000000
+      internalID: 4186591427132954749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_62
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 1358
+        width: 82
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcf4db6ba585f82b0800000000000000
+      internalID: -5580144266652594225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_63
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 1358
+        width: 41
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e1540501dd5f6e60800000000000000
+      internalID: 7957682218900672999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_64
+      rect:
+        serializedVersion: 2
+        x: 705
+        y: 1363
+        width: 23
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceb47a3d4ef44f0a0800000000000000
+      internalID: -6848761289101587476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_65
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1366
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34f125f6496b96a0800000000000000
+      internalID: -6441439088542092226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_66
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1354
+        width: 56
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d90defd0f89112750800000000000000
+      internalID: 6278327457737003165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_67
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 1111
+        width: 54
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e11b7e2a77aacc40800000000000000
+      internalID: 5533419235385741801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_68
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1099
+        width: 100
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d34529cbdac98f60800000000000000
+      internalID: 8037178055340671959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_69
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 1097
+        width: 73
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5968ded9aebd61a50800000000000000
+      internalID: 6491617713619568277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_70
+      rect:
+        serializedVersion: 2
+        x: 451
+        y: 1138
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fddc3e8ca3f33a10800000000000000
+      internalID: 1888120591244647921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_71
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 1094
+        width: 58
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c553dba23c0e3400800000000000000
+      internalID: 305695236478424514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_72
+      rect:
+        serializedVersion: 2
+        x: 809
+        y: 1106
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15ec11cb2a182fed0800000000000000
+      internalID: -2381698716985602479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_73
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 1113
+        width: 49
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1727775ac22a1ea0800000000000000
+      internalID: -5901366109269448930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_74
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1094
+        width: 62
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1eeb2bd18c0bd830800000000000000
+      internalID: 4096882037891001885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_75
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1108
+        width: 46
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84677a7bc586a3ec0800000000000000
+      internalID: -3586439405819693496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_76
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 1106
+        width: 29
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 582b27e08f6d7cd10800000000000000
+      internalID: 2145920108347961989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_77
+      rect:
+        serializedVersion: 2
+        x: 960
+        y: 1089
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6424ff3a132a3fae0800000000000000
+      internalID: -1516690315405213114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_78
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 863
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d20f6f157485b3a0800000000000000
+      internalID: -6650263636169260331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_79
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 867
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e278e6a6cc7df0660800000000000000
+      internalID: 7354333989478237998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_80
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 850
+        width: 48
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2be54de227acbba0800000000000000
+      internalID: -6071794429150762198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_81
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 870
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab4a4e3817f6be10800000000000000
+      internalID: 2213227950395509678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_82
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 859
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3817ee0eb3dcedd0800000000000000
+      internalID: -2455354883576489925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_83
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 853
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e77ae8cc35df2fe50800000000000000
+      internalID: 6841809320285218686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_84
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 848
+        width: 59
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089840353a7542850800000000000000
+      internalID: 6351297733483334016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_85
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 849
+        width: 44
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82c3c0a4532b545f0800000000000000
+      internalID: -773015819078845400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_86
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 846
+        width: 48
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c39326c5033a9c740800000000000000
+      internalID: 5172845075115424060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_87
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 862
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0829c7b5bc3c46ca0800000000000000
+      internalID: -6024475123334212992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_88
+      rect:
+        serializedVersion: 2
+        x: 720
+        y: 851
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c93fb983a6a7cbd0800000000000000
+      internalID: -2609934237717022263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_89
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 848
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4fc000ce9447e4c0800000000000000
+      internalID: -4258359474038714549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_90
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 593
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c26640b90234d1b50800000000000000
+      internalID: 6565477639094822444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_91
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 599
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592cf79cd63731970800000000000000
+      internalID: 8724443818516005525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_92
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 604
+        width: 25
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b89a3565e89000de0800000000000000
+      internalID: -1369083779782301301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_93
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 618
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17d85be932febf2d0800000000000000
+      internalID: -3243736170324718223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_94
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 596
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ee8d4ca3ecc94600800000000000000
+      internalID: 453118515747852007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_95
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 597
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4dda7fa48a0cf9590800000000000000
+      internalID: -7665196211716510252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_96
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 590
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a07bf815c08b0260800000000000000
+      internalID: 7064882024476799139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_97
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 596
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d06a835dfbbb8d9f0800000000000000
+      internalID: -443398130705586675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_98
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 593
+        width: 31
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976060349cdb24c10800000000000000
+      internalID: 2036398653635430009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_99
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 338
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3b30629f6afb880800000000000000
+      internalID: -8592965974984772663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_100
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 358
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb72a6640e81e64a0800000000000000
+      internalID: -6598309052518094917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_101
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 337
+        width: 50
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c539e12128b5aa30800000000000000
+      internalID: 4225986277799441864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_102
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 340
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c8ab0627cb532b0800000000000000
+      internalID: -5605366961757582231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_103
+      rect:
+        serializedVersion: 2
+        x: 677
+        y: 333
+        width: 50
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bbf4f17dd410fc0800000000000000
+      internalID: -3530455046543131791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_104
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 338
+        width: 54
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9dafab55ff533e10800000000000000
+      internalID: 2176188552359947678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_105
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 358
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe8a6fe81db277a0800000000000000
+      internalID: -6380829807236968770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_106
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 341
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd6783d6c3b299a80800000000000000
+      internalID: -8459682886508316963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_107
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 344
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3a9d54953db82660800000000000000
+      internalID: 7361341628757154363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_108
+      rect:
+        serializedVersion: 2
+        x: 932
+        y: 341
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73096c2d8275c0ed0800000000000000
+      internalID: -2446484664722485193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_109
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 85
+        width: 48
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17fc4158b94830020800000000000000
+      internalID: 2306833237631356785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_110
+      rect:
+        serializedVersion: 2
+        x: 171
+        y: 86
+        width: 40
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49ff28328a3a5e330800000000000000
+      internalID: 3739575008146685844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_111
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 100
+        width: 25
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0935fbff4d1419520800000000000000
+      internalID: 2707017234105979792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_112
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 104
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fac092d827a2ca360800000000000000
+      internalID: 7182162177232014511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_113
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 78
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0afc97517dc7ad190800000000000000
+      internalID: -7936894130066960480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_114
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 96
+        width: 7
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a36102f0202654d60800000000000000
+      internalID: 7873807284510398010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_115
+      rect:
+        serializedVersion: 2
+        x: 706
+        y: 94
+        width: 6
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65fdbc1cdaf2d070800000000000000
+      internalID: 8129836100639126895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_116
+      rect:
+        serializedVersion: 2
+        x: 711
+        y: 94
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc56e442d0cd5790800000000000000
+      internalID: -7539658191816729393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_117
+      rect:
+        serializedVersion: 2
+        x: 939
+        y: 84
+        width: 43
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 767d751d4440c7d20800000000000000
+      internalID: 3277499322435360615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_118
+      rect:
+        serializedVersion: 2
+        x: 321
+        y: 86
+        width: 23
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5730d9c755f228bd0800000000000000
+      internalID: -2629487188221557899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: desks_01_119
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 74
+        width: 44
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecdfe015c741eb7b0800000000000000
+      internalID: -5206701595025277490
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      desks_01_0: -4353438330591682688
+      desks_01_1: 1770266105658854547
+      desks_01_10: -7937296509336013522
+      desks_01_100: -6598309052518094917
+      desks_01_101: 4225986277799441864
+      desks_01_102: -5605366961757582231
+      desks_01_103: -3530455046543131791
+      desks_01_104: 2176188552359947678
+      desks_01_105: -6380829807236968770
+      desks_01_106: -8459682886508316963
+      desks_01_107: 7361341628757154363
+      desks_01_108: -2446484664722485193
+      desks_01_109: 2306833237631356785
+      desks_01_11: 5060000395724929003
+      desks_01_110: 3739575008146685844
+      desks_01_111: 2707017234105979792
+      desks_01_112: 7182162177232014511
+      desks_01_113: -7936894130066960480
+      desks_01_114: 7873807284510398010
+      desks_01_115: 8129836100639126895
+      desks_01_116: -7539658191816729393
+      desks_01_117: 3277499322435360615
+      desks_01_118: -2629487188221557899
+      desks_01_119: -5206701595025277490
+      desks_01_12: -6280448246203429370
+      desks_01_13: 6312077854798405859
+      desks_01_14: 1708291475505268098
+      desks_01_15: -1578175377886745391
+      desks_01_16: 6883990105770533846
+      desks_01_17: 4500313284744750365
+      desks_01_18: -1093086507864358288
+      desks_01_19: -8295023076120019030
+      desks_01_2: -8443273586338463030
+      desks_01_20: 795674635419653220
+      desks_01_21: 5169145401201836410
+      desks_01_22: 4236528569963031717
+      desks_01_23: 2582221714114122067
+      desks_01_24: -6611774911461034615
+      desks_01_25: -6778550583140332756
+      desks_01_26: 6603686215545463382
+      desks_01_27: -2527971724370280435
+      desks_01_28: -3426659429212028691
+      desks_01_29: -8065632466265994634
+      desks_01_3: -7028682571069968249
+      desks_01_30: -5719379302278061270
+      desks_01_31: -8162307967919894248
+      desks_01_32: -566475657006115150
+      desks_01_33: 6493548101969203679
+      desks_01_34: 7560658519884061647
+      desks_01_35: 1008664955286995255
+      desks_01_36: 3609006240555528790
+      desks_01_37: -3638680428598832366
+      desks_01_38: -9124515629770887948
+      desks_01_39: -5460627756181651153
+      desks_01_4: -3068998955524700561
+      desks_01_40: 6020487342540830120
+      desks_01_41: -173772087881424402
+      desks_01_42: 7633657031526781814
+      desks_01_43: -1637254384986752842
+      desks_01_44: -7633582502532542758
+      desks_01_45: -4913948096467150579
+      desks_01_46: 1327987243050644421
+      desks_01_47: -8870354100334993865
+      desks_01_48: -3836360527032694302
+      desks_01_49: -7405428077271240432
+      desks_01_5: 1677623669225682955
+      desks_01_50: -3354445778419358531
+      desks_01_51: -2487599773312602126
+      desks_01_52: 7346144431625050936
+      desks_01_53: 3013111869523187816
+      desks_01_54: -7310543876559273932
+      desks_01_55: 1299637353128980103
+      desks_01_56: -8908960235519443192
+      desks_01_57: 6745161034672919660
+      desks_01_58: 4741076367476055041
+      desks_01_59: -4330620405000556597
+      desks_01_6: 5784844320467908938
+      desks_01_60: 3885329745655482154
+      desks_01_61: 4186591427132954749
+      desks_01_62: -5580144266652594225
+      desks_01_63: 7957682218900672999
+      desks_01_64: -6848761289101587476
+      desks_01_65: -6441439088542092226
+      desks_01_66: 6278327457737003165
+      desks_01_67: 5533419235385741801
+      desks_01_68: 8037178055340671959
+      desks_01_69: 6491617713619568277
+      desks_01_7: 5645928197051902817
+      desks_01_70: 1888120591244647921
+      desks_01_71: 305695236478424514
+      desks_01_72: -2381698716985602479
+      desks_01_73: -5901366109269448930
+      desks_01_74: 4096882037891001885
+      desks_01_75: -3586439405819693496
+      desks_01_76: 2145920108347961989
+      desks_01_77: -1516690315405213114
+      desks_01_78: -6650263636169260331
+      desks_01_79: 7354333989478237998
+      desks_01_8: 8689068752221541003
+      desks_01_80: -6071794429150762198
+      desks_01_81: 2213227950395509678
+      desks_01_82: -2455354883576489925
+      desks_01_83: 6841809320285218686
+      desks_01_84: 6351297733483334016
+      desks_01_85: -773015819078845400
+      desks_01_86: 5172845075115424060
+      desks_01_87: -6024475123334212992
+      desks_01_88: -2609934237717022263
+      desks_01_89: -4258359474038714549
+      desks_01_9: -1453076219802640987
+      desks_01_90: 6565477639094822444
+      desks_01_91: 8724443818516005525
+      desks_01_92: -1369083779782301301
+      desks_01_93: -3243736170324718223
+      desks_01_94: 453118515747852007
+      desks_01_95: -7665196211716510252
+      desks_01_96: 7064882024476799139
+      desks_01_97: -443398130705586675
+      desks_01_98: 2036398653635430009
+      desks_01_99: -8592965974984772663
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1469 @@
+fileFormatVersion: 2
+guid: 7bd170f969b6e114a9f62b3bb88d5eb4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5942870697174885861
+    second: walls_burnt_roofs_01_0
+  - first:
+      213: 2238818646371136155
+    second: walls_burnt_roofs_01_1
+  - first:
+      213: -2152371843022399091
+    second: walls_burnt_roofs_01_2
+  - first:
+      213: 2818613891090986360
+    second: walls_burnt_roofs_01_3
+  - first:
+      213: 1409061116017756102
+    second: walls_burnt_roofs_01_4
+  - first:
+      213: -9144614285120355253
+    second: walls_burnt_roofs_01_5
+  - first:
+      213: 1857214392018205850
+    second: walls_burnt_roofs_01_6
+  - first:
+      213: 2336727001469750164
+    second: walls_burnt_roofs_01_7
+  - first:
+      213: -381888946975462795
+    second: walls_burnt_roofs_01_8
+  - first:
+      213: -6661744220512621050
+    second: walls_burnt_roofs_01_9
+  - first:
+      213: -5157623624300511338
+    second: walls_burnt_roofs_01_10
+  - first:
+      213: -6245673078277271058
+    second: walls_burnt_roofs_01_11
+  - first:
+      213: 7856818253439051945
+    second: walls_burnt_roofs_01_12
+  - first:
+      213: 5940131276688699427
+    second: walls_burnt_roofs_01_13
+  - first:
+      213: -8407546340427020726
+    second: walls_burnt_roofs_01_14
+  - first:
+      213: -2885057919899035820
+    second: walls_burnt_roofs_01_15
+  - first:
+      213: 7677264752498241838
+    second: walls_burnt_roofs_01_16
+  - first:
+      213: -7629547794760866424
+    second: walls_burnt_roofs_01_17
+  - first:
+      213: 1758819557520848701
+    second: walls_burnt_roofs_01_18
+  - first:
+      213: -2640254172160262190
+    second: walls_burnt_roofs_01_19
+  - first:
+      213: -6013501899929248174
+    second: walls_burnt_roofs_01_20
+  - first:
+      213: 6735448788434447693
+    second: walls_burnt_roofs_01_21
+  - first:
+      213: 4023516417644680977
+    second: walls_burnt_roofs_01_22
+  - first:
+      213: -2136094471181208893
+    second: walls_burnt_roofs_01_23
+  - first:
+      213: 2969696755830895517
+    second: walls_burnt_roofs_01_24
+  - first:
+      213: -6957763695069536081
+    second: walls_burnt_roofs_01_25
+  - first:
+      213: 4202091088441755162
+    second: walls_burnt_roofs_01_26
+  - first:
+      213: -7167756486859518466
+    second: walls_burnt_roofs_01_27
+  - first:
+      213: -5405656944653657634
+    second: walls_burnt_roofs_01_28
+  - first:
+      213: 3575191136900755955
+    second: walls_burnt_roofs_01_29
+  - first:
+      213: -4008468260451904007
+    second: walls_burnt_roofs_01_30
+  - first:
+      213: 3374029578814075737
+    second: walls_burnt_roofs_01_31
+  - first:
+      213: 1444575146748010568
+    second: walls_burnt_roofs_01_32
+  - first:
+      213: 7197447700887095505
+    second: walls_burnt_roofs_01_33
+  - first:
+      213: 3711403101098621965
+    second: walls_burnt_roofs_01_34
+  - first:
+      213: -171803219510267868
+    second: walls_burnt_roofs_01_35
+  - first:
+      213: 7903199578841271760
+    second: walls_burnt_roofs_01_36
+  - first:
+      213: -2232734377831736956
+    second: walls_burnt_roofs_01_37
+  - first:
+      213: 4537128764501554697
+    second: walls_burnt_roofs_01_38
+  - first:
+      213: 8035875105348070888
+    second: walls_burnt_roofs_01_39
+  - first:
+      213: -7477249004513784978
+    second: walls_burnt_roofs_01_40
+  - first:
+      213: 1557649416362882100
+    second: walls_burnt_roofs_01_41
+  - first:
+      213: 9134188177047151626
+    second: walls_burnt_roofs_01_42
+  - first:
+      213: -4075628234789716880
+    second: walls_burnt_roofs_01_43
+  - first:
+      213: -9130945062317690095
+    second: walls_burnt_roofs_01_44
+  - first:
+      213: -7616937733874762934
+    second: walls_burnt_roofs_01_45
+  - first:
+      213: 1962265569205853453
+    second: walls_burnt_roofs_01_46
+  - first:
+      213: 2779948603268290918
+    second: walls_burnt_roofs_01_47
+  - first:
+      213: -3355249910410359781
+    second: walls_burnt_roofs_01_48
+  - first:
+      213: 6821430158119061494
+    second: walls_burnt_roofs_01_49
+  - first:
+      213: -4342725964149941324
+    second: walls_burnt_roofs_01_50
+  - first:
+      213: 787731109408321600
+    second: walls_burnt_roofs_01_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: walls_burnt_roofs_01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2333
+        width: 67
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e5ef239961597250800000000000000
+      internalID: 5942870697174885861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_burnt_roofs_01_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 2333
+        width: 69
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b92f87572b1e11f10800000000000000
+      internalID: 2238818646371136155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_burnt_roofs_01_2
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 2333
+        width: 69
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89d818663d3122e0800000000000000
+      internalID: -2152371843022399091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_burnt_roofs_01_3
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 2333
+        width: 69
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 875b579766abd1720800000000000000
+      internalID: 2818613891090986360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_burnt_roofs_01_4
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 2333
+        width: 68
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c7cd079e9dfd8310800000000000000
+      internalID: 1409061116017756102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_burnt_roofs_01_5
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 2333
+        width: 68
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b44407702cdc71180800000000000000
+      internalID: -9144614285120355253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_burnt_roofs_01_6
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 2333
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9cfcfb46a626c910800000000000000
+      internalID: 1857214392018205850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_burnt_roofs_01_7
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 2333
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b0babc3d8bd6020800000000000000
+      internalID: 2336727001469750164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_burnt_roofs_01_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2077
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57a21eba60243baf0800000000000000
+      internalID: -381888946975462795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_burnt_roofs_01_9
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2077
+        width: 66
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60e65d74deabc83a0800000000000000
+      internalID: -6661744220512621050
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_burnt_roofs_01_10
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 2077
+        width: 66
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69fb764d3a07c68b0800000000000000
+      internalID: -5157623624300511338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_burnt_roofs_01_11
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 2077
+        width: 66
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee110122d69e259a0800000000000000
+      internalID: -6245673078277271058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_burnt_roofs_01_12
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 2077
+        width: 66
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a82a050396090d60800000000000000
+      internalID: 7856818253439051945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_burnt_roofs_01_13
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 2077
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320b73a8ce59f6250800000000000000
+      internalID: 5940131276688699427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_burnt_roofs_01_14
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 2077
+        width: 69
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4646320625625b80800000000000000
+      internalID: -8407546340427020726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_burnt_roofs_01_15
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 2077
+        width: 67
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4579df78b1736f7d0800000000000000
+      internalID: -2885057919899035820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_burnt_roofs_01_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1821
+        width: 67
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e21f843dd9f1b8a60800000000000000
+      internalID: 7677264752498241838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_burnt_roofs_01_17
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1821
+        width: 69
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 885e96824b66e1690800000000000000
+      internalID: -7629547794760866424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_burnt_roofs_01_18
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1565
+        width: 67
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d373a06a115986810800000000000000
+      internalID: 1758819557520848701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_burnt_roofs_01_19
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1565
+        width: 69
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dff4afa1deeb5bd0800000000000000
+      internalID: -2640254172160262190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_burnt_roofs_01_20
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1565
+        width: 69
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25e949602efbb8ca0800000000000000
+      internalID: -6013501899929248174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_burnt_roofs_01_21
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1565
+        width: 69
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4d6875bcfe197d50800000000000000
+      internalID: 6735448788434447693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_burnt_roofs_01_22
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1565
+        width: 68
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 117d9a54dd666d730800000000000000
+      internalID: 4023516417644680977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_burnt_roofs_01_23
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1565
+        width: 68
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2719e55611b52e0800000000000000
+      internalID: -2136094471181208893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_burnt_roofs_01_24
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1565
+        width: 68
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d933eed177b763920800000000000000
+      internalID: 2969696755830895517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_burnt_roofs_01_25
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1565
+        width: 68
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa0654c78ce017f90800000000000000
+      internalID: -6957763695069536081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_burnt_roofs_01_26
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1309
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a16c760d493d05a30800000000000000
+      internalID: 4202091088441755162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_burnt_roofs_01_27
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1309
+        width: 66
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd8c3c9373078c90800000000000000
+      internalID: -7167756486859518466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_burnt_roofs_01_28
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1309
+        width: 66
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed99b4436af3bf4b0800000000000000
+      internalID: -5405656944653657634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_burnt_roofs_01_29
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1309
+        width: 66
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f138179561ad9130800000000000000
+      internalID: 3575191136900755955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_burnt_roofs_01_30
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1309
+        width: 66
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5165ada5f0f58c0800000000000000
+      internalID: -4008468260451904007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_burnt_roofs_01_31
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1309
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 953bfda8606f2de20800000000000000
+      internalID: 3374029578814075737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_burnt_roofs_01_32
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1309
+        width: 69
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840e54931792c0410800000000000000
+      internalID: 1444575146748010568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_burnt_roofs_01_33
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1309
+        width: 66
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d8c3dcdc8872e360800000000000000
+      internalID: 7197447700887095505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_burnt_roofs_01_34
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1053
+        width: 67
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c3443e47d818330800000000000000
+      internalID: 3711403101098621965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_burnt_roofs_01_35
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1053
+        width: 69
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42072d1d1e1ad9df0800000000000000
+      internalID: -171803219510267868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_burnt_roofs_01_36
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 797
+        width: 66
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ddc9ddd42ecdad60800000000000000
+      internalID: 7903199578841271760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_burnt_roofs_01_37
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 797
+        width: 66
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4895983b9ebb301e0800000000000000
+      internalID: -2232734377831736956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_burnt_roofs_01_38
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 797
+        width: 66
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9067254929e17fe30800000000000000
+      internalID: 4537128764501554697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_burnt_roofs_01_39
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 797
+        width: 66
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ed2da915d9258f60800000000000000
+      internalID: 8035875105348070888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_burnt_roofs_01_40
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 797
+        width: 66
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6b00d485a97b3890800000000000000
+      internalID: -7477249004513784978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_burnt_roofs_01_41
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 797
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43477e234e1ed9510800000000000000
+      internalID: 1557649416362882100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_burnt_roofs_01_42
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 797
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a04e77480c723ce70800000000000000
+      internalID: 9134188177047151626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_burnt_roofs_01_43
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 797
+        width: 66
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07c7eccc6b57077c0800000000000000
+      internalID: -4075628234789716880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_burnt_roofs_01_44
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 29
+        width: 66
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11372f8f7dd584180800000000000000
+      internalID: -9130945062317690095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_burnt_roofs_01_45
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 29
+        width: 66
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4b3020cc733b4690800000000000000
+      internalID: -7616937733874762934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_burnt_roofs_01_46
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 29
+        width: 66
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0d9e7f732e5b3b10800000000000000
+      internalID: 1962265569205853453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_burnt_roofs_01_47
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 29
+        width: 66
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66956af968c549620800000000000000
+      internalID: 2779948603268290918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_burnt_roofs_01_48
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 29
+        width: 66
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c445dbbf1cf61d0800000000000000
+      internalID: -3355249910410359781
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_burnt_roofs_01_49
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 29
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f7c2da56969aae50800000000000000
+      internalID: 6821430158119061494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_burnt_roofs_01_50
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 29
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bb1afd8eb98bb3c0800000000000000
+      internalID: -4342725964149941324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_burnt_roofs_01_51
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 29
+        width: 66
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 040beca35459eea00800000000000000
+      internalID: 787731109408321600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      walls_burnt_roofs_01_0: 5942870697174885861
+      walls_burnt_roofs_01_1: 2238818646371136155
+      walls_burnt_roofs_01_10: -5157623624300511338
+      walls_burnt_roofs_01_11: -6245673078277271058
+      walls_burnt_roofs_01_12: 7856818253439051945
+      walls_burnt_roofs_01_13: 5940131276688699427
+      walls_burnt_roofs_01_14: -8407546340427020726
+      walls_burnt_roofs_01_15: -2885057919899035820
+      walls_burnt_roofs_01_16: 7677264752498241838
+      walls_burnt_roofs_01_17: -7629547794760866424
+      walls_burnt_roofs_01_18: 1758819557520848701
+      walls_burnt_roofs_01_19: -2640254172160262190
+      walls_burnt_roofs_01_2: -2152371843022399091
+      walls_burnt_roofs_01_20: -6013501899929248174
+      walls_burnt_roofs_01_21: 6735448788434447693
+      walls_burnt_roofs_01_22: 4023516417644680977
+      walls_burnt_roofs_01_23: -2136094471181208893
+      walls_burnt_roofs_01_24: 2969696755830895517
+      walls_burnt_roofs_01_25: -6957763695069536081
+      walls_burnt_roofs_01_26: 4202091088441755162
+      walls_burnt_roofs_01_27: -7167756486859518466
+      walls_burnt_roofs_01_28: -5405656944653657634
+      walls_burnt_roofs_01_29: 3575191136900755955
+      walls_burnt_roofs_01_3: 2818613891090986360
+      walls_burnt_roofs_01_30: -4008468260451904007
+      walls_burnt_roofs_01_31: 3374029578814075737
+      walls_burnt_roofs_01_32: 1444575146748010568
+      walls_burnt_roofs_01_33: 7197447700887095505
+      walls_burnt_roofs_01_34: 3711403101098621965
+      walls_burnt_roofs_01_35: -171803219510267868
+      walls_burnt_roofs_01_36: 7903199578841271760
+      walls_burnt_roofs_01_37: -2232734377831736956
+      walls_burnt_roofs_01_38: 4537128764501554697
+      walls_burnt_roofs_01_39: 8035875105348070888
+      walls_burnt_roofs_01_4: 1409061116017756102
+      walls_burnt_roofs_01_40: -7477249004513784978
+      walls_burnt_roofs_01_41: 1557649416362882100
+      walls_burnt_roofs_01_42: 9134188177047151626
+      walls_burnt_roofs_01_43: -4075628234789716880
+      walls_burnt_roofs_01_44: -9130945062317690095
+      walls_burnt_roofs_01_45: -7616937733874762934
+      walls_burnt_roofs_01_46: 1962265569205853453
+      walls_burnt_roofs_01_47: 2779948603268290918
+      walls_burnt_roofs_01_48: -3355249910410359781
+      walls_burnt_roofs_01_49: 6821430158119061494
+      walls_burnt_roofs_01_5: -9144614285120355253
+      walls_burnt_roofs_01_50: -4342725964149941324
+      walls_burnt_roofs_01_51: 787731109408321600
+      walls_burnt_roofs_01_6: 1857214392018205850
+      walls_burnt_roofs_01_7: 2336727001469750164
+      walls_burnt_roofs_01_8: -381888946975462795
+      walls_burnt_roofs_01_9: -6661744220512621050
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

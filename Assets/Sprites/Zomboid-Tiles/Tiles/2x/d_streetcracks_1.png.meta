@@ -1,0 +1,6279 @@
+fileFormatVersion: 2
+guid: fc2ab288b2ae62a469899c0ac3731bd4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2519866583884932245
+    second: d_streetcracks_1_0
+  - first:
+      213: -9203620485785605008
+    second: d_streetcracks_1_1
+  - first:
+      213: 4671473704068010905
+    second: d_streetcracks_1_2
+  - first:
+      213: 4967080424345321604
+    second: d_streetcracks_1_3
+  - first:
+      213: -2478888379042841095
+    second: d_streetcracks_1_4
+  - first:
+      213: -7939865011609019365
+    second: d_streetcracks_1_5
+  - first:
+      213: -7794581912854908155
+    second: d_streetcracks_1_6
+  - first:
+      213: -7030685749478650577
+    second: d_streetcracks_1_7
+  - first:
+      213: 3313626598773129154
+    second: d_streetcracks_1_8
+  - first:
+      213: -7055498430104400195
+    second: d_streetcracks_1_9
+  - first:
+      213: -2783738261572495774
+    second: d_streetcracks_1_10
+  - first:
+      213: 9186077847281856517
+    second: d_streetcracks_1_11
+  - first:
+      213: 2503401174302669778
+    second: d_streetcracks_1_12
+  - first:
+      213: -4201142830385199117
+    second: d_streetcracks_1_13
+  - first:
+      213: 7424808911541171570
+    second: d_streetcracks_1_14
+  - first:
+      213: -1517527313374201889
+    second: d_streetcracks_1_15
+  - first:
+      213: -1443170127220073475
+    second: d_streetcracks_1_16
+  - first:
+      213: 2763348212787602231
+    second: d_streetcracks_1_17
+  - first:
+      213: -6265394564216035598
+    second: d_streetcracks_1_18
+  - first:
+      213: 1459402568539296689
+    second: d_streetcracks_1_19
+  - first:
+      213: 7262773731734612146
+    second: d_streetcracks_1_20
+  - first:
+      213: 1834848952287730789
+    second: d_streetcracks_1_21
+  - first:
+      213: -8748615428702012977
+    second: d_streetcracks_1_22
+  - first:
+      213: 3681136777410547106
+    second: d_streetcracks_1_23
+  - first:
+      213: 8220963818188707815
+    second: d_streetcracks_1_24
+  - first:
+      213: 8016391924450574568
+    second: d_streetcracks_1_25
+  - first:
+      213: -6273844014346862684
+    second: d_streetcracks_1_26
+  - first:
+      213: 6876406360634294092
+    second: d_streetcracks_1_27
+  - first:
+      213: -3364122236374757480
+    second: d_streetcracks_1_28
+  - first:
+      213: 118708386458478682
+    second: d_streetcracks_1_29
+  - first:
+      213: -2294445950728782014
+    second: d_streetcracks_1_30
+  - first:
+      213: 1826858727570606504
+    second: d_streetcracks_1_31
+  - first:
+      213: -3242071753039370723
+    second: d_streetcracks_1_32
+  - first:
+      213: -2297411999119140017
+    second: d_streetcracks_1_33
+  - first:
+      213: -5858075519970542453
+    second: d_streetcracks_1_34
+  - first:
+      213: -6152612587792812710
+    second: d_streetcracks_1_35
+  - first:
+      213: -6801151859595679297
+    second: d_streetcracks_1_36
+  - first:
+      213: -7755917796328725644
+    second: d_streetcracks_1_37
+  - first:
+      213: 3419317507367082134
+    second: d_streetcracks_1_38
+  - first:
+      213: -449052148280843765
+    second: d_streetcracks_1_39
+  - first:
+      213: 3961981275545986539
+    second: d_streetcracks_1_40
+  - first:
+      213: 5191815554410917809
+    second: d_streetcracks_1_41
+  - first:
+      213: 2055052139700481811
+    second: d_streetcracks_1_42
+  - first:
+      213: 3652363628408520550
+    second: d_streetcracks_1_43
+  - first:
+      213: -4487937444597692753
+    second: d_streetcracks_1_44
+  - first:
+      213: -8633950565668310387
+    second: d_streetcracks_1_45
+  - first:
+      213: -1172455921012568152
+    second: d_streetcracks_1_46
+  - first:
+      213: -792293983305150955
+    second: d_streetcracks_1_47
+  - first:
+      213: -916668219522420653
+    second: d_streetcracks_1_48
+  - first:
+      213: 6927026765392573922
+    second: d_streetcracks_1_49
+  - first:
+      213: 874286691778599262
+    second: d_streetcracks_1_50
+  - first:
+      213: -6000324345123263404
+    second: d_streetcracks_1_51
+  - first:
+      213: -842854324566232636
+    second: d_streetcracks_1_52
+  - first:
+      213: 7702595285928616047
+    second: d_streetcracks_1_53
+  - first:
+      213: -8814304416341744726
+    second: d_streetcracks_1_54
+  - first:
+      213: -3073327291626205774
+    second: d_streetcracks_1_55
+  - first:
+      213: -50089586879700411
+    second: d_streetcracks_1_56
+  - first:
+      213: -6219040954195900888
+    second: d_streetcracks_1_57
+  - first:
+      213: -3324318104533645283
+    second: d_streetcracks_1_58
+  - first:
+      213: 3157934763873284259
+    second: d_streetcracks_1_59
+  - first:
+      213: -8855770905468431624
+    second: d_streetcracks_1_60
+  - first:
+      213: -8653943653266962896
+    second: d_streetcracks_1_61
+  - first:
+      213: 7879280769811308027
+    second: d_streetcracks_1_62
+  - first:
+      213: 3491554013791634900
+    second: d_streetcracks_1_63
+  - first:
+      213: 1426461780618003399
+    second: d_streetcracks_1_64
+  - first:
+      213: 2648968513586950837
+    second: d_streetcracks_1_65
+  - first:
+      213: 826687769311947200
+    second: d_streetcracks_1_66
+  - first:
+      213: -5552583375870132590
+    second: d_streetcracks_1_67
+  - first:
+      213: -7533378273308980812
+    second: d_streetcracks_1_68
+  - first:
+      213: 7203260391104915039
+    second: d_streetcracks_1_69
+  - first:
+      213: 5848763529703162257
+    second: d_streetcracks_1_70
+  - first:
+      213: -1068143477428954968
+    second: d_streetcracks_1_71
+  - first:
+      213: -3878439957074439620
+    second: d_streetcracks_1_72
+  - first:
+      213: -1038784913441330134
+    second: d_streetcracks_1_73
+  - first:
+      213: 8059896558282497686
+    second: d_streetcracks_1_74
+  - first:
+      213: 4637616944208956689
+    second: d_streetcracks_1_75
+  - first:
+      213: -8883573716518876336
+    second: d_streetcracks_1_76
+  - first:
+      213: -5876213072398841262
+    second: d_streetcracks_1_77
+  - first:
+      213: 1474531589801185935
+    second: d_streetcracks_1_78
+  - first:
+      213: 3902019061733336400
+    second: d_streetcracks_1_79
+  - first:
+      213: 5937182562638711068
+    second: d_streetcracks_1_80
+  - first:
+      213: 6178244625675564575
+    second: d_streetcracks_1_81
+  - first:
+      213: 9106905638050258275
+    second: d_streetcracks_1_82
+  - first:
+      213: 5454441279941808589
+    second: d_streetcracks_1_83
+  - first:
+      213: -8244926328606799648
+    second: d_streetcracks_1_84
+  - first:
+      213: 3271548751569183026
+    second: d_streetcracks_1_85
+  - first:
+      213: 2647677137133354568
+    second: d_streetcracks_1_86
+  - first:
+      213: -2945345361181540812
+    second: d_streetcracks_1_87
+  - first:
+      213: 6931617816171143353
+    second: d_streetcracks_1_88
+  - first:
+      213: 6404132885448267939
+    second: d_streetcracks_1_89
+  - first:
+      213: 5404480926407207546
+    second: d_streetcracks_1_90
+  - first:
+      213: 5509873346165124359
+    second: d_streetcracks_1_91
+  - first:
+      213: 2723481256265120082
+    second: d_streetcracks_1_92
+  - first:
+      213: 4980616042728496100
+    second: d_streetcracks_1_93
+  - first:
+      213: 3590379000946651921
+    second: d_streetcracks_1_94
+  - first:
+      213: 6969686177719222712
+    second: d_streetcracks_1_95
+  - first:
+      213: -4976476841530343349
+    second: d_streetcracks_1_96
+  - first:
+      213: -3598734748720152290
+    second: d_streetcracks_1_97
+  - first:
+      213: -3316973631104742588
+    second: d_streetcracks_1_98
+  - first:
+      213: -1797514431450751059
+    second: d_streetcracks_1_99
+  - first:
+      213: 7398100376692725714
+    second: d_streetcracks_1_100
+  - first:
+      213: 8903031816030571355
+    second: d_streetcracks_1_101
+  - first:
+      213: -4786341338220277110
+    second: d_streetcracks_1_102
+  - first:
+      213: 6044587353572760
+    second: d_streetcracks_1_103
+  - first:
+      213: -2738864975417392434
+    second: d_streetcracks_1_104
+  - first:
+      213: -2667842534803167857
+    second: d_streetcracks_1_105
+  - first:
+      213: -5796997587489237341
+    second: d_streetcracks_1_106
+  - first:
+      213: 7330903126340944381
+    second: d_streetcracks_1_107
+  - first:
+      213: -1315818977527682704
+    second: d_streetcracks_1_108
+  - first:
+      213: 4254735521050641284
+    second: d_streetcracks_1_109
+  - first:
+      213: -1017616053825112735
+    second: d_streetcracks_1_110
+  - first:
+      213: -6882986261187333244
+    second: d_streetcracks_1_111
+  - first:
+      213: 895085395101879649
+    second: d_streetcracks_1_112
+  - first:
+      213: 8118302412137745068
+    second: d_streetcracks_1_113
+  - first:
+      213: -5935100124126720302
+    second: d_streetcracks_1_114
+  - first:
+      213: 4222978626602282236
+    second: d_streetcracks_1_115
+  - first:
+      213: -7047535391359814849
+    second: d_streetcracks_1_116
+  - first:
+      213: 615605415768626968
+    second: d_streetcracks_1_117
+  - first:
+      213: -389933494835589729
+    second: d_streetcracks_1_118
+  - first:
+      213: 1806131990783132729
+    second: d_streetcracks_1_119
+  - first:
+      213: 5507415208819508168
+    second: d_streetcracks_1_120
+  - first:
+      213: 469307330393416776
+    second: d_streetcracks_1_121
+  - first:
+      213: 8620433953425036601
+    second: d_streetcracks_1_122
+  - first:
+      213: -1621015600847641001
+    second: d_streetcracks_1_123
+  - first:
+      213: 7503330359837293259
+    second: d_streetcracks_1_124
+  - first:
+      213: 1438408411011862931
+    second: d_streetcracks_1_125
+  - first:
+      213: -5271108030173268209
+    second: d_streetcracks_1_126
+  - first:
+      213: 8434117629361983852
+    second: d_streetcracks_1_127
+  - first:
+      213: 113699608851661111
+    second: d_streetcracks_1_128
+  - first:
+      213: 1953317151753888892
+    second: d_streetcracks_1_129
+  - first:
+      213: 5820843522625944764
+    second: d_streetcracks_1_130
+  - first:
+      213: 2551074467338167083
+    second: d_streetcracks_1_131
+  - first:
+      213: 8059680578667293579
+    second: d_streetcracks_1_132
+  - first:
+      213: 6796679761344136644
+    second: d_streetcracks_1_133
+  - first:
+      213: 8997639283031994665
+    second: d_streetcracks_1_134
+  - first:
+      213: -8333403521074680928
+    second: d_streetcracks_1_135
+  - first:
+      213: -3128536852042377915
+    second: d_streetcracks_1_136
+  - first:
+      213: 266219874882828757
+    second: d_streetcracks_1_137
+  - first:
+      213: 439256687601055919
+    second: d_streetcracks_1_138
+  - first:
+      213: 2370290924199285219
+    second: d_streetcracks_1_139
+  - first:
+      213: -3230803218624311204
+    second: d_streetcracks_1_140
+  - first:
+      213: 5199652327448034151
+    second: d_streetcracks_1_141
+  - first:
+      213: 6310804724004693981
+    second: d_streetcracks_1_142
+  - first:
+      213: 2606213764140777329
+    second: d_streetcracks_1_143
+  - first:
+      213: -72801132833767588
+    second: d_streetcracks_1_144
+  - first:
+      213: -9099259839908813094
+    second: d_streetcracks_1_145
+  - first:
+      213: 2268338560266749634
+    second: d_streetcracks_1_146
+  - first:
+      213: 725073318677032777
+    second: d_streetcracks_1_147
+  - first:
+      213: 7163272361605168506
+    second: d_streetcracks_1_148
+  - first:
+      213: 964762457123703817
+    second: d_streetcracks_1_149
+  - first:
+      213: 3878547451932357788
+    second: d_streetcracks_1_150
+  - first:
+      213: -8224222549325760338
+    second: d_streetcracks_1_151
+  - first:
+      213: -5000044727386757520
+    second: d_streetcracks_1_152
+  - first:
+      213: -7647085612083608664
+    second: d_streetcracks_1_153
+  - first:
+      213: -3851815339119537881
+    second: d_streetcracks_1_154
+  - first:
+      213: 8131316154838515820
+    second: d_streetcracks_1_155
+  - first:
+      213: 8196546531924972938
+    second: d_streetcracks_1_156
+  - first:
+      213: 8014741206975883531
+    second: d_streetcracks_1_157
+  - first:
+      213: 8576710990037629220
+    second: d_streetcracks_1_158
+  - first:
+      213: -148375927535270954
+    second: d_streetcracks_1_159
+  - first:
+      213: -1795466341308341095
+    second: d_streetcracks_1_160
+  - first:
+      213: 8079812158525620088
+    second: d_streetcracks_1_161
+  - first:
+      213: 4209725198404335073
+    second: d_streetcracks_1_162
+  - first:
+      213: 2467197800595475429
+    second: d_streetcracks_1_163
+  - first:
+      213: -3801815896094910298
+    second: d_streetcracks_1_164
+  - first:
+      213: -6303954246935675679
+    second: d_streetcracks_1_165
+  - first:
+      213: 2991690542203874398
+    second: d_streetcracks_1_166
+  - first:
+      213: -3505212409118448163
+    second: d_streetcracks_1_167
+  - first:
+      213: 4309026943482963417
+    second: d_streetcracks_1_168
+  - first:
+      213: 2542513290613996052
+    second: d_streetcracks_1_169
+  - first:
+      213: -3625520603860022081
+    second: d_streetcracks_1_170
+  - first:
+      213: 6948019043932466960
+    second: d_streetcracks_1_171
+  - first:
+      213: 2603854042564682229
+    second: d_streetcracks_1_172
+  - first:
+      213: 8272220619647130376
+    second: d_streetcracks_1_173
+  - first:
+      213: -9184241882043577026
+    second: d_streetcracks_1_174
+  - first:
+      213: 8664940674784116459
+    second: d_streetcracks_1_175
+  - first:
+      213: 2599257293258556361
+    second: d_streetcracks_1_176
+  - first:
+      213: 5728770635800591447
+    second: d_streetcracks_1_177
+  - first:
+      213: -3994970879119325908
+    second: d_streetcracks_1_178
+  - first:
+      213: 6827528662391465511
+    second: d_streetcracks_1_179
+  - first:
+      213: -9001032639817415739
+    second: d_streetcracks_1_180
+  - first:
+      213: -2891552243716264694
+    second: d_streetcracks_1_181
+  - first:
+      213: 5328096003639304798
+    second: d_streetcracks_1_182
+  - first:
+      213: 592690792541996956
+    second: d_streetcracks_1_183
+  - first:
+      213: 8519356066847189759
+    second: d_streetcracks_1_184
+  - first:
+      213: -8879878084539497119
+    second: d_streetcracks_1_185
+  - first:
+      213: -1231381885272045223
+    second: d_streetcracks_1_186
+  - first:
+      213: 3455695734457714254
+    second: d_streetcracks_1_187
+  - first:
+      213: -2380048554796828459
+    second: d_streetcracks_1_188
+  - first:
+      213: 4937435114703775508
+    second: d_streetcracks_1_189
+  - first:
+      213: -6309400931911340060
+    second: d_streetcracks_1_190
+  - first:
+      213: 4300290679126728276
+    second: d_streetcracks_1_191
+  - first:
+      213: 1622593400943046185
+    second: d_streetcracks_1_192
+  - first:
+      213: 8412529597112270997
+    second: d_streetcracks_1_193
+  - first:
+      213: 5071513774832420295
+    second: d_streetcracks_1_194
+  - first:
+      213: -8002170073546848557
+    second: d_streetcracks_1_195
+  - first:
+      213: -1402527386733304158
+    second: d_streetcracks_1_196
+  - first:
+      213: -680233870931804152
+    second: d_streetcracks_1_197
+  - first:
+      213: -3043044096173576370
+    second: d_streetcracks_1_198
+  - first:
+      213: 1559451876980804211
+    second: d_streetcracks_1_199
+  - first:
+      213: -2416263242225968509
+    second: d_streetcracks_1_200
+  - first:
+      213: -963899463810446617
+    second: d_streetcracks_1_201
+  - first:
+      213: 3372881514607955555
+    second: d_streetcracks_1_202
+  - first:
+      213: -2082119929852311320
+    second: d_streetcracks_1_203
+  - first:
+      213: -5892948235303751622
+    second: d_streetcracks_1_204
+  - first:
+      213: -3929135431146000505
+    second: d_streetcracks_1_205
+  - first:
+      213: 6073998554543109035
+    second: d_streetcracks_1_206
+  - first:
+      213: 2859092108424931606
+    second: d_streetcracks_1_207
+  - first:
+      213: -3285049602592137826
+    second: d_streetcracks_1_208
+  - first:
+      213: 1983083823422464720
+    second: d_streetcracks_1_209
+  - first:
+      213: -5604331177874077597
+    second: d_streetcracks_1_210
+  - first:
+      213: 5043611023985132965
+    second: d_streetcracks_1_211
+  - first:
+      213: 7386604161493317420
+    second: d_streetcracks_1_212
+  - first:
+      213: 6395003332663078026
+    second: d_streetcracks_1_213
+  - first:
+      213: 8893663248569877835
+    second: d_streetcracks_1_214
+  - first:
+      213: -6491812597740746156
+    second: d_streetcracks_1_215
+  - first:
+      213: -9127602718424582214
+    second: d_streetcracks_1_216
+  - first:
+      213: 4660125946983762695
+    second: d_streetcracks_1_217
+  - first:
+      213: 4001678017686480566
+    second: d_streetcracks_1_218
+  - first:
+      213: -8739758636598454439
+    second: d_streetcracks_1_219
+  - first:
+      213: 4702336881796218410
+    second: d_streetcracks_1_220
+  - first:
+      213: -4925956286375576255
+    second: d_streetcracks_1_221
+  - first:
+      213: -108692791079890765
+    second: d_streetcracks_1_222
+  - first:
+      213: -1438757798780076427
+    second: d_streetcracks_1_223
+  - first:
+      213: -8186698945761654926
+    second: d_streetcracks_1_224
+  - first:
+      213: 4083513266099354265
+    second: d_streetcracks_1_225
+  - first:
+      213: 5881025331880616978
+    second: d_streetcracks_1_226
+  - first:
+      213: -1897118538588836278
+    second: d_streetcracks_1_227
+  - first:
+      213: 8779260215344851885
+    second: d_streetcracks_1_228
+  - first:
+      213: 7827962793763638746
+    second: d_streetcracks_1_229
+  - first:
+      213: 4473469582312558744
+    second: d_streetcracks_1_230
+  - first:
+      213: 3028300355646292727
+    second: d_streetcracks_1_231
+  - first:
+      213: 6401542065111054885
+    second: d_streetcracks_1_232
+  - first:
+      213: 4933554904266554346
+    second: d_streetcracks_1_233
+  - first:
+      213: -7914103782379235641
+    second: d_streetcracks_1_234
+  - first:
+      213: 1271786486768675994
+    second: d_streetcracks_1_235
+  - first:
+      213: 9185427125508533322
+    second: d_streetcracks_1_236
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: d_streetcracks_1_0
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 3883
+        width: 26
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6b592a51b2a70dd0800000000000000
+      internalID: -2519866583884932245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_1
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 3889
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07cad395eeb264080800000000000000
+      internalID: -9203620485785605008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_2
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 3883
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9935d84559864d040800000000000000
+      internalID: 4671473704068010905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_3
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 3877
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48046e7445d9ee440800000000000000
+      internalID: 4967080424345321604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_4
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 3863
+        width: 20
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fdbe492728399dd0800000000000000
+      internalID: -2478888379042841095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_5
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 3881
+        width: 21
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1cdd72d6deefc190800000000000000
+      internalID: -7939865011609019365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_6
+      rect:
+        serializedVersion: 2
+        x: 717
+        y: 3877
+        width: 28
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50339973c0514d390800000000000000
+      internalID: -7794581912854908155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_7
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 3877
+        width: 59
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d8cee9f8cfd6e90800000000000000
+      internalID: -7030685749478650577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_8
+      rect:
+        serializedVersion: 2
+        x: 20
+        y: 3873
+        width: 22
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf7822d5dd5cfd20800000000000000
+      internalID: 3313626598773129154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_9
+      rect:
+        serializedVersion: 2
+        x: 81
+        y: 3869
+        width: 23
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe0d483f85d51e90800000000000000
+      internalID: -7055498430104400195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_10
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 3862
+        width: 49
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266de4bcccc2e59d0800000000000000
+      internalID: -2783738261572495774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_11
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 3866
+        width: 48
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 500f156d1218b7f70800000000000000
+      internalID: 9186077847281856517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_12
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 3871
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2db3b9cba1eddb220800000000000000
+      internalID: 2503401174302669778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_13
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 3869
+        width: 28
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f70638bada82b5c0800000000000000
+      internalID: -4201142830385199117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_14
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 3861
+        width: 47
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 275f091ed583a0760800000000000000
+      internalID: 7424808911541171570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_15
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 3867
+        width: 38
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd7b06dd2f8a0fae0800000000000000
+      internalID: -1517527313374201889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_16
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 3853
+        width: 55
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfb97906a64d8fbe0800000000000000
+      internalID: -1443170127220073475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_17
+      rect:
+        serializedVersion: 2
+        x: 719
+        y: 3869
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7336ae50f82695620800000000000000
+      internalID: 2763348212787602231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_18
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 3875
+        width: 17
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f66d3ed6d8dc09a0800000000000000
+      internalID: -6265394564216035598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_19
+      rect:
+        serializedVersion: 2
+        x: 962
+        y: 3867
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b3d31267e6d04410800000000000000
+      internalID: 1459402568539296689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_20
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 3861
+        width: 30
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b8641caa3e8ac460800000000000000
+      internalID: 7262773731734612146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_21
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 3855
+        width: 24
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c9b919661b67910800000000000000
+      internalID: 1834848952287730789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_22
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 3859
+        width: 27
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9f6b7ae9ca69680800000000000000
+      internalID: -8748615428702012977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_23
+      rect:
+        serializedVersion: 2
+        x: 913
+        y: 3861
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ad8e234566061330800000000000000
+      internalID: 3681136777410547106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_24
+      rect:
+        serializedVersion: 2
+        x: 926
+        y: 3847
+        width: 55
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e71a7e390bb61270800000000000000
+      internalID: 8220963818188707815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_25
+      rect:
+        serializedVersion: 2
+        x: 965
+        y: 3858
+        width: 28
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e0cf2d8bf1ff3f60800000000000000
+      internalID: 8016391924450574568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_26
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 3853
+        width: 17
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aff4a4fb14dee8a0800000000000000
+      internalID: -6273844014346862684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_27
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 3849
+        width: 19
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4ff7d8f627ed6f50800000000000000
+      internalID: 6876406360634294092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_28
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 3839
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89fc3ef56ac3051d0800000000000000
+      internalID: -3364122236374757480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_29
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 3603
+        width: 54
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58a7b606acb5a100800000000000000
+      internalID: 118708386458478682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_30
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 3610
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f3a76709d7820e0800000000000000
+      internalID: -2294445950728782014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_31
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 3606
+        width: 70
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a90ba7655e4a5910800000000000000
+      internalID: 1826858727570606504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_32
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 3633
+        width: 23
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d16a2c7fae8d103d0800000000000000
+      internalID: -3242071753039370723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_33
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 3607
+        width: 42
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b98c185f3fd10e0800000000000000
+      internalID: -2297411999119140017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_34
+      rect:
+        serializedVersion: 2
+        x: 335
+        y: 3621
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8c7ebc1a5fe3bea0800000000000000
+      internalID: -5858075519970542453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_35
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 3603
+        width: 76
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a55330803778d9aa0800000000000000
+      internalID: -6152612587792812710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_36
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 3627
+        width: 22
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb9ef41fa647d91a0800000000000000
+      internalID: -6801151859595679297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_37
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 3625
+        width: 38
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47322ba5bd17d5490800000000000000
+      internalID: -7755917796328725644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_38
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 3613
+        width: 32
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69893e8182bd37f20800000000000000
+      internalID: 3419317507367082134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_39
+      rect:
+        serializedVersion: 2
+        x: 810
+        y: 3621
+        width: 59
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0228184375a4c9f0800000000000000
+      internalID: -449052148280843765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_40
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 3611
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be5eaa78af8cbf630800000000000000
+      internalID: 3961981275545986539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_41
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 3621
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bfa2044db80d0840800000000000000
+      internalID: 5191815554410917809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_42
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 3615
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31fe0cd6803058c10800000000000000
+      internalID: 2055052139700481811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_43
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 3605
+        width: 57
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66fb8d57e5dcfa230800000000000000
+      internalID: 3652363628408520550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_44
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 3591
+        width: 60
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa684981ca4a7b1c0800000000000000
+      internalID: -4487937444597692753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_45
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 3619
+        width: 20
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d82be0584bb0e2880800000000000000
+      internalID: -8633950565668310387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_46
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 3611
+        width: 8
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af0e314d899abfe0800000000000000
+      internalID: -1172455921012568152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_47
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 3609
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51eca67e1d43105f0800000000000000
+      internalID: -792293983305150955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_48
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 3592
+        width: 82
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350f97e6c175743f0800000000000000
+      internalID: -916668219522420653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_49
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 3610
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5f8d4642eb12060800000000000000
+      internalID: 6927026765392573922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_50
+      rect:
+        serializedVersion: 2
+        x: 432
+        y: 3599
+        width: 31
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e59905f2d17122c00800000000000000
+      internalID: 874286691778599262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_51
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 3603
+        width: 36
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45cacc79cc09abca0800000000000000
+      internalID: -6000324345123263404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_52
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 3597
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c1f3da15749d44f0800000000000000
+      internalID: -842854324566232636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_53
+      rect:
+        serializedVersion: 2
+        x: 188
+        y: 3593
+        width: 21
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60af5a3a9d15ea60800000000000000
+      internalID: 7702595285928616047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_54
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 3599
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa32bc165dc4da580800000000000000
+      internalID: -8814304416341744726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_55
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 3583
+        width: 17
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bd4b188c195955d0800000000000000
+      internalID: -3073327291626205774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_56
+      rect:
+        serializedVersion: 2
+        x: 11
+        y: 3343
+        width: 56
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 542e61f39cb0e4ff0800000000000000
+      internalID: -50089586879700411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_57
+      rect:
+        serializedVersion: 2
+        x: 49
+        y: 3351
+        width: 72
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8260c89b33781b9a0800000000000000
+      internalID: -6219040954195900888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_58
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 3350
+        width: 108
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d184fd20c46add1d0800000000000000
+      internalID: -3324318104533645283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_59
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 3373
+        width: 36
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a03680bfec33db20800000000000000
+      internalID: 3157934763873284259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_60
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 3349
+        width: 90
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f29057084bf91580800000000000000
+      internalID: -8855770905468431624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_61
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 3333
+        width: 84
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 036c6c0191407e780800000000000000
+      internalID: -8653943653266962896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_62
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 3371
+        width: 22
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd5b2a2d14d85d60800000000000000
+      internalID: 7879280769811308027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_63
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 3369
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d5c32260ed747030800000000000000
+      internalID: 3491554013791634900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_64
+      rect:
+        serializedVersion: 2
+        x: 683
+        y: 3353
+        width: 74
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c348678e6fcbc310800000000000000
+      internalID: 1426461780618003399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_65
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 3351
+        width: 78
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b27b8904d603c420800000000000000
+      internalID: 2648968513586950837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_66
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 3335
+        width: 96
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9affd652cf87b00800000000000000
+      internalID: 826687769311947200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_67
+      rect:
+        serializedVersion: 2
+        x: 943
+        y: 3365
+        width: 43
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29e7587a6d241f2b0800000000000000
+      internalID: -5552583375870132590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_68
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3357
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b9c5ccbf50147790800000000000000
+      internalID: -7533378273308980812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_69
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 3359
+        width: 14
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f562374492f17f360800000000000000
+      internalID: 7203260391104915039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_70
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 3335
+        width: 86
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1918733317bfa2150800000000000000
+      internalID: 5848763529703162257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_71
+      rect:
+        serializedVersion: 2
+        x: 865
+        y: 3353
+        width: 18
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a852b2aa213d21f0800000000000000
+      internalID: -1068143477428954968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_72
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 3337
+        width: 52
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3295eb68630d2ac0800000000000000
+      internalID: -3878439957074439620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_73
+      rect:
+        serializedVersion: 2
+        x: 351
+        y: 3345
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2c6b4cff9e7591f0800000000000000
+      internalID: -1038784913441330134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_74
+      rect:
+        serializedVersion: 2
+        x: 59
+        y: 3327
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69e52d277318adf60800000000000000
+      internalID: 8059896558282497686
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_75
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 3104
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11d48e32a002c5040800000000000000
+      internalID: 4637616944208956689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_76
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 3114
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05b45e2a5c437b480800000000000000
+      internalID: -8883573716518876336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_77
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 3122
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25a092b185f737ea0800000000000000
+      internalID: -5876213072398841262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_78
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 3104
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8211342ba6967410800000000000000
+      internalID: 1474531589801185935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_79
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 3103
+        width: 44
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0552b61b9a1c62630800000000000000
+      internalID: 3902019061733336400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_80
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 3117
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1949bc851c156250800000000000000
+      internalID: 5937182562638711068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_81
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 3095
+        width: 46
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f16bbd8d0c88db550800000000000000
+      internalID: 6178244625675564575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_82
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 3087
+        width: 85
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36ddcf66d6a326e70800000000000000
+      internalID: 9106905638050258275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_83
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 3103
+        width: 61
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc1982bf17112bb40800000000000000
+      internalID: 5454441279941808589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_84
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 3109
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e840280033249d80800000000000000
+      internalID: -8244926328606799648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_85
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 3110
+        width: 62
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23167a29140e66d20800000000000000
+      internalID: 3271548751569183026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_86
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 3092
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84eb1c604507eb420800000000000000
+      internalID: 2647677137133354568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_87
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 3101
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43efde5cff70027d0800000000000000
+      internalID: -2945345361181540812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_88
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 3103
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b066a3bdad023060800000000000000
+      internalID: 6931617816171143353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_89
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 3084
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a89a83cdec00e850800000000000000
+      internalID: 6404132885448267939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_90
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 3105
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a20e5b4c2900b40800000000000000
+      internalID: 5404480926407207546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_91
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 3101
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70da093ad90077c40800000000000000
+      internalID: 5509873346165124359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_92
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 3099
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259fd10e5cfbbc520800000000000000
+      internalID: 2723481256265120082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_93
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 3091
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eb917507e3be1540800000000000000
+      internalID: 4980616042728496100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_94
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 3087
+        width: 48
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1137270cda693d130800000000000000
+      internalID: 3590379000946651921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_95
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 3095
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b187e2d6ac49b060800000000000000
+      internalID: 6969686177719222712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_96
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 3077
+        width: 72
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4040abdda000fab0800000000000000
+      internalID: -4976476841530343349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_97
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 3073
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e114ead10d9be0ec0800000000000000
+      internalID: -3598734748720152290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_98
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 3080
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b0aac7e0eb7f1d0800000000000000
+      internalID: -3316973631104742588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_99
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2817
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daf5db2f522fd07e0800000000000000
+      internalID: -1797514431450751059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_100
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 2843
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d7147588155ba660800000000000000
+      internalID: 7398100376692725714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_101
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 2828
+        width: 101
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5bc082344ced8b70800000000000000
+      internalID: 8903031816030571355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_102
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 2834
+        width: 104
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82dc9979ef739db0800000000000000
+      internalID: -4786341338220277110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_103
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 2830
+        width: 85
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 895060a2589751000800000000000000
+      internalID: 6044587353572760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_104
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 2825
+        width: 92
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec2cc74e0d89df9d0800000000000000
+      internalID: -2738864975417392434
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_105
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 2862
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f852164795be9fad0800000000000000
+      internalID: -2667842534803167857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_106
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 2843
+        width: 70
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a658e1786dec8fa0800000000000000
+      internalID: -5796997587489237341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_107
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 2842
+        width: 98
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df14a587d899cb560800000000000000
+      internalID: 7330903126340944381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_108
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 2821
+        width: 90
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 079aeb78c954dbde0800000000000000
+      internalID: -1315818977527682704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_109
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 2854
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483c571f96bdb0b30800000000000000
+      internalID: 4254735521050641284
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_110
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 2822
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 165f4023793b0e1f0800000000000000
+      internalID: -1017616053825112735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_111
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2589
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 483f80c8678ba70a0800000000000000
+      internalID: -6882986261187333244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_112
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2561
+        width: 69
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16d00baac6bfb6c00800000000000000
+      internalID: 895085395101879649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_113
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 2584
+        width: 74
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: caacaaef7010aa070800000000000000
+      internalID: 8118302412137745068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_114
+      rect:
+        serializedVersion: 2
+        x: 117
+        y: 2591
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2decc03f1e942ada0800000000000000
+      internalID: -5935100124126720302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_115
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 2566
+        width: 112
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfc22b4cfa80b9a30800000000000000
+      internalID: 4222978626602282236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_116
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 2578
+        width: 115
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f333108a6ef123e90800000000000000
+      internalID: -7047535391359814849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_117
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 2589
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81712b03dd11b8800800000000000000
+      internalID: 615605415768626968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_118
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 2566
+        width: 95
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9d4c4a6d8da69af0800000000000000
+      internalID: -389933494835589729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_119
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 2569
+        width: 95
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9340910f97ba01910800000000000000
+      internalID: 1806131990783132729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_120
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 2583
+        width: 80
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c34540f3f44e6c40800000000000000
+      internalID: 5507415208819508168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_121
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 2585
+        width: 98
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844269ec780538600800000000000000
+      internalID: 469307330393416776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_122
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 2565
+        width: 102
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9359d93f10fe1a770800000000000000
+      internalID: 8620433953425036601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_123
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 2336
+        width: 24
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7562c1846eef089e0800000000000000
+      internalID: -1621015600847641001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_124
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 2346
+        width: 28
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca718a353f212860800000000000000
+      internalID: 7503330359837293259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_125
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 2354
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391db4c24d046f310800000000000000
+      internalID: 1438408411011862931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_126
+      rect:
+        serializedVersion: 2
+        x: 181
+        y: 2336
+        width: 34
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0730d09c2349d6b0800000000000000
+      internalID: -5271108030173268209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_127
+      rect:
+        serializedVersion: 2
+        x: 266
+        y: 2335
+        width: 47
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c611bfb4c410c0570800000000000000
+      internalID: 8434117629361983852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_128
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 2349
+        width: 16
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73144bc1131f39100800000000000000
+      internalID: 113699608851661111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_129
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 2327
+        width: 45
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c74e7f3b9939b1b10800000000000000
+      internalID: 1953317151753888892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_130
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 2319
+        width: 85
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbcb04bf75ac7c050800000000000000
+      internalID: 5820843522625944764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_131
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 2335
+        width: 61
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23a24d36bc376320800000000000000
+      internalID: 2551074467338167083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_132
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 2341
+        width: 18
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8b2496c8ccb9df60800000000000000
+      internalID: 8059680578667293579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_133
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 2342
+        width: 62
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5010b8b38a25e50800000000000000
+      internalID: 6796679761344136644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_134
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 2324
+        width: 28
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 921f832a1490edc70800000000000000
+      internalID: 8997639283031994665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_135
+      rect:
+        serializedVersion: 2
+        x: 79
+        y: 2333
+        width: 28
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0abaa5c56adc95c80800000000000000
+      internalID: -8333403521074680928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_136
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 2335
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5459b4b0f443594d0800000000000000
+      internalID: -3128536852042377915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_137
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 2316
+        width: 30
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d93a82d09dc1b300800000000000000
+      internalID: 266219874882828757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_138
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 2337
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa8fcad41ad881600800000000000000
+      internalID: 439256687601055919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_139
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 2333
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e11b378907f4e020800000000000000
+      internalID: 2370290924199285219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_140
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 2331
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5095b61791e923d0800000000000000
+      internalID: -3230803218624311204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_141
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 2323
+        width: 34
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76bb21d2e30e82840800000000000000
+      internalID: 5199652327448034151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_142
+      rect:
+        serializedVersion: 2
+        x: 553
+        y: 2319
+        width: 50
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7282dd57b749750800000000000000
+      internalID: 6310804724004693981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_143
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 2327
+        width: 14
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f38543c912b2420800000000000000
+      internalID: 2606213764140777329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_144
+      rect:
+        serializedVersion: 2
+        x: 927
+        y: 2309
+        width: 72
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5f723261cb5dfef0800000000000000
+      internalID: -72801132833767588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_145
+      rect:
+        serializedVersion: 2
+        x: 57
+        y: 2305
+        width: 19
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6e143b26fe8b180800000000000000
+      internalID: -9099259839908813094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_146
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 2312
+        width: 24
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c6450307e1ca7f10800000000000000
+      internalID: 2268338560266749634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_147
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 2049
+        width: 62
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94fabdb775aff0a00800000000000000
+      internalID: 725073318677032777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_148
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 2075
+        width: 56
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7d79de924e096360800000000000000
+      internalID: 7163272361605168506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_149
+      rect:
+        serializedVersion: 2
+        x: 136
+        y: 2060
+        width: 101
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90ccd7dd756836d00800000000000000
+      internalID: 964762457123703817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_150
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 2066
+        width: 104
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c94bcecab5e53d530800000000000000
+      internalID: 3878547451932357788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_151
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 2062
+        width: 85
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea83ea94a21bddd80800000000000000
+      internalID: -8224222549325760338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_152
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 2057
+        width: 92
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0762c03dfc54c9ab0800000000000000
+      internalID: -5000044727386757520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_153
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 2094
+        width: 30
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a381ccd62810e590800000000000000
+      internalID: -7647085612083608664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_154
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 2075
+        width: 70
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 721116b5b5a9b8ac0800000000000000
+      internalID: -3851815339119537881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_155
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 2074
+        width: 98
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c608b8516fc38d070800000000000000
+      internalID: 8131316154838515820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_156
+      rect:
+        serializedVersion: 2
+        x: 909
+        y: 2053
+        width: 90
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a851954c4abffb170800000000000000
+      internalID: 8196546531924972938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_157
+      rect:
+        serializedVersion: 2
+        x: 936
+        y: 2086
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b09ab70f9a41a3f60800000000000000
+      internalID: 8014741206975883531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_158
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 2054
+        width: 30
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 429b16e3439960770800000000000000
+      internalID: 8576710990037629220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_159
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1821
+        width: 11
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d38a0a41ecd0fdf0800000000000000
+      internalID: -148375927535270954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_160
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1793
+        width: 69
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 994652810e83517e0800000000000000
+      internalID: -1795466341308341095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_161
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1815
+        width: 76
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f3dc87952412070800000000000000
+      internalID: 8079812158525620088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_162
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1798
+        width: 112
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e5b6ec83c2fb6a30800000000000000
+      internalID: 4209725198404335073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_163
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 1810
+        width: 115
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb4e1fe35f3d3220800000000000000
+      internalID: 2467197800595475429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_164
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1821
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a854dbd59c3d3bc0800000000000000
+      internalID: -3801815896094910298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_165
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1798
+        width: 95
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ec751f130bd388a0800000000000000
+      internalID: -6303954246935675679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_166
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1801
+        width: 95
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5c25fd82be948920800000000000000
+      internalID: 2991690542203874398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_167
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1815
+        width: 80
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd52434a2ebfa5fc0800000000000000
+      internalID: -3505212409118448163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_168
+      rect:
+        serializedVersion: 2
+        x: 790
+        y: 1817
+        width: 98
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d5a3e5cc2dbccb30800000000000000
+      internalID: 4309026943482963417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_169
+      rect:
+        serializedVersion: 2
+        x: 901
+        y: 1797
+        width: 102
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41ab1c3fd52d84320800000000000000
+      internalID: 2542513290613996052
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_170
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1556
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc401938309fadc0800000000000000
+      internalID: -3625520603860022081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_171
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 1565
+        width: 57
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f6e3e12825c6060800000000000000
+      internalID: 6948019043932466960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_172
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1565
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f16806b47fb22420800000000000000
+      internalID: 2603854042564682229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_173
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1548
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80b9ab153d4dcc270800000000000000
+      internalID: 8272220619647130376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_174
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1562
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3d07812ba40b8080800000000000000
+      internalID: -9184241882043577026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_175
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 1559
+        width: 97
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee375882ad004870800000000000000
+      internalID: 8664940674784116459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_176
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 1551
+        width: 88
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c3058c9cba621420800000000000000
+      internalID: 2599257293258556361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_177
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 1544
+        width: 90
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75c359a7a8ea08f40800000000000000
+      internalID: 5728770635800591447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_178
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 1567
+        width: 66
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c250016d6230f88c0800000000000000
+      internalID: -3994970879119325908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_179
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1573
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72624a7052140ce50800000000000000
+      internalID: 6827528662391465511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_180
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 1574
+        width: 63
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c38cfbe088e51380800000000000000
+      internalID: -9001032639817415739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_181
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 1541
+        width: 97
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0deecfed842fd7d0800000000000000
+      internalID: -2891552243716264694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_182
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1537
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e52691af51331f940800000000000000
+      internalID: 5328096003639304798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_183
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1544
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c974c17b229a93800800000000000000
+      internalID: 592690792541996956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_184
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1281
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffaee7f8435da3670800000000000000
+      internalID: 8519356066847189759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_185
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 1307
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1654f320ee554c480800000000000000
+      internalID: -8879878084539497119
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_186
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 1286
+        width: 109
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 959428113b049eee0800000000000000
+      internalID: -1231381885272045223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_187
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 1298
+        width: 106
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e464f2026f815ff20800000000000000
+      internalID: 3455695734457714254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_188
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1294
+        width: 91
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d8372f037e58fed0800000000000000
+      internalID: -2380048554796828459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_189
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1288
+        width: 99
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4176571c31b458440800000000000000
+      internalID: 4937435114703775508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_190
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1326
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4efe7e3f7418078a0800000000000000
+      internalID: -6309400931911340060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_191
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1307
+        width: 72
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45e9548b693bdab30800000000000000
+      internalID: 4300290679126728276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_192
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1306
+        width: 103
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e6a1ee91c948610800000000000000
+      internalID: 1622593400943046185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_193
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 1285
+        width: 98
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 590465ad81f4fb470800000000000000
+      internalID: 8412529597112270997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_194
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1053
+        width: 11
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c5036e78e2a16640800000000000000
+      internalID: 5071513774832420295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_195
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 1025
+        width: 111
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d68af527b492f090800000000000000
+      internalID: -8002170073546848557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_196
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1030
+        width: 115
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a6210ec5c8398ce0800000000000000
+      internalID: -1402527386733304158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_197
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1042
+        width: 118
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 800cbeef5e25f86f0800000000000000
+      internalID: -680233870931804152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_198
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 1053
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4f69bb648fe4c5d0800000000000000
+      internalID: -3043044096173576370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_199
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 1030
+        width: 95
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37ac1c3483944a510800000000000000
+      internalID: 1559451876980804211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_200
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1032
+        width: 100
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38a99431265b77ed0800000000000000
+      internalID: -2416263242225968509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_201
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 1047
+        width: 80
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ea836c6b8a8f92f0800000000000000
+      internalID: -963899463810446617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_202
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 1049
+        width: 103
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e40b30ed1eece20800000000000000
+      internalID: 3372881514607955555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_203
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1029
+        width: 107
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8446194f2da13e0800000000000000
+      internalID: -2082119929852311320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_204
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 788
+        width: 45
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3074fa5dca083ea0800000000000000
+      internalID: -5892948235303751622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_205
+      rect:
+        serializedVersion: 2
+        x: 50
+        y: 797
+        width: 57
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f24209428e879c0800000000000000
+      internalID: -3929135431146000505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_206
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 797
+        width: 14
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba337c1018d2b4450800000000000000
+      internalID: 6073998554543109035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_207
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 780
+        width: 65
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6196acedf198da720800000000000000
+      internalID: 2859092108424931606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_208
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 794
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d15f79ac82962d0800000000000000
+      internalID: -3285049602592137826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_209
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 791
+        width: 97
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d26be60b34558b10800000000000000
+      internalID: 1983083823422464720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_210
+      rect:
+        serializedVersion: 2
+        x: 401
+        y: 783
+        width: 88
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3684b2b9c7a6932b0800000000000000
+      internalID: -5604331177874077597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_211
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 776
+        width: 90
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a5c0ed01818ef540800000000000000
+      internalID: 5043611023985132965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_212
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 799
+        width: 66
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c273b36595d728660800000000000000
+      internalID: 7386604161493317420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_213
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 805
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c62dc16ad9fb850800000000000000
+      internalID: 6395003332663078026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_214
+      rect:
+        serializedVersion: 2
+        x: 808
+        y: 806
+        width: 63
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4544fa9a93ac6b70800000000000000
+      internalID: 8893663248569877835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_215
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 773
+        width: 97
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45ac14366d278e5a0800000000000000
+      internalID: -6491812597740746156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_216
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 769
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab7b96d00bd345180800000000000000
+      internalID: -9127602718424582214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_217
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 776
+        width: 26
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70b4c8ebbd71ca040800000000000000
+      internalID: 4660125946983762695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_218
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 513
+        width: 65
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b621bd84f0d88730800000000000000
+      internalID: 4001678017686480566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_219
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 539
+        width: 64
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95795e243d326b680800000000000000
+      internalID: -8739758636598454439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_220
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 518
+        width: 109
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2e7eadda7e024140800000000000000
+      internalID: 4702336881796218410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_221
+      rect:
+        serializedVersion: 2
+        x: 261
+        y: 530
+        width: 106
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14d3b7b3bdc73abb0800000000000000
+      internalID: -4925956286375576255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_222
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 526
+        width: 91
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b0990e7b78dd7ef0800000000000000
+      internalID: -108692791079890765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_223
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 520
+        width: 99
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57ef3e5a761880ce0800000000000000
+      internalID: -1438757798780076427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_224
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 558
+        width: 32
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 277cfce0fa0036e80800000000000000
+      internalID: -8186698945761654926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_225
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 539
+        width: 72
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99a727d1ead8ba830800000000000000
+      internalID: 4083513266099354265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_226
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 538
+        width: 103
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21461dd51699d9150800000000000000
+      internalID: 5881025331880616978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_227
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 517
+        width: 98
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4eaa929db41ca5e0800000000000000
+      internalID: -1897118538588836278
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_228
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 257
+        width: 117
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dab695eb6a236d970800000000000000
+      internalID: 8779260215344851885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_229
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 262
+        width: 115
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: add8145cfa282ac60800000000000000
+      internalID: 7827962793763638746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_230
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 274
+        width: 118
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 890514732e4f41e30800000000000000
+      internalID: 4473469582312558744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_231
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 285
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f28c7bf02fa60a20800000000000000
+      internalID: 3028300355646292727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_232
+      rect:
+        serializedVersion: 2
+        x: 399
+        y: 262
+        width: 95
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a3aa56798d6d850800000000000000
+      internalID: 6401542065111054885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_233
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 264
+        width: 100
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aebb1bcdb02877440800000000000000
+      internalID: 4933554904266554346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_234
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 279
+        width: 80
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c6d5b76a847b2290800000000000000
+      internalID: -7914103782379235641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_235
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 281
+        width: 103
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c2dfd421b46a110800000000000000
+      internalID: 1271786486768675994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: d_streetcracks_1_236
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 261
+        width: 107
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4c6c2edd41397f70800000000000000
+      internalID: 9185427125508533322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      d_streetcracks_1_0: -2519866583884932245
+      d_streetcracks_1_1: -9203620485785605008
+      d_streetcracks_1_10: -2783738261572495774
+      d_streetcracks_1_100: 7398100376692725714
+      d_streetcracks_1_101: 8903031816030571355
+      d_streetcracks_1_102: -4786341338220277110
+      d_streetcracks_1_103: 6044587353572760
+      d_streetcracks_1_104: -2738864975417392434
+      d_streetcracks_1_105: -2667842534803167857
+      d_streetcracks_1_106: -5796997587489237341
+      d_streetcracks_1_107: 7330903126340944381
+      d_streetcracks_1_108: -1315818977527682704
+      d_streetcracks_1_109: 4254735521050641284
+      d_streetcracks_1_11: 9186077847281856517
+      d_streetcracks_1_110: -1017616053825112735
+      d_streetcracks_1_111: -6882986261187333244
+      d_streetcracks_1_112: 895085395101879649
+      d_streetcracks_1_113: 8118302412137745068
+      d_streetcracks_1_114: -5935100124126720302
+      d_streetcracks_1_115: 4222978626602282236
+      d_streetcracks_1_116: -7047535391359814849
+      d_streetcracks_1_117: 615605415768626968
+      d_streetcracks_1_118: -389933494835589729
+      d_streetcracks_1_119: 1806131990783132729
+      d_streetcracks_1_12: 2503401174302669778
+      d_streetcracks_1_120: 5507415208819508168
+      d_streetcracks_1_121: 469307330393416776
+      d_streetcracks_1_122: 8620433953425036601
+      d_streetcracks_1_123: -1621015600847641001
+      d_streetcracks_1_124: 7503330359837293259
+      d_streetcracks_1_125: 1438408411011862931
+      d_streetcracks_1_126: -5271108030173268209
+      d_streetcracks_1_127: 8434117629361983852
+      d_streetcracks_1_128: 113699608851661111
+      d_streetcracks_1_129: 1953317151753888892
+      d_streetcracks_1_13: -4201142830385199117
+      d_streetcracks_1_130: 5820843522625944764
+      d_streetcracks_1_131: 2551074467338167083
+      d_streetcracks_1_132: 8059680578667293579
+      d_streetcracks_1_133: 6796679761344136644
+      d_streetcracks_1_134: 8997639283031994665
+      d_streetcracks_1_135: -8333403521074680928
+      d_streetcracks_1_136: -3128536852042377915
+      d_streetcracks_1_137: 266219874882828757
+      d_streetcracks_1_138: 439256687601055919
+      d_streetcracks_1_139: 2370290924199285219
+      d_streetcracks_1_14: 7424808911541171570
+      d_streetcracks_1_140: -3230803218624311204
+      d_streetcracks_1_141: 5199652327448034151
+      d_streetcracks_1_142: 6310804724004693981
+      d_streetcracks_1_143: 2606213764140777329
+      d_streetcracks_1_144: -72801132833767588
+      d_streetcracks_1_145: -9099259839908813094
+      d_streetcracks_1_146: 2268338560266749634
+      d_streetcracks_1_147: 725073318677032777
+      d_streetcracks_1_148: 7163272361605168506
+      d_streetcracks_1_149: 964762457123703817
+      d_streetcracks_1_15: -1517527313374201889
+      d_streetcracks_1_150: 3878547451932357788
+      d_streetcracks_1_151: -8224222549325760338
+      d_streetcracks_1_152: -5000044727386757520
+      d_streetcracks_1_153: -7647085612083608664
+      d_streetcracks_1_154: -3851815339119537881
+      d_streetcracks_1_155: 8131316154838515820
+      d_streetcracks_1_156: 8196546531924972938
+      d_streetcracks_1_157: 8014741206975883531
+      d_streetcracks_1_158: 8576710990037629220
+      d_streetcracks_1_159: -148375927535270954
+      d_streetcracks_1_16: -1443170127220073475
+      d_streetcracks_1_160: -1795466341308341095
+      d_streetcracks_1_161: 8079812158525620088
+      d_streetcracks_1_162: 4209725198404335073
+      d_streetcracks_1_163: 2467197800595475429
+      d_streetcracks_1_164: -3801815896094910298
+      d_streetcracks_1_165: -6303954246935675679
+      d_streetcracks_1_166: 2991690542203874398
+      d_streetcracks_1_167: -3505212409118448163
+      d_streetcracks_1_168: 4309026943482963417
+      d_streetcracks_1_169: 2542513290613996052
+      d_streetcracks_1_17: 2763348212787602231
+      d_streetcracks_1_170: -3625520603860022081
+      d_streetcracks_1_171: 6948019043932466960
+      d_streetcracks_1_172: 2603854042564682229
+      d_streetcracks_1_173: 8272220619647130376
+      d_streetcracks_1_174: -9184241882043577026
+      d_streetcracks_1_175: 8664940674784116459
+      d_streetcracks_1_176: 2599257293258556361
+      d_streetcracks_1_177: 5728770635800591447
+      d_streetcracks_1_178: -3994970879119325908
+      d_streetcracks_1_179: 6827528662391465511
+      d_streetcracks_1_18: -6265394564216035598
+      d_streetcracks_1_180: -9001032639817415739
+      d_streetcracks_1_181: -2891552243716264694
+      d_streetcracks_1_182: 5328096003639304798
+      d_streetcracks_1_183: 592690792541996956
+      d_streetcracks_1_184: 8519356066847189759
+      d_streetcracks_1_185: -8879878084539497119
+      d_streetcracks_1_186: -1231381885272045223
+      d_streetcracks_1_187: 3455695734457714254
+      d_streetcracks_1_188: -2380048554796828459
+      d_streetcracks_1_189: 4937435114703775508
+      d_streetcracks_1_19: 1459402568539296689
+      d_streetcracks_1_190: -6309400931911340060
+      d_streetcracks_1_191: 4300290679126728276
+      d_streetcracks_1_192: 1622593400943046185
+      d_streetcracks_1_193: 8412529597112270997
+      d_streetcracks_1_194: 5071513774832420295
+      d_streetcracks_1_195: -8002170073546848557
+      d_streetcracks_1_196: -1402527386733304158
+      d_streetcracks_1_197: -680233870931804152
+      d_streetcracks_1_198: -3043044096173576370
+      d_streetcracks_1_199: 1559451876980804211
+      d_streetcracks_1_2: 4671473704068010905
+      d_streetcracks_1_20: 7262773731734612146
+      d_streetcracks_1_200: -2416263242225968509
+      d_streetcracks_1_201: -963899463810446617
+      d_streetcracks_1_202: 3372881514607955555
+      d_streetcracks_1_203: -2082119929852311320
+      d_streetcracks_1_204: -5892948235303751622
+      d_streetcracks_1_205: -3929135431146000505
+      d_streetcracks_1_206: 6073998554543109035
+      d_streetcracks_1_207: 2859092108424931606
+      d_streetcracks_1_208: -3285049602592137826
+      d_streetcracks_1_209: 1983083823422464720
+      d_streetcracks_1_21: 1834848952287730789
+      d_streetcracks_1_210: -5604331177874077597
+      d_streetcracks_1_211: 5043611023985132965
+      d_streetcracks_1_212: 7386604161493317420
+      d_streetcracks_1_213: 6395003332663078026
+      d_streetcracks_1_214: 8893663248569877835
+      d_streetcracks_1_215: -6491812597740746156
+      d_streetcracks_1_216: -9127602718424582214
+      d_streetcracks_1_217: 4660125946983762695
+      d_streetcracks_1_218: 4001678017686480566
+      d_streetcracks_1_219: -8739758636598454439
+      d_streetcracks_1_22: -8748615428702012977
+      d_streetcracks_1_220: 4702336881796218410
+      d_streetcracks_1_221: -4925956286375576255
+      d_streetcracks_1_222: -108692791079890765
+      d_streetcracks_1_223: -1438757798780076427
+      d_streetcracks_1_224: -8186698945761654926
+      d_streetcracks_1_225: 4083513266099354265
+      d_streetcracks_1_226: 5881025331880616978
+      d_streetcracks_1_227: -1897118538588836278
+      d_streetcracks_1_228: 8779260215344851885
+      d_streetcracks_1_229: 7827962793763638746
+      d_streetcracks_1_23: 3681136777410547106
+      d_streetcracks_1_230: 4473469582312558744
+      d_streetcracks_1_231: 3028300355646292727
+      d_streetcracks_1_232: 6401542065111054885
+      d_streetcracks_1_233: 4933554904266554346
+      d_streetcracks_1_234: -7914103782379235641
+      d_streetcracks_1_235: 1271786486768675994
+      d_streetcracks_1_236: 9185427125508533322
+      d_streetcracks_1_24: 8220963818188707815
+      d_streetcracks_1_25: 8016391924450574568
+      d_streetcracks_1_26: -6273844014346862684
+      d_streetcracks_1_27: 6876406360634294092
+      d_streetcracks_1_28: -3364122236374757480
+      d_streetcracks_1_29: 118708386458478682
+      d_streetcracks_1_3: 4967080424345321604
+      d_streetcracks_1_30: -2294445950728782014
+      d_streetcracks_1_31: 1826858727570606504
+      d_streetcracks_1_32: -3242071753039370723
+      d_streetcracks_1_33: -2297411999119140017
+      d_streetcracks_1_34: -5858075519970542453
+      d_streetcracks_1_35: -6152612587792812710
+      d_streetcracks_1_36: -6801151859595679297
+      d_streetcracks_1_37: -7755917796328725644
+      d_streetcracks_1_38: 3419317507367082134
+      d_streetcracks_1_39: -449052148280843765
+      d_streetcracks_1_4: -2478888379042841095
+      d_streetcracks_1_40: 3961981275545986539
+      d_streetcracks_1_41: 5191815554410917809
+      d_streetcracks_1_42: 2055052139700481811
+      d_streetcracks_1_43: 3652363628408520550
+      d_streetcracks_1_44: -4487937444597692753
+      d_streetcracks_1_45: -8633950565668310387
+      d_streetcracks_1_46: -1172455921012568152
+      d_streetcracks_1_47: -792293983305150955
+      d_streetcracks_1_48: -916668219522420653
+      d_streetcracks_1_49: 6927026765392573922
+      d_streetcracks_1_5: -7939865011609019365
+      d_streetcracks_1_50: 874286691778599262
+      d_streetcracks_1_51: -6000324345123263404
+      d_streetcracks_1_52: -842854324566232636
+      d_streetcracks_1_53: 7702595285928616047
+      d_streetcracks_1_54: -8814304416341744726
+      d_streetcracks_1_55: -3073327291626205774
+      d_streetcracks_1_56: -50089586879700411
+      d_streetcracks_1_57: -6219040954195900888
+      d_streetcracks_1_58: -3324318104533645283
+      d_streetcracks_1_59: 3157934763873284259
+      d_streetcracks_1_6: -7794581912854908155
+      d_streetcracks_1_60: -8855770905468431624
+      d_streetcracks_1_61: -8653943653266962896
+      d_streetcracks_1_62: 7879280769811308027
+      d_streetcracks_1_63: 3491554013791634900
+      d_streetcracks_1_64: 1426461780618003399
+      d_streetcracks_1_65: 2648968513586950837
+      d_streetcracks_1_66: 826687769311947200
+      d_streetcracks_1_67: -5552583375870132590
+      d_streetcracks_1_68: -7533378273308980812
+      d_streetcracks_1_69: 7203260391104915039
+      d_streetcracks_1_7: -7030685749478650577
+      d_streetcracks_1_70: 5848763529703162257
+      d_streetcracks_1_71: -1068143477428954968
+      d_streetcracks_1_72: -3878439957074439620
+      d_streetcracks_1_73: -1038784913441330134
+      d_streetcracks_1_74: 8059896558282497686
+      d_streetcracks_1_75: 4637616944208956689
+      d_streetcracks_1_76: -8883573716518876336
+      d_streetcracks_1_77: -5876213072398841262
+      d_streetcracks_1_78: 1474531589801185935
+      d_streetcracks_1_79: 3902019061733336400
+      d_streetcracks_1_8: 3313626598773129154
+      d_streetcracks_1_80: 5937182562638711068
+      d_streetcracks_1_81: 6178244625675564575
+      d_streetcracks_1_82: 9106905638050258275
+      d_streetcracks_1_83: 5454441279941808589
+      d_streetcracks_1_84: -8244926328606799648
+      d_streetcracks_1_85: 3271548751569183026
+      d_streetcracks_1_86: 2647677137133354568
+      d_streetcracks_1_87: -2945345361181540812
+      d_streetcracks_1_88: 6931617816171143353
+      d_streetcracks_1_89: 6404132885448267939
+      d_streetcracks_1_9: -7055498430104400195
+      d_streetcracks_1_90: 5404480926407207546
+      d_streetcracks_1_91: 5509873346165124359
+      d_streetcracks_1_92: 2723481256265120082
+      d_streetcracks_1_93: 4980616042728496100
+      d_streetcracks_1_94: 3590379000946651921
+      d_streetcracks_1_95: 6969686177719222712
+      d_streetcracks_1_96: -4976476841530343349
+      d_streetcracks_1_97: -3598734748720152290
+      d_streetcracks_1_98: -3316973631104742588
+      d_streetcracks_1_99: -1797514431450751059
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

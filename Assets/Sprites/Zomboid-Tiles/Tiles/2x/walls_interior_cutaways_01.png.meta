@@ -1,0 +1,949 @@
+fileFormatVersion: 2
+guid: c26703660c49d60489743e59897f6dcb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2941558612329850431
+    second: walls_interior_cutaways_01_0
+  - first:
+      213: -9122764511942047411
+    second: walls_interior_cutaways_01_1
+  - first:
+      213: -3890603498294440806
+    second: walls_interior_cutaways_01_2
+  - first:
+      213: 5089948940605627672
+    second: walls_interior_cutaways_01_3
+  - first:
+      213: 6312220305755335102
+    second: walls_interior_cutaways_01_4
+  - first:
+      213: 3076235894199390191
+    second: walls_interior_cutaways_01_5
+  - first:
+      213: -6095236049377308895
+    second: walls_interior_cutaways_01_6
+  - first:
+      213: -2179137281053465144
+    second: walls_interior_cutaways_01_7
+  - first:
+      213: -3370747201895783700
+    second: walls_interior_cutaways_01_8
+  - first:
+      213: 5418868452957102362
+    second: walls_interior_cutaways_01_9
+  - first:
+      213: -6950923773533164741
+    second: walls_interior_cutaways_01_10
+  - first:
+      213: 903090510582940570
+    second: walls_interior_cutaways_01_11
+  - first:
+      213: 5036019648280417494
+    second: walls_interior_cutaways_01_12
+  - first:
+      213: -2334429352084477149
+    second: walls_interior_cutaways_01_13
+  - first:
+      213: 1632489670984486231
+    second: walls_interior_cutaways_01_14
+  - first:
+      213: 358023233856298100
+    second: walls_interior_cutaways_01_15
+  - first:
+      213: 656847090303894639
+    second: walls_interior_cutaways_01_16
+  - first:
+      213: -759319655091756335
+    second: walls_interior_cutaways_01_17
+  - first:
+      213: 5176872238179736883
+    second: walls_interior_cutaways_01_18
+  - first:
+      213: -2867133295144324863
+    second: walls_interior_cutaways_01_19
+  - first:
+      213: -8836081842850168118
+    second: walls_interior_cutaways_01_20
+  - first:
+      213: -4453529343078624432
+    second: walls_interior_cutaways_01_21
+  - first:
+      213: 4756433004217151689
+    second: walls_interior_cutaways_01_22
+  - first:
+      213: 3754301007732889701
+    second: walls_interior_cutaways_01_23
+  - first:
+      213: -5092614675987559028
+    second: walls_interior_cutaways_01_24
+  - first:
+      213: 1143461844720646974
+    second: walls_interior_cutaways_01_25
+  - first:
+      213: -1642245788584259773
+    second: walls_interior_cutaways_01_26
+  - first:
+      213: -8778246891646009540
+    second: walls_interior_cutaways_01_27
+  - first:
+      213: 7398860237413480912
+    second: walls_interior_cutaways_01_28
+  - first:
+      213: -1951137435488621861
+    second: walls_interior_cutaways_01_29
+  - first:
+      213: -6350272126822256741
+    second: walls_interior_cutaways_01_30
+  - first:
+      213: -758456452584658253
+    second: walls_interior_cutaways_01_31
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: walls_interior_cutaways_01_0
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 3877
+        width: 49
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c99612f60c7d27d0800000000000000
+      internalID: -2941558612329850431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_interior_cutaways_01_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 3864
+        width: 44
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d498728c20e656180800000000000000
+      internalID: -9122764511942047411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_interior_cutaways_01_2
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 3860
+        width: 51
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9c844a4bbcc10ac0800000000000000
+      internalID: -3890603498294440806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_interior_cutaways_01_3
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 3876
+        width: 58
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81d9ca1089123a640800000000000000
+      internalID: 5089948940605627672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_interior_cutaways_01_4
+      rect:
+        serializedVersion: 2
+        x: 585
+        y: 3874
+        width: 38
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9ed8cace2899750800000000000000
+      internalID: 6312220305755335102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_interior_cutaways_01_5
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 3875
+        width: 37
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fef8f074f3cf0ba20800000000000000
+      internalID: 3076235894199390191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_interior_cutaways_01_6
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 3856
+        width: 41
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12fc5b66b1f596ba0800000000000000
+      internalID: -6095236049377308895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_interior_cutaways_01_7
+      rect:
+        serializedVersion: 2
+        x: 941
+        y: 3857
+        width: 45
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c56ffd303622c1e0800000000000000
+      internalID: -2179137281053465144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_interior_cutaways_01_8
+      rect:
+        serializedVersion: 2
+        x: 34
+        y: 3601
+        width: 75
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce22c536743b831d0800000000000000
+      internalID: -3370747201895783700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_interior_cutaways_01_9
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 3602
+        width: 76
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a112417c520b33b40800000000000000
+      internalID: 5418868452957102362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_interior_cutaways_01_10
+      rect:
+        serializedVersion: 2
+        x: 272
+        y: 3592
+        width: 75
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3becb1d7ab598f90800000000000000
+      internalID: -6950923773533164741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_interior_cutaways_01_11
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 3593
+        width: 80
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93825bd80c688c00800000000000000
+      internalID: 903090510582940570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_interior_cutaways_01_12
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 3630
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d454a9203983e540800000000000000
+      internalID: 5036019648280417494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_interior_cutaways_01_13
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 3594
+        width: 92
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b62c36fd07a9fd0800000000000000
+      internalID: -2334429352084477149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_interior_cutaways_01_14
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 3593
+        width: 92
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75d468ad4b4c7a610800000000000000
+      internalID: 1632489670984486231
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_interior_cutaways_01_15
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 3629
+        width: 6
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c575bfb34f7f400800000000000000
+      internalID: 358023233856298100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_interior_cutaways_01_16
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 3598
+        width: 105
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f640051d2f69d1900800000000000000
+      internalID: 656847090303894639
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_interior_cutaways_01_17
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 3355
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2a847fbca5675f0800000000000000
+      internalID: -759319655091756335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_interior_cutaways_01_18
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 3336
+        width: 46
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33dd8445fd1f7d740800000000000000
+      internalID: 5176872238179736883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_interior_cutaways_01_19
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 3338
+        width: 92
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1013a337575e538d0800000000000000
+      internalID: -2867133295144324863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_interior_cutaways_01_20
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 3342
+        width: 105
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac203a6216eef5580800000000000000
+      internalID: -8836081842850168118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_interior_cutaways_01_21
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 3352
+        width: 84
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053150588a2e132c0800000000000000
+      internalID: -4453529343078624432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_interior_cutaways_01_22
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 3350
+        width: 84
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0be4edd9e320240800000000000000
+      internalID: 4756433004217151689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_interior_cutaways_01_23
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 3342
+        width: 77
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5685fc910e4f91430800000000000000
+      internalID: 3754301007732889701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_interior_cutaways_01_24
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 3340
+        width: 71
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8d02db1fe56359b0800000000000000
+      internalID: -5092614675987559028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_interior_cutaways_01_25
+      rect:
+        serializedVersion: 2
+        x: 824
+        y: 3360
+        width: 57
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3b79cc4d746edf00800000000000000
+      internalID: 1143461844720646974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_interior_cutaways_01_26
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 3340
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34fcd8108229539e0800000000000000
+      internalID: -1642245788584259773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_interior_cutaways_01_27
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 3098
+        width: 30
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f33c016f66d2680800000000000000
+      internalID: -8778246891646009540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_interior_cutaways_01_28
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 3081
+        width: 96
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d9fac16f280ea660800000000000000
+      internalID: 7398860237413480912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_interior_cutaways_01_29
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 3076
+        width: 103
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdaebb907da2ce4e0800000000000000
+      internalID: -1951137435488621861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_interior_cutaways_01_30
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 3088
+        width: 57
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9fe1b5552d4fd7a0800000000000000
+      internalID: -6350272126822256741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_interior_cutaways_01_31
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 3088
+        width: 73
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3baa616ffdb6975f0800000000000000
+      internalID: -758456452584658253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      walls_interior_cutaways_01_0: -2941558612329850431
+      walls_interior_cutaways_01_1: -9122764511942047411
+      walls_interior_cutaways_01_10: -6950923773533164741
+      walls_interior_cutaways_01_11: 903090510582940570
+      walls_interior_cutaways_01_12: 5036019648280417494
+      walls_interior_cutaways_01_13: -2334429352084477149
+      walls_interior_cutaways_01_14: 1632489670984486231
+      walls_interior_cutaways_01_15: 358023233856298100
+      walls_interior_cutaways_01_16: 656847090303894639
+      walls_interior_cutaways_01_17: -759319655091756335
+      walls_interior_cutaways_01_18: 5176872238179736883
+      walls_interior_cutaways_01_19: -2867133295144324863
+      walls_interior_cutaways_01_2: -3890603498294440806
+      walls_interior_cutaways_01_20: -8836081842850168118
+      walls_interior_cutaways_01_21: -4453529343078624432
+      walls_interior_cutaways_01_22: 4756433004217151689
+      walls_interior_cutaways_01_23: 3754301007732889701
+      walls_interior_cutaways_01_24: -5092614675987559028
+      walls_interior_cutaways_01_25: 1143461844720646974
+      walls_interior_cutaways_01_26: -1642245788584259773
+      walls_interior_cutaways_01_27: -8778246891646009540
+      walls_interior_cutaways_01_28: 7398860237413480912
+      walls_interior_cutaways_01_29: -1951137435488621861
+      walls_interior_cutaways_01_3: 5089948940605627672
+      walls_interior_cutaways_01_30: -6350272126822256741
+      walls_interior_cutaways_01_31: -758456452584658253
+      walls_interior_cutaways_01_4: 6312220305755335102
+      walls_interior_cutaways_01_5: 3076235894199390191
+      walls_interior_cutaways_01_6: -6095236049377308895
+      walls_interior_cutaways_01_7: -2179137281053465144
+      walls_interior_cutaways_01_8: -3370747201895783700
+      walls_interior_cutaways_01_9: 5418868452957102362
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

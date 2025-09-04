@@ -1,0 +1,3003 @@
+fileFormatVersion: 2
+guid: a73d2a5462d20bc48a4aa9ee276b8027
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3895386160809746251
+    second: carpentry_02_0
+  - first:
+      213: -6005226841618753317
+    second: carpentry_02_1
+  - first:
+      213: 2488630114846463589
+    second: carpentry_02_2
+  - first:
+      213: -5776698130217287734
+    second: carpentry_02_3
+  - first:
+      213: -5602355664448315348
+    second: carpentry_02_4
+  - first:
+      213: -2476719267904486336
+    second: carpentry_02_5
+  - first:
+      213: -1796350566729844646
+    second: carpentry_02_6
+  - first:
+      213: 697117850610216345
+    second: carpentry_02_7
+  - first:
+      213: 6882374644075761760
+    second: carpentry_02_8
+  - first:
+      213: -6587149473920841528
+    second: carpentry_02_9
+  - first:
+      213: -195311239619221233
+    second: carpentry_02_10
+  - first:
+      213: 1346603956729586795
+    second: carpentry_02_11
+  - first:
+      213: 1075799486040797156
+    second: carpentry_02_12
+  - first:
+      213: 4762742413348004088
+    second: carpentry_02_13
+  - first:
+      213: -6031442162401271460
+    second: carpentry_02_14
+  - first:
+      213: -5023454352299639605
+    second: carpentry_02_15
+  - first:
+      213: -1529268013009262759
+    second: carpentry_02_16
+  - first:
+      213: -2942451962069728435
+    second: carpentry_02_17
+  - first:
+      213: -170674720448229283
+    second: carpentry_02_18
+  - first:
+      213: -208827774059407156
+    second: carpentry_02_19
+  - first:
+      213: -5720779172560479705
+    second: carpentry_02_20
+  - first:
+      213: -4809911647682840635
+    second: carpentry_02_21
+  - first:
+      213: -8766099219445594148
+    second: carpentry_02_22
+  - first:
+      213: -4836001996278054729
+    second: carpentry_02_23
+  - first:
+      213: 5887447523593366162
+    second: carpentry_02_24
+  - first:
+      213: -8512903115281581643
+    second: carpentry_02_25
+  - first:
+      213: 2980861310754617624
+    second: carpentry_02_26
+  - first:
+      213: -15589335447171288
+    second: carpentry_02_27
+  - first:
+      213: 2926577663283882642
+    second: carpentry_02_28
+  - first:
+      213: -2513407636823022989
+    second: carpentry_02_29
+  - first:
+      213: 3619607988438212941
+    second: carpentry_02_30
+  - first:
+      213: -1542779662986429726
+    second: carpentry_02_31
+  - first:
+      213: -7199961713358416874
+    second: carpentry_02_32
+  - first:
+      213: -6724034269480284311
+    second: carpentry_02_33
+  - first:
+      213: -2548819124202654960
+    second: carpentry_02_34
+  - first:
+      213: 6187395843565988854
+    second: carpentry_02_35
+  - first:
+      213: 917702162253775369
+    second: carpentry_02_36
+  - first:
+      213: -6703934958427419916
+    second: carpentry_02_37
+  - first:
+      213: -5332372199003728588
+    second: carpentry_02_38
+  - first:
+      213: 8894439604231879383
+    second: carpentry_02_39
+  - first:
+      213: -1895193070262333587
+    second: carpentry_02_40
+  - first:
+      213: -2740584453389618740
+    second: carpentry_02_41
+  - first:
+      213: 5225629434166691945
+    second: carpentry_02_42
+  - first:
+      213: -176534581169902692
+    second: carpentry_02_43
+  - first:
+      213: 5477436573107680295
+    second: carpentry_02_44
+  - first:
+      213: 7191403206685904875
+    second: carpentry_02_45
+  - first:
+      213: -5118163788142398950
+    second: carpentry_02_46
+  - first:
+      213: 1823887676378979549
+    second: carpentry_02_47
+  - first:
+      213: 7262904791052235360
+    second: carpentry_02_48
+  - first:
+      213: 7592892880286119644
+    second: carpentry_02_49
+  - first:
+      213: 2001560884964865621
+    second: carpentry_02_50
+  - first:
+      213: -3081717831121693710
+    second: carpentry_02_51
+  - first:
+      213: 1299453641936368483
+    second: carpentry_02_52
+  - first:
+      213: 6002378912806948965
+    second: carpentry_02_53
+  - first:
+      213: -3999255320474610376
+    second: carpentry_02_54
+  - first:
+      213: 4420122700230098036
+    second: carpentry_02_55
+  - first:
+      213: 5417921147718447293
+    second: carpentry_02_56
+  - first:
+      213: -8965313595121739884
+    second: carpentry_02_57
+  - first:
+      213: 1185163116684360691
+    second: carpentry_02_58
+  - first:
+      213: -1052771353795505762
+    second: carpentry_02_59
+  - first:
+      213: 6406190578664278076
+    second: carpentry_02_60
+  - first:
+      213: 1491305992641199449
+    second: carpentry_02_61
+  - first:
+      213: 5694854220989099156
+    second: carpentry_02_62
+  - first:
+      213: 97623114696530443
+    second: carpentry_02_63
+  - first:
+      213: -4108412828283859307
+    second: carpentry_02_64
+  - first:
+      213: -6645236440908361692
+    second: carpentry_02_65
+  - first:
+      213: 8187953161467844664
+    second: carpentry_02_66
+  - first:
+      213: -5998128538360275806
+    second: carpentry_02_67
+  - first:
+      213: 8736897178182609959
+    second: carpentry_02_68
+  - first:
+      213: 8779589279979373415
+    second: carpentry_02_69
+  - first:
+      213: 3669614419962493319
+    second: carpentry_02_70
+  - first:
+      213: 6428558031587360691
+    second: carpentry_02_71
+  - first:
+      213: -5391625815044103536
+    second: carpentry_02_72
+  - first:
+      213: -1345961037619168746
+    second: carpentry_02_73
+  - first:
+      213: -5193619547382105800
+    second: carpentry_02_74
+  - first:
+      213: -3857483556217138712
+    second: carpentry_02_75
+  - first:
+      213: 7578416016573240100
+    second: carpentry_02_76
+  - first:
+      213: 6582736667103560561
+    second: carpentry_02_77
+  - first:
+      213: -5288741527769824542
+    second: carpentry_02_78
+  - first:
+      213: -5337984721932045552
+    second: carpentry_02_79
+  - first:
+      213: -6998951635705365066
+    second: carpentry_02_80
+  - first:
+      213: -4866822412114920646
+    second: carpentry_02_81
+  - first:
+      213: -2846215923166362295
+    second: carpentry_02_82
+  - first:
+      213: -3140161432049973780
+    second: carpentry_02_83
+  - first:
+      213: -5842712424387186829
+    second: carpentry_02_84
+  - first:
+      213: 4048941417640637754
+    second: carpentry_02_85
+  - first:
+      213: 1949487441655662192
+    second: carpentry_02_86
+  - first:
+      213: 3583675095468242884
+    second: carpentry_02_87
+  - first:
+      213: -2188648423616724424
+    second: carpentry_02_88
+  - first:
+      213: -7682493946989617088
+    second: carpentry_02_89
+  - first:
+      213: 3795149479653697677
+    second: carpentry_02_90
+  - first:
+      213: 7581863376385944537
+    second: carpentry_02_91
+  - first:
+      213: 3261930617990897020
+    second: carpentry_02_92
+  - first:
+      213: -9144227948949984375
+    second: carpentry_02_93
+  - first:
+      213: 6524003997516821295
+    second: carpentry_02_94
+  - first:
+      213: 98949202497539515
+    second: carpentry_02_95
+  - first:
+      213: 7844153706537609517
+    second: carpentry_02_96
+  - first:
+      213: -5039824804878520350
+    second: carpentry_02_97
+  - first:
+      213: 1103596639222853930
+    second: carpentry_02_98
+  - first:
+      213: -2430453094830979786
+    second: carpentry_02_99
+  - first:
+      213: 5151011848086796774
+    second: carpentry_02_100
+  - first:
+      213: -9147663375080033827
+    second: carpentry_02_101
+  - first:
+      213: 3589582160590634743
+    second: carpentry_02_102
+  - first:
+      213: 7483815164223294653
+    second: carpentry_02_103
+  - first:
+      213: -1844894763999999267
+    second: carpentry_02_104
+  - first:
+      213: 8664583675616229362
+    second: carpentry_02_105
+  - first:
+      213: 8808800542591744499
+    second: carpentry_02_106
+  - first:
+      213: 8759084752826829573
+    second: carpentry_02_107
+  - first:
+      213: 6081027619245124108
+    second: carpentry_02_108
+  - first:
+      213: 1531388841207156094
+    second: carpentry_02_109
+  - first:
+      213: 6058305101143152309
+    second: carpentry_02_110
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: carpentry_02_0
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 3852
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4f990a13113f0630800000000000000
+      internalID: 3895386160809746251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_1
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 3852
+        width: 81
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd85cad210629aca0800000000000000
+      internalID: -6005226841618753317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_2
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 3851
+        width: 85
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56653c477e3698220800000000000000
+      internalID: 2488630114846463589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_3
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 3852
+        width: 82
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf3cb528ab05dfa0800000000000000
+      internalID: -5776698130217287734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_4
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 3852
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20292ba43f6042b0800000000000000
+      internalID: -5602355664448315348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_5
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 3852
+        width: 81
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0440034b2fce0add0800000000000000
+      internalID: -2476719267904486336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_6
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 3851
+        width: 85
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58fef15da41217e0800000000000000
+      internalID: -1796350566729844646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_7
+      rect:
+        serializedVersion: 2
+        x: 921
+        y: 3852
+        width: 81
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99da43cddf8aca900800000000000000
+      internalID: 697117850610216345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_8
+      rect:
+        serializedVersion: 2
+        x: 19
+        y: 3596
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0609a4f364b138f50800000000000000
+      internalID: 6882374644075761760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_9
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 3596
+        width: 81
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c80c84247eb594a0800000000000000
+      internalID: -6587149473920841528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_10
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 3594
+        width: 81
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f09eadd567d1a4df0800000000000000
+      internalID: -195311239619221233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_11
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 3594
+        width: 81
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b64a00ef92910b210800000000000000
+      internalID: 1346603956729586795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_12
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 3597
+        width: 97
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ef6207cee10eee00800000000000000
+      internalID: 1075799486040797156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_13
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 3599
+        width: 96
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f06b48adf8a81240800000000000000
+      internalID: 4762742413348004088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_14
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 3611
+        width: 88
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5122ca2f430c4ca0800000000000000
+      internalID: -6031442162401271460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_15
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 3596
+        width: 88
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcc3ac9c1ea194ab0800000000000000
+      internalID: -5023454352299639605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3329
+        width: 125
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 957273638d2f6cae0800000000000000
+      internalID: -1529268013009262759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_17
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 3328
+        width: 102
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d43ce20c78f4a27d0800000000000000
+      internalID: -2942451962069728435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_18
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 3328
+        width: 102
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d505b8bfe34a1adf0800000000000000
+      internalID: -170674720448229283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_19
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 3340
+        width: 102
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc814f3fe381a1df0800000000000000
+      internalID: -208827774059407156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_20
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 3340
+        width: 124
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72a541d07a5bb90b0800000000000000
+      internalID: -5720779172560479705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_21
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 3340
+        width: 102
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c7b9d627d2cf3db0800000000000000
+      internalID: -4809911647682840635
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_22
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 3328
+        width: 102
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7cd17643f885680800000000000000
+      internalID: -8766099219445594148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_23
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 3328
+        width: 102
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b044ce7ec113ecb0800000000000000
+      internalID: -4836001996278054729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3073
+        width: 125
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a2985645a64b150800000000000000
+      internalID: 5887447523593366162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_25
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 3072
+        width: 102
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b9335e48b71cd980800000000000000
+      internalID: -8512903115281581643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_26
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 3072
+        width: 102
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 819fb30a1952e5920800000000000000
+      internalID: 2980861310754617624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_27
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 3084
+        width: 102
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82f036ef49d98cff0800000000000000
+      internalID: -15589335447171288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_28
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 3084
+        width: 124
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29ae0ab01ea4d9820800000000000000
+      internalID: 2926577663283882642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_29
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 3084
+        width: 102
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372e86722159e1dd0800000000000000
+      internalID: -2513407636823022989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_30
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 3072
+        width: 102
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41a609b94e6b3230800000000000000
+      internalID: 3619607988438212941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_31
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 3072
+        width: 102
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ea3ffc0212f69ae0800000000000000
+      internalID: -1542779662986429726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2818
+        width: 125
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 614dbdef7f8941c90800000000000000
+      internalID: -7199961713358416874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_33
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2817
+        width: 102
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96f0316157e6fa2a0800000000000000
+      internalID: -6724034269480284311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_34
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 2817
+        width: 102
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 013bd21c286c0acd0800000000000000
+      internalID: -2548819124202654960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_35
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 2829
+        width: 102
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fbaa7cccbb0ed550800000000000000
+      internalID: 6187395843565988854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_36
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 2829
+        width: 124
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9028ebe11455cbc00800000000000000
+      internalID: 917702162253775369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_37
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 2829
+        width: 102
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fa4c9d9ca6d6f2a0800000000000000
+      internalID: -6703934958427419916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_38
+      rect:
+        serializedVersion: 2
+        x: 791
+        y: 2817
+        width: 102
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 435d634bcbb9ff5b0800000000000000
+      internalID: -5332372199003728588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_39
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 2817
+        width: 102
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7da386ef1b56f6b70800000000000000
+      internalID: 8894439604231879383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_40
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2588
+        width: 67
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6f4b3a91fbe2b5e0800000000000000
+      internalID: -1895193070262333587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_41
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 2588
+        width: 67
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1f0cab5fc77f9d0800000000000000
+      internalID: -2740584453389618740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_42
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 2588
+        width: 126
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968c457a84a258840800000000000000
+      internalID: 5225629434166691945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_43
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 2617
+        width: 16
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9babc6dbb2dc8df0800000000000000
+      internalID: -176534581169902692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_44
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 2588
+        width: 67
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 724f0d3ea83c30c40800000000000000
+      internalID: 5477436573107680295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_45
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 2588
+        width: 67
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bef4e136d1ffcc360800000000000000
+      internalID: 7191403206685904875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_46
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 2588
+        width: 126
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a123181e621a8f8b0800000000000000
+      internalID: -5118163788142398950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_47
+      rect:
+        serializedVersion: 2
+        x: 951
+        y: 2617
+        width: 16
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddc18c4ad20cf4910800000000000000
+      internalID: 1823887676378979549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_48
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2332
+        width: 67
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 062b62c4d650bc460800000000000000
+      internalID: 7262904791052235360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_49
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 2332
+        width: 67
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd6fb0388df5f5960800000000000000
+      internalID: 7592892880286119644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_50
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 2332
+        width: 126
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 556b5a82509f6cb10800000000000000
+      internalID: 2001560884964865621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_51
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 2361
+        width: 16
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f31102d5f98b35d0800000000000000
+      internalID: -3081717831121693710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_52
+      rect:
+        serializedVersion: 2
+        x: 542
+        y: 2319
+        width: 69
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36374b9d336980210800000000000000
+      internalID: 1299453641936368483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_53
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 2319
+        width: 69
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5605729b1dbbc4350800000000000000
+      internalID: 6002378912806948965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_54
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 2313
+        width: 91
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8351509997acf78c0800000000000000
+      internalID: -3999255320474610376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_55
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 2313
+        width: 91
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47cfad25d2e675d30800000000000000
+      internalID: 4420122700230098036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2047
+        width: 127
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db0b5d61492503b40800000000000000
+      internalID: 5417921147718447293
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_57
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2047
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 497d9c619cec49380800000000000000
+      internalID: -8965313595121739884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_58
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2047
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fbbdda439b827010800000000000000
+      internalID: 1185163116684360691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_59
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 2058
+        width: 72
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e91df43180ec361f0800000000000000
+      internalID: -1052771353795505762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_60
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 2059
+        width: 72
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c380dbcc36c57e850800000000000000
+      internalID: 6406190578664278076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_61
+      rect:
+        serializedVersion: 2
+        x: 667
+        y: 2059
+        width: 71
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d3ac626ee22b410800000000000000
+      internalID: 1491305992641199449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_62
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 2058
+        width: 72
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49c60b9cdbf280f40800000000000000
+      internalID: 5694854220989099156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_63
+      rect:
+        serializedVersion: 2
+        x: 29
+        y: 1808
+        width: 94
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0a9a51a4b3da5100800000000000000
+      internalID: 97623114696530443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_64
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 1808
+        width: 95
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59e8b7bcc4cfbf6c0800000000000000
+      internalID: -4108412828283859307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_65
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1793
+        width: 95
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4201d2b3aa067c3a0800000000000000
+      internalID: -6645236440908361692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_66
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 1794
+        width: 111
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 838d3dac40471a170800000000000000
+      internalID: 8187953161467844664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_67
+      rect:
+        serializedVersion: 2
+        x: 506
+        y: 1937
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac17e1bfdd52cca0800000000000000
+      internalID: -5998128538360275806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_68
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1941
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72cefa881b1bf3970800000000000000
+      internalID: 8736897178182609959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_69
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1909
+        width: 88
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7638ff21fed57d970800000000000000
+      internalID: 8779589279979373415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_70
+      rect:
+        serializedVersion: 2
+        x: 675
+        y: 1910
+        width: 88
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 789f38c5fd61de230800000000000000
+      internalID: 3669614419962493319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_71
+      rect:
+        serializedVersion: 2
+        x: 760
+        y: 1941
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bfbfb24873d63950800000000000000
+      internalID: 6428558031587360691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_72
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 1937
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092687423e81d25b0800000000000000
+      internalID: -5391625815044103536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_73
+      rect:
+        serializedVersion: 2
+        x: 807
+        y: 1887
+        width: 91
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61a7137419f225de0800000000000000
+      internalID: -1345961037619168746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_74
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1887
+        width: 88
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 839b3c3e98e8ce7b0800000000000000
+      internalID: -5193619547382105800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_75
+      rect:
+        serializedVersion: 2
+        x: 781
+        y: 1897
+        width: 25
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e154c8b427777ac0800000000000000
+      internalID: -3857483556217138712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_76
+      rect:
+        serializedVersion: 2
+        x: 803
+        y: 1921
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4239af30731fb2960800000000000000
+      internalID: 7578416016573240100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_77
+      rect:
+        serializedVersion: 2
+        x: 980
+        y: 1921
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17385a43f149a5b50800000000000000
+      internalID: 6582736667103560561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_78
+      rect:
+        serializedVersion: 2
+        x: 984
+        y: 1917
+        width: 8
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e24c68f99d9a96b0800000000000000
+      internalID: -5288741527769824542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_79
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 1536
+        width: 123
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01337c06d2babe5b0800000000000000
+      internalID: -5337984721932045552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_80
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1536
+        width: 127
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bd74a1c19abede90800000000000000
+      internalID: -6998951635705365066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_81
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1536
+        width: 125
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3bfafc3dc2957cb0800000000000000
+      internalID: -4866822412114920646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_82
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1332
+        width: 125
+        height: 304
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945cb91a2b53088d0800000000000000
+      internalID: -2846215923166362295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_83
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 1535
+        width: 122
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce5874990d7eb64d0800000000000000
+      internalID: -3140161432049973780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_84
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1539
+        width: 124
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37fe3ab81048aeea0800000000000000
+      internalID: -5842712424387186829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_85
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 1536
+        width: 55
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3536d264cab03830800000000000000
+      internalID: 4048941417640637754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_86
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1539
+        width: 121
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07688f5df78fd0b10800000000000000
+      internalID: 1949487441655662192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_87
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 1536
+        width: 55
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c77ccf1385cbb130800000000000000
+      internalID: 3583675095468242884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_88
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1535
+        width: 125
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8324b1ccadb50a1e0800000000000000
+      internalID: -2188648423616724424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_89
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1307
+        width: 88
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0406894757c426590800000000000000
+      internalID: -7682493946989617088
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_90
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 1306
+        width: 71
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d88644c18541ba430800000000000000
+      internalID: 3795149479653697677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_91
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1306
+        width: 129
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db27050290383960800000000000000
+      internalID: 7581863376385944537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_92
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1023
+        width: 130
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7d51575d94b44d20800000000000000
+      internalID: 3261930617990897020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_93
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1095
+        width: 127
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98b23ade02d291180800000000000000
+      internalID: -9144227948949984375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_94
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1050
+        width: 129
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f23f731f11be98a50800000000000000
+      internalID: 6524003997516821295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_95
+      rect:
+        serializedVersion: 2
+        x: 773
+        y: 1049
+        width: 23
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbd8ca186c98f5100800000000000000
+      internalID: 98949202497539515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_96
+      rect:
+        serializedVersion: 2
+        x: 817
+        y: 1071
+        width: 23
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d29ecb96c380cdc60800000000000000
+      internalID: 7844153706537609517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_97
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 1073
+        width: 24
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ef6307ca02fe0ab0800000000000000
+      internalID: -5039824804878520350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_98
+      rect:
+        serializedVersion: 2
+        x: 994
+        y: 1050
+        width: 24
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a217138db43c05f00800000000000000
+      internalID: 1103596639222853930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_99
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 1024
+        width: 114
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 635c95f89cb454ed0800000000000000
+      internalID: -2430453094830979786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_100
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 1033
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e9ba0f0cf11c7740800000000000000
+      internalID: 5151011848086796774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_101
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 766
+        width: 131
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd1f08370a8fc0180800000000000000
+      internalID: -9147663375080033827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_102
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 768
+        width: 114
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fe7516e4f1c0d130800000000000000
+      internalID: 3589582160590634743
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_103
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 794
+        width: 254
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc063cad3adbd760800000000000000
+      internalID: 7483815164223294653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_104
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 797
+        width: 72
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dda4dcf9cfd9566e0800000000000000
+      internalID: -1844894763999999267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_105
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 797
+        width: 198
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f7f0cf22f8ce3870800000000000000
+      internalID: 8664583675616229362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_106
+      rect:
+        serializedVersion: 2
+        x: 954
+        y: 827
+        width: 10
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f9f2762c652f3a70800000000000000
+      internalID: 8808800542591744499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_107
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 777
+        width: 44
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50b88c1dc258e8970800000000000000
+      internalID: 8759084752826829573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_108
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 579
+        width: 112
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ae17aa666246450800000000000000
+      internalID: 6081027619245124108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_109
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 643
+        width: 112
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d46259906904510800000000000000
+      internalID: 1531388841207156094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carpentry_02_110
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 513
+        width: 112
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b61396246c631450800000000000000
+      internalID: 6058305101143152309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      carpentry_02_0: 3895386160809746251
+      carpentry_02_1: -6005226841618753317
+      carpentry_02_10: -195311239619221233
+      carpentry_02_100: 5151011848086796774
+      carpentry_02_101: -9147663375080033827
+      carpentry_02_102: 3589582160590634743
+      carpentry_02_103: 7483815164223294653
+      carpentry_02_104: -1844894763999999267
+      carpentry_02_105: 8664583675616229362
+      carpentry_02_106: 8808800542591744499
+      carpentry_02_107: 8759084752826829573
+      carpentry_02_108: 6081027619245124108
+      carpentry_02_109: 1531388841207156094
+      carpentry_02_11: 1346603956729586795
+      carpentry_02_110: 6058305101143152309
+      carpentry_02_12: 1075799486040797156
+      carpentry_02_13: 4762742413348004088
+      carpentry_02_14: -6031442162401271460
+      carpentry_02_15: -5023454352299639605
+      carpentry_02_16: -1529268013009262759
+      carpentry_02_17: -2942451962069728435
+      carpentry_02_18: -170674720448229283
+      carpentry_02_19: -208827774059407156
+      carpentry_02_2: 2488630114846463589
+      carpentry_02_20: -5720779172560479705
+      carpentry_02_21: -4809911647682840635
+      carpentry_02_22: -8766099219445594148
+      carpentry_02_23: -4836001996278054729
+      carpentry_02_24: 5887447523593366162
+      carpentry_02_25: -8512903115281581643
+      carpentry_02_26: 2980861310754617624
+      carpentry_02_27: -15589335447171288
+      carpentry_02_28: 2926577663283882642
+      carpentry_02_29: -2513407636823022989
+      carpentry_02_3: -5776698130217287734
+      carpentry_02_30: 3619607988438212941
+      carpentry_02_31: -1542779662986429726
+      carpentry_02_32: -7199961713358416874
+      carpentry_02_33: -6724034269480284311
+      carpentry_02_34: -2548819124202654960
+      carpentry_02_35: 6187395843565988854
+      carpentry_02_36: 917702162253775369
+      carpentry_02_37: -6703934958427419916
+      carpentry_02_38: -5332372199003728588
+      carpentry_02_39: 8894439604231879383
+      carpentry_02_4: -5602355664448315348
+      carpentry_02_40: -1895193070262333587
+      carpentry_02_41: -2740584453389618740
+      carpentry_02_42: 5225629434166691945
+      carpentry_02_43: -176534581169902692
+      carpentry_02_44: 5477436573107680295
+      carpentry_02_45: 7191403206685904875
+      carpentry_02_46: -5118163788142398950
+      carpentry_02_47: 1823887676378979549
+      carpentry_02_48: 7262904791052235360
+      carpentry_02_49: 7592892880286119644
+      carpentry_02_5: -2476719267904486336
+      carpentry_02_50: 2001560884964865621
+      carpentry_02_51: -3081717831121693710
+      carpentry_02_52: 1299453641936368483
+      carpentry_02_53: 6002378912806948965
+      carpentry_02_54: -3999255320474610376
+      carpentry_02_55: 4420122700230098036
+      carpentry_02_56: 5417921147718447293
+      carpentry_02_57: -8965313595121739884
+      carpentry_02_58: 1185163116684360691
+      carpentry_02_59: -1052771353795505762
+      carpentry_02_6: -1796350566729844646
+      carpentry_02_60: 6406190578664278076
+      carpentry_02_61: 1491305992641199449
+      carpentry_02_62: 5694854220989099156
+      carpentry_02_63: 97623114696530443
+      carpentry_02_64: -4108412828283859307
+      carpentry_02_65: -6645236440908361692
+      carpentry_02_66: 8187953161467844664
+      carpentry_02_67: -5998128538360275806
+      carpentry_02_68: 8736897178182609959
+      carpentry_02_69: 8779589279979373415
+      carpentry_02_7: 697117850610216345
+      carpentry_02_70: 3669614419962493319
+      carpentry_02_71: 6428558031587360691
+      carpentry_02_72: -5391625815044103536
+      carpentry_02_73: -1345961037619168746
+      carpentry_02_74: -5193619547382105800
+      carpentry_02_75: -3857483556217138712
+      carpentry_02_76: 7578416016573240100
+      carpentry_02_77: 6582736667103560561
+      carpentry_02_78: -5288741527769824542
+      carpentry_02_79: -5337984721932045552
+      carpentry_02_8: 6882374644075761760
+      carpentry_02_80: -6998951635705365066
+      carpentry_02_81: -4866822412114920646
+      carpentry_02_82: -2846215923166362295
+      carpentry_02_83: -3140161432049973780
+      carpentry_02_84: -5842712424387186829
+      carpentry_02_85: 4048941417640637754
+      carpentry_02_86: 1949487441655662192
+      carpentry_02_87: 3583675095468242884
+      carpentry_02_88: -2188648423616724424
+      carpentry_02_89: -7682493946989617088
+      carpentry_02_9: -6587149473920841528
+      carpentry_02_90: 3795149479653697677
+      carpentry_02_91: 7581863376385944537
+      carpentry_02_92: 3261930617990897020
+      carpentry_02_93: -9144227948949984375
+      carpentry_02_94: 6524003997516821295
+      carpentry_02_95: 98949202497539515
+      carpentry_02_96: 7844153706537609517
+      carpentry_02_97: -5039824804878520350
+      carpentry_02_98: 1103596639222853930
+      carpentry_02_99: -2430453094830979786
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

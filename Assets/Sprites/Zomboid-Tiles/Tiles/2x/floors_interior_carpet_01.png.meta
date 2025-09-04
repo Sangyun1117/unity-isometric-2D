@@ -1,0 +1,559 @@
+fileFormatVersion: 2
+guid: a0b355e9df1a88e4085250c7be48bf03
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3122396833209958979
+    second: floors_interior_carpet_01_0
+  - first:
+      213: -649556242058238542
+    second: floors_interior_carpet_01_1
+  - first:
+      213: 1119475519043372394
+    second: floors_interior_carpet_01_2
+  - first:
+      213: 1736176592351492318
+    second: floors_interior_carpet_01_3
+  - first:
+      213: 265838661816884106
+    second: floors_interior_carpet_01_4
+  - first:
+      213: 2287128632236209771
+    second: floors_interior_carpet_01_5
+  - first:
+      213: 6661682133151237495
+    second: floors_interior_carpet_01_6
+  - first:
+      213: -3457250999659454585
+    second: floors_interior_carpet_01_7
+  - first:
+      213: -3192879829220502645
+    second: floors_interior_carpet_01_8
+  - first:
+      213: -1503256908462868067
+    second: floors_interior_carpet_01_9
+  - first:
+      213: 2052861388671395401
+    second: floors_interior_carpet_01_10
+  - first:
+      213: -9048042227353674068
+    second: floors_interior_carpet_01_11
+  - first:
+      213: -8811256652597566388
+    second: floors_interior_carpet_01_12
+  - first:
+      213: -4985413702064025851
+    second: floors_interior_carpet_01_13
+  - first:
+      213: -5248193724507091410
+    second: floors_interior_carpet_01_14
+  - first:
+      213: 8828608570574853377
+    second: floors_interior_carpet_01_15
+  - first:
+      213: -7868791968254120937
+    second: floors_interior_carpet_01_16
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: floors_interior_carpet_01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1791
+        width: 127
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd37b49f940ba4d0800000000000000
+      internalID: -3122396833209958979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors_interior_carpet_01_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1791
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b52b721a005cf6f0800000000000000
+      internalID: -649556242058238542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors_interior_carpet_01_2
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1791
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a658357ad0d298f00800000000000000
+      internalID: 1119475519043372394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors_interior_carpet_01_3
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1791
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed8757e7963281810800000000000000
+      internalID: 1736176592351492318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors_interior_carpet_01_4
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1791
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8b192dbad270b300800000000000000
+      internalID: 265838661816884106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors_interior_carpet_01_5
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1791
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6670109f538dbf10800000000000000
+      internalID: 2287128632236209771
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors_interior_carpet_01_6
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1791
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775cb01ea9c037c50800000000000000
+      internalID: 6661682133151237495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors_interior_carpet_01_7
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1791
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78f1fe978806500d0800000000000000
+      internalID: -3457250999659454585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors_interior_carpet_01_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1535
+        width: 127
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b835dc046bc90b3d0800000000000000
+      internalID: -3192879829220502645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors_interior_carpet_01_9
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1535
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d993bec6ecb532be0800000000000000
+      internalID: -1503256908462868067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors_interior_carpet_01_10
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1535
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 946afd47e8a3d7c10800000000000000
+      internalID: 2052861388671395401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors_interior_carpet_01_11
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1535
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae99d56885ee6280800000000000000
+      internalID: -9048042227353674068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors_interior_carpet_01_12
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1535
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44ef1d22c028b580800000000000000
+      internalID: -8811256652597566388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors_interior_carpet_01_13
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1535
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50fcb1ed6a040dab0800000000000000
+      internalID: -4985413702064025851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors_interior_carpet_01_14
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1535
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2e025a1d9baa27b0800000000000000
+      internalID: -5248193724507091410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors_interior_carpet_01_15
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1535
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 105551e08b4858a70800000000000000
+      internalID: 8828608570574853377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors_interior_carpet_01_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1023
+        width: 127
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c24c0456f6cc290800000000000000
+      internalID: -7868791968254120937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      floors_interior_carpet_01_0: -3122396833209958979
+      floors_interior_carpet_01_1: -649556242058238542
+      floors_interior_carpet_01_10: 2052861388671395401
+      floors_interior_carpet_01_11: -9048042227353674068
+      floors_interior_carpet_01_12: -8811256652597566388
+      floors_interior_carpet_01_13: -4985413702064025851
+      floors_interior_carpet_01_14: -5248193724507091410
+      floors_interior_carpet_01_15: 8828608570574853377
+      floors_interior_carpet_01_16: -7868791968254120937
+      floors_interior_carpet_01_2: 1119475519043372394
+      floors_interior_carpet_01_3: 1736176592351492318
+      floors_interior_carpet_01_4: 265838661816884106
+      floors_interior_carpet_01_5: 2287128632236209771
+      floors_interior_carpet_01_6: 6661682133151237495
+      floors_interior_carpet_01_7: -3457250999659454585
+      floors_interior_carpet_01_8: -3192879829220502645
+      floors_interior_carpet_01_9: -1503256908462868067
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

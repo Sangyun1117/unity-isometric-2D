@@ -1,0 +1,2405 @@
+fileFormatVersion: 2
+guid: 01482b28d74b61c4ab52c10e09396250
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1449905969221150931
+    second: street_curbs_01_blend_light_grass_0
+  - first:
+      213: 5559980920969634395
+    second: street_curbs_01_blend_light_grass_1
+  - first:
+      213: -4952654527770633297
+    second: street_curbs_01_blend_light_grass_2
+  - first:
+      213: -554152549810463156
+    second: street_curbs_01_blend_light_grass_3
+  - first:
+      213: 5198578852748997417
+    second: street_curbs_01_blend_light_grass_4
+  - first:
+      213: -491224103646568688
+    second: street_curbs_01_blend_light_grass_5
+  - first:
+      213: -4338363920881784667
+    second: street_curbs_01_blend_light_grass_6
+  - first:
+      213: -333919737669754642
+    second: street_curbs_01_blend_light_grass_7
+  - first:
+      213: 6946305148858686021
+    second: street_curbs_01_blend_light_grass_8
+  - first:
+      213: 7888604765391244702
+    second: street_curbs_01_blend_light_grass_9
+  - first:
+      213: 6099053358085374149
+    second: street_curbs_01_blend_light_grass_10
+  - first:
+      213: 8792489625567110530
+    second: street_curbs_01_blend_light_grass_11
+  - first:
+      213: -8554213743150384448
+    second: street_curbs_01_blend_light_grass_12
+  - first:
+      213: -2751456066572844684
+    second: street_curbs_01_blend_light_grass_13
+  - first:
+      213: -166502321705106575
+    second: street_curbs_01_blend_light_grass_14
+  - first:
+      213: -3299313521066311649
+    second: street_curbs_01_blend_light_grass_15
+  - first:
+      213: -7350530304199503172
+    second: street_curbs_01_blend_light_grass_16
+  - first:
+      213: 4652191502614389262
+    second: street_curbs_01_blend_light_grass_17
+  - first:
+      213: -1590908452617849787
+    second: street_curbs_01_blend_light_grass_18
+  - first:
+      213: 6431583882097835222
+    second: street_curbs_01_blend_light_grass_19
+  - first:
+      213: -1167680758344735645
+    second: street_curbs_01_blend_light_grass_20
+  - first:
+      213: 2989243273776057846
+    second: street_curbs_01_blend_light_grass_21
+  - first:
+      213: -6045854474811285229
+    second: street_curbs_01_blend_light_grass_22
+  - first:
+      213: 5901794001694661405
+    second: street_curbs_01_blend_light_grass_23
+  - first:
+      213: -2087161464387866850
+    second: street_curbs_01_blend_light_grass_24
+  - first:
+      213: -4665976237757888128
+    second: street_curbs_01_blend_light_grass_25
+  - first:
+      213: 2987099248510828972
+    second: street_curbs_01_blend_light_grass_26
+  - first:
+      213: -8797559552814525755
+    second: street_curbs_01_blend_light_grass_27
+  - first:
+      213: -3819654639281105380
+    second: street_curbs_01_blend_light_grass_28
+  - first:
+      213: -3440687310324325769
+    second: street_curbs_01_blend_light_grass_29
+  - first:
+      213: -4606957583551336714
+    second: street_curbs_01_blend_light_grass_30
+  - first:
+      213: -680832454206919558
+    second: street_curbs_01_blend_light_grass_31
+  - first:
+      213: 6830675268724474483
+    second: street_curbs_01_blend_light_grass_32
+  - first:
+      213: 5531112094364750333
+    second: street_curbs_01_blend_light_grass_33
+  - first:
+      213: 627929307654180802
+    second: street_curbs_01_blend_light_grass_34
+  - first:
+      213: -4322434781132806472
+    second: street_curbs_01_blend_light_grass_35
+  - first:
+      213: 4277970518531103131
+    second: street_curbs_01_blend_light_grass_36
+  - first:
+      213: 6932429492140687137
+    second: street_curbs_01_blend_light_grass_37
+  - first:
+      213: -1491126132367054621
+    second: street_curbs_01_blend_light_grass_38
+  - first:
+      213: 3444454464123184854
+    second: street_curbs_01_blend_light_grass_39
+  - first:
+      213: -4958745384626004471
+    second: street_curbs_01_blend_light_grass_40
+  - first:
+      213: -3527387938456701001
+    second: street_curbs_01_blend_light_grass_41
+  - first:
+      213: -7121386339356821479
+    second: street_curbs_01_blend_light_grass_42
+  - first:
+      213: -5439223998778385954
+    second: street_curbs_01_blend_light_grass_43
+  - first:
+      213: 8594718769592057075
+    second: street_curbs_01_blend_light_grass_44
+  - first:
+      213: 481096728266326998
+    second: street_curbs_01_blend_light_grass_45
+  - first:
+      213: -8712939593532092132
+    second: street_curbs_01_blend_light_grass_46
+  - first:
+      213: 7293109583563544095
+    second: street_curbs_01_blend_light_grass_47
+  - first:
+      213: 1147746097565240210
+    second: street_curbs_01_blend_light_grass_48
+  - first:
+      213: -6033801279000466235
+    second: street_curbs_01_blend_light_grass_49
+  - first:
+      213: 2399388485513389534
+    second: street_curbs_01_blend_light_grass_50
+  - first:
+      213: 8457835414488233664
+    second: street_curbs_01_blend_light_grass_51
+  - first:
+      213: -230543241523576451
+    second: street_curbs_01_blend_light_grass_52
+  - first:
+      213: -7058995623093762525
+    second: street_curbs_01_blend_light_grass_53
+  - first:
+      213: -5106259337998626230
+    second: street_curbs_01_blend_light_grass_54
+  - first:
+      213: -4394359186922664107
+    second: street_curbs_01_blend_light_grass_55
+  - first:
+      213: 2023252314250103462
+    second: street_curbs_01_blend_light_grass_56
+  - first:
+      213: 989732430384510828
+    second: street_curbs_01_blend_light_grass_57
+  - first:
+      213: 909413636803384288
+    second: street_curbs_01_blend_light_grass_58
+  - first:
+      213: 8091963608560979914
+    second: street_curbs_01_blend_light_grass_59
+  - first:
+      213: -2279683723078407173
+    second: street_curbs_01_blend_light_grass_60
+  - first:
+      213: 5346268164804787671
+    second: street_curbs_01_blend_light_grass_61
+  - first:
+      213: 6063065527514675132
+    second: street_curbs_01_blend_light_grass_62
+  - first:
+      213: -5293616523077603305
+    second: street_curbs_01_blend_light_grass_63
+  - first:
+      213: -3588779729498483925
+    second: street_curbs_01_blend_light_grass_64
+  - first:
+      213: -232246894437915152
+    second: street_curbs_01_blend_light_grass_65
+  - first:
+      213: -7774480397662163726
+    second: street_curbs_01_blend_light_grass_66
+  - first:
+      213: -1159429656870980383
+    second: street_curbs_01_blend_light_grass_67
+  - first:
+      213: 7622671909766762710
+    second: street_curbs_01_blend_light_grass_68
+  - first:
+      213: -5216005456654315682
+    second: street_curbs_01_blend_light_grass_69
+  - first:
+      213: -8392278892763345827
+    second: street_curbs_01_blend_light_grass_70
+  - first:
+      213: 9115527019828094528
+    second: street_curbs_01_blend_light_grass_71
+  - first:
+      213: 1213027471689242313
+    second: street_curbs_01_blend_light_grass_72
+  - first:
+      213: -2532148526705785780
+    second: street_curbs_01_blend_light_grass_73
+  - first:
+      213: -275109668707454800
+    second: street_curbs_01_blend_light_grass_74
+  - first:
+      213: 3430755603365385879
+    second: street_curbs_01_blend_light_grass_75
+  - first:
+      213: -6924025155633589527
+    second: street_curbs_01_blend_light_grass_76
+  - first:
+      213: -5470234908417161928
+    second: street_curbs_01_blend_light_grass_77
+  - first:
+      213: -9033186443353467548
+    second: street_curbs_01_blend_light_grass_78
+  - first:
+      213: -3969777972812785534
+    second: street_curbs_01_blend_light_grass_79
+  - first:
+      213: -8717167950081512876
+    second: street_curbs_01_blend_light_grass_80
+  - first:
+      213: -3943423459318909947
+    second: street_curbs_01_blend_light_grass_81
+  - first:
+      213: 9127282965806757255
+    second: street_curbs_01_blend_light_grass_82
+  - first:
+      213: -3100789626664622362
+    second: street_curbs_01_blend_light_grass_83
+  - first:
+      213: -2050665216133000018
+    second: street_curbs_01_blend_light_grass_84
+  - first:
+      213: -2259409508477606465
+    second: street_curbs_01_blend_light_grass_85
+  - first:
+      213: 2043894169018103254
+    second: street_curbs_01_blend_light_grass_86
+  - first:
+      213: -2184194796611114568
+    second: street_curbs_01_blend_light_grass_87
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2573
+        width: 127
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8252d0cc91f1410800000000000000
+      internalID: 1449905969221150931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_1
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 2588
+        width: 98
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5228588035092d40800000000000000
+      internalID: 5559980920969634395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_2
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2559
+        width: 98
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab500182f2a44bb0800000000000000
+      internalID: -4952654527770633297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_3
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 2559
+        width: 128
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4e9b2521314f48f0800000000000000
+      internalID: -554152549810463156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_4
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 2559
+        width: 128
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92336fe5cef052840800000000000000
+      internalID: 5198578852748997417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_5
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 2559
+        width: 98
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01f5905c742de29f0800000000000000
+      internalID: -491224103646568688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_6
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 2588
+        width: 98
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a86875eff80bc3c0800000000000000
+      internalID: -4338363920881784667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_7
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 2573
+        width: 128
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee0e3bc84cdad5bf0800000000000000
+      internalID: -333919737669754642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2322
+        width: 126
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54a5033dabb366060800000000000000
+      internalID: 6946305148858686021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_9
+      rect:
+        serializedVersion: 2
+        x: 159
+        y: 2336
+        width: 94
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9d499e0d34f97d60800000000000000
+      internalID: 7888604765391244702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_10
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2303
+        width: 102
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c005da07b034a450800000000000000
+      internalID: 6099053358085374149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_11
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 2303
+        width: 128
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2852c37dab2350a70800000000000000
+      internalID: 8792489625567110530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_12
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 2303
+        width: 128
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cab1ca3ce3594980800000000000000
+      internalID: -8554213743150384448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_13
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 2303
+        width: 102
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47105d8094dd0d9d0800000000000000
+      internalID: -2751456066572844684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_14
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 2336
+        width: 94
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1734d74450770bdf0800000000000000
+      internalID: -166502321705106575
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_15
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 2322
+        width: 126
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f10033645db7632d0800000000000000
+      internalID: -3299313521066311649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_16
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 2047
+        width: 101
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2d17312abadf990800000000000000
+      internalID: -7350530304199503172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_17
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 2063
+        width: 68
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e02eb64f587ef8040800000000000000
+      internalID: 4652191502614389262
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_18
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2047
+        width: 101
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 544fb8bf035fbe9e0800000000000000
+      internalID: -1590908452617849787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_19
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 2063
+        width: 68
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dcb19bf673914950800000000000000
+      internalID: 6431583882097835222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_20
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 2047
+        width: 68
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 364adc379809bcfe0800000000000000
+      internalID: -1167680758344735645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_21
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 2047
+        width: 101
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fdc5a87beceb7920800000000000000
+      internalID: 2989243273776057846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_22
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 2047
+        width: 68
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311ea21336fc81ca0800000000000000
+      internalID: -6045854474811285229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_23
+      rect:
+        serializedVersion: 2
+        x: 922
+        y: 2047
+        width: 101
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1b9a80206267e150800000000000000
+      internalID: 5901794001694661405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_24
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1795
+        width: 89
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1fe646d4b9e803e0800000000000000
+      internalID: -2087161464387866850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_25
+      rect:
+        serializedVersion: 2
+        x: 206
+        y: 1811
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089070a455f1f3fb0800000000000000
+      internalID: -4665976237757888128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_26
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1795
+        width: 90
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca10350b0fe447920800000000000000
+      internalID: 2987099248510828972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_27
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1811
+        width: 49
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c2552cb23ac8e580800000000000000
+      internalID: -8797559552814525755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_28
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1791
+        width: 70
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c161afcc75cddfac0800000000000000
+      internalID: -3819654639281105380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_29
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1791
+        width: 101
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 772acecee193040d0800000000000000
+      internalID: -3440687310324325769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_30
+      rect:
+        serializedVersion: 2
+        x: 826
+        y: 1791
+        width: 69
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fe61298c7cc010c0800000000000000
+      internalID: -4606957583551336714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_31
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 1791
+        width: 100
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c60777d723d86f0800000000000000
+      internalID: -680832454206919558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_32
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1567
+        width: 127
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3724e5867fe6bce50800000000000000
+      internalID: 6830675268724474483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_33
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1535
+        width: 128
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df15a7d052572cc40800000000000000
+      internalID: 5531112094364750333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_34
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 1535
+        width: 76
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cfc8ced06ad6b800800000000000000
+      internalID: 627929307654180802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_35
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1535
+        width: 76
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b629c1c770a304c0800000000000000
+      internalID: -4322434781132806472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_36
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1539
+        width: 69
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b99d3ac55876e5b30800000000000000
+      internalID: 4277970518531103131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_37
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1535
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12fbc7db4efe43060800000000000000
+      internalID: 6932429492140687137
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_38
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1541
+        width: 70
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e8a5f4dea47e4be0800000000000000
+      internalID: -1491126132367054621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_39
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1556
+        width: 112
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d6221be5192dcf20800000000000000
+      internalID: 3444454464123184854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_40
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1287
+        width: 68
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90e52c1685ffe2bb0800000000000000
+      internalID: -4958745384626004471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_41
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1310
+        width: 120
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b77a4fdb533c0fc0800000000000000
+      internalID: -3527387938456701001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_42
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1279
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9183156ead0cb2d90800000000000000
+      internalID: -7121386339356821479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_43
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1279
+        width: 112
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed9d803679ef384b0800000000000000
+      internalID: -5439223998778385954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_44
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1285
+        width: 60
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fcbae52f23964770800000000000000
+      internalID: 8594718769592057075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_45
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1279
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3cae6ece23da600800000000000000
+      internalID: 481096728266326998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_46
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1282
+        width: 69
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1155125a9b651780800000000000000
+      internalID: -8712939593532092132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_47
+      rect:
+        serializedVersion: 2
+        x: 435
+        y: 1279
+        width: 24
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f165d449684563560800000000000000
+      internalID: 7293109583563544095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1023
+        width: 67
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b87b5aefc9def00800000000000000
+      internalID: 1147746097565240210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_49
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1023
+        width: 68
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cc21e784b1a34ca0800000000000000
+      internalID: -6033801279000466235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_50
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1028
+        width: 69
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed520357d175c4120800000000000000
+      internalID: 2399388485513389534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_51
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1043
+        width: 113
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c63a497f74406570800000000000000
+      internalID: 8457835414488233664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_52
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1032
+        width: 70
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d71ce9fa422fcccf0800000000000000
+      internalID: -230543241523576451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_53
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1054
+        width: 120
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 326857681e8690e90800000000000000
+      internalID: -7058995623093762525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_54
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 1023
+        width: 58
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a42129baf2ce229b0800000000000000
+      internalID: -5106259337998626230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_55
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 1023
+        width: 70
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55f00001a991403c0800000000000000
+      internalID: -4394359186922664107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_56
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 770
+        width: 115
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6aa4dd99249041c10800000000000000
+      internalID: 2023252314250103462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_57
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 767
+        width: 76
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c67b0cfc66c3cbd00800000000000000
+      internalID: 989732430384510828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_58
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 793
+        width: 128
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3df8762e2ee9c00800000000000000
+      internalID: 909413636803384288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_59
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 767
+        width: 121
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acf4aa7670e6c4070800000000000000
+      internalID: 8091963608560979914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_60
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 767
+        width: 120
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfbebad6bbfec50e0800000000000000
+      internalID: -2279683723078407173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_61
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 771
+        width: 73
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dd3b25f192c13a40800000000000000
+      internalID: 5346268164804787671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_62
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 771
+        width: 128
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb7bd6949f5542450800000000000000
+      internalID: 6063065527514675132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_63
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 767
+        width: 15
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71032dca1db4986b0800000000000000
+      internalID: -5293616523077603305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_64
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 515
+        width: 59
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b23de16a9d7123ec0800000000000000
+      internalID: -3588779729498483925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_65
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 526
+        width: 82
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f527d41ea4e6ccf0800000000000000
+      internalID: -232246894437915152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_66
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 542
+        width: 49
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fceb10f44f7b1490800000000000000
+      internalID: -7774480397662163726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_67
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 515
+        width: 71
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4f628bed0e8efe0800000000000000
+      internalID: -1159429656870980383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_68
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 514
+        width: 128
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d01ffc17bb29c960800000000000000
+      internalID: 7622671909766762710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_69
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 515
+        width: 118
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5fce993ca60d97b0800000000000000
+      internalID: -5216005456654315682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_70
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 511
+        width: 88
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5c05dcafc2a88b80800000000000000
+      internalID: -8392278892763345827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_71
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 511
+        width: 90
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0462455478bd08e70800000000000000
+      internalID: 9115527019828094528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_72
+      rect:
+        serializedVersion: 2
+        x: 66
+        y: 260
+        width: 61
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6d3d00f0a85d010800000000000000
+      internalID: 1213027471689242313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_73
+      rect:
+        serializedVersion: 2
+        x: 167
+        y: 270
+        width: 80
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c444c23b4500cdcd0800000000000000
+      internalID: -2532148526705785780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_74
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 287
+        width: 49
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b0ba62c63d9e2cf0800000000000000
+      internalID: -275109668707454800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_75
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 258
+        width: 118
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79656c95b0e7c9f20800000000000000
+      internalID: 3430755603365385879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_76
+      rect:
+        serializedVersion: 2
+        x: 550
+        y: 255
+        width: 89
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e257965ecbe8ef90800000000000000
+      internalID: -6924025155633589527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_77
+      rect:
+        serializedVersion: 2
+        x: 678
+        y: 255
+        width: 89
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8358ad55552d514b0800000000000000
+      internalID: -5470234908417161928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_78
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 282
+        width: 128
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 465da062acca3a280800000000000000
+      internalID: -9033186443353467548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_79
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 255
+        width: 17
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288d25d67f388e8c0800000000000000
+      internalID: -3969777972812785534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 127
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45aa8f75fe5660780800000000000000
+      internalID: -8717167950081512876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_81
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 0
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504ba54c1452649c0800000000000000
+      internalID: -3943423459318909947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_82
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2
+        width: 62
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 785b26dbf7f9aae70800000000000000
+      internalID: 9127282965806757255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_83
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 2
+        width: 62
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e660736348c7f4d0800000000000000
+      internalID: -3100789626664622362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_84
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 0
+        width: 76
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea4942fc9d29a83e0800000000000000
+      internalID: -2050665216133000018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_85
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 2
+        width: 64
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb56d0dd507f4a0e0800000000000000
+      internalID: -2259409508477606465
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_86
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 1
+        width: 63
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5f0deeaee5d5c10800000000000000
+      internalID: 2043894169018103254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_curbs_01_blend_light_grass_87
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 0
+        width: 128
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9ecb3a76e20b1e0800000000000000
+      internalID: -2184194796611114568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      street_curbs_01_blend_light_grass_0: 1449905969221150931
+      street_curbs_01_blend_light_grass_1: 5559980920969634395
+      street_curbs_01_blend_light_grass_10: 6099053358085374149
+      street_curbs_01_blend_light_grass_11: 8792489625567110530
+      street_curbs_01_blend_light_grass_12: -8554213743150384448
+      street_curbs_01_blend_light_grass_13: -2751456066572844684
+      street_curbs_01_blend_light_grass_14: -166502321705106575
+      street_curbs_01_blend_light_grass_15: -3299313521066311649
+      street_curbs_01_blend_light_grass_16: -7350530304199503172
+      street_curbs_01_blend_light_grass_17: 4652191502614389262
+      street_curbs_01_blend_light_grass_18: -1590908452617849787
+      street_curbs_01_blend_light_grass_19: 6431583882097835222
+      street_curbs_01_blend_light_grass_2: -4952654527770633297
+      street_curbs_01_blend_light_grass_20: -1167680758344735645
+      street_curbs_01_blend_light_grass_21: 2989243273776057846
+      street_curbs_01_blend_light_grass_22: -6045854474811285229
+      street_curbs_01_blend_light_grass_23: 5901794001694661405
+      street_curbs_01_blend_light_grass_24: -2087161464387866850
+      street_curbs_01_blend_light_grass_25: -4665976237757888128
+      street_curbs_01_blend_light_grass_26: 2987099248510828972
+      street_curbs_01_blend_light_grass_27: -8797559552814525755
+      street_curbs_01_blend_light_grass_28: -3819654639281105380
+      street_curbs_01_blend_light_grass_29: -3440687310324325769
+      street_curbs_01_blend_light_grass_3: -554152549810463156
+      street_curbs_01_blend_light_grass_30: -4606957583551336714
+      street_curbs_01_blend_light_grass_31: -680832454206919558
+      street_curbs_01_blend_light_grass_32: 6830675268724474483
+      street_curbs_01_blend_light_grass_33: 5531112094364750333
+      street_curbs_01_blend_light_grass_34: 627929307654180802
+      street_curbs_01_blend_light_grass_35: -4322434781132806472
+      street_curbs_01_blend_light_grass_36: 4277970518531103131
+      street_curbs_01_blend_light_grass_37: 6932429492140687137
+      street_curbs_01_blend_light_grass_38: -1491126132367054621
+      street_curbs_01_blend_light_grass_39: 3444454464123184854
+      street_curbs_01_blend_light_grass_4: 5198578852748997417
+      street_curbs_01_blend_light_grass_40: -4958745384626004471
+      street_curbs_01_blend_light_grass_41: -3527387938456701001
+      street_curbs_01_blend_light_grass_42: -7121386339356821479
+      street_curbs_01_blend_light_grass_43: -5439223998778385954
+      street_curbs_01_blend_light_grass_44: 8594718769592057075
+      street_curbs_01_blend_light_grass_45: 481096728266326998
+      street_curbs_01_blend_light_grass_46: -8712939593532092132
+      street_curbs_01_blend_light_grass_47: 7293109583563544095
+      street_curbs_01_blend_light_grass_48: 1147746097565240210
+      street_curbs_01_blend_light_grass_49: -6033801279000466235
+      street_curbs_01_blend_light_grass_5: -491224103646568688
+      street_curbs_01_blend_light_grass_50: 2399388485513389534
+      street_curbs_01_blend_light_grass_51: 8457835414488233664
+      street_curbs_01_blend_light_grass_52: -230543241523576451
+      street_curbs_01_blend_light_grass_53: -7058995623093762525
+      street_curbs_01_blend_light_grass_54: -5106259337998626230
+      street_curbs_01_blend_light_grass_55: -4394359186922664107
+      street_curbs_01_blend_light_grass_56: 2023252314250103462
+      street_curbs_01_blend_light_grass_57: 989732430384510828
+      street_curbs_01_blend_light_grass_58: 909413636803384288
+      street_curbs_01_blend_light_grass_59: 8091963608560979914
+      street_curbs_01_blend_light_grass_6: -4338363920881784667
+      street_curbs_01_blend_light_grass_60: -2279683723078407173
+      street_curbs_01_blend_light_grass_61: 5346268164804787671
+      street_curbs_01_blend_light_grass_62: 6063065527514675132
+      street_curbs_01_blend_light_grass_63: -5293616523077603305
+      street_curbs_01_blend_light_grass_64: -3588779729498483925
+      street_curbs_01_blend_light_grass_65: -232246894437915152
+      street_curbs_01_blend_light_grass_66: -7774480397662163726
+      street_curbs_01_blend_light_grass_67: -1159429656870980383
+      street_curbs_01_blend_light_grass_68: 7622671909766762710
+      street_curbs_01_blend_light_grass_69: -5216005456654315682
+      street_curbs_01_blend_light_grass_7: -333919737669754642
+      street_curbs_01_blend_light_grass_70: -8392278892763345827
+      street_curbs_01_blend_light_grass_71: 9115527019828094528
+      street_curbs_01_blend_light_grass_72: 1213027471689242313
+      street_curbs_01_blend_light_grass_73: -2532148526705785780
+      street_curbs_01_blend_light_grass_74: -275109668707454800
+      street_curbs_01_blend_light_grass_75: 3430755603365385879
+      street_curbs_01_blend_light_grass_76: -6924025155633589527
+      street_curbs_01_blend_light_grass_77: -5470234908417161928
+      street_curbs_01_blend_light_grass_78: -9033186443353467548
+      street_curbs_01_blend_light_grass_79: -3969777972812785534
+      street_curbs_01_blend_light_grass_8: 6946305148858686021
+      street_curbs_01_blend_light_grass_80: -8717167950081512876
+      street_curbs_01_blend_light_grass_81: -3943423459318909947
+      street_curbs_01_blend_light_grass_82: 9127282965806757255
+      street_curbs_01_blend_light_grass_83: -3100789626664622362
+      street_curbs_01_blend_light_grass_84: -2050665216133000018
+      street_curbs_01_blend_light_grass_85: -2259409508477606465
+      street_curbs_01_blend_light_grass_86: 2043894169018103254
+      street_curbs_01_blend_light_grass_87: -2184194796611114568
+      street_curbs_01_blend_light_grass_9: 7888604765391244702
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

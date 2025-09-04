@@ -1,0 +1,1911 @@
+fileFormatVersion: 2
+guid: 653d62889310c6f43a3fb3ff58ed0709
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3023226712168239477
+    second: industry_trucks_01_0
+  - first:
+      213: 6409854415461813235
+    second: industry_trucks_01_1
+  - first:
+      213: -6500643950063833648
+    second: industry_trucks_01_2
+  - first:
+      213: 5000068671654353597
+    second: industry_trucks_01_3
+  - first:
+      213: 2803227948462782493
+    second: industry_trucks_01_4
+  - first:
+      213: 7438306710434995561
+    second: industry_trucks_01_5
+  - first:
+      213: -8784061618282068858
+    second: industry_trucks_01_6
+  - first:
+      213: 5689260712126124734
+    second: industry_trucks_01_7
+  - first:
+      213: -9162961358489734679
+    second: industry_trucks_01_8
+  - first:
+      213: -59700532384260374
+    second: industry_trucks_01_9
+  - first:
+      213: -2725608730622312360
+    second: industry_trucks_01_10
+  - first:
+      213: 7852103442378627562
+    second: industry_trucks_01_11
+  - first:
+      213: -9044088766102872706
+    second: industry_trucks_01_12
+  - first:
+      213: -1792114422689879117
+    second: industry_trucks_01_13
+  - first:
+      213: 8464273398512645281
+    second: industry_trucks_01_14
+  - first:
+      213: 1582355885948395889
+    second: industry_trucks_01_15
+  - first:
+      213: 7028581012919325985
+    second: industry_trucks_01_16
+  - first:
+      213: 7253331947017133475
+    second: industry_trucks_01_17
+  - first:
+      213: -8458071368375654837
+    second: industry_trucks_01_18
+  - first:
+      213: 3683715663426715225
+    second: industry_trucks_01_19
+  - first:
+      213: -5270118063158055110
+    second: industry_trucks_01_20
+  - first:
+      213: -4204101647920366035
+    second: industry_trucks_01_21
+  - first:
+      213: 4929712704964145540
+    second: industry_trucks_01_22
+  - first:
+      213: 7446130803847487769
+    second: industry_trucks_01_23
+  - first:
+      213: -5790670524703883581
+    second: industry_trucks_01_24
+  - first:
+      213: -8017445840733951182
+    second: industry_trucks_01_25
+  - first:
+      213: -4841372639362980946
+    second: industry_trucks_01_26
+  - first:
+      213: -8128870758187215933
+    second: industry_trucks_01_27
+  - first:
+      213: 3152541304465692632
+    second: industry_trucks_01_28
+  - first:
+      213: -5088090732194391093
+    second: industry_trucks_01_29
+  - first:
+      213: 781992413783574976
+    second: industry_trucks_01_30
+  - first:
+      213: 7444632825633368150
+    second: industry_trucks_01_31
+  - first:
+      213: -3281510129827378500
+    second: industry_trucks_01_32
+  - first:
+      213: 1908399014524005348
+    second: industry_trucks_01_33
+  - first:
+      213: 2544389995753575240
+    second: industry_trucks_01_34
+  - first:
+      213: 7189871771852856327
+    second: industry_trucks_01_35
+  - first:
+      213: 949627786888145764
+    second: industry_trucks_01_36
+  - first:
+      213: -8491163476882243386
+    second: industry_trucks_01_37
+  - first:
+      213: -6038510477229599148
+    second: industry_trucks_01_38
+  - first:
+      213: -1867027690263193665
+    second: industry_trucks_01_39
+  - first:
+      213: -6609215651847103412
+    second: industry_trucks_01_40
+  - first:
+      213: -2499827450347113744
+    second: industry_trucks_01_41
+  - first:
+      213: 5026270613438504463
+    second: industry_trucks_01_42
+  - first:
+      213: -55762110817698361
+    second: industry_trucks_01_43
+  - first:
+      213: -68449736113429724
+    second: industry_trucks_01_44
+  - first:
+      213: -5353294090678681704
+    second: industry_trucks_01_45
+  - first:
+      213: 412431310169355482
+    second: industry_trucks_01_46
+  - first:
+      213: -2340782653251276946
+    second: industry_trucks_01_47
+  - first:
+      213: -7013672602753759801
+    second: industry_trucks_01_48
+  - first:
+      213: -7032776986469097327
+    second: industry_trucks_01_49
+  - first:
+      213: 4902668651595587110
+    second: industry_trucks_01_50
+  - first:
+      213: 4529823454423254900
+    second: industry_trucks_01_51
+  - first:
+      213: -5020627116241477610
+    second: industry_trucks_01_52
+  - first:
+      213: 4610884458508680670
+    second: industry_trucks_01_53
+  - first:
+      213: -4048035429990899683
+    second: industry_trucks_01_54
+  - first:
+      213: -8140909334075098048
+    second: industry_trucks_01_55
+  - first:
+      213: -6857148074019820592
+    second: industry_trucks_01_56
+  - first:
+      213: 5483116771302458608
+    second: industry_trucks_01_57
+  - first:
+      213: 3044260840998002086
+    second: industry_trucks_01_58
+  - first:
+      213: -9135047406857277550
+    second: industry_trucks_01_59
+  - first:
+      213: -7245594214814868538
+    second: industry_trucks_01_60
+  - first:
+      213: -6075389359635676099
+    second: industry_trucks_01_61
+  - first:
+      213: 8159105019481930578
+    second: industry_trucks_01_62
+  - first:
+      213: 688336162806287495
+    second: industry_trucks_01_63
+  - first:
+      213: 9193101512880679783
+    second: industry_trucks_01_64
+  - first:
+      213: -4884068489676352420
+    second: industry_trucks_01_65
+  - first:
+      213: 3181613467408127294
+    second: industry_trucks_01_66
+  - first:
+      213: -1359201276075493792
+    second: industry_trucks_01_67
+  - first:
+      213: 2121617974585237908
+    second: industry_trucks_01_68
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: industry_trucks_01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2333
+        width: 67
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 571924e4da8a4f920800000000000000
+      internalID: 3023226712168239477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_1
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 2333
+        width: 68
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fb029741a064f850800000000000000
+      internalID: 6409854415461813235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_2
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2333
+        width: 128
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dd2721f4c219c5a0800000000000000
+      internalID: -6500643950063833648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_3
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 2363
+        width: 8
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba548227ffc36540800000000000000
+      internalID: 5000068671654353597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_4
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 2333
+        width: 68
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d18329c87f017e620800000000000000
+      internalID: 2803227948462782493
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_5
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 2333
+        width: 68
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96dd1e51b8c2a3760800000000000000
+      internalID: 7438306710434995561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_6
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 2333
+        width: 128
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68487258f7eb81680800000000000000
+      internalID: -8784061618282068858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_7
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 2363
+        width: 8
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb21dd4897054fe40800000000000000
+      internalID: 5689260712126124734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2077
+        width: 67
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e1b690213f96d080800000000000000
+      internalID: -9162961358489734679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_9
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 2077
+        width: 68
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee955e9ea6eb2ff0800000000000000
+      internalID: -59700532384260374
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_10
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2077
+        width: 68
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 850cd86ec41bc2ad0800000000000000
+      internalID: -2725608730622312360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_11
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 2077
+        width: 68
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae999968a7648fc60800000000000000
+      internalID: 7852103442378627562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_12
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 2077
+        width: 68
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7d56535f21fc7280800000000000000
+      internalID: -9044088766102872706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_13
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 2077
+        width: 68
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bb27b67d612127e0800000000000000
+      internalID: -1792114422689879117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_14
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 2077
+        width: 68
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a472207fc3277570800000000000000
+      internalID: 8464273398512645281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_15
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 2077
+        width: 68
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 171e33a6b48a5f510800000000000000
+      internalID: 1582355885948395889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1821
+        width: 14
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1259c1631398a8160800000000000000
+      internalID: 7028581012919325985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_17
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 1821
+        width: 14
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3add2fbd9f209a460800000000000000
+      internalID: 7253331947017133475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_18
+      rect:
+        serializedVersion: 2
+        x: 306
+        y: 1848
+        width: 17
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b46211b37e4ee9a80800000000000000
+      internalID: -8458071368375654837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_19
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1848
+        width: 17
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95e7714f0ef2f1330800000000000000
+      internalID: 3683715663426715225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_20
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1851
+        width: 10
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f28193b87ccd6b0800000000000000
+      internalID: -5270118063158055110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_21
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1747
+        width: 66
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2e721453d708a5c0800000000000000
+      internalID: -4204101647920366035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_22
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1747
+        width: 66
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4813e10269bd96440800000000000000
+      internalID: 4929712704964145540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_23
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1777
+        width: 8
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9116c6ac388f55760800000000000000
+      internalID: 7446130803847487769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_24
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1747
+        width: 124
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce33bb86d763afa0800000000000000
+      internalID: -5790670524703883581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_25
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1565
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23bae117c7f4cb090800000000000000
+      internalID: -8017445840733951182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_26
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1565
+        width: 66
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea369753c3dffccb0800000000000000
+      internalID: -4841372639362980946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_27
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1595
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c3d0313d13703f80800000000000000
+      internalID: -8128870758187215933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_28
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 1565
+        width: 124
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d79c601d9310cb20800000000000000
+      internalID: 3152541304465692632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_29
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1309
+        width: 68
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcb989adf687369b0800000000000000
+      internalID: -5088090732194391093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_30
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1309
+        width: 69
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c9ce9805f13ada00800000000000000
+      internalID: 781992413783574976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_31
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1310
+        width: 68
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 658e61f8c16a05760800000000000000
+      internalID: 7444632825633368150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_32
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1310
+        width: 71
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cba0bc05cebb572d0800000000000000
+      internalID: -3281510129827378500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_33
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1310
+        width: 69
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4eba866eacefb7a10800000000000000
+      internalID: 1908399014524005348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_34
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1309
+        width: 69
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84313fa683d7f4320800000000000000
+      internalID: 2544389995753575240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_35
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1279
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70cd5ed684e87c360800000000000000
+      internalID: 7189871771852856327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_36
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1279
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46bee4ad071cd2d00800000000000000
+      internalID: 949627786888145764
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1053
+        width: 67
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0c9ae4ec3592a80800000000000000
+      internalID: -8491163476882243386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_38
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1191
+        width: 68
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4565140e6b6e23ca0800000000000000
+      internalID: -6038510477229599148
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_39
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1053
+        width: 68
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb75b08253cf616e0800000000000000
+      internalID: -1867027690263193665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_40
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1053
+        width: 68
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4c93bbb1695744a0800000000000000
+      internalID: -6609215651847103412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_41
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1191
+        width: 68
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f23a46bd24de4dd0800000000000000
+      internalID: -2499827450347113744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_42
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 1053
+        width: 69
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e9cfa1e76e0c540800000000000000
+      internalID: 5026270613438504463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_43
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1053
+        width: 68
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cdf8c8d7a4e93ff0800000000000000
+      internalID: -55762110817698361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_44
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1053
+        width: 68
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4236df1e351dc0ff0800000000000000
+      internalID: -68449736113429724
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_45
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 850
+        width: 128
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89f36e2336745b5b0800000000000000
+      internalID: -5353294090678681704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_46
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 850
+        width: 128
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad4b4e8671049b500800000000000000
+      internalID: 412431310169355482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_47
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 797
+        width: 67
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6faf80349ed38fd0800000000000000
+      internalID: -2340782653251276946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_48
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 797
+        width: 68
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c509f58ded6aae90800000000000000
+      internalID: -7013672602753759801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_49
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 797
+        width: 128
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 190a7f0979e866e90800000000000000
+      internalID: -7032776986469097327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_50
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 827
+        width: 8
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62e5cc5c927c90440800000000000000
+      internalID: 4902668651595587110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_51
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 812
+        width: 68
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47781288e6a2dde30800000000000000
+      internalID: 4529823454423254900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_52
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 812
+        width: 68
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 610abbafc36235ab0800000000000000
+      internalID: -5020627116241477610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 541
+        width: 67
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edd77c94cf62dff30800000000000000
+      internalID: 4610884458508680670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_54
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 541
+        width: 68
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d10623d493d72d7c0800000000000000
+      internalID: -4048035429990899683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_55
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 541
+        width: 68
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04cbac1d71ea50f80800000000000000
+      internalID: -8140909334075098048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_56
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 541
+        width: 68
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db6bcb482486d0a0800000000000000
+      internalID: -6857148074019820592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_57
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 556
+        width: 68
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4487717a1f71c40800000000000000
+      internalID: 5483116771302458608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_58
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 556
+        width: 68
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ad515f0b136f3a20800000000000000
+      internalID: 3044260840998002086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_59
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 594
+        width: 10
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29f2be378cac93180800000000000000
+      internalID: -9135047406857277550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_60
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 594
+        width: 10
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb955f437a727b90800000000000000
+      internalID: -7245594214814868538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_61
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 300
+        width: 67
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d344ab2f091efaba0800000000000000
+      internalID: -6075389359635676099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_62
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 300
+        width: 68
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25bb35359c6fa3170800000000000000
+      internalID: 8159105019481930578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_63
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 338
+        width: 10
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78ccf16d7167d8900800000000000000
+      internalID: 688336162806287495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_64
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 338
+        width: 10
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76beb5b6e15749f70800000000000000
+      internalID: 9193101512880679783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_65
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 300
+        width: 69
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c549926e59d483cb0800000000000000
+      internalID: -4884068489676352420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_66
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 300
+        width: 68
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e35d579779c572c20800000000000000
+      internalID: 3181613467408127294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_67
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 338
+        width: 10
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 066334904a5232de0800000000000000
+      internalID: -1359201276075493792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_trucks_01_68
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 338
+        width: 10
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 491ac3c9e40817d10800000000000000
+      internalID: 2121617974585237908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      industry_trucks_01_0: 3023226712168239477
+      industry_trucks_01_1: 6409854415461813235
+      industry_trucks_01_10: -2725608730622312360
+      industry_trucks_01_11: 7852103442378627562
+      industry_trucks_01_12: -9044088766102872706
+      industry_trucks_01_13: -1792114422689879117
+      industry_trucks_01_14: 8464273398512645281
+      industry_trucks_01_15: 1582355885948395889
+      industry_trucks_01_16: 7028581012919325985
+      industry_trucks_01_17: 7253331947017133475
+      industry_trucks_01_18: -8458071368375654837
+      industry_trucks_01_19: 3683715663426715225
+      industry_trucks_01_2: -6500643950063833648
+      industry_trucks_01_20: -5270118063158055110
+      industry_trucks_01_21: -4204101647920366035
+      industry_trucks_01_22: 4929712704964145540
+      industry_trucks_01_23: 7446130803847487769
+      industry_trucks_01_24: -5790670524703883581
+      industry_trucks_01_25: -8017445840733951182
+      industry_trucks_01_26: -4841372639362980946
+      industry_trucks_01_27: -8128870758187215933
+      industry_trucks_01_28: 3152541304465692632
+      industry_trucks_01_29: -5088090732194391093
+      industry_trucks_01_3: 5000068671654353597
+      industry_trucks_01_30: 781992413783574976
+      industry_trucks_01_31: 7444632825633368150
+      industry_trucks_01_32: -3281510129827378500
+      industry_trucks_01_33: 1908399014524005348
+      industry_trucks_01_34: 2544389995753575240
+      industry_trucks_01_35: 7189871771852856327
+      industry_trucks_01_36: 949627786888145764
+      industry_trucks_01_37: -8491163476882243386
+      industry_trucks_01_38: -6038510477229599148
+      industry_trucks_01_39: -1867027690263193665
+      industry_trucks_01_4: 2803227948462782493
+      industry_trucks_01_40: -6609215651847103412
+      industry_trucks_01_41: -2499827450347113744
+      industry_trucks_01_42: 5026270613438504463
+      industry_trucks_01_43: -55762110817698361
+      industry_trucks_01_44: -68449736113429724
+      industry_trucks_01_45: -5353294090678681704
+      industry_trucks_01_46: 412431310169355482
+      industry_trucks_01_47: -2340782653251276946
+      industry_trucks_01_48: -7013672602753759801
+      industry_trucks_01_49: -7032776986469097327
+      industry_trucks_01_5: 7438306710434995561
+      industry_trucks_01_50: 4902668651595587110
+      industry_trucks_01_51: 4529823454423254900
+      industry_trucks_01_52: -5020627116241477610
+      industry_trucks_01_53: 4610884458508680670
+      industry_trucks_01_54: -4048035429990899683
+      industry_trucks_01_55: -8140909334075098048
+      industry_trucks_01_56: -6857148074019820592
+      industry_trucks_01_57: 5483116771302458608
+      industry_trucks_01_58: 3044260840998002086
+      industry_trucks_01_59: -9135047406857277550
+      industry_trucks_01_6: -8784061618282068858
+      industry_trucks_01_60: -7245594214814868538
+      industry_trucks_01_61: -6075389359635676099
+      industry_trucks_01_62: 8159105019481930578
+      industry_trucks_01_63: 688336162806287495
+      industry_trucks_01_64: 9193101512880679783
+      industry_trucks_01_65: -4884068489676352420
+      industry_trucks_01_66: 3181613467408127294
+      industry_trucks_01_67: -1359201276075493792
+      industry_trucks_01_68: 2121617974585237908
+      industry_trucks_01_7: 5689260712126124734
+      industry_trucks_01_8: -9162961358489734679
+      industry_trucks_01_9: -59700532384260374
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

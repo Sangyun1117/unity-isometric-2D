@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: e5077804254a2c64db60d17b3f34075d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6417768055105762007
+    second: appliances_television_01_0
+  - first:
+      213: 4933974947332964523
+    second: appliances_television_01_1
+  - first:
+      213: -8619514677783108403
+    second: appliances_television_01_2
+  - first:
+      213: 144477811065589792
+    second: appliances_television_01_3
+  - first:
+      213: -7517348684318616147
+    second: appliances_television_01_4
+  - first:
+      213: 2311082226957479715
+    second: appliances_television_01_5
+  - first:
+      213: 742068154298754090
+    second: appliances_television_01_6
+  - first:
+      213: -8871275437384090867
+    second: appliances_television_01_7
+  - first:
+      213: -3643614225176551326
+    second: appliances_television_01_8
+  - first:
+      213: -3057917137151894300
+    second: appliances_television_01_9
+  - first:
+      213: 3245900633002881296
+    second: appliances_television_01_10
+  - first:
+      213: 2517700497152808495
+    second: appliances_television_01_11
+  - first:
+      213: 489337503891430322
+    second: appliances_television_01_12
+  - first:
+      213: 4038710895577706608
+    second: appliances_television_01_13
+  - first:
+      213: -2830296963339227309
+    second: appliances_television_01_14
+  - first:
+      213: 2159206325502260888
+    second: appliances_television_01_15
+  - first:
+      213: -5430406596712474060
+    second: appliances_television_01_16
+  - first:
+      213: 6021302555994642474
+    second: appliances_television_01_17
+  - first:
+      213: 6143327042700433316
+    second: appliances_television_01_18
+  - first:
+      213: 1006938875468452674
+    second: appliances_television_01_19
+  - first:
+      213: -1003833913734211944
+    second: appliances_television_01_20
+  - first:
+      213: 6740198633565411676
+    second: appliances_television_01_21
+  - first:
+      213: 8384609951335312131
+    second: appliances_television_01_22
+  - first:
+      213: -4726547200959308637
+    second: appliances_television_01_23
+  - first:
+      213: -7493767881291514209
+    second: appliances_television_01_24
+  - first:
+      213: -8520498029667524588
+    second: appliances_television_01_25
+  - first:
+      213: 6015352476943381533
+    second: appliances_television_01_26
+  - first:
+      213: -8874745901101305862
+    second: appliances_television_01_27
+  - first:
+      213: -8581001779790768597
+    second: appliances_television_01_28
+  - first:
+      213: -2425009236408443187
+    second: appliances_television_01_29
+  - first:
+      213: 4227627932055328926
+    second: appliances_television_01_30
+  - first:
+      213: 294423106428855850
+    second: appliances_television_01_31
+  - first:
+      213: -2790081093039415964
+    second: appliances_television_01_32
+  - first:
+      213: 3302231493864266482
+    second: appliances_television_01_33
+  - first:
+      213: 21400071504725169
+    second: appliances_television_01_34
+  - first:
+      213: 1852620556871365033
+    second: appliances_television_01_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: appliances_television_01_0
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 3887
+        width: 82
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2bd671b0e701950800000000000000
+      internalID: 6417768055105762007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_television_01_1
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 3885
+        width: 82
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba04572c210097440800000000000000
+      internalID: 4933974947332964523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_television_01_2
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 3883
+        width: 84
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc4e8769115516880800000000000000
+      internalID: -8619514677783108403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_television_01_3
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 3885
+        width: 84
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0209d7ebdc9410200800000000000000
+      internalID: 144477811065589792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_television_01_4
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 3888
+        width: 70
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da5507243330da790800000000000000
+      internalID: -7517348684318616147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_television_01_5
+      rect:
+        serializedVersion: 2
+        x: 664
+        y: 3888
+        width: 70
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32fe4807a0d921020800000000000000
+      internalID: 2311082226957479715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_television_01_6
+      rect:
+        serializedVersion: 2
+        x: 794
+        y: 3890
+        width: 81
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a246b100e0b5c4a00800000000000000
+      internalID: 742068154298754090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_television_01_7
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 3888
+        width: 81
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0bb212edf5e2e480800000000000000
+      internalID: -8871275437384090867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_television_01_8
+      rect:
+        serializedVersion: 2
+        x: 18
+        y: 3600
+        width: 80
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 260aac9ba284f6dc0800000000000000
+      internalID: -3643614225176551326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_television_01_9
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 3601
+        width: 82
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ec5b77b0981095d0800000000000000
+      internalID: -3057917137151894300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_television_01_10
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 3592
+        width: 80
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0113a5e9d61cb0d20800000000000000
+      internalID: 3245900633002881296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_television_01_11
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 3591
+        width: 80
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f261e97434ba0f220800000000000000
+      internalID: 2517700497152808495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_television_01_12
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 3391
+        width: 64
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bb99befdd97ac600800000000000000
+      internalID: 489337503891430322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_television_01_13
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 3389
+        width: 64
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 070b86959226c0830800000000000000
+      internalID: 4038710895577706608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_television_01_14
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 3381
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35f6c4b48e3c8b8d0800000000000000
+      internalID: -2830296963339227309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_television_01_15
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 3381
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896b65c86ba07fd10800000000000000
+      internalID: 2159206325502260888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_television_01_16
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 3108
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43ad309c8f153a4b0800000000000000
+      internalID: -5430406596712474060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_television_01_17
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 3113
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a28563fb5c6ff8350800000000000000
+      internalID: 6021302555994642474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_television_01_18
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 2879
+        width: 64
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a7d537856b714550800000000000000
+      internalID: 6143327042700433316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_television_01_19
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 2877
+        width: 64
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24314de729d59fd00800000000000000
+      internalID: 1006938875468452674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_television_01_20
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 2869
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 896d16ebf5aa112f0800000000000000
+      internalID: -1003833913734211944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_television_01_21
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 2869
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c595d3532fef98d50800000000000000
+      internalID: 6740198633565411676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_television_01_22
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2596
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30beb81c35e1c5470800000000000000
+      internalID: 8384609951335312131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_television_01_23
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2601
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ac14b0fc5ee76eb0800000000000000
+      internalID: -4726547200959308637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_television_01_24
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 2367
+        width: 64
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e336ec0d9c00890800000000000000
+      internalID: -7493767881291514209
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_television_01_25
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 2365
+        width: 64
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41060408f2c11c980800000000000000
+      internalID: -8520498029667524588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_television_01_26
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 2357
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d14f9f20533da7350800000000000000
+      internalID: 6015352476943381533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_television_01_27
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 2357
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: affa0059f9196d480800000000000000
+      internalID: -8874745901101305862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_television_01_28
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 2084
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26939a68582ae880800000000000000
+      internalID: -8581001779790768597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_television_01_29
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2089
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dce55de92f2a85ed0800000000000000
+      internalID: -2425009236408443187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_television_01_30
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1855
+        width: 64
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e985dac843d8baa30800000000000000
+      internalID: 4227627932055328926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_television_01_31
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 1853
+        width: 64
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26eb506140061400800000000000000
+      internalID: 294423106428855850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_television_01_32
+      rect:
+        serializedVersion: 2
+        x: 538
+        y: 1845
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46d1ad24704a749d0800000000000000
+      internalID: -2790081093039415964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_television_01_33
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 1845
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa13e53c02e3dd20800000000000000
+      internalID: 3302231493864266482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_television_01_34
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1572
+        width: 48
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b4053c60470c4000800000000000000
+      internalID: 21400071504725169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: appliances_television_01_35
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 1577
+        width: 48
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a177e3b494d5b910800000000000000
+      internalID: 1852620556871365033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      appliances_television_01_0: 6417768055105762007
+      appliances_television_01_1: 4933974947332964523
+      appliances_television_01_10: 3245900633002881296
+      appliances_television_01_11: 2517700497152808495
+      appliances_television_01_12: 489337503891430322
+      appliances_television_01_13: 4038710895577706608
+      appliances_television_01_14: -2830296963339227309
+      appliances_television_01_15: 2159206325502260888
+      appliances_television_01_16: -5430406596712474060
+      appliances_television_01_17: 6021302555994642474
+      appliances_television_01_18: 6143327042700433316
+      appliances_television_01_19: 1006938875468452674
+      appliances_television_01_2: -8619514677783108403
+      appliances_television_01_20: -1003833913734211944
+      appliances_television_01_21: 6740198633565411676
+      appliances_television_01_22: 8384609951335312131
+      appliances_television_01_23: -4726547200959308637
+      appliances_television_01_24: -7493767881291514209
+      appliances_television_01_25: -8520498029667524588
+      appliances_television_01_26: 6015352476943381533
+      appliances_television_01_27: -8874745901101305862
+      appliances_television_01_28: -8581001779790768597
+      appliances_television_01_29: -2425009236408443187
+      appliances_television_01_3: 144477811065589792
+      appliances_television_01_30: 4227627932055328926
+      appliances_television_01_31: 294423106428855850
+      appliances_television_01_32: -2790081093039415964
+      appliances_television_01_33: 3302231493864266482
+      appliances_television_01_34: 21400071504725169
+      appliances_television_01_35: 1852620556871365033
+      appliances_television_01_4: -7517348684318616147
+      appliances_television_01_5: 2311082226957479715
+      appliances_television_01_6: 742068154298754090
+      appliances_television_01_7: -8871275437384090867
+      appliances_television_01_8: -3643614225176551326
+      appliances_television_01_9: -3057917137151894300
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: ff2275518271efc4d9662a4ae579adab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5094837323653830440
+    second: f_flowerbed_1_0
+  - first:
+      213: -8644260823862797474
+    second: f_flowerbed_1_1
+  - first:
+      213: -1714054915893843301
+    second: f_flowerbed_1_2
+  - first:
+      213: -4170969974906840047
+    second: f_flowerbed_1_3
+  - first:
+      213: -3239529987309193406
+    second: f_flowerbed_1_4
+  - first:
+      213: 5286826844407127503
+    second: f_flowerbed_1_5
+  - first:
+      213: 6307736473963589118
+    second: f_flowerbed_1_6
+  - first:
+      213: 5917669909722702535
+    second: f_flowerbed_1_7
+  - first:
+      213: -4301652352178477713
+    second: f_flowerbed_1_8
+  - first:
+      213: -8202042137890855863
+    second: f_flowerbed_1_9
+  - first:
+      213: 7391432669478246803
+    second: f_flowerbed_1_10
+  - first:
+      213: 2431851629120524102
+    second: f_flowerbed_1_11
+  - first:
+      213: -6393978303326205799
+    second: f_flowerbed_1_12
+  - first:
+      213: -3911096434944849039
+    second: f_flowerbed_1_13
+  - first:
+      213: -8372995302966268176
+    second: f_flowerbed_1_14
+  - first:
+      213: -9083070298520675567
+    second: f_flowerbed_1_15
+  - first:
+      213: 8846516416243533833
+    second: f_flowerbed_1_16
+  - first:
+      213: 6190463406605788991
+    second: f_flowerbed_1_17
+  - first:
+      213: -1251995827216616994
+    second: f_flowerbed_1_18
+  - first:
+      213: 8064931356664324752
+    second: f_flowerbed_1_19
+  - first:
+      213: -4126490310545193769
+    second: f_flowerbed_1_20
+  - first:
+      213: -3912514355985770793
+    second: f_flowerbed_1_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: f_flowerbed_1_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 767
+        width: 127
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d8263f92708b49b0800000000000000
+      internalID: -5094837323653830440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f_flowerbed_1_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 725
+        width: 128
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b15d7749a690880800000000000000
+      internalID: -8644260823862797474
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f_flowerbed_1_2
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 767
+        width: 128
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9aa2aca2247638e0800000000000000
+      internalID: -1714054915893843301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f_flowerbed_1_3
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 767
+        width: 128
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c9bd418ecbd16c0800000000000000
+      internalID: -4170969974906840047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f_flowerbed_1_4
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 767
+        width: 128
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 247b53be3a0ea03d0800000000000000
+      internalID: -3239529987309193406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f_flowerbed_1_5
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 767
+        width: 128
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcdd2e111059e5940800000000000000
+      internalID: 5286826844407127503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f_flowerbed_1_6
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 767
+        width: 128
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efdef5b37e4998750800000000000000
+      internalID: 6307736473963589118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f_flowerbed_1_7
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 767
+        width: 128
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c22a030e69cf1250800000000000000
+      internalID: 5917669909722702535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f_flowerbed_1_8
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 767
+        width: 129
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f65ad211af57d44c0800000000000000
+      internalID: -4301652352178477713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f_flowerbed_1_9
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 767
+        width: 129
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944ea32c12e7c2e80800000000000000
+      internalID: -8202042137890855863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f_flowerbed_1_10
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 767
+        width: 143
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399d775f9d4a39660800000000000000
+      internalID: 7391432669478246803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f_flowerbed_1_11
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 511
+        width: 120
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f0f241c2cafb120800000000000000
+      internalID: 2431851629120524102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f_flowerbed_1_12
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 469
+        width: 128
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998cfa02c960447a0800000000000000
+      internalID: -6393978303326205799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f_flowerbed_1_13
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 511
+        width: 128
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17bc0d8a38ef8b9c0800000000000000
+      internalID: -3911096434944849039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f_flowerbed_1_14
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 511
+        width: 128
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0fe6eac42252dcb80800000000000000
+      internalID: -8372995302966268176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f_flowerbed_1_15
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 511
+        width: 128
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11b16ca00b372f180800000000000000
+      internalID: -9083070298520675567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f_flowerbed_1_16
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 511
+        width: 128
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9088bd94fc325ca70800000000000000
+      internalID: 8846516416243533833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f_flowerbed_1_17
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 511
+        width: 128
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f37eac97ba1f8e550800000000000000
+      internalID: 6190463406605788991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f_flowerbed_1_18
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 511
+        width: 128
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed17b72bd6400aee0800000000000000
+      internalID: -1251995827216616994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f_flowerbed_1_19
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 511
+        width: 129
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092e2ebc6546cef60800000000000000
+      internalID: 8064931356664324752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f_flowerbed_1_20
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 511
+        width: 129
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d4ccd6fce2cbb6c0800000000000000
+      internalID: -4126490310545193769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: f_flowerbed_1_21
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 511
+        width: 143
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d61ad03ce4f3b9c0800000000000000
+      internalID: -3912514355985770793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      f_flowerbed_1_0: -5094837323653830440
+      f_flowerbed_1_1: -8644260823862797474
+      f_flowerbed_1_10: 7391432669478246803
+      f_flowerbed_1_11: 2431851629120524102
+      f_flowerbed_1_12: -6393978303326205799
+      f_flowerbed_1_13: -3911096434944849039
+      f_flowerbed_1_14: -8372995302966268176
+      f_flowerbed_1_15: -9083070298520675567
+      f_flowerbed_1_16: 8846516416243533833
+      f_flowerbed_1_17: 6190463406605788991
+      f_flowerbed_1_18: -1251995827216616994
+      f_flowerbed_1_19: 8064931356664324752
+      f_flowerbed_1_2: -1714054915893843301
+      f_flowerbed_1_20: -4126490310545193769
+      f_flowerbed_1_21: -3912514355985770793
+      f_flowerbed_1_3: -4170969974906840047
+      f_flowerbed_1_4: -3239529987309193406
+      f_flowerbed_1_5: 5286826844407127503
+      f_flowerbed_1_6: 6307736473963589118
+      f_flowerbed_1_7: 5917669909722702535
+      f_flowerbed_1_8: -4301652352178477713
+      f_flowerbed_1_9: -8202042137890855863
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

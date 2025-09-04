@@ -1,0 +1,4043 @@
+fileFormatVersion: 2
+guid: 1e2e34d2606b73b4ca56d6436adf25c0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5954574920936150061
+    second: industry_02_0
+  - first:
+      213: -4801550759153866272
+    second: industry_02_1
+  - first:
+      213: -1418866341817236282
+    second: industry_02_2
+  - first:
+      213: -3079401191386067750
+    second: industry_02_3
+  - first:
+      213: 286887124684553383
+    second: industry_02_4
+  - first:
+      213: -4382670256768985996
+    second: industry_02_5
+  - first:
+      213: -205418268974222227
+    second: industry_02_6
+  - first:
+      213: 8451698858652726348
+    second: industry_02_7
+  - first:
+      213: 1090217731917841507
+    second: industry_02_8
+  - first:
+      213: -1961261300855293680
+    second: industry_02_9
+  - first:
+      213: -1291696081381178130
+    second: industry_02_10
+  - first:
+      213: -6015910124133115951
+    second: industry_02_11
+  - first:
+      213: 833855184256064269
+    second: industry_02_12
+  - first:
+      213: 8204997110773364810
+    second: industry_02_13
+  - first:
+      213: 5818990705384324
+    second: industry_02_14
+  - first:
+      213: 3969688805191081657
+    second: industry_02_15
+  - first:
+      213: 9087041504950284963
+    second: industry_02_16
+  - first:
+      213: -2404477763274097600
+    second: industry_02_17
+  - first:
+      213: -206555049483310313
+    second: industry_02_18
+  - first:
+      213: -8369030620813212078
+    second: industry_02_19
+  - first:
+      213: 2987699690420834103
+    second: industry_02_20
+  - first:
+      213: 7692692943750590891
+    second: industry_02_21
+  - first:
+      213: 6714267233411810557
+    second: industry_02_22
+  - first:
+      213: -8074560259454327496
+    second: industry_02_23
+  - first:
+      213: 3849028538918619508
+    second: industry_02_24
+  - first:
+      213: 7192165953016399754
+    second: industry_02_25
+  - first:
+      213: -6114788426501801963
+    second: industry_02_26
+  - first:
+      213: -154918008058274620
+    second: industry_02_27
+  - first:
+      213: -6266290678430557892
+    second: industry_02_28
+  - first:
+      213: -7084798130006159168
+    second: industry_02_29
+  - first:
+      213: 8910429173677440618
+    second: industry_02_30
+  - first:
+      213: -7574550593662488949
+    second: industry_02_31
+  - first:
+      213: -1442324598903172417
+    second: industry_02_32
+  - first:
+      213: 3215968144158893947
+    second: industry_02_33
+  - first:
+      213: 2259069309003445285
+    second: industry_02_34
+  - first:
+      213: 2786746377495641974
+    second: industry_02_35
+  - first:
+      213: 8900844249632380667
+    second: industry_02_36
+  - first:
+      213: 7343486295099529906
+    second: industry_02_37
+  - first:
+      213: 7321920524927981034
+    second: industry_02_38
+  - first:
+      213: -944025145564893862
+    second: industry_02_39
+  - first:
+      213: 5637615174661594302
+    second: industry_02_40
+  - first:
+      213: -7367137602113133034
+    second: industry_02_41
+  - first:
+      213: -5527677625016377596
+    second: industry_02_42
+  - first:
+      213: 8556399900448232740
+    second: industry_02_43
+  - first:
+      213: -5286046206483811023
+    second: industry_02_44
+  - first:
+      213: -3873510235384594078
+    second: industry_02_45
+  - first:
+      213: 4694498168948692127
+    second: industry_02_46
+  - first:
+      213: 8399711073295949455
+    second: industry_02_47
+  - first:
+      213: -8481827179234838690
+    second: industry_02_48
+  - first:
+      213: -3729206773812612689
+    second: industry_02_49
+  - first:
+      213: -6438133158680934694
+    second: industry_02_50
+  - first:
+      213: 8881156587858941441
+    second: industry_02_51
+  - first:
+      213: -7549682071187973146
+    second: industry_02_52
+  - first:
+      213: -1119214676882550953
+    second: industry_02_53
+  - first:
+      213: -5045319134565531844
+    second: industry_02_54
+  - first:
+      213: -833872870948084721
+    second: industry_02_55
+  - first:
+      213: 6526952893911667609
+    second: industry_02_56
+  - first:
+      213: -3924115779273727048
+    second: industry_02_57
+  - first:
+      213: 4022776312604116165
+    second: industry_02_58
+  - first:
+      213: -2780898387112910134
+    second: industry_02_59
+  - first:
+      213: -5953391715730730721
+    second: industry_02_60
+  - first:
+      213: -6620015017448530553
+    second: industry_02_61
+  - first:
+      213: -7728734253074674286
+    second: industry_02_62
+  - first:
+      213: 3872463969973999932
+    second: industry_02_63
+  - first:
+      213: 316854347846329619
+    second: industry_02_64
+  - first:
+      213: 3079565925614084350
+    second: industry_02_65
+  - first:
+      213: 1856703882806299665
+    second: industry_02_66
+  - first:
+      213: 5677220202423788718
+    second: industry_02_67
+  - first:
+      213: 292289243197573311
+    second: industry_02_68
+  - first:
+      213: 290658565117153174
+    second: industry_02_69
+  - first:
+      213: 8288479739214011310
+    second: industry_02_70
+  - first:
+      213: -7339565473284740796
+    second: industry_02_71
+  - first:
+      213: 4069963583640754672
+    second: industry_02_72
+  - first:
+      213: -4897204621103464705
+    second: industry_02_73
+  - first:
+      213: -3344150108797606013
+    second: industry_02_74
+  - first:
+      213: -8863822704125699419
+    second: industry_02_75
+  - first:
+      213: 6566369608986581254
+    second: industry_02_76
+  - first:
+      213: 331615140714701291
+    second: industry_02_77
+  - first:
+      213: -7791485678029837563
+    second: industry_02_78
+  - first:
+      213: 8426364467768842870
+    second: industry_02_79
+  - first:
+      213: -4787675594604393634
+    second: industry_02_80
+  - first:
+      213: -3606125035996961611
+    second: industry_02_81
+  - first:
+      213: 2189029204782296752
+    second: industry_02_82
+  - first:
+      213: -4412777666983859455
+    second: industry_02_83
+  - first:
+      213: -5158292682532354550
+    second: industry_02_84
+  - first:
+      213: -4520657680075576570
+    second: industry_02_85
+  - first:
+      213: 1843902331247875674
+    second: industry_02_86
+  - first:
+      213: -5931019087470408296
+    second: industry_02_87
+  - first:
+      213: -6878252334268824265
+    second: industry_02_88
+  - first:
+      213: 8310841871695456177
+    second: industry_02_89
+  - first:
+      213: 5291743514927980965
+    second: industry_02_90
+  - first:
+      213: 3412318434939317404
+    second: industry_02_91
+  - first:
+      213: 6853913419576890453
+    second: industry_02_92
+  - first:
+      213: 2513418928541320105
+    second: industry_02_93
+  - first:
+      213: -4115667757230598053
+    second: industry_02_94
+  - first:
+      213: 8796158321715091524
+    second: industry_02_95
+  - first:
+      213: 4990103377437648138
+    second: industry_02_96
+  - first:
+      213: -235821081234324274
+    second: industry_02_97
+  - first:
+      213: -5063265422758613829
+    second: industry_02_98
+  - first:
+      213: 3694069576787352459
+    second: industry_02_99
+  - first:
+      213: 5978941610358520091
+    second: industry_02_100
+  - first:
+      213: -3092557711721496759
+    second: industry_02_101
+  - first:
+      213: -7083856967831676325
+    second: industry_02_102
+  - first:
+      213: 5469362506011588751
+    second: industry_02_103
+  - first:
+      213: 8286437234677108206
+    second: industry_02_104
+  - first:
+      213: 4329486401963106618
+    second: industry_02_105
+  - first:
+      213: -7314327059904033073
+    second: industry_02_106
+  - first:
+      213: -651187676888685256
+    second: industry_02_107
+  - first:
+      213: 9155730986018664987
+    second: industry_02_108
+  - first:
+      213: -8193305545840943032
+    second: industry_02_109
+  - first:
+      213: -5246409680956908625
+    second: industry_02_110
+  - first:
+      213: -6276659780693090219
+    second: industry_02_111
+  - first:
+      213: -1359681522372662759
+    second: industry_02_112
+  - first:
+      213: 2225895258496434503
+    second: industry_02_113
+  - first:
+      213: 4840761010560808773
+    second: industry_02_114
+  - first:
+      213: 996607758941522499
+    second: industry_02_115
+  - first:
+      213: -9205575808779075862
+    second: industry_02_116
+  - first:
+      213: -703761846411962770
+    second: industry_02_117
+  - first:
+      213: -4930017576059483720
+    second: industry_02_118
+  - first:
+      213: -8657410970743891288
+    second: industry_02_119
+  - first:
+      213: 4437355069574195597
+    second: industry_02_120
+  - first:
+      213: -3068597409290120450
+    second: industry_02_121
+  - first:
+      213: -4804433909194370590
+    second: industry_02_122
+  - first:
+      213: 5690829681911978566
+    second: industry_02_123
+  - first:
+      213: -3462835179557727480
+    second: industry_02_124
+  - first:
+      213: 5467021607404986004
+    second: industry_02_125
+  - first:
+      213: 5475803229771461397
+    second: industry_02_126
+  - first:
+      213: 6631285333604269892
+    second: industry_02_127
+  - first:
+      213: -4220779226834722509
+    second: industry_02_128
+  - first:
+      213: -126972444771260544
+    second: industry_02_129
+  - first:
+      213: 8735210820923970180
+    second: industry_02_130
+  - first:
+      213: 269908676138851763
+    second: industry_02_131
+  - first:
+      213: 1251669256316044222
+    second: industry_02_132
+  - first:
+      213: -2735775269468756177
+    second: industry_02_133
+  - first:
+      213: 4615553048875657676
+    second: industry_02_134
+  - first:
+      213: 4933952051171811244
+    second: industry_02_135
+  - first:
+      213: 1362603159044867307
+    second: industry_02_136
+  - first:
+      213: -4119008063057071682
+    second: industry_02_137
+  - first:
+      213: -2252812946939171134
+    second: industry_02_138
+  - first:
+      213: -7716847445008551613
+    second: industry_02_139
+  - first:
+      213: 290882126217252682
+    second: industry_02_140
+  - first:
+      213: 6925715797339809530
+    second: industry_02_141
+  - first:
+      213: 2628926914488232540
+    second: industry_02_142
+  - first:
+      213: 6240138418622696373
+    second: industry_02_143
+  - first:
+      213: 4897134860919874257
+    second: industry_02_144
+  - first:
+      213: -7176840625767821693
+    second: industry_02_145
+  - first:
+      213: -8811383620352066333
+    second: industry_02_146
+  - first:
+      213: -5674340401453936224
+    second: industry_02_147
+  - first:
+      213: 1491895224627967282
+    second: industry_02_148
+  - first:
+      213: -7821142347891499369
+    second: industry_02_149
+  - first:
+      213: 6307479613913609126
+    second: industry_02_150
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: industry_02_0
+      rect:
+        serializedVersion: 2
+        x: 47
+        y: 8118
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dba62978a91d5da0800000000000000
+      internalID: -5954574920936150061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_1
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 8118
+        width: 102
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e960a536077d5db0800000000000000
+      internalID: -4801550759153866272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_2
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 8118
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c4c930649c2f4ce0800000000000000
+      internalID: -1418866341817236282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_3
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 8135
+        width: 123
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: adcc48a8ee4c345d0800000000000000
+      internalID: -3079401191386067750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_4
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 8118
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7acb475e15a3bf300800000000000000
+      internalID: 286887124684553383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_5
+      rect:
+        serializedVersion: 2
+        x: 659
+        y: 8118
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4745d913f90ad23c0800000000000000
+      internalID: -4382670256768985996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_6
+      rect:
+        serializedVersion: 2
+        x: 768
+        y: 8103
+        width: 124
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d647a673c25362df0800000000000000
+      internalID: -205418268974222227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_7
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 7702
+        width: 53
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c44f19a35577a4570800000000000000
+      internalID: 8451698858652726348
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_8
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 7702
+        width: 53
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3648bce304b312f00800000000000000
+      internalID: 1090217731917841507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_9
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 7688
+        width: 53
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 019bcc2fc3338c4e0800000000000000
+      internalID: -1961261300855293680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_10
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 7689
+        width: 53
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee4c287f149f21ee0800000000000000
+      internalID: -1291696081381178130
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_11
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 7861
+        width: 91
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d79e52ad91338ca0800000000000000
+      internalID: -6015910124133115951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_12
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 7862
+        width: 91
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0b53b34fd2729b00800000000000000
+      internalID: 833855184256064269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_13
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 7868
+        width: 89
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48b0ca76610ed170800000000000000
+      internalID: 8204997110773364810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_14
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 7868
+        width: 89
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48b12f9575ca41000800000000000000
+      internalID: 5818990705384324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_15
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 7446
+        width: 53
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9be524e9fea271730800000000000000
+      internalID: 3969688805191081657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_16
+      rect:
+        serializedVersion: 2
+        x: 178
+        y: 7447
+        width: 53
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2fac18a18ab1e70800000000000000
+      internalID: 9087041504950284963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_17
+      rect:
+        serializedVersion: 2
+        x: 310
+        y: 7432
+        width: 53
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04cb8b9b63491aed0800000000000000
+      internalID: -2404477763274097600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_18
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 7433
+        width: 53
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71bebf0e64b222df0800000000000000
+      internalID: -206555049483310313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_19
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 7446
+        width: 79
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 256cf0ccdfa3bdb80800000000000000
+      internalID: -8369030620813212078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_20
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 7446
+        width: 79
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f0417f901767920800000000000000
+      internalID: 2987699690420834103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_21
+      rect:
+        serializedVersion: 2
+        x: 75
+        y: 7180
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba17866897fe1ca60800000000000000
+      internalID: 7692692943750590891
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_22
+      rect:
+        serializedVersion: 2
+        x: 151
+        y: 7179
+        width: 78
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df44e8e997edd2d50800000000000000
+      internalID: 6714267233411810557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_23
+      rect:
+        serializedVersion: 2
+        x: 278
+        y: 7180
+        width: 28
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8352db1993661ff80800000000000000
+      internalID: -8074560259454327496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_24
+      rect:
+        serializedVersion: 2
+        x: 404
+        y: 7201
+        width: 84
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 479c598201f7a6530800000000000000
+      internalID: 3849028538918619508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_25
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 7181
+        width: 84
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87833b14d4bfc360800000000000000
+      internalID: 7192165953016399754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_26
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 7181
+        width: 80
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 518b0b9d258e32ba0800000000000000
+      internalID: -6114788426501801963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_27
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 7181
+        width: 79
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc106874ee99ddf0800000000000000
+      internalID: -154918008058274620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_28
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 7181
+        width: 84
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c391ec404d9a909a0800000000000000
+      internalID: -6266290678430557892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_29
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 6925
+        width: 79
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c091ab33adbdad90800000000000000
+      internalID: -7084798130006159168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_30
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 6925
+        width: 79
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6e325dbf1438ab70800000000000000
+      internalID: 8910429173677440618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_31
+      rect:
+        serializedVersion: 2
+        x: 307
+        y: 6934
+        width: 24
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8ee583ed5ac1e690800000000000000
+      internalID: -7574550593662488949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_32
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 6936
+        width: 54
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb291974b65dbfbe0800000000000000
+      internalID: -1442324598903172417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_33
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 6938
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b772099fcf961ac20800000000000000
+      internalID: 3215968144158893947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_34
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 6925
+        width: 55
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52433264193d95f10800000000000000
+      internalID: 2259069309003445285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_35
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 6925
+        width: 56
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ffbb5c0138ca620800000000000000
+      internalID: 2786746377495641974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_36
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 6925
+        width: 84
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf69a64bfa6268b70800000000000000
+      internalID: 8900844249632380667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_37
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 6662
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ba5b50c0ed49e560800000000000000
+      internalID: 7343486295099529906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_38
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 6662
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae559f99cefac9560800000000000000
+      internalID: 7321920524927981034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_39
+      rect:
+        serializedVersion: 2
+        x: 262
+        y: 6689
+        width: 116
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5d619bb12626e2f0800000000000000
+      internalID: -944025145564893862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_40
+      rect:
+        serializedVersion: 2
+        x: 388
+        y: 6688
+        width: 116
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebc5e0ac125dc3e40800000000000000
+      internalID: 5637615174661594302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_41
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 6661
+        width: 116
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 616af96326ba2c990800000000000000
+      internalID: -7367137602113133034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_42
+      rect:
+        serializedVersion: 2
+        x: 646
+        y: 6661
+        width: 116
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40f1608ac7eb943b0800000000000000
+      internalID: -5527677625016377596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_43
+      rect:
+        serializedVersion: 2
+        x: 772
+        y: 6661
+        width: 116
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 425976e20607eb670800000000000000
+      internalID: 8556399900448232740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_44
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 6661
+        width: 116
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1353b3c5bf034a6b0800000000000000
+      internalID: -5286046206483811023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_45
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 6399
+        width: 127
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 261cf02b6f68e3ac0800000000000000
+      internalID: -3873510235384594078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_46
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 6406
+        width: 122
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9498ee4635362140800000000000000
+      internalID: 4694498168948692127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_47
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 6406
+        width: 123
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8e58b3b7b4c19470800000000000000
+      internalID: 8399711073295949455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_48
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 6399
+        width: 129
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e57347f7e1f7a4a80800000000000000
+      internalID: -8481827179234838690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_49
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 6398
+        width: 127
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa13be882323f3cc0800000000000000
+      internalID: -3729206773812612689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_50
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 6398
+        width: 129
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad6c82cb00827a6a0800000000000000
+      internalID: -6438133158680934694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_51
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 6401
+        width: 125
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 106d3fdbcd4304b70800000000000000
+      internalID: 8881156587858941441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_52
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 6398
+        width: 125
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6eb94bbf7242a3790800000000000000
+      internalID: -7549682071187973146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_53
+      rect:
+        serializedVersion: 2
+        x: 7
+        y: 6253
+        width: 75
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75f03056e20c770f0800000000000000
+      internalID: -1119214676882550953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_54
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 6271
+        width: 75
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3f7db57afc6bf9b0800000000000000
+      internalID: -5045319134565531844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_55
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 6208
+        width: 113
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04ed4bba0d7d64f0800000000000000
+      internalID: -833872870948084721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_56
+      rect:
+        serializedVersion: 2
+        x: 264
+        y: 6208
+        width: 113
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99310536315649a50800000000000000
+      internalID: 6526952893911667609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_57
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 6271
+        width: 75
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b362e65d7dba89c0800000000000000
+      internalID: -3924115779273727048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_58
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 6253
+        width: 75
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4cf932eb5c3d730800000000000000
+      internalID: 4022776312604116165
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_59
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 6121
+        width: 125
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac2ada796a34869d0800000000000000
+      internalID: -2780898387112910134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_60
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 6083
+        width: 106
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11dd17e6cd416da0800000000000000
+      internalID: -5953391715730730721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_61
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 5893
+        width: 66
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d9a3d7a6bf024a0800000000000000
+      internalID: -6620015017448530553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_62
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 5894
+        width: 95
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29d071a35250eb490800000000000000
+      internalID: -7728734253074674286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_63
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 5894
+        width: 91
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c399cc7a671cdb530800000000000000
+      internalID: 3872463969973999932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_64
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 5913
+        width: 194
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3152be0c951b56400800000000000000
+      internalID: 316854347846329619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_65
+      rect:
+        serializedVersion: 2
+        x: 517
+        y: 5993
+        width: 94
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef0ef92a4e0dcba20800000000000000
+      internalID: 3079565925614084350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_66
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 5988
+        width: 100
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11c02cb185654c910800000000000000
+      internalID: 1856703882806299665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_67
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 5999
+        width: 67
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea42425e1b989ce40800000000000000
+      internalID: 5677220202423788718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_68
+      rect:
+        serializedVersion: 2
+        x: 900
+        y: 5896
+        width: 78
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb88570a48b6e0400800000000000000
+      internalID: 292289243197573311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_69
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 5646
+        width: 84
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69f8bbccc60a80400800000000000000
+      internalID: 290658565117153174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_70
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 5656
+        width: 101
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eab9fd79868960370800000000000000
+      internalID: 8288479739214011310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_71
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 5774
+        width: 116
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4492427b610a42a90800000000000000
+      internalID: -7339565473284740796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_72
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 5643
+        width: 80
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9dea3d05a6b7830800000000000000
+      internalID: 4069963583640754672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_73
+      rect:
+        serializedVersion: 2
+        x: 563
+        y: 5645
+        width: 50
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffef9b6f752a90cb0800000000000000
+      internalID: -4897204621103464705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_74
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 5645
+        width: 50
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 387e881b1313791d0800000000000000
+      internalID: -3344150108797606013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_75
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 5653
+        width: 80
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aa9b8096306df480800000000000000
+      internalID: -8863822704125699419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_76
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 5654
+        width: 68
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609d0978e5e602b50800000000000000
+      internalID: 6566369608986581254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_77
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 5386
+        width: 15
+        height: 226
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be1e078a6322a9400800000000000000
+      internalID: 331615140714701291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_78
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 5376
+        width: 48
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50bec709e051fd390800000000000000
+      internalID: -7791485678029837563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_79
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 5342
+        width: 72
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ad551b6d570f470800000000000000
+      internalID: 8426364467768842870
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_80
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 5331
+        width: 148
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5b4cc3b962ce8db0800000000000000
+      internalID: -4787675594604393634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_81
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 5425
+        width: 48
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b422c5c26874fdc0800000000000000
+      internalID: -3606125035996961611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_82
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 5394
+        width: 100
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0be210ab67ef06e10800000000000000
+      internalID: 2189029204782296752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_83
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 5378
+        width: 72
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b66ae771aa2c2c0800000000000000
+      internalID: -4412777666983859455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_84
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 5365
+        width: 47
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a06892292201a68b0800000000000000
+      internalID: -5158292682532354550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_85
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 5133
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60b24fb9ac56341c0800000000000000
+      internalID: -4520657680075576570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_86
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 5125
+        width: 60
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a565b8e966bd69910800000000000000
+      internalID: 1843902331247875674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_87
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 5129
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89dc3475099c0bda0800000000000000
+      internalID: -5931019087470408296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_88
+      rect:
+        serializedVersion: 2
+        x: 437
+        y: 5119
+        width: 74
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 735c76cc1f98b80a0800000000000000
+      internalID: -6878252334268824265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_89
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 5119
+        width: 116
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b7a9da46aa065370800000000000000
+      internalID: 8310841871695456177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_90
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 5119
+        width: 119
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a162c1a0bc007940800000000000000
+      internalID: 5291743514927980965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_91
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 5119
+        width: 110
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c231f898dfa5f20800000000000000
+      internalID: 3412318434939317404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_92
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 5105
+        width: 16
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 554d92701fdfd1f50800000000000000
+      internalID: 6853913419576890453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_93
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 4894
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a3c277e23571e220800000000000000
+      internalID: 2513418928541320105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_94
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 4863
+        width: 120
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b58ddb40bf532e6c0800000000000000
+      internalID: -4115667757230598053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_95
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 4863
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4489ce9b36b321a70800000000000000
+      internalID: 8796158321715091524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_96
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 4863
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a05e5a44598604540800000000000000
+      internalID: 4990103377437648138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_97
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 4866
+        width: 128
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec4ca7ed9f13abcf0800000000000000
+      internalID: -235821081234324274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_98
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 4863
+        width: 106
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc64f0aceaabb9b0800000000000000
+      internalID: -5063265422758613829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_99
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 4863
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8bdcf345b8f34330800000000000000
+      internalID: 3694069576787352459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_100
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 4863
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19b83287b779f250800000000000000
+      internalID: 5978941610358520091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_101
+      rect:
+        serializedVersion: 2
+        x: 55
+        y: 4863
+        width: 30
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94ff17175270515d0800000000000000
+      internalID: -3092557711721496759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_102
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4607
+        width: 127
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a97b0ae9511bd90800000000000000
+      internalID: -7083856967831676325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_103
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 4628
+        width: 122
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8839a6a83417eb40800000000000000
+      internalID: 5469362506011588751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_104
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 4607
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eedcf72f2c65ff270800000000000000
+      internalID: 8286437234677108206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_105
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 4607
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3125e8a1fc651c30800000000000000
+      internalID: 4329486401963106618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_106
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 4607
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fce846fba4a4e7a90800000000000000
+      internalID: -7314327059904033073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_107
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 4607
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83520fc024486f6f0800000000000000
+      internalID: -651187676888685256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_108
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 4659
+        width: 47
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b12fda892d0bf0f70800000000000000
+      internalID: 9155730986018664987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_109
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 4607
+        width: 82
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 840a9eb14088b4e80800000000000000
+      internalID: -8193305545840943032
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_110
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4380
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab946c11320137b0800000000000000
+      internalID: -5246409680956908625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_111
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 4351
+        width: 104
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550aec34f23d4e8a0800000000000000
+      internalID: -6276659780693090219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_112
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 4351
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91aa05bfbd0712de0800000000000000
+      internalID: -1359681522372662759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_113
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 4351
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74108edb1f7f3ee10800000000000000
+      internalID: 2225895258496434503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_114
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 4351
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 547b90ddd76dd2340800000000000000
+      internalID: 4840761010560808773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_115
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 4372
+        width: 122
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34a8b1cf979a4dd00800000000000000
+      internalID: 996607758941522499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_116
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 4351
+        width: 104
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aee3bcc33993f3080800000000000000
+      internalID: -9205575808779075862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_117
+      rect:
+        serializedVersion: 2
+        x: 870
+        y: 4371
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e665422545cbb36f0800000000000000
+      internalID: -703761846411962770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_118
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 4351
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b9ca8a822f059bb0800000000000000
+      internalID: -4930017576059483720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_119
+      rect:
+        serializedVersion: 2
+        x: 679
+        y: 4351
+        width: 32
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8aa9d3e4792bad780800000000000000
+      internalID: -8657410970743891288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_120
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4095
+        width: 127
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d89af38fce6a49d30800000000000000
+      internalID: 4437355069574195597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_121
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 4099
+        width: 128
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef214941ae62a65d0800000000000000
+      internalID: -3068597409290120450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_122
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 4095
+        width: 116
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1d0a780d8335db0800000000000000
+      internalID: -4804433909194370590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_123
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 4095
+        width: 120
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64adc93c173e9fe40800000000000000
+      internalID: 5690829681911978566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_124
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 4085
+        width: 109
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8035cb640c981ffc0800000000000000
+      internalID: -3462835179557727480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_125
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 4095
+        width: 76
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49e52c8bf23cedb40800000000000000
+      internalID: 5467021607404986004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_126
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 4109
+        width: 37
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 513f6728606fdfb40800000000000000
+      internalID: 5475803229771461397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_127
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 4100
+        width: 58
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f7db970ee070c50800000000000000
+      internalID: 6631285333604269892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_128
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3849
+        width: 57
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3312b25e7a7cc65c0800000000000000
+      internalID: -4220779226834722509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_129
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 3840
+        width: 27
+        height: 222
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0876525fb37ec3ef0800000000000000
+      internalID: -126972444771260544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_130
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 3852
+        width: 124
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4825253e5f3b93970800000000000000
+      internalID: 8735210820923970180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_131
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 3840
+        width: 26
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bd5d0bc288eeb300800000000000000
+      internalID: 269908676138851763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_132
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 3840
+        width: 87
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb3cef69e82de5110800000000000000
+      internalID: 1251669256316044222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_133
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 3859
+        width: 124
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f27240e13e2980ad0800000000000000
+      internalID: -2735775269468756177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_134
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 3839
+        width: 128
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc964303b0dbd0040800000000000000
+      internalID: 4615553048875657676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_135
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 3841
+        width: 86
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cafd7e4df3be87440800000000000000
+      internalID: 4933952051171811244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_136
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3598
+        width: 126
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be4c1b09a50f8e210800000000000000
+      internalID: 1362603159044867307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_137
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 3612
+        width: 118
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb173867df756d6c0800000000000000
+      internalID: -4119008063057071682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_138
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 3636
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ce2a488f866cb0e0800000000000000
+      internalID: -2252812946939171134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_139
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 3636
+        width: 64
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3417266622048e490800000000000000
+      internalID: -7716847445008551613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_140
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 3594
+        width: 91
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4f80bca0cb690400800000000000000
+      internalID: 290882126217252682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_141
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 3595
+        width: 91
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af620cbd2d51d1060800000000000000
+      internalID: 6925715797339809530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_142
+      rect:
+        serializedVersion: 2
+        x: 788
+        y: 3601
+        width: 89
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5ae88e9913db7420800000000000000
+      internalID: 2628926914488232540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_143
+      rect:
+        serializedVersion: 2
+        x: 915
+        y: 3601
+        width: 89
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb064f74dc699650800000000000000
+      internalID: 6240138418622696373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_144
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 3339
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2af4ab53e16f340800000000000000
+      internalID: 4897134860919874257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_145
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 3339
+        width: 102
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38e4483b97db66c90800000000000000
+      internalID: -7176840625767821693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_146
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 3339
+        width: 66
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ec3831384da7b580800000000000000
+      internalID: -8811383620352066333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_147
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 3356
+        width: 123
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1d0b40871b041b0800000000000000
+      internalID: -5674340401453936224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_148
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 3339
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2353d0a6dc644b410800000000000000
+      internalID: 1491895224627967282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_149
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 3339
+        width: 95
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e99280978b57390800000000000000
+      internalID: -7821142347891499369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: industry_02_150
+      rect:
+        serializedVersion: 2
+        x: 769
+        y: 3331
+        width: 124
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3b6575a4ba88750800000000000000
+      internalID: 6307479613913609126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      industry_02_0: -5954574920936150061
+      industry_02_1: -4801550759153866272
+      industry_02_10: -1291696081381178130
+      industry_02_100: 5978941610358520091
+      industry_02_101: -3092557711721496759
+      industry_02_102: -7083856967831676325
+      industry_02_103: 5469362506011588751
+      industry_02_104: 8286437234677108206
+      industry_02_105: 4329486401963106618
+      industry_02_106: -7314327059904033073
+      industry_02_107: -651187676888685256
+      industry_02_108: 9155730986018664987
+      industry_02_109: -8193305545840943032
+      industry_02_11: -6015910124133115951
+      industry_02_110: -5246409680956908625
+      industry_02_111: -6276659780693090219
+      industry_02_112: -1359681522372662759
+      industry_02_113: 2225895258496434503
+      industry_02_114: 4840761010560808773
+      industry_02_115: 996607758941522499
+      industry_02_116: -9205575808779075862
+      industry_02_117: -703761846411962770
+      industry_02_118: -4930017576059483720
+      industry_02_119: -8657410970743891288
+      industry_02_12: 833855184256064269
+      industry_02_120: 4437355069574195597
+      industry_02_121: -3068597409290120450
+      industry_02_122: -4804433909194370590
+      industry_02_123: 5690829681911978566
+      industry_02_124: -3462835179557727480
+      industry_02_125: 5467021607404986004
+      industry_02_126: 5475803229771461397
+      industry_02_127: 6631285333604269892
+      industry_02_128: -4220779226834722509
+      industry_02_129: -126972444771260544
+      industry_02_13: 8204997110773364810
+      industry_02_130: 8735210820923970180
+      industry_02_131: 269908676138851763
+      industry_02_132: 1251669256316044222
+      industry_02_133: -2735775269468756177
+      industry_02_134: 4615553048875657676
+      industry_02_135: 4933952051171811244
+      industry_02_136: 1362603159044867307
+      industry_02_137: -4119008063057071682
+      industry_02_138: -2252812946939171134
+      industry_02_139: -7716847445008551613
+      industry_02_14: 5818990705384324
+      industry_02_140: 290882126217252682
+      industry_02_141: 6925715797339809530
+      industry_02_142: 2628926914488232540
+      industry_02_143: 6240138418622696373
+      industry_02_144: 4897134860919874257
+      industry_02_145: -7176840625767821693
+      industry_02_146: -8811383620352066333
+      industry_02_147: -5674340401453936224
+      industry_02_148: 1491895224627967282
+      industry_02_149: -7821142347891499369
+      industry_02_15: 3969688805191081657
+      industry_02_150: 6307479613913609126
+      industry_02_16: 9087041504950284963
+      industry_02_17: -2404477763274097600
+      industry_02_18: -206555049483310313
+      industry_02_19: -8369030620813212078
+      industry_02_2: -1418866341817236282
+      industry_02_20: 2987699690420834103
+      industry_02_21: 7692692943750590891
+      industry_02_22: 6714267233411810557
+      industry_02_23: -8074560259454327496
+      industry_02_24: 3849028538918619508
+      industry_02_25: 7192165953016399754
+      industry_02_26: -6114788426501801963
+      industry_02_27: -154918008058274620
+      industry_02_28: -6266290678430557892
+      industry_02_29: -7084798130006159168
+      industry_02_3: -3079401191386067750
+      industry_02_30: 8910429173677440618
+      industry_02_31: -7574550593662488949
+      industry_02_32: -1442324598903172417
+      industry_02_33: 3215968144158893947
+      industry_02_34: 2259069309003445285
+      industry_02_35: 2786746377495641974
+      industry_02_36: 8900844249632380667
+      industry_02_37: 7343486295099529906
+      industry_02_38: 7321920524927981034
+      industry_02_39: -944025145564893862
+      industry_02_4: 286887124684553383
+      industry_02_40: 5637615174661594302
+      industry_02_41: -7367137602113133034
+      industry_02_42: -5527677625016377596
+      industry_02_43: 8556399900448232740
+      industry_02_44: -5286046206483811023
+      industry_02_45: -3873510235384594078
+      industry_02_46: 4694498168948692127
+      industry_02_47: 8399711073295949455
+      industry_02_48: -8481827179234838690
+      industry_02_49: -3729206773812612689
+      industry_02_5: -4382670256768985996
+      industry_02_50: -6438133158680934694
+      industry_02_51: 8881156587858941441
+      industry_02_52: -7549682071187973146
+      industry_02_53: -1119214676882550953
+      industry_02_54: -5045319134565531844
+      industry_02_55: -833872870948084721
+      industry_02_56: 6526952893911667609
+      industry_02_57: -3924115779273727048
+      industry_02_58: 4022776312604116165
+      industry_02_59: -2780898387112910134
+      industry_02_6: -205418268974222227
+      industry_02_60: -5953391715730730721
+      industry_02_61: -6620015017448530553
+      industry_02_62: -7728734253074674286
+      industry_02_63: 3872463969973999932
+      industry_02_64: 316854347846329619
+      industry_02_65: 3079565925614084350
+      industry_02_66: 1856703882806299665
+      industry_02_67: 5677220202423788718
+      industry_02_68: 292289243197573311
+      industry_02_69: 290658565117153174
+      industry_02_7: 8451698858652726348
+      industry_02_70: 8288479739214011310
+      industry_02_71: -7339565473284740796
+      industry_02_72: 4069963583640754672
+      industry_02_73: -4897204621103464705
+      industry_02_74: -3344150108797606013
+      industry_02_75: -8863822704125699419
+      industry_02_76: 6566369608986581254
+      industry_02_77: 331615140714701291
+      industry_02_78: -7791485678029837563
+      industry_02_79: 8426364467768842870
+      industry_02_8: 1090217731917841507
+      industry_02_80: -4787675594604393634
+      industry_02_81: -3606125035996961611
+      industry_02_82: 2189029204782296752
+      industry_02_83: -4412777666983859455
+      industry_02_84: -5158292682532354550
+      industry_02_85: -4520657680075576570
+      industry_02_86: 1843902331247875674
+      industry_02_87: -5931019087470408296
+      industry_02_88: -6878252334268824265
+      industry_02_89: 8310841871695456177
+      industry_02_9: -1961261300855293680
+      industry_02_90: 5291743514927980965
+      industry_02_91: 3412318434939317404
+      industry_02_92: 6853913419576890453
+      industry_02_93: 2513418928541320105
+      industry_02_94: -4115667757230598053
+      industry_02_95: 8796158321715091524
+      industry_02_96: 4990103377437648138
+      industry_02_97: -235821081234324274
+      industry_02_98: -5063265422758613829
+      industry_02_99: 3694069576787352459
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

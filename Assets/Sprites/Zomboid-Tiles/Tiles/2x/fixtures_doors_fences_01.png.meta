@@ -1,0 +1,3029 @@
+fileFormatVersion: 2
+guid: e978a6e6b07f94447840b649c23892dd
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3419339966417962415
+    second: fixtures_doors_fences_01_0
+  - first:
+      213: 8370976492768993260
+    second: fixtures_doors_fences_01_1
+  - first:
+      213: -723968193638876695
+    second: fixtures_doors_fences_01_2
+  - first:
+      213: 2937459579977205618
+    second: fixtures_doors_fences_01_3
+  - first:
+      213: 7887050189458609244
+    second: fixtures_doors_fences_01_4
+  - first:
+      213: -3561064669377820893
+    second: fixtures_doors_fences_01_5
+  - first:
+      213: -8283056497646910486
+    second: fixtures_doors_fences_01_6
+  - first:
+      213: -3273344642331521713
+    second: fixtures_doors_fences_01_7
+  - first:
+      213: 1896019363036356715
+    second: fixtures_doors_fences_01_8
+  - first:
+      213: -2248735935804588715
+    second: fixtures_doors_fences_01_9
+  - first:
+      213: -3317120269250597818
+    second: fixtures_doors_fences_01_10
+  - first:
+      213: -360461369123161967
+    second: fixtures_doors_fences_01_11
+  - first:
+      213: 6258727306383944596
+    second: fixtures_doors_fences_01_12
+  - first:
+      213: 8108981438033530509
+    second: fixtures_doors_fences_01_13
+  - first:
+      213: 1357178425920953825
+    second: fixtures_doors_fences_01_14
+  - first:
+      213: -7834766735756007770
+    second: fixtures_doors_fences_01_15
+  - first:
+      213: -8663274987475558401
+    second: fixtures_doors_fences_01_16
+  - first:
+      213: -8479654143351023902
+    second: fixtures_doors_fences_01_17
+  - first:
+      213: 3884217345088696296
+    second: fixtures_doors_fences_01_18
+  - first:
+      213: -6508407742280664667
+    second: fixtures_doors_fences_01_19
+  - first:
+      213: 3839341770119295524
+    second: fixtures_doors_fences_01_20
+  - first:
+      213: 2241770696684694047
+    second: fixtures_doors_fences_01_21
+  - first:
+      213: 9047196094143889484
+    second: fixtures_doors_fences_01_22
+  - first:
+      213: 5458483597528142719
+    second: fixtures_doors_fences_01_23
+  - first:
+      213: 9121520497358447746
+    second: fixtures_doors_fences_01_24
+  - first:
+      213: -1238480315157717725
+    second: fixtures_doors_fences_01_25
+  - first:
+      213: -3515089925078506317
+    second: fixtures_doors_fences_01_26
+  - first:
+      213: -7599180860619547619
+    second: fixtures_doors_fences_01_27
+  - first:
+      213: 4086339591434451665
+    second: fixtures_doors_fences_01_28
+  - first:
+      213: 6215097216290576229
+    second: fixtures_doors_fences_01_29
+  - first:
+      213: 237426841656492937
+    second: fixtures_doors_fences_01_30
+  - first:
+      213: -6616689384214768634
+    second: fixtures_doors_fences_01_31
+  - first:
+      213: -5850000196711975837
+    second: fixtures_doors_fences_01_32
+  - first:
+      213: 5751723714706321504
+    second: fixtures_doors_fences_01_33
+  - first:
+      213: -3308930933990921695
+    second: fixtures_doors_fences_01_34
+  - first:
+      213: -7801374488736158179
+    second: fixtures_doors_fences_01_35
+  - first:
+      213: -3010625909925143463
+    second: fixtures_doors_fences_01_36
+  - first:
+      213: 4103833713574055967
+    second: fixtures_doors_fences_01_37
+  - first:
+      213: -1700582135672302338
+    second: fixtures_doors_fences_01_38
+  - first:
+      213: 3732489225271741265
+    second: fixtures_doors_fences_01_39
+  - first:
+      213: -8353608056160763036
+    second: fixtures_doors_fences_01_40
+  - first:
+      213: 1499827013795127765
+    second: fixtures_doors_fences_01_41
+  - first:
+      213: 3211666406897187740
+    second: fixtures_doors_fences_01_42
+  - first:
+      213: -1122202321261364099
+    second: fixtures_doors_fences_01_43
+  - first:
+      213: 477404529755436860
+    second: fixtures_doors_fences_01_44
+  - first:
+      213: -9150978180666724021
+    second: fixtures_doors_fences_01_45
+  - first:
+      213: 8852034868438324607
+    second: fixtures_doors_fences_01_46
+  - first:
+      213: -7694209739041690700
+    second: fixtures_doors_fences_01_47
+  - first:
+      213: -6005951977487998030
+    second: fixtures_doors_fences_01_48
+  - first:
+      213: 2158220240428300237
+    second: fixtures_doors_fences_01_49
+  - first:
+      213: 7358277359303260785
+    second: fixtures_doors_fences_01_50
+  - first:
+      213: -9015162538371522573
+    second: fixtures_doors_fences_01_51
+  - first:
+      213: 4196101104165924391
+    second: fixtures_doors_fences_01_52
+  - first:
+      213: -3102297901977781049
+    second: fixtures_doors_fences_01_53
+  - first:
+      213: 17813405930638567
+    second: fixtures_doors_fences_01_54
+  - first:
+      213: -210575822817033389
+    second: fixtures_doors_fences_01_55
+  - first:
+      213: 2049165284064365511
+    second: fixtures_doors_fences_01_56
+  - first:
+      213: -5717424158351936507
+    second: fixtures_doors_fences_01_57
+  - first:
+      213: -5114039050314097579
+    second: fixtures_doors_fences_01_58
+  - first:
+      213: -5291402515654889369
+    second: fixtures_doors_fences_01_59
+  - first:
+      213: 7490146525043608183
+    second: fixtures_doors_fences_01_60
+  - first:
+      213: -2888037948204546066
+    second: fixtures_doors_fences_01_61
+  - first:
+      213: -6524578851533482002
+    second: fixtures_doors_fences_01_62
+  - first:
+      213: -7882606967012582174
+    second: fixtures_doors_fences_01_63
+  - first:
+      213: -8455939636527033983
+    second: fixtures_doors_fences_01_64
+  - first:
+      213: -4999398344968858625
+    second: fixtures_doors_fences_01_65
+  - first:
+      213: -1318934167276093873
+    second: fixtures_doors_fences_01_66
+  - first:
+      213: 2601863513403025622
+    second: fixtures_doors_fences_01_67
+  - first:
+      213: -4126097122159412793
+    second: fixtures_doors_fences_01_68
+  - first:
+      213: 7380282230155821745
+    second: fixtures_doors_fences_01_69
+  - first:
+      213: -2974913623504280457
+    second: fixtures_doors_fences_01_70
+  - first:
+      213: 7430361867469106364
+    second: fixtures_doors_fences_01_71
+  - first:
+      213: 3709286049358586578
+    second: fixtures_doors_fences_01_72
+  - first:
+      213: 887133516863008692
+    second: fixtures_doors_fences_01_73
+  - first:
+      213: 6416296004459006895
+    second: fixtures_doors_fences_01_74
+  - first:
+      213: -4582375758646576301
+    second: fixtures_doors_fences_01_75
+  - first:
+      213: 3512933608449396699
+    second: fixtures_doors_fences_01_76
+  - first:
+      213: 5518766021610855726
+    second: fixtures_doors_fences_01_77
+  - first:
+      213: -1990563974829850271
+    second: fixtures_doors_fences_01_78
+  - first:
+      213: 6526877535576917323
+    second: fixtures_doors_fences_01_79
+  - first:
+      213: -2049569626760409018
+    second: fixtures_doors_fences_01_80
+  - first:
+      213: 7804836023550475061
+    second: fixtures_doors_fences_01_81
+  - first:
+      213: 7011180995930836203
+    second: fixtures_doors_fences_01_82
+  - first:
+      213: 5234993777070905455
+    second: fixtures_doors_fences_01_83
+  - first:
+      213: 8805878215534597016
+    second: fixtures_doors_fences_01_84
+  - first:
+      213: 1099532180029837169
+    second: fixtures_doors_fences_01_85
+  - first:
+      213: -3226123840157668500
+    second: fixtures_doors_fences_01_86
+  - first:
+      213: -6260098441592420554
+    second: fixtures_doors_fences_01_87
+  - first:
+      213: -8033414582831426287
+    second: fixtures_doors_fences_01_88
+  - first:
+      213: -5640977858277936969
+    second: fixtures_doors_fences_01_89
+  - first:
+      213: -3730140659679260741
+    second: fixtures_doors_fences_01_90
+  - first:
+      213: -8377404611023659121
+    second: fixtures_doors_fences_01_91
+  - first:
+      213: -7200037063683047958
+    second: fixtures_doors_fences_01_92
+  - first:
+      213: 7457309511979139428
+    second: fixtures_doors_fences_01_93
+  - first:
+      213: -7652144883194119142
+    second: fixtures_doors_fences_01_94
+  - first:
+      213: -4209986909262437444
+    second: fixtures_doors_fences_01_95
+  - first:
+      213: 6288287529214912547
+    second: fixtures_doors_fences_01_96
+  - first:
+      213: 4827078511150005892
+    second: fixtures_doors_fences_01_97
+  - first:
+      213: 4211429329388819906
+    second: fixtures_doors_fences_01_98
+  - first:
+      213: -7592785551722880663
+    second: fixtures_doors_fences_01_99
+  - first:
+      213: 7839808302892928822
+    second: fixtures_doors_fences_01_100
+  - first:
+      213: 5538794368682112817
+    second: fixtures_doors_fences_01_101
+  - first:
+      213: -2185753606162219392
+    second: fixtures_doors_fences_01_102
+  - first:
+      213: 3115247890570908730
+    second: fixtures_doors_fences_01_103
+  - first:
+      213: -4238079657648285180
+    second: fixtures_doors_fences_01_104
+  - first:
+      213: -7599996105836810184
+    second: fixtures_doors_fences_01_105
+  - first:
+      213: 5304351796647804511
+    second: fixtures_doors_fences_01_106
+  - first:
+      213: -7836347033719805693
+    second: fixtures_doors_fences_01_107
+  - first:
+      213: -2697060455074457508
+    second: fixtures_doors_fences_01_108
+  - first:
+      213: 1138724693462104008
+    second: fixtures_doors_fences_01_109
+  - first:
+      213: 8256197486551074370
+    second: fixtures_doors_fences_01_110
+  - first:
+      213: -4938821457149234540
+    second: fixtures_doors_fences_01_111
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_0
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3614
+        width: 69
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa583a0459fe37f20800000000000000
+      internalID: 3419339966417962415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_1
+      rect:
+        serializedVersion: 2
+        x: 184
+        y: 3614
+        width: 69
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cef14a2d4ceab2470800000000000000
+      internalID: 8370976492768993260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_2
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 3614
+        width: 85
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9397d73c2f3f5f0800000000000000
+      internalID: -723968193638876695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_3
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 3614
+        width: 85
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2770c96bce3f3c820800000000000000
+      internalID: 2937459579977205618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_4
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 3611
+        width: 69
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c549b542c5e647d60800000000000000
+      internalID: 7887050189458609244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_5
+      rect:
+        serializedVersion: 2
+        x: 696
+        y: 3611
+        width: 69
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3278a8fec8e849ec0800000000000000
+      internalID: -3561064669377820893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_6
+      rect:
+        serializedVersion: 2
+        x: 819
+        y: 3612
+        width: 60
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3c34b300cac0d80800000000000000
+      internalID: -8283056497646910486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_7
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 3613
+        width: 60
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4dc666046eb292d0800000000000000
+      internalID: -3273344642331521713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_8
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3356
+        width: 68
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b606b0da093005a10800000000000000
+      internalID: 1896019363036356715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_9
+      rect:
+        serializedVersion: 2
+        x: 185
+        y: 3356
+        width: 68
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d36b8a492eac0e0800000000000000
+      internalID: -2248735935804588715
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_10
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 3356
+        width: 61
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64ce112a0b837f1d0800000000000000
+      internalID: -3317120269250597818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_11
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 3357
+        width: 60
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 198b92a6b426ffaf0800000000000000
+      internalID: -360461369123161967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_12
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 3356
+        width: 67
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49b6d0333577bd650800000000000000
+      internalID: 6258727306383944596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_13
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 3356
+        width: 67
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8e893897a3e88070800000000000000
+      internalID: 8108981438033530509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_14
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 3358
+        width: 108
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ed97d5769aa5d210800000000000000
+      internalID: 1357178425920953825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_15
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 3357
+        width: 63
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a667390a21554390800000000000000
+      internalID: -7834766735756007770
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_16
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 3101
+        width: 66
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fff1ef38c4dd5c780800000000000000
+      internalID: -8663274987475558401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_17
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 3101
+        width: 66
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e69467db77325a80800000000000000
+      internalID: -8479654143351023902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_18
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 3100
+        width: 62
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ef2c6c881387e530800000000000000
+      internalID: 3884217345088696296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_19
+      rect:
+        serializedVersion: 2
+        x: 391
+        y: 3102
+        width: 61
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a975f334ad7da5a0800000000000000
+      internalID: -6508407742280664667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_20
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 3070
+        width: 69
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 422b74b8ff4184530800000000000000
+      internalID: 3839341770119295524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_21
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 3105
+        width: 69
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1a65cb329e5c1f10800000000000000
+      internalID: 2241770696684694047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_22
+      rect:
+        serializedVersion: 2
+        x: 821
+        y: 3109
+        width: 58
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c408fbcd9e81e8d70800000000000000
+      internalID: 9047196094143889484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_23
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 3105
+        width: 64
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7316f269ed60cb40800000000000000
+      internalID: 5458483597528142719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_24
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2846
+        width: 68
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 284ae708096269e70800000000000000
+      internalID: 9121520497358447746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_25
+      rect:
+        serializedVersion: 2
+        x: 186
+        y: 2846
+        width: 69
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32dd5b117b800dee0800000000000000
+      internalID: -1238480315157717725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_26
+      rect:
+        serializedVersion: 2
+        x: 312
+        y: 2846
+        width: 65
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4242e3654e73fc0800000000000000
+      internalID: -3515089925078506317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_27
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 2845
+        width: 66
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c13daf4494a8690800000000000000
+      internalID: -7599180860619547619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_28
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 2846
+        width: 69
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dab013453895b830800000000000000
+      internalID: 4086339591434451665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_29
+      rect:
+        serializedVersion: 2
+        x: 698
+        y: 2846
+        width: 69
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 567d48d3df5704650800000000000000
+      internalID: 6215097216290576229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_30
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 2846
+        width: 66
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983041d54728b4300800000000000000
+      internalID: 237426841656492937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_31
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 2845
+        width: 67
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 604d7c0df0ccc24a0800000000000000
+      internalID: -6616689384214768634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 2593
+        width: 63
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3647403d0df90dea0800000000000000
+      internalID: -5850000196711975837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_33
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2589
+        width: 72
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 060b24d9e3a32df40800000000000000
+      internalID: 5751723714706321504
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_34
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 2589
+        width: 72
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a6b25d8d05412d0800000000000000
+      internalID: -3308930933990921695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_35
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 2593
+        width: 63
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1e26176c33fbb390800000000000000
+      internalID: -7801374488736158179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_36
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 2585
+        width: 76
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c13579fab1836d0800000000000000
+      internalID: -3010625909925143463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_37
+      rect:
+        serializedVersion: 2
+        x: 703
+        y: 2598
+        width: 48
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f109adaf40fb3f830800000000000000
+      internalID: 4103833713574055967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_38
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 2592
+        width: 56
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef490e3ce815668e0800000000000000
+      internalID: -1700582135672302338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_39
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 2588
+        width: 74
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15b8b40cc277cc330800000000000000
+      internalID: 3732489225271741265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_40
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2340
+        width: 62
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46342b37bb5021c80800000000000000
+      internalID: -8353608056160763036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_41
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2335
+        width: 70
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d12bcdf8b470d410800000000000000
+      internalID: 1499827013795127765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_42
+      rect:
+        serializedVersion: 2
+        x: 313
+        y: 2335
+        width: 70
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9b7928b491229c20800000000000000
+      internalID: 3211666406897187740
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_43
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 2340
+        width: 62
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7cf81b3fe22d60f0800000000000000
+      internalID: -1122202321261364099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_44
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 2303
+        width: 63
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c373c32f3e410a600800000000000000
+      internalID: 477404529755436860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_45
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 2312
+        width: 63
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41720224d1310180800000000000000
+      internalID: -9150978180666724021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_46
+      rect:
+        serializedVersion: 2
+        x: 832
+        y: 2312
+        width: 63
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7553a010deb8da70800000000000000
+      internalID: 8852034868438324607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_47
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 2303
+        width: 63
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bba11d020da83590800000000000000
+      internalID: -7694209739041690700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_48
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2046
+        width: 71
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3e5c35f7296aca0800000000000000
+      internalID: -6005951977487998030
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_49
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 2077
+        width: 63
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc779c9bfd983fd10800000000000000
+      internalID: 2158220240428300237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_50
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 2077
+        width: 64
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17af110c54add1660800000000000000
+      internalID: 7358277359303260785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_51
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 2076
+        width: 70
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ffd4fb8f65b3e280800000000000000
+      internalID: -9015162538371522573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_52
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 2073
+        width: 114
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72e2f6be8bb8b3a30800000000000000
+      internalID: 4196101104165924391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_53
+      rect:
+        serializedVersion: 2
+        x: 691
+        y: 2078
+        width: 59
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ccbc2dae7c62f4d0800000000000000
+      internalID: -3102297901977781049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_54
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 2077
+        width: 92
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec4cb4c2394f3000800000000000000
+      internalID: 17813405930638567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_55
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 2073
+        width: 66
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35384b2a762e31df0800000000000000
+      internalID: -210575822817033389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_56
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1819
+        width: 70
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cb08ba08f8107c10800000000000000
+      internalID: 2049165284064365511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_57
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1821
+        width: 63
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 504323b2501a7a0b0800000000000000
+      internalID: -5717424158351936507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_58
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 1821
+        width: 63
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55c5d8e34984709b0800000000000000
+      internalID: -5114039050314097579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_59
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 1821
+        width: 69
+        height: 215
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76038c272792196b0800000000000000
+      internalID: -5291402515654889369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_60
+      rect:
+        serializedVersion: 2
+        x: 510
+        y: 1791
+        width: 67
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ac9dc749852f760800000000000000
+      internalID: 7490146525043608183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_61
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1797
+        width: 58
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee78b6f99c0abe7d0800000000000000
+      internalID: -2888037948204546066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_62
+      rect:
+        serializedVersion: 2
+        x: 828
+        y: 1797
+        width: 69
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee7125d6a1a0475a0800000000000000
+      internalID: -6524578851533482002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_63
+      rect:
+        serializedVersion: 2
+        x: 959
+        y: 1792
+        width: 62
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ec12333aba5b9290800000000000000
+      internalID: -7882606967012582174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_64
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1572
+        width: 62
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18119aab3b776aa80800000000000000
+      internalID: -8455939636527033983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_65
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1565
+        width: 69
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3947571b19e9ab0800000000000000
+      internalID: -4999398344968858625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_66
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1566
+        width: 69
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4ef165ec5432bde0800000000000000
+      internalID: -1318934167276093873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_67
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1563
+        width: 66
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d8ef66841dab1420800000000000000
+      internalID: 2601863513403025622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_68
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 1563
+        width: 69
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c93de447882db6c0800000000000000
+      internalID: -4126097122159412793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_69
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1563
+        width: 65
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b2c09ef5970c6660800000000000000
+      internalID: 7380282230155821745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_70
+      rect:
+        serializedVersion: 2
+        x: 779
+        y: 1573
+        width: 57
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774ae8932dbf6b6d0800000000000000
+      internalID: -2974913623504280457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_71
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1565
+        width: 66
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbcaa1f20c2fd1760800000000000000
+      internalID: 7430361867469106364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_72
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1318
+        width: 64
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d2a45e52080a7330800000000000000
+      internalID: 3709286049358586578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_73
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1310
+        width: 67
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bf66fcbb3bbf4c00800000000000000
+      internalID: 887133516863008692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_74
+      rect:
+        serializedVersion: 2
+        x: 319
+        y: 1308
+        width: 64
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fab898798334b0950800000000000000
+      internalID: 6416296004459006895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_75
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1309
+        width: 66
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b7286a6812860c0800000000000000
+      internalID: -4582375758646576301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_76
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1279
+        width: 64
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf482b218270c030800000000000000
+      internalID: 3512933608449396699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_77
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1280
+        width: 60
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d5c9cf478969c40800000000000000
+      internalID: 5518766021610855726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_78
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 1288
+        width: 56
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161c3918c981064e0800000000000000
+      internalID: -1990563974829850271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_79
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 1280
+        width: 66
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b450a88a980249a50800000000000000
+      internalID: 6526877535576917323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_80
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1057
+        width: 65
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 640148698477e83e0800000000000000
+      internalID: -2049569626760409018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_81
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1050
+        width: 69
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53bf5e9f209505c60800000000000000
+      internalID: 7804836023550475061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_82
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 1050
+        width: 69
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bec4d6e08f7bc4160800000000000000
+      internalID: 7011180995930836203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_83
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 1056
+        width: 68
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6811b3aa1f66a840800000000000000
+      internalID: 5234993777070905455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_84
+      rect:
+        serializedVersion: 2
+        x: 570
+        y: 1052
+        width: 69
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8935a4cd493c43a70800000000000000
+      internalID: 8805878215534597016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_85
+      rect:
+        serializedVersion: 2
+        x: 701
+        y: 1058
+        width: 59
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f0ac131b2524f00800000000000000
+      internalID: 1099532180029837169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_86
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1059
+        width: 59
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6babf9c5718a33d0800000000000000
+      internalID: -3226123840157668500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_87
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1052
+        width: 69
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63748e182a9af19a0800000000000000
+      internalID: -6260098441592420554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_88
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 804
+        width: 65
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 115d3e0fff3938090800000000000000
+      internalID: -8033414582831426287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_89
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 794
+        width: 65
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0ff7b668837b1b0800000000000000
+      internalID: -5640977858277936969
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_90
+      rect:
+        serializedVersion: 2
+        x: 318
+        y: 794
+        width: 65
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbf839945d0eb3cc0800000000000000
+      internalID: -3730140659679260741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_91
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 804
+        width: 65
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8f173444ea7dbb80800000000000000
+      internalID: -8377404611023659121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_92
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 771
+        width: 66
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aed76812074541c90800000000000000
+      internalID: -7200037063683047958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_93
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 777
+        width: 64
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46188a99d7fad7760800000000000000
+      internalID: 7457309511979139428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_94
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 778
+        width: 64
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c346385ce1ec590800000000000000
+      internalID: -7652144883194119142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_95
+      rect:
+        serializedVersion: 2
+        x: 957
+        y: 771
+        width: 66
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb32e54263f1395c0800000000000000
+      internalID: -4209986909262437444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_96
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 540
+        width: 71
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328af58e03c744750800000000000000
+      internalID: 6288287529214912547
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_97
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 541
+        width: 63
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e7408b45a3df240800000000000000
+      internalID: 4827078511150005892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_98
+      rect:
+        serializedVersion: 2
+        x: 314
+        y: 541
+        width: 65
+        height: 214
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c5d1e679a0027a30800000000000000
+      internalID: 4211429329388819906
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_99
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 540
+        width: 70
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 961e6ddd4c101a690800000000000000
+      internalID: -7592785551722880663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_100
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 537
+        width: 114
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63f47194d189ccc60800000000000000
+      internalID: 7839808302892928822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_101
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 542
+        width: 60
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1373b3de120cddc40800000000000000
+      internalID: 5538794368682112817
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_102
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 541
+        width: 92
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08efb220da4aaa1e0800000000000000
+      internalID: -2185753606162219392
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_103
+      rect:
+        serializedVersion: 2
+        x: 907
+        y: 537
+        width: 66
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3493c083759b3b20800000000000000
+      internalID: 3115247890570908730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_104
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 283
+        width: 70
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a901471015f25c0800000000000000
+      internalID: -4238079657648285180
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_105
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 285
+        width: 64
+        height: 193
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 830be39eec3678690800000000000000
+      internalID: -7599996105836810184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_106
+      rect:
+        serializedVersion: 2
+        x: 316
+        y: 285
+        width: 63
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5eb5eafad7dc9940800000000000000
+      internalID: 5304351796647804511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_107
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 284
+        width: 72
+        height: 216
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 309e17e34e3bf3390800000000000000
+      internalID: -7836347033719805693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_108
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 260
+        width: 75
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5898854ecd129ad0800000000000000
+      internalID: -2697060455074457508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_109
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 266
+        width: 58
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c736c253109dcf00800000000000000
+      internalID: 1138724693462104008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_110
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 266
+        width: 69
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 246895deed7e39270800000000000000
+      internalID: 8256197486551074370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_doors_fences_01_111
+      rect:
+        serializedVersion: 2
+        x: 947
+        y: 261
+        width: 74
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 492fa8d3d08c57bb0800000000000000
+      internalID: -4938821457149234540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fixtures_doors_fences_01_0: 3419339966417962415
+      fixtures_doors_fences_01_1: 8370976492768993260
+      fixtures_doors_fences_01_10: -3317120269250597818
+      fixtures_doors_fences_01_100: 7839808302892928822
+      fixtures_doors_fences_01_101: 5538794368682112817
+      fixtures_doors_fences_01_102: -2185753606162219392
+      fixtures_doors_fences_01_103: 3115247890570908730
+      fixtures_doors_fences_01_104: -4238079657648285180
+      fixtures_doors_fences_01_105: -7599996105836810184
+      fixtures_doors_fences_01_106: 5304351796647804511
+      fixtures_doors_fences_01_107: -7836347033719805693
+      fixtures_doors_fences_01_108: -2697060455074457508
+      fixtures_doors_fences_01_109: 1138724693462104008
+      fixtures_doors_fences_01_11: -360461369123161967
+      fixtures_doors_fences_01_110: 8256197486551074370
+      fixtures_doors_fences_01_111: -4938821457149234540
+      fixtures_doors_fences_01_12: 6258727306383944596
+      fixtures_doors_fences_01_13: 8108981438033530509
+      fixtures_doors_fences_01_14: 1357178425920953825
+      fixtures_doors_fences_01_15: -7834766735756007770
+      fixtures_doors_fences_01_16: -8663274987475558401
+      fixtures_doors_fences_01_17: -8479654143351023902
+      fixtures_doors_fences_01_18: 3884217345088696296
+      fixtures_doors_fences_01_19: -6508407742280664667
+      fixtures_doors_fences_01_2: -723968193638876695
+      fixtures_doors_fences_01_20: 3839341770119295524
+      fixtures_doors_fences_01_21: 2241770696684694047
+      fixtures_doors_fences_01_22: 9047196094143889484
+      fixtures_doors_fences_01_23: 5458483597528142719
+      fixtures_doors_fences_01_24: 9121520497358447746
+      fixtures_doors_fences_01_25: -1238480315157717725
+      fixtures_doors_fences_01_26: -3515089925078506317
+      fixtures_doors_fences_01_27: -7599180860619547619
+      fixtures_doors_fences_01_28: 4086339591434451665
+      fixtures_doors_fences_01_29: 6215097216290576229
+      fixtures_doors_fences_01_3: 2937459579977205618
+      fixtures_doors_fences_01_30: 237426841656492937
+      fixtures_doors_fences_01_31: -6616689384214768634
+      fixtures_doors_fences_01_32: -5850000196711975837
+      fixtures_doors_fences_01_33: 5751723714706321504
+      fixtures_doors_fences_01_34: -3308930933990921695
+      fixtures_doors_fences_01_35: -7801374488736158179
+      fixtures_doors_fences_01_36: -3010625909925143463
+      fixtures_doors_fences_01_37: 4103833713574055967
+      fixtures_doors_fences_01_38: -1700582135672302338
+      fixtures_doors_fences_01_39: 3732489225271741265
+      fixtures_doors_fences_01_4: 7887050189458609244
+      fixtures_doors_fences_01_40: -8353608056160763036
+      fixtures_doors_fences_01_41: 1499827013795127765
+      fixtures_doors_fences_01_42: 3211666406897187740
+      fixtures_doors_fences_01_43: -1122202321261364099
+      fixtures_doors_fences_01_44: 477404529755436860
+      fixtures_doors_fences_01_45: -9150978180666724021
+      fixtures_doors_fences_01_46: 8852034868438324607
+      fixtures_doors_fences_01_47: -7694209739041690700
+      fixtures_doors_fences_01_48: -6005951977487998030
+      fixtures_doors_fences_01_49: 2158220240428300237
+      fixtures_doors_fences_01_5: -3561064669377820893
+      fixtures_doors_fences_01_50: 7358277359303260785
+      fixtures_doors_fences_01_51: -9015162538371522573
+      fixtures_doors_fences_01_52: 4196101104165924391
+      fixtures_doors_fences_01_53: -3102297901977781049
+      fixtures_doors_fences_01_54: 17813405930638567
+      fixtures_doors_fences_01_55: -210575822817033389
+      fixtures_doors_fences_01_56: 2049165284064365511
+      fixtures_doors_fences_01_57: -5717424158351936507
+      fixtures_doors_fences_01_58: -5114039050314097579
+      fixtures_doors_fences_01_59: -5291402515654889369
+      fixtures_doors_fences_01_6: -8283056497646910486
+      fixtures_doors_fences_01_60: 7490146525043608183
+      fixtures_doors_fences_01_61: -2888037948204546066
+      fixtures_doors_fences_01_62: -6524578851533482002
+      fixtures_doors_fences_01_63: -7882606967012582174
+      fixtures_doors_fences_01_64: -8455939636527033983
+      fixtures_doors_fences_01_65: -4999398344968858625
+      fixtures_doors_fences_01_66: -1318934167276093873
+      fixtures_doors_fences_01_67: 2601863513403025622
+      fixtures_doors_fences_01_68: -4126097122159412793
+      fixtures_doors_fences_01_69: 7380282230155821745
+      fixtures_doors_fences_01_7: -3273344642331521713
+      fixtures_doors_fences_01_70: -2974913623504280457
+      fixtures_doors_fences_01_71: 7430361867469106364
+      fixtures_doors_fences_01_72: 3709286049358586578
+      fixtures_doors_fences_01_73: 887133516863008692
+      fixtures_doors_fences_01_74: 6416296004459006895
+      fixtures_doors_fences_01_75: -4582375758646576301
+      fixtures_doors_fences_01_76: 3512933608449396699
+      fixtures_doors_fences_01_77: 5518766021610855726
+      fixtures_doors_fences_01_78: -1990563974829850271
+      fixtures_doors_fences_01_79: 6526877535576917323
+      fixtures_doors_fences_01_8: 1896019363036356715
+      fixtures_doors_fences_01_80: -2049569626760409018
+      fixtures_doors_fences_01_81: 7804836023550475061
+      fixtures_doors_fences_01_82: 7011180995930836203
+      fixtures_doors_fences_01_83: 5234993777070905455
+      fixtures_doors_fences_01_84: 8805878215534597016
+      fixtures_doors_fences_01_85: 1099532180029837169
+      fixtures_doors_fences_01_86: -3226123840157668500
+      fixtures_doors_fences_01_87: -6260098441592420554
+      fixtures_doors_fences_01_88: -8033414582831426287
+      fixtures_doors_fences_01_89: -5640977858277936969
+      fixtures_doors_fences_01_9: -2248735935804588715
+      fixtures_doors_fences_01_90: -3730140659679260741
+      fixtures_doors_fences_01_91: -8377404611023659121
+      fixtures_doors_fences_01_92: -7200037063683047958
+      fixtures_doors_fences_01_93: 7457309511979139428
+      fixtures_doors_fences_01_94: -7652144883194119142
+      fixtures_doors_fences_01_95: -4209986909262437444
+      fixtures_doors_fences_01_96: 6288287529214912547
+      fixtures_doors_fences_01_97: 4827078511150005892
+      fixtures_doors_fences_01_98: 4211429329388819906
+      fixtures_doors_fences_01_99: -7592785551722880663
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

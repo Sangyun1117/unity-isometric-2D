@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: bec04b7f1f92c0248b8c6928229d556c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3535510685559742199
+    second: location_military_knox_01_0
+  - first:
+      213: 7909746259957769915
+    second: location_military_knox_01_1
+  - first:
+      213: 6605803353049079613
+    second: location_military_knox_01_2
+  - first:
+      213: -3933468790243091343
+    second: location_military_knox_01_3
+  - first:
+      213: 7652597896611935024
+    second: location_military_knox_01_4
+  - first:
+      213: 6240220525558963129
+    second: location_military_knox_01_5
+  - first:
+      213: -7476051448562135027
+    second: location_military_knox_01_6
+  - first:
+      213: 3880422680802171595
+    second: location_military_knox_01_7
+  - first:
+      213: -3341535585109927345
+    second: location_military_knox_01_8
+  - first:
+      213: -127779603176924901
+    second: location_military_knox_01_9
+  - first:
+      213: -6918228213530515326
+    second: location_military_knox_01_10
+  - first:
+      213: 8928174511326471962
+    second: location_military_knox_01_11
+  - first:
+      213: 1373163156634372688
+    second: location_military_knox_01_12
+  - first:
+      213: -2519133870238521694
+    second: location_military_knox_01_13
+  - first:
+      213: 6497662707929892453
+    second: location_military_knox_01_14
+  - first:
+      213: 5618801443058135220
+    second: location_military_knox_01_15
+  - first:
+      213: -6609220590759651940
+    second: location_military_knox_01_16
+  - first:
+      213: -2811225927188325385
+    second: location_military_knox_01_17
+  - first:
+      213: 4172864398103840346
+    second: location_military_knox_01_18
+  - first:
+      213: -5440296567259848192
+    second: location_military_knox_01_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: location_military_knox_01_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1792
+        width: 121
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9012d9f63c75feec0800000000000000
+      internalID: -3535510685559742199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_military_knox_01_1
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 1789
+        width: 126
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb6e148d05015cd60800000000000000
+      internalID: 7909746259957769915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_military_knox_01_2
+      rect:
+        serializedVersion: 2
+        x: 258
+        y: 1791
+        width: 123
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f139a86278cab50800000000000000
+      internalID: 6605803353049079613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_military_knox_01_3
+      rect:
+        serializedVersion: 2
+        x: 387
+        y: 1860
+        width: 122
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17c9976c9f28969c0800000000000000
+      internalID: -3933468790243091343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_military_knox_01_4
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 1860
+        width: 218
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033b474ed3d733a60800000000000000
+      internalID: 7652597896611935024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_military_knox_01_5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 1645
+        width: 55
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb1b028187b99650800000000000000
+      internalID: 6240220525558963129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_military_knox_01_6
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1646
+        width: 66
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d00d8ed31dabf3890800000000000000
+      internalID: -7476051448562135027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_military_knox_01_7
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 1663
+        width: 47
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca159b6ed70ad530800000000000000
+      internalID: 3880422680802171595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_military_knox_01_8
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 1662
+        width: 45
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a123de61b70a1d0800000000000000
+      internalID: -3341535585109927345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_military_knox_01_9
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 1644
+        width: 66
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b19591fb0290a3ef0800000000000000
+      internalID: -127779603176924901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_military_knox_01_10
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1645
+        width: 55
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 288ad6918148dff90800000000000000
+      internalID: -6918228213530515326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_military_knox_01_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1407
+        width: 127
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17af402a6f37eb70800000000000000
+      internalID: 8928174511326471962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_military_knox_01_12
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 1407
+        width: 111
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05a88d99d947e0310800000000000000
+      internalID: 1373163156634372688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_military_knox_01_13
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1407
+        width: 109
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a627ca871d3a0dd0800000000000000
+      internalID: -2519133870238521694
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_military_knox_01_14
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 1407
+        width: 92
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 566c6788ec55c2a50800000000000000
+      internalID: 6497662707929892453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_military_knox_01_15
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1284
+        width: 128
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b0beec842ef9fd40800000000000000
+      internalID: 5618801443058135220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_military_knox_01_16
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1284
+        width: 128
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95d29dc3e45744a0800000000000000
+      internalID: -6609220590759651940
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_military_knox_01_17
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1285
+        width: 128
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fb529ae9e48cf8d0800000000000000
+      internalID: -2811225927188325385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_military_knox_01_18
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1285
+        width: 128
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a568ad0bf0ef8e930800000000000000
+      internalID: 4172864398103840346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: location_military_knox_01_19
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1029
+        width: 122
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00223b3981f2084b0800000000000000
+      internalID: -5440296567259848192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      location_military_knox_01_0: -3535510685559742199
+      location_military_knox_01_1: 7909746259957769915
+      location_military_knox_01_10: -6918228213530515326
+      location_military_knox_01_11: 8928174511326471962
+      location_military_knox_01_12: 1373163156634372688
+      location_military_knox_01_13: -2519133870238521694
+      location_military_knox_01_14: 6497662707929892453
+      location_military_knox_01_15: 5618801443058135220
+      location_military_knox_01_16: -6609220590759651940
+      location_military_knox_01_17: -2811225927188325385
+      location_military_knox_01_18: 4172864398103840346
+      location_military_knox_01_19: -5440296567259848192
+      location_military_knox_01_2: 6605803353049079613
+      location_military_knox_01_3: -3933468790243091343
+      location_military_knox_01_4: 7652597896611935024
+      location_military_knox_01_5: 6240220525558963129
+      location_military_knox_01_6: -7476051448562135027
+      location_military_knox_01_7: 3880422680802171595
+      location_military_knox_01_8: -3341535585109927345
+      location_military_knox_01_9: -127779603176924901
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
