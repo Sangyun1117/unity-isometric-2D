@@ -5,11 +5,11 @@ public class GasMaskController : EnemyController
 {
     [SerializeField] Transform firePoint; // 발사 위치 지정 (총구)
     CustomObjectPool bulletPool;
+    [SerializeField] public bool isShootAnim = false;
     protected override void Awake()
     {
         base.Awake();
         bulletPool = GetComponent<CustomObjectPool>();
-
     }
 
     protected override void Update()
@@ -35,9 +35,11 @@ public class GasMaskController : EnemyController
                 StartAttack();
                 animator.SetFloat("lastMoveX", direction.x);
                 animator.SetFloat("lastMoveY", direction.y);
-                actionState = ActionState.Shoot;
-                animator.SetInteger("actionState", (int)actionState);
-
+                if (actionState != ActionState.Shoot)
+                {
+                    actionState = ActionState.Shoot;
+                    animator.SetInteger("actionState", (int)actionState);
+                }
                 animator.SetFloat("moveX", 0f);
                 animator.SetFloat("moveY", 0f);
                 return;
@@ -46,7 +48,8 @@ public class GasMaskController : EnemyController
             {
                 // 사격 범위 밖이면 NavMesh 재시작
                 agent.isStopped = false;
-
+                actionState = ActionState.Run;
+                animator.SetInteger("actionState", (int)actionState);
                 StopAttack();
 
                 // 마지막 이동 방향 기록 (NavMesh 방향 기준)
@@ -59,6 +62,8 @@ public class GasMaskController : EnemyController
         }
         else
         {
+            actionState = ActionState.Walk;
+            animator.SetInteger("actionState", (int)actionState);
             //목표 지점에 도착했다면 새로운 목표지점으로 이동
             if (Vector2.Distance(transform.position, currentWaypoint.transform.position) < 0.1f)
             {
@@ -98,11 +103,11 @@ public class GasMaskController : EnemyController
     }
 
     //애니메이션 end 이벤트로 호출
-    public void OnShootEnd()
-    {
-        actionState = ActionState.Idle;
-        animator.SetInteger("actionState", (int)actionState);
-    }
+    //public void OnShootEnd()
+    //{
+    //    actionState = ActionState.Run;
+    //    animator.SetInteger("actionState", (int)actionState);
+    //}
 
     protected override IEnumerator TryAttack()
     {

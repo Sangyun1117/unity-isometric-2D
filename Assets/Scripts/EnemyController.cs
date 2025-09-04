@@ -16,7 +16,7 @@ public class EnemyController : MonoBehaviour
     protected GameObject currentWaypoint;
     //private Rigidbody2D rb;
     protected Animator animator;
-    protected ActionState actionState = ActionState.Idle;
+    public ActionState actionState = ActionState.Idle;
 
     float lastAttackTime = -999f;//게임시작 시 즉시 공격 가능하도록 낮은 숫자를 넣음
     Coroutine attackRoutine;
