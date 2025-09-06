@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 47cf7f25286cd824f80bf3f997dfcb40
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7197433255708707450
+    second: walls_interior_bathroom_01_0
+  - first:
+      213: 4617729586207732855
+    second: walls_interior_bathroom_01_1
+  - first:
+      213: 2229801776060091184
+    second: walls_interior_bathroom_01_2
+  - first:
+      213: 8256646470089848179
+    second: walls_interior_bathroom_01_3
+  - first:
+      213: -5917268695181480126
+    second: walls_interior_bathroom_01_4
+  - first:
+      213: 4039877130898193200
+    second: walls_interior_bathroom_01_5
+  - first:
+      213: -3360609901964568339
+    second: walls_interior_bathroom_01_6
+  - first:
+      213: -6890510994812682383
+    second: walls_interior_bathroom_01_7
+  - first:
+      213: -493842687816252330
+    second: walls_interior_bathroom_01_8
+  - first:
+      213: -8001200317331552813
+    second: walls_interior_bathroom_01_9
+  - first:
+      213: -2498939661003913433
+    second: walls_interior_bathroom_01_10
+  - first:
+      213: 3319960282009678934
+    second: walls_interior_bathroom_01_11
+  - first:
+      213: -2352697411589165535
+    second: walls_interior_bathroom_01_12
+  - first:
+      213: -8742260457972812236
+    second: walls_interior_bathroom_01_13
+  - first:
+      213: 8323431218792732282
+    second: walls_interior_bathroom_01_14
+  - first:
+      213: 1273345824681907900
+    second: walls_interior_bathroom_01_15
+  - first:
+      213: 4943287024099700934
+    second: walls_interior_bathroom_01_16
+  - first:
+      213: 4957965920233247023
+    second: walls_interior_bathroom_01_17
+  - first:
+      213: 8431837053864350683
+    second: walls_interior_bathroom_01_18
+  - first:
+      213: -8673783917404549631
+    second: walls_interior_bathroom_01_19
+  - first:
+      213: -8736431951171316169
+    second: walls_interior_bathroom_01_20
+  - first:
+      213: -1142853433250645418
+    second: walls_interior_bathroom_01_21
+  - first:
+      213: -1203570659495850011
+    second: walls_interior_bathroom_01_22
+  - first:
+      213: 8875000640945200016
+    second: walls_interior_bathroom_01_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: walls_interior_bathroom_01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1821
+        width: 67
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68536ea66949d1c90800000000000000
+      internalID: -7197433255708707450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_interior_bathroom_01_1
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1821
+        width: 68
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77439b6c798751040800000000000000
+      internalID: 4617729586207732855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_interior_bathroom_01_2
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1821
+        width: 128
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03bc89db6e8d1fe10800000000000000
+      internalID: 2229801776060091184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_interior_bathroom_01_3
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1851
+        width: 8
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37530bd0830859270800000000000000
+      internalID: 8256646470089848179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_interior_bathroom_01_4
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1821
+        width: 68
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f2b270973a1eda0800000000000000
+      internalID: -5917268695181480126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_interior_bathroom_01_5
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1821
+        width: 68
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b396ba8d6801830800000000000000
+      internalID: 4039877130898193200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_interior_bathroom_01_6
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1821
+        width: 128
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de8ddb47917bc51d0800000000000000
+      internalID: -3360609901964568339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_interior_bathroom_01_7
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1851
+        width: 8
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17f3449f1ccff50a0800000000000000
+      internalID: -6890510994812682383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_interior_bathroom_01_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1563
+        width: 67
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654c9c121b48529f0800000000000000
+      internalID: -493842687816252330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_interior_bathroom_01_9
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1565
+        width: 68
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d5c5bc14b606f090800000000000000
+      internalID: -8001200317331552813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_interior_bathroom_01_10
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1565
+        width: 68
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7270ab64e9bf15dd0800000000000000
+      internalID: -2498939661003913433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_interior_bathroom_01_11
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1565
+        width: 68
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 654b79d594ed21e20800000000000000
+      internalID: 3319960282009678934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_interior_bathroom_01_12
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1563
+        width: 68
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12e2f365b2a895fd0800000000000000
+      internalID: -2352697411589165535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_interior_bathroom_01_13
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1565
+        width: 68
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43636949e604da680800000000000000
+      internalID: -8742260457972812236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_interior_bathroom_01_14
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1565
+        width: 68
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7699841894c28370800000000000000
+      internalID: 8323431218792732282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_interior_bathroom_01_15
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1565
+        width: 68
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb65464f745dba110800000000000000
+      internalID: 1273345824681907900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_interior_bathroom_01_16
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1309
+        width: 67
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c0b2469b551a9440800000000000000
+      internalID: 4943287024099700934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_interior_bathroom_01_17
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1309
+        width: 68
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f21defb6cbb3ec440800000000000000
+      internalID: 4957965920233247023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_interior_bathroom_01_18
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1309
+        width: 128
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd39f8f6027e30570800000000000000
+      internalID: 8431837053864350683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_interior_bathroom_01_19
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1339
+        width: 8
+        height: 198
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e0b989b7780a780800000000000000
+      internalID: -8673783917404549631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_interior_bathroom_01_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1051
+        width: 67
+        height: 230
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7369f029d65f1c680800000000000000
+      internalID: -8736431951171316169
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_interior_bathroom_01_21
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 1053
+        width: 68
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a72c88bd4c320f0800000000000000
+      internalID: -1142853433250645418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_interior_bathroom_01_22
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1053
+        width: 68
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5efcaaaacde0c4fe0800000000000000
+      internalID: -1203570659495850011
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_interior_bathroom_01_23
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1053
+        width: 68
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09b17e8af065a2b70800000000000000
+      internalID: 8875000640945200016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      walls_interior_bathroom_01_0: -7197433255708707450
+      walls_interior_bathroom_01_1: 4617729586207732855
+      walls_interior_bathroom_01_10: -2498939661003913433
+      walls_interior_bathroom_01_11: 3319960282009678934
+      walls_interior_bathroom_01_12: -2352697411589165535
+      walls_interior_bathroom_01_13: -8742260457972812236
+      walls_interior_bathroom_01_14: 8323431218792732282
+      walls_interior_bathroom_01_15: 1273345824681907900
+      walls_interior_bathroom_01_16: 4943287024099700934
+      walls_interior_bathroom_01_17: 4957965920233247023
+      walls_interior_bathroom_01_18: 8431837053864350683
+      walls_interior_bathroom_01_19: -8673783917404549631
+      walls_interior_bathroom_01_2: 2229801776060091184
+      walls_interior_bathroom_01_20: -8736431951171316169
+      walls_interior_bathroom_01_21: -1142853433250645418
+      walls_interior_bathroom_01_22: -1203570659495850011
+      walls_interior_bathroom_01_23: 8875000640945200016
+      walls_interior_bathroom_01_3: 8256646470089848179
+      walls_interior_bathroom_01_4: -5917268695181480126
+      walls_interior_bathroom_01_5: 4039877130898193200
+      walls_interior_bathroom_01_6: -3360609901964568339
+      walls_interior_bathroom_01_7: -6890510994812682383
+      walls_interior_bathroom_01_8: -493842687816252330
+      walls_interior_bathroom_01_9: -8001200317331552813
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

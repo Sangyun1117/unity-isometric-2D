@@ -1,0 +1,1495 @@
+fileFormatVersion: 2
+guid: 7c5ef15e9ffc6ad48a513f5c2e877ea5
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2241745764410692676
+    second: walls_exterior_roofs_07_0
+  - first:
+      213: -9060834045835748658
+    second: walls_exterior_roofs_07_1
+  - first:
+      213: -2111399189781530413
+    second: walls_exterior_roofs_07_2
+  - first:
+      213: 5071769442779531401
+    second: walls_exterior_roofs_07_3
+  - first:
+      213: 484626552691990698
+    second: walls_exterior_roofs_07_4
+  - first:
+      213: 2294895300903706662
+    second: walls_exterior_roofs_07_5
+  - first:
+      213: 3780117815647301446
+    second: walls_exterior_roofs_07_6
+  - first:
+      213: 1077644912137857828
+    second: walls_exterior_roofs_07_7
+  - first:
+      213: 8234555848849378576
+    second: walls_exterior_roofs_07_8
+  - first:
+      213: 1776638434844044990
+    second: walls_exterior_roofs_07_9
+  - first:
+      213: -3268226192774913653
+    second: walls_exterior_roofs_07_10
+  - first:
+      213: -1590754492031931287
+    second: walls_exterior_roofs_07_11
+  - first:
+      213: -4841025903394460362
+    second: walls_exterior_roofs_07_12
+  - first:
+      213: 5523104683785671472
+    second: walls_exterior_roofs_07_13
+  - first:
+      213: -8637450535019144932
+    second: walls_exterior_roofs_07_14
+  - first:
+      213: 1913947041548051152
+    second: walls_exterior_roofs_07_15
+  - first:
+      213: 8026339358107814460
+    second: walls_exterior_roofs_07_16
+  - first:
+      213: 1172290729878853766
+    second: walls_exterior_roofs_07_17
+  - first:
+      213: -8875951499917602970
+    second: walls_exterior_roofs_07_18
+  - first:
+      213: -3155261780666825515
+    second: walls_exterior_roofs_07_19
+  - first:
+      213: -945455447927488071
+    second: walls_exterior_roofs_07_20
+  - first:
+      213: -8170988620337471636
+    second: walls_exterior_roofs_07_21
+  - first:
+      213: 1173660663953324108
+    second: walls_exterior_roofs_07_22
+  - first:
+      213: 4708747272243260228
+    second: walls_exterior_roofs_07_23
+  - first:
+      213: -5563820577789090377
+    second: walls_exterior_roofs_07_24
+  - first:
+      213: 1708768719106216655
+    second: walls_exterior_roofs_07_25
+  - first:
+      213: 3750860218002681408
+    second: walls_exterior_roofs_07_26
+  - first:
+      213: 2495295189387933964
+    second: walls_exterior_roofs_07_27
+  - first:
+      213: 4515508564138071280
+    second: walls_exterior_roofs_07_28
+  - first:
+      213: -296440832824483959
+    second: walls_exterior_roofs_07_29
+  - first:
+      213: 7618785545190713389
+    second: walls_exterior_roofs_07_30
+  - first:
+      213: -1755918343303776608
+    second: walls_exterior_roofs_07_31
+  - first:
+      213: -331412102390987068
+    second: walls_exterior_roofs_07_32
+  - first:
+      213: -1366319876417564235
+    second: walls_exterior_roofs_07_33
+  - first:
+      213: 6847205388771970669
+    second: walls_exterior_roofs_07_34
+  - first:
+      213: -4293973132485426822
+    second: walls_exterior_roofs_07_35
+  - first:
+      213: 295406770926835972
+    second: walls_exterior_roofs_07_36
+  - first:
+      213: 2762910332979328274
+    second: walls_exterior_roofs_07_37
+  - first:
+      213: -460407009612275587
+    second: walls_exterior_roofs_07_38
+  - first:
+      213: -5862349114236173918
+    second: walls_exterior_roofs_07_39
+  - first:
+      213: -7484318565957186785
+    second: walls_exterior_roofs_07_40
+  - first:
+      213: -1699998274321904325
+    second: walls_exterior_roofs_07_41
+  - first:
+      213: -5176242050994456784
+    second: walls_exterior_roofs_07_42
+  - first:
+      213: -4202317088140020112
+    second: walls_exterior_roofs_07_43
+  - first:
+      213: 3525760611312921163
+    second: walls_exterior_roofs_07_44
+  - first:
+      213: -7635989601952552728
+    second: walls_exterior_roofs_07_45
+  - first:
+      213: 4850692444046750346
+    second: walls_exterior_roofs_07_46
+  - first:
+      213: 3614602332689307609
+    second: walls_exterior_roofs_07_47
+  - first:
+      213: -4296763320022347071
+    second: walls_exterior_roofs_07_48
+  - first:
+      213: 4182988774690978835
+    second: walls_exterior_roofs_07_49
+  - first:
+      213: 9135229480689247233
+    second: walls_exterior_roofs_07_50
+  - first:
+      213: -7170965329729858592
+    second: walls_exterior_roofs_07_51
+  - first:
+      213: 8472047419455381661
+    second: walls_exterior_roofs_07_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: walls_exterior_roofs_07_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2333
+        width: 67
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbb6093ca18b3e0e0800000000000000
+      internalID: -2241745764410692676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_exterior_roofs_07_1
+      rect:
+        serializedVersion: 2
+        x: 64
+        y: 2320
+        width: 33
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecad1311173714280800000000000000
+      internalID: -9060834045835748658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_exterior_roofs_07_2
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 2333
+        width: 70
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d83602af9dc2b2e0800000000000000
+      internalID: -2111399189781530413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_exterior_roofs_07_3
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 2333
+        width: 71
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9880e83df6b826640800000000000000
+      internalID: 5071769442779531401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_exterior_roofs_07_4
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 2333
+        width: 71
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa0ade1384db9b600800000000000000
+      internalID: 484626552691990698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_exterior_roofs_07_5
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 2333
+        width: 70
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62024170e1b19df10800000000000000
+      internalID: 2294895300903706662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_exterior_roofs_07_6
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 2333
+        width: 69
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64f68ca102da57430800000000000000
+      internalID: 3780117815647301446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_exterior_roofs_07_7
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 2333
+        width: 70
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42bebf5865094fe00800000000000000
+      internalID: 1077644912137857828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_exterior_roofs_07_8
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 2303
+        width: 69
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01d48cd7ae4074270800000000000000
+      internalID: 8234555848849378576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_exterior_roofs_07_9
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 2077
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebe6f235e33e7a810800000000000000
+      internalID: 1776638434844044990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_exterior_roofs_07_10
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 2077
+        width: 66
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b81260ee79de4a2d0800000000000000
+      internalID: -3268226192774913653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_exterior_roofs_07_11
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 2077
+        width: 66
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96c6499b7318ce9e0800000000000000
+      internalID: -1590754492031931287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_exterior_roofs_07_12
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 2077
+        width: 66
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63d65b7f69831dcb0800000000000000
+      internalID: -4841025903394460362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_exterior_roofs_07_13
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 2077
+        width: 66
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 033575e727206ac40800000000000000
+      internalID: 5523104683785671472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_exterior_roofs_07_14
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 2077
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c191d27608c912880800000000000000
+      internalID: -8637450535019144932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_exterior_roofs_07_15
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 2077
+        width: 69
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2a16a91b4bf8a10800000000000000
+      internalID: 1913947041548051152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_exterior_roofs_07_16
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 2047
+        width: 68
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3ac0ceee19436f60800000000000000
+      internalID: 8026339358107814460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_exterior_roofs_07_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1821
+        width: 67
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68899ef2530d44010800000000000000
+      internalID: 1172290729878853766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_exterior_roofs_07_18
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1821
+        width: 117
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66fc0db332942d480800000000000000
+      internalID: -8875951499917602970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_exterior_roofs_07_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1565
+        width: 67
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d4ccf5b0224634d0800000000000000
+      internalID: -3155261780666825515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_exterior_roofs_07_20
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1565
+        width: 70
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b10353874111e2f0800000000000000
+      internalID: -945455447927488071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_exterior_roofs_07_21
+      rect:
+        serializedVersion: 2
+        x: 252
+        y: 1565
+        width: 71
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6f960d3421da9e80800000000000000
+      internalID: -8170988620337471636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_exterior_roofs_07_22
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1565
+        width: 71
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4879c1d72ea94010800000000000000
+      internalID: 1173660663953324108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_exterior_roofs_07_23
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1565
+        width: 70
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b262332b4d85140800000000000000
+      internalID: 4708747272243260228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_exterior_roofs_07_24
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1565
+        width: 69
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b56fd2b9a659c2b0800000000000000
+      internalID: -5563820577789090377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_exterior_roofs_07_25
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1565
+        width: 70
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc210a9b814c6b710800000000000000
+      internalID: 1708768719106216655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_exterior_roofs_07_26
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1535
+        width: 69
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04ea130de7bbd0430800000000000000
+      internalID: 3750860218002681408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_exterior_roofs_07_27
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 1309
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c09753d01c111a220800000000000000
+      internalID: 2495295189387933964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_exterior_roofs_07_28
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1309
+        width: 66
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f41fa96d1f4aae30800000000000000
+      internalID: 4515508564138071280
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_exterior_roofs_07_29
+      rect:
+        serializedVersion: 2
+        x: 257
+        y: 1309
+        width: 66
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f539612a4d2ebf0800000000000000
+      internalID: -296440832824483959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_exterior_roofs_07_30
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1309
+        width: 66
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2829f8561d5bb960800000000000000
+      internalID: 7618785545190713389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_exterior_roofs_07_31
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1309
+        width: 66
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a639cce199b1a7e0800000000000000
+      internalID: -1755918343303776608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_exterior_roofs_07_32
+      rect:
+        serializedVersion: 2
+        x: 699
+        y: 1309
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c648b2e276966bf0800000000000000
+      internalID: -331412102390987068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_exterior_roofs_07_33
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 1309
+        width: 69
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1539cbf4bd90de0800000000000000
+      internalID: -1366319876417564235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_exterior_roofs_07_34
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1279
+        width: 68
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ec4e5e509260f50800000000000000
+      internalID: 6847205388771970669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_exterior_roofs_07_35
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1053
+        width: 67
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71822bbf2eb864c0800000000000000
+      internalID: -4293973132485426822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_exterior_roofs_07_36
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1053
+        width: 117
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409d65d94ee791400800000000000000
+      internalID: 295406770926835972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_exterior_roofs_07_37
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 797
+        width: 66
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2153d7f2f44d75620800000000000000
+      internalID: 2762910332979328274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_exterior_roofs_07_38
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 797
+        width: 66
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70e5fb934e4c99f0800000000000000
+      internalID: -460407009612275587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_exterior_roofs_07_39
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 797
+        width: 66
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a180a86a80c4aea0800000000000000
+      internalID: -5862349114236173918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_exterior_roofs_07_40
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 797
+        width: 66
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1bc24afaeb522890800000000000000
+      internalID: -7484318565957186785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_exterior_roofs_07_41
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 797
+        width: 66
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3d044493946868e0800000000000000
+      internalID: -1699998274321904325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_exterior_roofs_07_42
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 797
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 037390f874b4a28b0800000000000000
+      internalID: -5176242050994456784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_exterior_roofs_07_43
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 797
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0763cd78fde5ea5c0800000000000000
+      internalID: -4202317088140020112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_exterior_roofs_07_44
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 797
+        width: 66
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4aee5088940ee030800000000000000
+      internalID: 3525760611312921163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_exterior_roofs_07_45
+      rect:
+        serializedVersion: 2
+        x: 1
+        y: 29
+        width: 66
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e8aa0b0ae3870690800000000000000
+      internalID: -7635989601952552728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_exterior_roofs_07_46
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 29
+        width: 66
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a82f31ae31f115340800000000000000
+      internalID: 4850692444046750346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_exterior_roofs_07_47
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 29
+        width: 66
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d79e3caba5a92230800000000000000
+      internalID: 3614602332689307609
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_exterior_roofs_07_48
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 29
+        width: 66
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2d3229684de54c0800000000000000
+      internalID: -4296763320022347071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_exterior_roofs_07_49
+      rect:
+        serializedVersion: 2
+        x: 513
+        y: 29
+        width: 66
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31cf6eec026fc0a30800000000000000
+      internalID: 4182988774690978835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_exterior_roofs_07_50
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 29
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 104a82aefcad6ce70800000000000000
+      internalID: 9135229480689247233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_exterior_roofs_07_51
+      rect:
+        serializedVersion: 2
+        x: 829
+        y: 29
+        width: 64
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e35fc8a60d9b7c90800000000000000
+      internalID: -7170965329729858592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: walls_exterior_roofs_07_52
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 29
+        width: 66
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9027ecbd32c29570800000000000000
+      internalID: 8472047419455381661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      walls_exterior_roofs_07_0: -2241745764410692676
+      walls_exterior_roofs_07_1: -9060834045835748658
+      walls_exterior_roofs_07_10: -3268226192774913653
+      walls_exterior_roofs_07_11: -1590754492031931287
+      walls_exterior_roofs_07_12: -4841025903394460362
+      walls_exterior_roofs_07_13: 5523104683785671472
+      walls_exterior_roofs_07_14: -8637450535019144932
+      walls_exterior_roofs_07_15: 1913947041548051152
+      walls_exterior_roofs_07_16: 8026339358107814460
+      walls_exterior_roofs_07_17: 1172290729878853766
+      walls_exterior_roofs_07_18: -8875951499917602970
+      walls_exterior_roofs_07_19: -3155261780666825515
+      walls_exterior_roofs_07_2: -2111399189781530413
+      walls_exterior_roofs_07_20: -945455447927488071
+      walls_exterior_roofs_07_21: -8170988620337471636
+      walls_exterior_roofs_07_22: 1173660663953324108
+      walls_exterior_roofs_07_23: 4708747272243260228
+      walls_exterior_roofs_07_24: -5563820577789090377
+      walls_exterior_roofs_07_25: 1708768719106216655
+      walls_exterior_roofs_07_26: 3750860218002681408
+      walls_exterior_roofs_07_27: 2495295189387933964
+      walls_exterior_roofs_07_28: 4515508564138071280
+      walls_exterior_roofs_07_29: -296440832824483959
+      walls_exterior_roofs_07_3: 5071769442779531401
+      walls_exterior_roofs_07_30: 7618785545190713389
+      walls_exterior_roofs_07_31: -1755918343303776608
+      walls_exterior_roofs_07_32: -331412102390987068
+      walls_exterior_roofs_07_33: -1366319876417564235
+      walls_exterior_roofs_07_34: 6847205388771970669
+      walls_exterior_roofs_07_35: -4293973132485426822
+      walls_exterior_roofs_07_36: 295406770926835972
+      walls_exterior_roofs_07_37: 2762910332979328274
+      walls_exterior_roofs_07_38: -460407009612275587
+      walls_exterior_roofs_07_39: -5862349114236173918
+      walls_exterior_roofs_07_4: 484626552691990698
+      walls_exterior_roofs_07_40: -7484318565957186785
+      walls_exterior_roofs_07_41: -1699998274321904325
+      walls_exterior_roofs_07_42: -5176242050994456784
+      walls_exterior_roofs_07_43: -4202317088140020112
+      walls_exterior_roofs_07_44: 3525760611312921163
+      walls_exterior_roofs_07_45: -7635989601952552728
+      walls_exterior_roofs_07_46: 4850692444046750346
+      walls_exterior_roofs_07_47: 3614602332689307609
+      walls_exterior_roofs_07_48: -4296763320022347071
+      walls_exterior_roofs_07_49: 4182988774690978835
+      walls_exterior_roofs_07_5: 2294895300903706662
+      walls_exterior_roofs_07_50: 9135229480689247233
+      walls_exterior_roofs_07_51: -7170965329729858592
+      walls_exterior_roofs_07_52: 8472047419455381661
+      walls_exterior_roofs_07_6: 3780117815647301446
+      walls_exterior_roofs_07_7: 1077644912137857828
+      walls_exterior_roofs_07_8: 8234555848849378576
+      walls_exterior_roofs_07_9: 1776638434844044990
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

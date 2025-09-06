@@ -1,0 +1,793 @@
+fileFormatVersion: 2
+guid: 900f26c303432c540b7672b9439b67ce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7825201111035371843
+    second: floors_exterior_street_01_0
+  - first:
+      213: 4599801834813423579
+    second: floors_exterior_street_01_1
+  - first:
+      213: -4933959675866094897
+    second: floors_exterior_street_01_2
+  - first:
+      213: -7400828258138067931
+    second: floors_exterior_street_01_3
+  - first:
+      213: -1533952993660447029
+    second: floors_exterior_street_01_4
+  - first:
+      213: -787688180631250384
+    second: floors_exterior_street_01_5
+  - first:
+      213: 6796472594585620071
+    second: floors_exterior_street_01_6
+  - first:
+      213: 3994766476267192608
+    second: floors_exterior_street_01_7
+  - first:
+      213: 4864409005761180354
+    second: floors_exterior_street_01_8
+  - first:
+      213: -2418995561202897855
+    second: floors_exterior_street_01_9
+  - first:
+      213: 8132983871620671227
+    second: floors_exterior_street_01_10
+  - first:
+      213: 4608864517639559625
+    second: floors_exterior_street_01_11
+  - first:
+      213: -6698356963311093454
+    second: floors_exterior_street_01_12
+  - first:
+      213: 3513649726163827167
+    second: floors_exterior_street_01_13
+  - first:
+      213: 4857943245546241531
+    second: floors_exterior_street_01_14
+  - first:
+      213: 3636159363706173340
+    second: floors_exterior_street_01_15
+  - first:
+      213: 5666874361623782755
+    second: floors_exterior_street_01_16
+  - first:
+      213: -8967116054438321829
+    second: floors_exterior_street_01_17
+  - first:
+      213: 5319947016205860329
+    second: floors_exterior_street_01_18
+  - first:
+      213: 7051388667738613491
+    second: floors_exterior_street_01_19
+  - first:
+      213: -4837933676434217901
+    second: floors_exterior_street_01_20
+  - first:
+      213: -4901429274705342638
+    second: floors_exterior_street_01_21
+  - first:
+      213: -3149899799678782827
+    second: floors_exterior_street_01_22
+  - first:
+      213: -234845846662933773
+    second: floors_exterior_street_01_23
+  - first:
+      213: 7673196423874508596
+    second: floors_exterior_street_01_24
+  - first:
+      213: -2001310341392036837
+    second: floors_exterior_street_01_25
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: floors_exterior_street_01_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1791
+        width: 127
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbe9eb89c0d476390800000000000000
+      internalID: -7825201111035371843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors_exterior_street_01_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1791
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdf7e31e567c5df30800000000000000
+      internalID: 4599801834813423579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors_exterior_street_01_2
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1791
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc266e7e0dd078bb0800000000000000
+      internalID: -4933959675866094897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors_exterior_street_01_3
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1791
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52ce10619e9fa4990800000000000000
+      internalID: -7400828258138067931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors_exterior_street_01_4
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1791
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc6d8b621ed46bae0800000000000000
+      internalID: -1533952993660447029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors_exterior_street_01_5
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1791
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03a53b7e5c19115f0800000000000000
+      internalID: -787688180631250384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors_exterior_street_01_6
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1791
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76e04f5c0dbe15e50800000000000000
+      internalID: 6796472594585620071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors_exterior_street_01_7
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1791
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0218b8ae1f2407730800000000000000
+      internalID: 3994766476267192608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors_exterior_street_01_8
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1535
+        width: 127
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c23b9ec73ad18340800000000000000
+      internalID: 4864409005761180354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors_exterior_street_01_9
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1535
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 14c214d7a500e6ed0800000000000000
+      internalID: -2418995561202897855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors_exterior_street_01_10
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1535
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf66ee7adb92ed070800000000000000
+      internalID: 8132983871620671227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors_exterior_street_01_11
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1535
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c9dec72cd9f5ff30800000000000000
+      internalID: 4608864517639559625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors_exterior_street_01_12
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1535
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 239f31fc4d7aa03a0800000000000000
+      internalID: -6698356963311093454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors_exterior_street_01_13
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1535
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd9b4215fcdf2c030800000000000000
+      internalID: 3513649726163827167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors_exterior_street_01_14
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 1535
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfdbac1b4a1ea6340800000000000000
+      internalID: 4857943245546241531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors_exterior_street_01_15
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1279
+        width: 127
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c97ba641dab367230800000000000000
+      internalID: 3636159363706173340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors_exterior_street_01_16
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1279
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 365aa5f1538c4ae40800000000000000
+      internalID: 5666874361623782755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors_exterior_street_01_17
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1279
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51608355776e8380800000000000000
+      internalID: -8967116054438321829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors_exterior_street_01_18
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1307
+        width: 128
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ed79dcff9f34d940800000000000000
+      internalID: 5319947016205860329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors_exterior_street_01_19
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1279
+        width: 128
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f666c922a09bd160800000000000000
+      internalID: 7051388667738613491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors_exterior_street_01_20
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 1279
+        width: 73
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3542d3924f43cdcb0800000000000000
+      internalID: -4837933676434217901
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors_exterior_street_01_21
+      rect:
+        serializedVersion: 2
+        x: 822
+        y: 1279
+        width: 73
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25fcc752b00aafbb0800000000000000
+      internalID: -4901429274705342638
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors_exterior_street_01_22
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 768
+        width: 129
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 592721232de4944d0800000000000000
+      internalID: -3149899799678782827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors_exterior_street_01_23
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 832
+        width: 129
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f21eac52f8adbcf0800000000000000
+      internalID: -234845846662933773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors_exterior_street_01_24
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 896
+        width: 130
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43776d04e7bac7a60800000000000000
+      internalID: 7673196423874508596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: floors_exterior_street_01_25
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 510
+        width: 386
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1c030019dae934e0800000000000000
+      internalID: -2001310341392036837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      floors_exterior_street_01_0: -7825201111035371843
+      floors_exterior_street_01_1: 4599801834813423579
+      floors_exterior_street_01_10: 8132983871620671227
+      floors_exterior_street_01_11: 4608864517639559625
+      floors_exterior_street_01_12: -6698356963311093454
+      floors_exterior_street_01_13: 3513649726163827167
+      floors_exterior_street_01_14: 4857943245546241531
+      floors_exterior_street_01_15: 3636159363706173340
+      floors_exterior_street_01_16: 5666874361623782755
+      floors_exterior_street_01_17: -8967116054438321829
+      floors_exterior_street_01_18: 5319947016205860329
+      floors_exterior_street_01_19: 7051388667738613491
+      floors_exterior_street_01_2: -4933959675866094897
+      floors_exterior_street_01_20: -4837933676434217901
+      floors_exterior_street_01_21: -4901429274705342638
+      floors_exterior_street_01_22: -3149899799678782827
+      floors_exterior_street_01_23: -234845846662933773
+      floors_exterior_street_01_24: 7673196423874508596
+      floors_exterior_street_01_25: -2001310341392036837
+      floors_exterior_street_01_3: -7400828258138067931
+      floors_exterior_street_01_4: -1533952993660447029
+      floors_exterior_street_01_5: -787688180631250384
+      floors_exterior_street_01_6: 6796472594585620071
+      floors_exterior_street_01_7: 3994766476267192608
+      floors_exterior_street_01_8: 4864409005761180354
+      floors_exterior_street_01_9: -2418995561202897855
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

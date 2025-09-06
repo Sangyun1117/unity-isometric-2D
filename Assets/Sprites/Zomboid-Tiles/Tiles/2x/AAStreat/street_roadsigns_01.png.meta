@@ -1,0 +1,1053 @@
+fileFormatVersion: 2
+guid: 3f198693074826d4ab782a4102c68ece
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8963405970201338039
+    second: street_roadsigns_01_0
+  - first:
+      213: -9180695437963688811
+    second: street_roadsigns_01_1
+  - first:
+      213: -5888541550249574570
+    second: street_roadsigns_01_2
+  - first:
+      213: 9104002472200039463
+    second: street_roadsigns_01_3
+  - first:
+      213: -8782435020553757393
+    second: street_roadsigns_01_4
+  - first:
+      213: -1134060473073956929
+    second: street_roadsigns_01_5
+  - first:
+      213: -6754885321836656458
+    second: street_roadsigns_01_6
+  - first:
+      213: -1970801255160703912
+    second: street_roadsigns_01_7
+  - first:
+      213: 7954048101378309311
+    second: street_roadsigns_01_8
+  - first:
+      213: 8756979538016034972
+    second: street_roadsigns_01_9
+  - first:
+      213: 38313737227683005
+    second: street_roadsigns_01_10
+  - first:
+      213: 2208602826953560841
+    second: street_roadsigns_01_11
+  - first:
+      213: 7754625000510451471
+    second: street_roadsigns_01_12
+  - first:
+      213: -1863495533269317947
+    second: street_roadsigns_01_13
+  - first:
+      213: -922658326309201329
+    second: street_roadsigns_01_14
+  - first:
+      213: -8650901646003856195
+    second: street_roadsigns_01_15
+  - first:
+      213: 2475274257998158876
+    second: street_roadsigns_01_16
+  - first:
+      213: -727909956766547800
+    second: street_roadsigns_01_17
+  - first:
+      213: -2396561930924336099
+    second: street_roadsigns_01_18
+  - first:
+      213: -3576558840809843710
+    second: street_roadsigns_01_19
+  - first:
+      213: -2270669685002898048
+    second: street_roadsigns_01_20
+  - first:
+      213: -11347214193623915
+    second: street_roadsigns_01_21
+  - first:
+      213: 8409529426437082416
+    second: street_roadsigns_01_22
+  - first:
+      213: -9088793564341788115
+    second: street_roadsigns_01_23
+  - first:
+      213: 4032979224309241487
+    second: street_roadsigns_01_24
+  - first:
+      213: 4591082599930448236
+    second: street_roadsigns_01_25
+  - first:
+      213: 5629520241850198863
+    second: street_roadsigns_01_26
+  - first:
+      213: -8099230801920067097
+    second: street_roadsigns_01_27
+  - first:
+      213: -4072293322619469230
+    second: street_roadsigns_01_28
+  - first:
+      213: -2824984053069592882
+    second: street_roadsigns_01_29
+  - first:
+      213: 2333611860840946318
+    second: street_roadsigns_01_30
+  - first:
+      213: 2799915558895919853
+    second: street_roadsigns_01_31
+  - first:
+      213: 6508603973063575595
+    second: street_roadsigns_01_32
+  - first:
+      213: 7778386939808970700
+    second: street_roadsigns_01_33
+  - first:
+      213: -2034298707059068840
+    second: street_roadsigns_01_34
+  - first:
+      213: 7503966351028205647
+    second: street_roadsigns_01_35
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: street_roadsigns_01_0
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 2322
+        width: 73
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b0677f5d3a646c70800000000000000
+      internalID: 8963405970201338039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_roadsigns_01_1
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2334
+        width: 64
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 594002df32e979080800000000000000
+      internalID: -9180695437963688811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_roadsigns_01_2
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 2334
+        width: 66
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ffe3ca8a2b74ea0800000000000000
+      internalID: -5888541550249574570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_roadsigns_01_3
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 2322
+        width: 71
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ce2cd630ae75e70800000000000000
+      internalID: 9104002472200039463
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_roadsigns_01_4
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 2334
+        width: 72
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2d51f051e58e1680800000000000000
+      internalID: -8782435020553757393
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_roadsigns_01_5
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 2334
+        width: 72
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb78d9c12020340f0800000000000000
+      internalID: -1134060473073956929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_roadsigns_01_6
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 2078
+        width: 72
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b80d65b693d142a0800000000000000
+      internalID: -6754885321836656458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_roadsigns_01_7
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 2075
+        width: 73
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854904f33be46a4e0800000000000000
+      internalID: -1970801255160703912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_roadsigns_01_8
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 2077
+        width: 72
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbc36091b94726e60800000000000000
+      internalID: 7954048101378309311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_roadsigns_01_9
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 2077
+        width: 72
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c906fcc4e7a078970800000000000000
+      internalID: 8756979538016034972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_roadsigns_01_10
+      rect:
+        serializedVersion: 2
+        x: 526
+        y: 2051
+        width: 85
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db44979142e188000800000000000000
+      internalID: 38313737227683005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_roadsigns_01_11
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1824
+        width: 72
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9039d76c19886ae10800000000000000
+      internalID: 2208602826953560841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_roadsigns_01_12
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1823
+        width: 71
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0fe9c92a56fd9b60800000000000000
+      internalID: 7754625000510451471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_roadsigns_01_13
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1819
+        width: 71
+        height: 181
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c684fa8fa88326e0800000000000000
+      internalID: -1863495533269317947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_roadsigns_01_14
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1819
+        width: 71
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4a9843042f0233f0800000000000000
+      internalID: -922658326309201329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_roadsigns_01_15
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1823
+        width: 114
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbc191399c2d1f780800000000000000
+      internalID: -8650901646003856195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_roadsigns_01_16
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1299
+        width: 71
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1c16a5b2d0f95220800000000000000
+      internalID: 2475274257998158876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_roadsigns_01_17
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 1311
+        width: 65
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0c57e30c1f5e5f0800000000000000
+      internalID: -727909956766547800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_roadsigns_01_18
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 1303
+        width: 70
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1cd7011f93bdbed0800000000000000
+      internalID: -2396561930924336099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_roadsigns_01_19
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1315
+        width: 66
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2041f370fa28d5ec0800000000000000
+      internalID: -3576558840809843710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_roadsigns_01_20
+      rect:
+        serializedVersion: 2
+        x: 541
+        y: 1313
+        width: 67
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0857727b3f5fc70e0800000000000000
+      internalID: -2270669685002898048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_roadsigns_01_21
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1301
+        width: 69
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c7cc0d4cfa7dff0800000000000000
+      internalID: -11347214193623915
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_roadsigns_01_22
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1314
+        width: 68
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03d0afe2576a4b470800000000000000
+      internalID: 8409529426437082416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_roadsigns_01_23
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1302
+        width: 68
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d222d80686e1ed180800000000000000
+      internalID: -9088793564341788115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_roadsigns_01_24
+      rect:
+        serializedVersion: 2
+        x: 36
+        y: 1059
+        width: 65
+        height: 208
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f869b73ac3508f730800000000000000
+      internalID: 4032979224309241487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_roadsigns_01_25
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 1047
+        width: 71
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c69c45fcc4dc6bf30800000000000000
+      internalID: 4591082599930448236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_roadsigns_01_26
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1045
+        width: 75
+        height: 225
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4b2a5f55d2102e40800000000000000
+      internalID: 5629520241850198863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_roadsigns_01_27
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 1057
+        width: 61
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9f6a94f70c99f80800000000000000
+      internalID: -8099230801920067097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_roadsigns_01_28
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 1044
+        width: 69
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252421c8cce4c77c0800000000000000
+      internalID: -4072293322619469230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_roadsigns_01_29
+      rect:
+        serializedVersion: 2
+        x: 670
+        y: 1056
+        width: 67
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec6c4ac98f3abc8d0800000000000000
+      internalID: -2824984053069592882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_roadsigns_01_30
+      rect:
+        serializedVersion: 2
+        x: 793
+        y: 1046
+        width: 70
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a10199f97a26020800000000000000
+      internalID: 2333611860840946318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_roadsigns_01_31
+      rect:
+        serializedVersion: 2
+        x: 925
+        y: 1058
+        width: 66
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de2a411cd5c4bd620800000000000000
+      internalID: 2799915558895919853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_roadsigns_01_32
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 788
+        width: 73
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b28862654d4335a50800000000000000
+      internalID: 6508603973063575595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_roadsigns_01_33
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 800
+        width: 63
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc7f9d8c5b162fb60800000000000000
+      internalID: 7778386939808970700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_roadsigns_01_34
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 788
+        width: 71
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85035b6aa18b4c3e0800000000000000
+      internalID: -2034298707059068840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: street_roadsigns_01_35
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 800
+        width: 65
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48358773a1732860800000000000000
+      internalID: 7503966351028205647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      street_roadsigns_01_0: 8963405970201338039
+      street_roadsigns_01_1: -9180695437963688811
+      street_roadsigns_01_10: 38313737227683005
+      street_roadsigns_01_11: 2208602826953560841
+      street_roadsigns_01_12: 7754625000510451471
+      street_roadsigns_01_13: -1863495533269317947
+      street_roadsigns_01_14: -922658326309201329
+      street_roadsigns_01_15: -8650901646003856195
+      street_roadsigns_01_16: 2475274257998158876
+      street_roadsigns_01_17: -727909956766547800
+      street_roadsigns_01_18: -2396561930924336099
+      street_roadsigns_01_19: -3576558840809843710
+      street_roadsigns_01_2: -5888541550249574570
+      street_roadsigns_01_20: -2270669685002898048
+      street_roadsigns_01_21: -11347214193623915
+      street_roadsigns_01_22: 8409529426437082416
+      street_roadsigns_01_23: -9088793564341788115
+      street_roadsigns_01_24: 4032979224309241487
+      street_roadsigns_01_25: 4591082599930448236
+      street_roadsigns_01_26: 5629520241850198863
+      street_roadsigns_01_27: -8099230801920067097
+      street_roadsigns_01_28: -4072293322619469230
+      street_roadsigns_01_29: -2824984053069592882
+      street_roadsigns_01_3: 9104002472200039463
+      street_roadsigns_01_30: 2333611860840946318
+      street_roadsigns_01_31: 2799915558895919853
+      street_roadsigns_01_32: 6508603973063575595
+      street_roadsigns_01_33: 7778386939808970700
+      street_roadsigns_01_34: -2034298707059068840
+      street_roadsigns_01_35: 7503966351028205647
+      street_roadsigns_01_4: -8782435020553757393
+      street_roadsigns_01_5: -1134060473073956929
+      street_roadsigns_01_6: -6754885321836656458
+      street_roadsigns_01_7: -1970801255160703912
+      street_roadsigns_01_8: 7954048101378309311
+      street_roadsigns_01_9: 8756979538016034972
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

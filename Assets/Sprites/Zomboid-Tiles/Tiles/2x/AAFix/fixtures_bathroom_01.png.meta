@@ -1,0 +1,2483 @@
+fileFormatVersion: 2
+guid: b867a4899ad2b2b4e955b21916c1d78a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5076625794531621101
+    second: fixtures_bathroom_01_0
+  - first:
+      213: 2407824566569991675
+    second: fixtures_bathroom_01_1
+  - first:
+      213: 514444077574554266
+    second: fixtures_bathroom_01_2
+  - first:
+      213: -1803790719891900498
+    second: fixtures_bathroom_01_3
+  - first:
+      213: -9081187953185922189
+    second: fixtures_bathroom_01_4
+  - first:
+      213: 8153908582966747037
+    second: fixtures_bathroom_01_5
+  - first:
+      213: -1904585867374256478
+    second: fixtures_bathroom_01_6
+  - first:
+      213: 8895748071893598399
+    second: fixtures_bathroom_01_7
+  - first:
+      213: -350909788981384182
+    second: fixtures_bathroom_01_8
+  - first:
+      213: 2504624862623168762
+    second: fixtures_bathroom_01_9
+  - first:
+      213: 1588736688638092379
+    second: fixtures_bathroom_01_10
+  - first:
+      213: 2459989668556868218
+    second: fixtures_bathroom_01_11
+  - first:
+      213: 4363262162223287403
+    second: fixtures_bathroom_01_12
+  - first:
+      213: -5831653576068346389
+    second: fixtures_bathroom_01_13
+  - first:
+      213: -8975181327056743750
+    second: fixtures_bathroom_01_14
+  - first:
+      213: 155254317738901446
+    second: fixtures_bathroom_01_15
+  - first:
+      213: 6809108046231358100
+    second: fixtures_bathroom_01_16
+  - first:
+      213: 4524601991447379373
+    second: fixtures_bathroom_01_17
+  - first:
+      213: 1489797911912301089
+    second: fixtures_bathroom_01_18
+  - first:
+      213: -7543852773931951944
+    second: fixtures_bathroom_01_19
+  - first:
+      213: 7489571119082260008
+    second: fixtures_bathroom_01_20
+  - first:
+      213: 2204881081128342942
+    second: fixtures_bathroom_01_21
+  - first:
+      213: 2707181691440722517
+    second: fixtures_bathroom_01_22
+  - first:
+      213: -2353207317201770782
+    second: fixtures_bathroom_01_23
+  - first:
+      213: 4451955919321333912
+    second: fixtures_bathroom_01_24
+  - first:
+      213: -1867570406359134398
+    second: fixtures_bathroom_01_25
+  - first:
+      213: 8490678303083945154
+    second: fixtures_bathroom_01_26
+  - first:
+      213: 8590845294316156234
+    second: fixtures_bathroom_01_27
+  - first:
+      213: -4804008774431432588
+    second: fixtures_bathroom_01_28
+  - first:
+      213: -2696872482788281697
+    second: fixtures_bathroom_01_29
+  - first:
+      213: -137003052922178446
+    second: fixtures_bathroom_01_30
+  - first:
+      213: -4728158579540527783
+    second: fixtures_bathroom_01_31
+  - first:
+      213: 5129660163430746613
+    second: fixtures_bathroom_01_32
+  - first:
+      213: -92872501040648545
+    second: fixtures_bathroom_01_33
+  - first:
+      213: 3533857274456671777
+    second: fixtures_bathroom_01_34
+  - first:
+      213: 3840669835613370834
+    second: fixtures_bathroom_01_35
+  - first:
+      213: 2762262165637924954
+    second: fixtures_bathroom_01_36
+  - first:
+      213: -103469861251877456
+    second: fixtures_bathroom_01_37
+  - first:
+      213: -5018449750018374934
+    second: fixtures_bathroom_01_38
+  - first:
+      213: 8084363310492320338
+    second: fixtures_bathroom_01_39
+  - first:
+      213: -9062739332694220868
+    second: fixtures_bathroom_01_40
+  - first:
+      213: -5515190785684855678
+    second: fixtures_bathroom_01_41
+  - first:
+      213: 3035708641554605003
+    second: fixtures_bathroom_01_42
+  - first:
+      213: -689588672590645104
+    second: fixtures_bathroom_01_43
+  - first:
+      213: 6236187001921079121
+    second: fixtures_bathroom_01_44
+  - first:
+      213: -7270917542720359535
+    second: fixtures_bathroom_01_45
+  - first:
+      213: 8461971783672384213
+    second: fixtures_bathroom_01_46
+  - first:
+      213: -422530719221597337
+    second: fixtures_bathroom_01_47
+  - first:
+      213: 1064087198154962336
+    second: fixtures_bathroom_01_48
+  - first:
+      213: 2769482172470672535
+    second: fixtures_bathroom_01_49
+  - first:
+      213: -4892785580308454865
+    second: fixtures_bathroom_01_50
+  - first:
+      213: 820536880786801322
+    second: fixtures_bathroom_01_51
+  - first:
+      213: -6490055961846879924
+    second: fixtures_bathroom_01_52
+  - first:
+      213: -2683463057473357710
+    second: fixtures_bathroom_01_53
+  - first:
+      213: 3618763580758277974
+    second: fixtures_bathroom_01_54
+  - first:
+      213: 168092020137386115
+    second: fixtures_bathroom_01_55
+  - first:
+      213: 3753030616285204850
+    second: fixtures_bathroom_01_56
+  - first:
+      213: 3258308848192565958
+    second: fixtures_bathroom_01_57
+  - first:
+      213: -4860310401736426164
+    second: fixtures_bathroom_01_58
+  - first:
+      213: -8336125682376090174
+    second: fixtures_bathroom_01_59
+  - first:
+      213: 4679441930400571631
+    second: fixtures_bathroom_01_60
+  - first:
+      213: -2865438306457058641
+    second: fixtures_bathroom_01_61
+  - first:
+      213: 407777834389905375
+    second: fixtures_bathroom_01_62
+  - first:
+      213: -4954596356698933532
+    second: fixtures_bathroom_01_63
+  - first:
+      213: 4728881049865146061
+    second: fixtures_bathroom_01_64
+  - first:
+      213: 2898924861542147401
+    second: fixtures_bathroom_01_65
+  - first:
+      213: 1995520471075574361
+    second: fixtures_bathroom_01_66
+  - first:
+      213: 2543954871855978643
+    second: fixtures_bathroom_01_67
+  - first:
+      213: -3295438294072057763
+    second: fixtures_bathroom_01_68
+  - first:
+      213: -3126028924241315484
+    second: fixtures_bathroom_01_69
+  - first:
+      213: 7690336652963337214
+    second: fixtures_bathroom_01_70
+  - first:
+      213: 2165542208301712174
+    second: fixtures_bathroom_01_71
+  - first:
+      213: -3306828252358923458
+    second: fixtures_bathroom_01_72
+  - first:
+      213: 7988245273547459645
+    second: fixtures_bathroom_01_73
+  - first:
+      213: -701590275790044762
+    second: fixtures_bathroom_01_74
+  - first:
+      213: -8333333912656682653
+    second: fixtures_bathroom_01_75
+  - first:
+      213: -5051200179258745582
+    second: fixtures_bathroom_01_76
+  - first:
+      213: 9103909366368381420
+    second: fixtures_bathroom_01_77
+  - first:
+      213: 20905841233945309
+    second: fixtures_bathroom_01_78
+  - first:
+      213: -6149361912879851908
+    second: fixtures_bathroom_01_79
+  - first:
+      213: -3721416387024318224
+    second: fixtures_bathroom_01_80
+  - first:
+      213: 6781964884537500435
+    second: fixtures_bathroom_01_81
+  - first:
+      213: -6825749198297106077
+    second: fixtures_bathroom_01_82
+  - first:
+      213: -97626398826320508
+    second: fixtures_bathroom_01_83
+  - first:
+      213: 7749933329943087978
+    second: fixtures_bathroom_01_84
+  - first:
+      213: -1510538702478379646
+    second: fixtures_bathroom_01_85
+  - first:
+      213: -3606883036810192453
+    second: fixtures_bathroom_01_86
+  - first:
+      213: -4513057428682305853
+    second: fixtures_bathroom_01_87
+  - first:
+      213: 8424012781883467315
+    second: fixtures_bathroom_01_88
+  - first:
+      213: 8072541770538582796
+    second: fixtures_bathroom_01_89
+  - first:
+      213: -7197288568777907435
+    second: fixtures_bathroom_01_90
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 2321
+        width: 79
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de874a4534cc37640800000000000000
+      internalID: 5076625794531621101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_1
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 2321
+        width: 97
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfdfcd3afaf4a6120800000000000000
+      internalID: 2407824566569991675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_2
+      rect:
+        serializedVersion: 2
+        x: 288
+        y: 2320
+        width: 84
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9282a4b92ca32700800000000000000
+      internalID: 514444077574554266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_3
+      rect:
+        serializedVersion: 2
+        x: 394
+        y: 2318
+        width: 84
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea772bba5e5a7f6e0800000000000000
+      internalID: -1803790719891900498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_4
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 2321
+        width: 69
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 373ebc7bba329f180800000000000000
+      internalID: -9081187953185922189
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_5
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 2344
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9fddbaa7a0882170800000000000000
+      internalID: 8153908582966747037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_6
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 2344
+        width: 11
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ae9dea9e3d8195e0800000000000000
+      internalID: -1904585867374256478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_7
+      rect:
+        serializedVersion: 2
+        x: 666
+        y: 2322
+        width: 87
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb0859c5dbb047b70800000000000000
+      internalID: 8895748071893598399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_8
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 2319
+        width: 80
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0cae87f761512bf0800000000000000
+      internalID: -350909788981384182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_9
+      rect:
+        serializedVersion: 2
+        x: 919
+        y: 2316
+        width: 73
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af8f340ea0732c220800000000000000
+      internalID: 2504624862623168762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_10
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 2100
+        width: 57
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5467efc9935c0610800000000000000
+      internalID: 1588736688638092379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_11
+      rect:
+        serializedVersion: 2
+        x: 134
+        y: 2098
+        width: 90
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a8679e193a32220800000000000000
+      internalID: 2459989668556868218
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_12
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 2098
+        width: 51
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6cc839a1db6d8c30800000000000000
+      internalID: 4363262162223287403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_13
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 2099
+        width: 50
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bed4f4158fdc11fa0800000000000000
+      internalID: -5831653576068346389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_14
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 2151
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab25016b220c17380800000000000000
+      internalID: -8975181327056743750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_15
+      rect:
+        serializedVersion: 2
+        x: 953
+        y: 2151
+        width: 50
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf3caabaf2972200800000000000000
+      internalID: 155254317738901446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_16
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 1921
+        width: 53
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49acfdc11bfce7e50800000000000000
+      internalID: 6809108046231358100
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_17
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 1923
+        width: 53
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dadfe32f98d9ace30800000000000000
+      internalID: 4524601991447379373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_18
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1964
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 122c6aebe43dca410800000000000000
+      internalID: 1489797911912301089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_19
+      rect:
+        serializedVersion: 2
+        x: 409
+        y: 1963
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b8d0f30fd9de4790800000000000000
+      internalID: -7543852773931951944
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_20
+      rect:
+        serializedVersion: 2
+        x: 596
+        y: 1962
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8264ce8504d40f760800000000000000
+      internalID: 7489571119082260008
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_21
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 1961
+        width: 19
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9552ac49af499e10800000000000000
+      internalID: 2204881081128342942
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_22
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 1955
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 552f3c4b767d19520800000000000000
+      internalID: 2707181691440722517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_23
+      rect:
+        serializedVersion: 2
+        x: 963
+        y: 1955
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e6a65fa96ab75fd0800000000000000
+      internalID: -2353207317201770782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_24
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 1863
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 89088d6325688cd30800000000000000
+      internalID: 4451955919321333912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_25
+      rect:
+        serializedVersion: 2
+        x: 813
+        y: 1849
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24f8ee73c9e0516e0800000000000000
+      internalID: -1867570406359134398
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_26
+      rect:
+        serializedVersion: 2
+        x: 961
+        y: 1849
+        width: 16
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cc5f6d5ee2f4d570800000000000000
+      internalID: 8490678303083945154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_27
+      rect:
+        serializedVersion: 2
+        x: 990
+        y: 1863
+        width: 20
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a45fc086740d83770800000000000000
+      internalID: 8590845294316156234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_28
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 1725
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 470a72ee87bb45db0800000000000000
+      internalID: -4804008774431432588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_29
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1725
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f92f0eaf3c8c29ad0800000000000000
+      internalID: -2696872482788281697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_30
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 1656
+        width: 72
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 274fd610374491ef0800000000000000
+      internalID: -137003052922178446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_31
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 1656
+        width: 72
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95575c0a2d4326eb0800000000000000
+      internalID: -4728158579540527783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_32
+      rect:
+        serializedVersion: 2
+        x: 842
+        y: 1724
+        width: 28
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f903c39db6303740800000000000000
+      internalID: 5129660163430746613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_33
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1725
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9ee11ec3fc06bef0800000000000000
+      internalID: -92872501040648545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_34
+      rect:
+        serializedVersion: 2
+        x: 6
+        y: 1535
+        width: 123
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1268beac778ca0130800000000000000
+      internalID: 3533857274456671777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_35
+      rect:
+        serializedVersion: 2
+        x: 137
+        y: 1535
+        width: 114
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d9fa43eddccc4530800000000000000
+      internalID: 3840669835613370834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_36
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 1537
+        width: 112
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a588957fdc6855620800000000000000
+      internalID: 2762262165637924954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_37
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1539
+        width: 122
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b57f1b95b6609ef0800000000000000
+      internalID: -103469861251877456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_38
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 1634
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae2c10f8a82ea5ab0800000000000000
+      internalID: -5018449750018374934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_39
+      rect:
+        serializedVersion: 2
+        x: 851
+        y: 1621
+        width: 29
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 252881d199d613070800000000000000
+      internalID: 8084363310492320338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_40
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1622
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbfdcc6e79eaa3280800000000000000
+      internalID: -9062739332694220868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_41
+      rect:
+        serializedVersion: 2
+        x: 937
+        y: 1633
+        width: 20
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2842fbe733b1673b0800000000000000
+      internalID: -5515190785684855678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_42
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1469
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc32275fce0012a20800000000000000
+      internalID: 3035708641554605003
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_43
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 1469
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098f91181c61e66f0800000000000000
+      internalID: -689588672590645104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_44
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 1309
+        width: 68
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1570a6a99036b8650800000000000000
+      internalID: 6236187001921079121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_45
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1309
+        width: 68
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1933ff29403881b90800000000000000
+      internalID: -7270917542720359535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_46
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1340
+        width: 8
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dacb29f086fe6570800000000000000
+      internalID: 8461971783672384213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_47
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1411
+        width: 72
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76b3b1eac8ed22af0800000000000000
+      internalID: -422530719221597337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_48
+      rect:
+        serializedVersion: 2
+        x: 814
+        y: 1411
+        width: 72
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a531104ba564ce00800000000000000
+      internalID: 1064087198154962336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_49
+      rect:
+        serializedVersion: 2
+        x: 65
+        y: 1382
+        width: 20
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79c34edcc5d2f6620800000000000000
+      internalID: 2769482172470672535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_50
+      rect:
+        serializedVersion: 2
+        x: 83
+        y: 1367
+        width: 29
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22af831075591cb0800000000000000
+      internalID: -4892785580308454865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_51
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1368
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa2876812f1236b00800000000000000
+      internalID: 820536880786801322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_52
+      rect:
+        serializedVersion: 2
+        x: 168
+        y: 1382
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c49e5bd0d70bee5a0800000000000000
+      internalID: -6490055961846879924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_53
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1279
+        width: 126
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278ba6b119c62cad0800000000000000
+      internalID: -2683463057473357710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_54
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1278
+        width: 126
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65fb73dbd4e683230800000000000000
+      internalID: 3618763580758277974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_55
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1079
+        width: 67
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 380eddd3dce255200800000000000000
+      internalID: 168092020137386115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_56
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 1079
+        width: 75
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27158da0671751430800000000000000
+      internalID: 3753030616285204850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_57
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 1080
+        width: 15
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c2b70952a6d73d20800000000000000
+      internalID: 3258308848192565958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_58
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 1052
+        width: 15
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4d3d5ec075bc8cb0800000000000000
+      internalID: -4860310401736426164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_59
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 1106
+        width: 14
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cd56facbd1205c80800000000000000
+      internalID: -8336125682376090174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_60
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 1079
+        width: 68
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe0289894a7b0f040800000000000000
+      internalID: 4679441930400571631
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_61
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 1079
+        width: 75
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa284d1ca0beb38d0800000000000000
+      internalID: -2865438306457058641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_62
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 1052
+        width: 15
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdf9616a7c7b8a500800000000000000
+      internalID: 407777834389905375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_63
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 1080
+        width: 15
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e6f3893ddcbd3bb0800000000000000
+      internalID: -4954596356698933532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_64
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1107
+        width: 10
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcec94a924c50a140800000000000000
+      internalID: 4728881049865146061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_65
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 832
+        width: 49
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945a4ca6dcc0b3820800000000000000
+      internalID: 2898924861542147401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_66
+      rect:
+        serializedVersion: 2
+        x: 804
+        y: 970
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 952da74bb4381bb10800000000000000
+      internalID: 1995520471075574361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_67
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 832
+        width: 49
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 398999d3a71fd4320800000000000000
+      internalID: 2543954871855978643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_68
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 832
+        width: 51
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d50ad9ed4504442d0800000000000000
+      internalID: -3295438294072057763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_69
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 832
+        width: 51
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469fffc714d1e94d0800000000000000
+      internalID: -3126028924241315484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_70
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 931
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef3db03d07099ba60800000000000000
+      internalID: 7690336652963337214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_71
+      rect:
+        serializedVersion: 2
+        x: 964
+        y: 931
+        width: 32
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2340f73a2d8d0e10800000000000000
+      internalID: 2165542208301712174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_72
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 767
+        width: 123
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3babec8939cb12d0800000000000000
+      internalID: -3306828252358923458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_73
+      rect:
+        serializedVersion: 2
+        x: 649
+        y: 770
+        width: 114
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3c4d74b0c2fbde60800000000000000
+      internalID: 7988245273547459645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_74
+      rect:
+        serializedVersion: 2
+        x: 727
+        y: 862
+        width: 9
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a18aa18c537346f0800000000000000
+      internalID: -701590275790044762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_75
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 769
+        width: 112
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 361e16555fc0a5c80800000000000000
+      internalID: -8333333912656682653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_76
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 771
+        width: 122
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d94e9033886e9b0800000000000000
+      internalID: -5051200179258745582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_77
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 567
+        width: 67
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce92db98555975e70800000000000000
+      internalID: 9103909366368381420
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_78
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 567
+        width: 75
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd2ea7870c54a4000800000000000000
+      internalID: 20905841233945309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_79
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 568
+        width: 15
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76da73cbe319aaa0800000000000000
+      internalID: -6149361912879851908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_80
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 540
+        width: 15
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f0191e438fda5cc0800000000000000
+      internalID: -3721416387024318224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_81
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 594
+        width: 14
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 313e70e41216e1e50800000000000000
+      internalID: 6781964884537500435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_82
+      rect:
+        serializedVersion: 2
+        x: 571
+        y: 567
+        width: 68
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 369f79db4411641a0800000000000000
+      internalID: -6825749198297106077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_83
+      rect:
+        serializedVersion: 2
+        x: 692
+        y: 567
+        width: 75
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48da149be4925aef0800000000000000
+      internalID: -97626398826320508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_84
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 540
+        width: 15
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6bc73c7d4b4d8b60800000000000000
+      internalID: 7749933329943087978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_85
+      rect:
+        serializedVersion: 2
+        x: 827
+        y: 568
+        width: 15
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 285fb43ad0d790be0800000000000000
+      internalID: -1510538702478379646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_86
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 595
+        width: 10
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb9db84fcf6c1fdc0800000000000000
+      internalID: -3606883036810192453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_87
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 320
+        width: 49
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce04780e266e51c0800000000000000
+      internalID: -4513057428682305853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_88
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 320
+        width: 49
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 336a3872efa18e470800000000000000
+      internalID: 8424012781883467315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_89
+      rect:
+        serializedVersion: 2
+        x: 317
+        y: 320
+        width: 51
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c03847b58fd670070800000000000000
+      internalID: 8072541770538582796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_bathroom_01_90
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 320
+        width: 51
+        height: 136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5136308fd281e1c90800000000000000
+      internalID: -7197288568777907435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fixtures_bathroom_01_0: 5076625794531621101
+      fixtures_bathroom_01_1: 2407824566569991675
+      fixtures_bathroom_01_10: 1588736688638092379
+      fixtures_bathroom_01_11: 2459989668556868218
+      fixtures_bathroom_01_12: 4363262162223287403
+      fixtures_bathroom_01_13: -5831653576068346389
+      fixtures_bathroom_01_14: -8975181327056743750
+      fixtures_bathroom_01_15: 155254317738901446
+      fixtures_bathroom_01_16: 6809108046231358100
+      fixtures_bathroom_01_17: 4524601991447379373
+      fixtures_bathroom_01_18: 1489797911912301089
+      fixtures_bathroom_01_19: -7543852773931951944
+      fixtures_bathroom_01_2: 514444077574554266
+      fixtures_bathroom_01_20: 7489571119082260008
+      fixtures_bathroom_01_21: 2204881081128342942
+      fixtures_bathroom_01_22: 2707181691440722517
+      fixtures_bathroom_01_23: -2353207317201770782
+      fixtures_bathroom_01_24: 4451955919321333912
+      fixtures_bathroom_01_25: -1867570406359134398
+      fixtures_bathroom_01_26: 8490678303083945154
+      fixtures_bathroom_01_27: 8590845294316156234
+      fixtures_bathroom_01_28: -4804008774431432588
+      fixtures_bathroom_01_29: -2696872482788281697
+      fixtures_bathroom_01_3: -1803790719891900498
+      fixtures_bathroom_01_30: -137003052922178446
+      fixtures_bathroom_01_31: -4728158579540527783
+      fixtures_bathroom_01_32: 5129660163430746613
+      fixtures_bathroom_01_33: -92872501040648545
+      fixtures_bathroom_01_34: 3533857274456671777
+      fixtures_bathroom_01_35: 3840669835613370834
+      fixtures_bathroom_01_36: 2762262165637924954
+      fixtures_bathroom_01_37: -103469861251877456
+      fixtures_bathroom_01_38: -5018449750018374934
+      fixtures_bathroom_01_39: 8084363310492320338
+      fixtures_bathroom_01_4: -9081187953185922189
+      fixtures_bathroom_01_40: -9062739332694220868
+      fixtures_bathroom_01_41: -5515190785684855678
+      fixtures_bathroom_01_42: 3035708641554605003
+      fixtures_bathroom_01_43: -689588672590645104
+      fixtures_bathroom_01_44: 6236187001921079121
+      fixtures_bathroom_01_45: -7270917542720359535
+      fixtures_bathroom_01_46: 8461971783672384213
+      fixtures_bathroom_01_47: -422530719221597337
+      fixtures_bathroom_01_48: 1064087198154962336
+      fixtures_bathroom_01_49: 2769482172470672535
+      fixtures_bathroom_01_5: 8153908582966747037
+      fixtures_bathroom_01_50: -4892785580308454865
+      fixtures_bathroom_01_51: 820536880786801322
+      fixtures_bathroom_01_52: -6490055961846879924
+      fixtures_bathroom_01_53: -2683463057473357710
+      fixtures_bathroom_01_54: 3618763580758277974
+      fixtures_bathroom_01_55: 168092020137386115
+      fixtures_bathroom_01_56: 3753030616285204850
+      fixtures_bathroom_01_57: 3258308848192565958
+      fixtures_bathroom_01_58: -4860310401736426164
+      fixtures_bathroom_01_59: -8336125682376090174
+      fixtures_bathroom_01_6: -1904585867374256478
+      fixtures_bathroom_01_60: 4679441930400571631
+      fixtures_bathroom_01_61: -2865438306457058641
+      fixtures_bathroom_01_62: 407777834389905375
+      fixtures_bathroom_01_63: -4954596356698933532
+      fixtures_bathroom_01_64: 4728881049865146061
+      fixtures_bathroom_01_65: 2898924861542147401
+      fixtures_bathroom_01_66: 1995520471075574361
+      fixtures_bathroom_01_67: 2543954871855978643
+      fixtures_bathroom_01_68: -3295438294072057763
+      fixtures_bathroom_01_69: -3126028924241315484
+      fixtures_bathroom_01_7: 8895748071893598399
+      fixtures_bathroom_01_70: 7690336652963337214
+      fixtures_bathroom_01_71: 2165542208301712174
+      fixtures_bathroom_01_72: -3306828252358923458
+      fixtures_bathroom_01_73: 7988245273547459645
+      fixtures_bathroom_01_74: -701590275790044762
+      fixtures_bathroom_01_75: -8333333912656682653
+      fixtures_bathroom_01_76: -5051200179258745582
+      fixtures_bathroom_01_77: 9103909366368381420
+      fixtures_bathroom_01_78: 20905841233945309
+      fixtures_bathroom_01_79: -6149361912879851908
+      fixtures_bathroom_01_8: -350909788981384182
+      fixtures_bathroom_01_80: -3721416387024318224
+      fixtures_bathroom_01_81: 6781964884537500435
+      fixtures_bathroom_01_82: -6825749198297106077
+      fixtures_bathroom_01_83: -97626398826320508
+      fixtures_bathroom_01_84: 7749933329943087978
+      fixtures_bathroom_01_85: -1510538702478379646
+      fixtures_bathroom_01_86: -3606883036810192453
+      fixtures_bathroom_01_87: -4513057428682305853
+      fixtures_bathroom_01_88: 8424012781883467315
+      fixtures_bathroom_01_89: 8072541770538582796
+      fixtures_bathroom_01_9: 2504624862623168762
+      fixtures_bathroom_01_90: -7197288568777907435
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

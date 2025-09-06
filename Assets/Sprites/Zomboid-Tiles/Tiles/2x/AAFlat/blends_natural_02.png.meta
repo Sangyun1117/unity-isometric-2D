@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: 77e6fb5cf98484c40aa414613a88f765
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1180402285920263653
+    second: blends_natural_02_0
+  - first:
+      213: -3519126969372866909
+    second: blends_natural_02_1
+  - first:
+      213: 8532137980233203567
+    second: blends_natural_02_2
+  - first:
+      213: -6224936996841892328
+    second: blends_natural_02_3
+  - first:
+      213: 7743221296665020114
+    second: blends_natural_02_4
+  - first:
+      213: 3965613026711785213
+    second: blends_natural_02_5
+  - first:
+      213: 1422962425471821750
+    second: blends_natural_02_6
+  - first:
+      213: -2014476511449506469
+    second: blends_natural_02_7
+  - first:
+      213: 8727871924731923326
+    second: blends_natural_02_8
+  - first:
+      213: -1157255800297496238
+    second: blends_natural_02_9
+  - first:
+      213: 2872703131653888118
+    second: blends_natural_02_10
+  - first:
+      213: 8425974874759945042
+    second: blends_natural_02_11
+  - first:
+      213: 5183879177484195662
+    second: blends_natural_02_12
+  - first:
+      213: -7461461860913853238
+    second: blends_natural_02_13
+  - first:
+      213: -3115972068265720510
+    second: blends_natural_02_14
+  - first:
+      213: 5960202196513287876
+    second: blends_natural_02_15
+  - first:
+      213: -3496925237087294182
+    second: blends_natural_02_16
+  - first:
+      213: -2256393928337739501
+    second: blends_natural_02_17
+  - first:
+      213: 9198555651587158337
+    second: blends_natural_02_18
+  - first:
+      213: 6586949640330673834
+    second: blends_natural_02_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: blends_natural_02_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2303
+        width: 127
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ed165000a1a16010800000000000000
+      internalID: 1180402285920263653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blends_natural_02_1
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2330
+        width: 128
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6880f9aac892fc0800000000000000
+      internalID: -3519126969372866909
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blends_natural_02_2
+      rect:
+        serializedVersion: 2
+        x: 255
+        y: 2303
+        width: 128
+        height: 45
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6f3b6ea94e386670800000000000000
+      internalID: 8532137980233203567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blends_natural_02_3
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 2303
+        width: 77
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8165d0258c49c99a0800000000000000
+      internalID: -6224936996841892328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blends_natural_02_4
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 2325
+        width: 12
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d645f47eb2757b60800000000000000
+      internalID: 7743221296665020114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blends_natural_02_5
+      rect:
+        serializedVersion: 2
+        x: 548
+        y: 2311
+        width: 13
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfe41dd7900b80730800000000000000
+      internalID: 3965613026711785213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blends_natural_02_6
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 2303
+        width: 72
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b7e9fa69c06fb310800000000000000
+      internalID: 1422962425471821750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blends_natural_02_7
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 2303
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5d1fa639442b04e0800000000000000
+      internalID: -2014476511449506469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blends_natural_02_8
+      rect:
+        serializedVersion: 2
+        x: 767
+        y: 2303
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7b40c6f541af1970800000000000000
+      internalID: 8727871924731923326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blends_natural_02_9
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 2303
+        width: 128
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251e1052bf990ffe0800000000000000
+      internalID: -1157255800297496238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blends_natural_02_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2066
+        width: 127
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 678d16b2744edd720800000000000000
+      internalID: 2872703131653888118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blends_natural_02_11
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2064
+        width: 100
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25bde6081831fe470800000000000000
+      internalID: 8425974874759945042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blends_natural_02_12
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 2047
+        width: 75
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e475d7485a6d0f740800000000000000
+      internalID: 5183879177484195662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blends_natural_02_13
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 2087
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: accca1358ff837890800000000000000
+      internalID: -7461461860913853238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blends_natural_02_14
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 2073
+        width: 82
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2458bfcb9e7d1c4d0800000000000000
+      internalID: -3115972068265720510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blends_natural_02_15
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 2064
+        width: 75
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ce6da8b154e6b250800000000000000
+      internalID: 5960202196513287876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blends_natural_02_16
+      rect:
+        serializedVersion: 2
+        x: 795
+        y: 2047
+        width: 100
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1d205d360d687fc0800000000000000
+      internalID: -3496925237087294182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blends_natural_02_17
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 2047
+        width: 74
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 311b4145dadafa0e0800000000000000
+      internalID: -2256393928337739501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blends_natural_02_18
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 2047
+        width: 110
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141b38b01a5d7af70800000000000000
+      internalID: 9198555651587158337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: blends_natural_02_19
+      rect:
+        serializedVersion: 2
+        x: 597
+        y: 2065
+        width: 13
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaefb497ccb896b50800000000000000
+      internalID: 6586949640330673834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      blends_natural_02_0: 1180402285920263653
+      blends_natural_02_1: -3519126969372866909
+      blends_natural_02_10: 2872703131653888118
+      blends_natural_02_11: 8425974874759945042
+      blends_natural_02_12: 5183879177484195662
+      blends_natural_02_13: -7461461860913853238
+      blends_natural_02_14: -3115972068265720510
+      blends_natural_02_15: 5960202196513287876
+      blends_natural_02_16: -3496925237087294182
+      blends_natural_02_17: -2256393928337739501
+      blends_natural_02_18: 9198555651587158337
+      blends_natural_02_19: 6586949640330673834
+      blends_natural_02_2: 8532137980233203567
+      blends_natural_02_3: -6224936996841892328
+      blends_natural_02_4: 7743221296665020114
+      blends_natural_02_5: 3965613026711785213
+      blends_natural_02_6: 1422962425471821750
+      blends_natural_02_7: -2014476511449506469
+      blends_natural_02_8: 8727871924731923326
+      blends_natural_02_9: -1157255800297496238
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

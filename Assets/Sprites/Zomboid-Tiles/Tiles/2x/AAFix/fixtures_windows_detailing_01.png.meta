@@ -1,0 +1,637 @@
+fileFormatVersion: 2
+guid: b43f4cbc12eb3d840b0e4d71356835ab
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3622120965124151425
+    second: fixtures_windows_detailing_01_0
+  - first:
+      213: -7965290358737656163
+    second: fixtures_windows_detailing_01_1
+  - first:
+      213: -3296656624946102783
+    second: fixtures_windows_detailing_01_2
+  - first:
+      213: 2847457184671262517
+    second: fixtures_windows_detailing_01_3
+  - first:
+      213: -8429551802321307081
+    second: fixtures_windows_detailing_01_4
+  - first:
+      213: 1356523294543360986
+    second: fixtures_windows_detailing_01_5
+  - first:
+      213: -2384912435908391095
+    second: fixtures_windows_detailing_01_6
+  - first:
+      213: -7911550554476790611
+    second: fixtures_windows_detailing_01_7
+  - first:
+      213: -998712836160278749
+    second: fixtures_windows_detailing_01_8
+  - first:
+      213: -780366401917142607
+    second: fixtures_windows_detailing_01_9
+  - first:
+      213: 2459148654225417972
+    second: fixtures_windows_detailing_01_10
+  - first:
+      213: 6655199202271168132
+    second: fixtures_windows_detailing_01_11
+  - first:
+      213: 3233122440092485913
+    second: fixtures_windows_detailing_01_12
+  - first:
+      213: -3039060339267557939
+    second: fixtures_windows_detailing_01_13
+  - first:
+      213: -3042071744052286601
+    second: fixtures_windows_detailing_01_14
+  - first:
+      213: -689591916644664675
+    second: fixtures_windows_detailing_01_15
+  - first:
+      213: -70836149320428336
+    second: fixtures_windows_detailing_01_16
+  - first:
+      213: 482735893077083246
+    second: fixtures_windows_detailing_01_17
+  - first:
+      213: -5896596909852013805
+    second: fixtures_windows_detailing_01_18
+  - first:
+      213: 8110742420536298256
+    second: fixtures_windows_detailing_01_19
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: fixtures_windows_detailing_01_0
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1402
+        width: 14
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18858b3b3db544230800000000000000
+      internalID: 3622120965124151425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_detailing_01_1
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1375
+        width: 13
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d962992ee9a957190800000000000000
+      internalID: -7965290358737656163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_detailing_01_2
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1375
+        width: 13
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10e36ab144cef32d0800000000000000
+      internalID: -3296656624946102783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_detailing_01_3
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1402
+        width: 14
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 537e6751933348720800000000000000
+      internalID: 2847457184671262517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_detailing_01_4
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1402
+        width: 14
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a72e62c47340b80800000000000000
+      internalID: -8429551802321307081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_detailing_01_5
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1375
+        width: 13
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad3bccccfb653d210800000000000000
+      internalID: 1356523294543360986
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_detailing_01_6
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1375
+        width: 13
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94fc44d76c617eed0800000000000000
+      internalID: -2384912435908391095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_detailing_01_7
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1402
+        width: 14
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dacbdd910b6843290800000000000000
+      internalID: -7911550554476790611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_detailing_01_8
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 1146
+        width: 14
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32f2b0887fbd322f0800000000000000
+      internalID: -998712836160278749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_detailing_01_9
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 1119
+        width: 13
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b9341b54e49b25f0800000000000000
+      internalID: -780366401917142607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_detailing_01_10
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 1119
+        width: 13
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f66cf00ca6a02220800000000000000
+      internalID: 2459148654225417972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_detailing_01_11
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 1146
+        width: 14
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48606d8e9640c5c50800000000000000
+      internalID: 6655199202271168132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_detailing_01_12
+      rect:
+        serializedVersion: 2
+        x: 565
+        y: 1146
+        width: 14
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9198e0dbabb5edc20800000000000000
+      internalID: 3233122440092485913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_detailing_01_13
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1119
+        width: 13
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc5aafa19b613d5d0800000000000000
+      internalID: -3039060339267557939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_detailing_01_14
+      rect:
+        serializedVersion: 2
+        x: 880
+        y: 1119
+        width: 13
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ba28acdd368c5d0800000000000000
+      internalID: -3042071744052286601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_detailing_01_15
+      rect:
+        serializedVersion: 2
+        x: 955
+        y: 1146
+        width: 14
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9af9603ec31e66f0800000000000000
+      internalID: -689591916644664675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_detailing_01_16
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 890
+        width: 14
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d4df72c5e6540ff0800000000000000
+      internalID: -70836149320428336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_detailing_01_17
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 863
+        width: 13
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e64c033bcb503b600800000000000000
+      internalID: 482735893077083246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_detailing_01_18
+      rect:
+        serializedVersion: 2
+        x: 368
+        y: 766
+        width: 81
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31bca9c1a541b2ea0800000000000000
+      internalID: -5896596909852013805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: fixtures_windows_detailing_01_19
+      rect:
+        serializedVersion: 2
+        x: 443
+        y: 890
+        width: 14
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01b02c842452f8070800000000000000
+      internalID: 8110742420536298256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      fixtures_windows_detailing_01_0: 3622120965124151425
+      fixtures_windows_detailing_01_1: -7965290358737656163
+      fixtures_windows_detailing_01_10: 2459148654225417972
+      fixtures_windows_detailing_01_11: 6655199202271168132
+      fixtures_windows_detailing_01_12: 3233122440092485913
+      fixtures_windows_detailing_01_13: -3039060339267557939
+      fixtures_windows_detailing_01_14: -3042071744052286601
+      fixtures_windows_detailing_01_15: -689591916644664675
+      fixtures_windows_detailing_01_16: -70836149320428336
+      fixtures_windows_detailing_01_17: 482735893077083246
+      fixtures_windows_detailing_01_18: -5896596909852013805
+      fixtures_windows_detailing_01_19: 8110742420536298256
+      fixtures_windows_detailing_01_2: -3296656624946102783
+      fixtures_windows_detailing_01_3: 2847457184671262517
+      fixtures_windows_detailing_01_4: -8429551802321307081
+      fixtures_windows_detailing_01_5: 1356523294543360986
+      fixtures_windows_detailing_01_6: -2384912435908391095
+      fixtures_windows_detailing_01_7: -7911550554476790611
+      fixtures_windows_detailing_01_8: -998712836160278749
+      fixtures_windows_detailing_01_9: -780366401917142607
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

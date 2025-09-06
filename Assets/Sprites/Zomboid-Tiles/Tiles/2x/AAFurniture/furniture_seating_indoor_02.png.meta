@@ -1,0 +1,1781 @@
+fileFormatVersion: 2
+guid: c56426736404ceb49b8d3611378a4a5d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3319902066159380624
+    second: furniture_seating_indoor_02_0
+  - first:
+      213: 6829167225412765306
+    second: furniture_seating_indoor_02_1
+  - first:
+      213: 2994895995219118247
+    second: furniture_seating_indoor_02_2
+  - first:
+      213: 1058876840287828467
+    second: furniture_seating_indoor_02_3
+  - first:
+      213: 5768470054990064500
+    second: furniture_seating_indoor_02_4
+  - first:
+      213: -4994591994606116550
+    second: furniture_seating_indoor_02_5
+  - first:
+      213: 2261758042476291173
+    second: furniture_seating_indoor_02_6
+  - first:
+      213: 2598704608517477357
+    second: furniture_seating_indoor_02_7
+  - first:
+      213: 1359275887362691548
+    second: furniture_seating_indoor_02_8
+  - first:
+      213: -5993052315786159449
+    second: furniture_seating_indoor_02_9
+  - first:
+      213: -2600641872676846157
+    second: furniture_seating_indoor_02_10
+  - first:
+      213: -97017648681294482
+    second: furniture_seating_indoor_02_11
+  - first:
+      213: -8543979527703268992
+    second: furniture_seating_indoor_02_12
+  - first:
+      213: 5720045215608822804
+    second: furniture_seating_indoor_02_13
+  - first:
+      213: -5787902228188533691
+    second: furniture_seating_indoor_02_14
+  - first:
+      213: 8858348807759320430
+    second: furniture_seating_indoor_02_15
+  - first:
+      213: 2008205249080989530
+    second: furniture_seating_indoor_02_16
+  - first:
+      213: 2884933222925730093
+    second: furniture_seating_indoor_02_17
+  - first:
+      213: -3479366140829144212
+    second: furniture_seating_indoor_02_18
+  - first:
+      213: 6506327278246928373
+    second: furniture_seating_indoor_02_19
+  - first:
+      213: 73866287870332560
+    second: furniture_seating_indoor_02_20
+  - first:
+      213: 1929566244776452274
+    second: furniture_seating_indoor_02_21
+  - first:
+      213: -7071633637189260319
+    second: furniture_seating_indoor_02_22
+  - first:
+      213: 5975577387659192659
+    second: furniture_seating_indoor_02_23
+  - first:
+      213: 4028805818695843585
+    second: furniture_seating_indoor_02_24
+  - first:
+      213: 8624202576056062012
+    second: furniture_seating_indoor_02_25
+  - first:
+      213: 7664517315737719999
+    second: furniture_seating_indoor_02_26
+  - first:
+      213: -6361166083184903313
+    second: furniture_seating_indoor_02_27
+  - first:
+      213: -3818163416634342506
+    second: furniture_seating_indoor_02_28
+  - first:
+      213: -5931724519556831762
+    second: furniture_seating_indoor_02_29
+  - first:
+      213: 6784428051012118692
+    second: furniture_seating_indoor_02_30
+  - first:
+      213: -6893557143541652255
+    second: furniture_seating_indoor_02_31
+  - first:
+      213: 1813505378757885298
+    second: furniture_seating_indoor_02_32
+  - first:
+      213: -2800032688033096588
+    second: furniture_seating_indoor_02_33
+  - first:
+      213: 106548161189073621
+    second: furniture_seating_indoor_02_34
+  - first:
+      213: 5218694453327685911
+    second: furniture_seating_indoor_02_35
+  - first:
+      213: 8575080771478063414
+    second: furniture_seating_indoor_02_36
+  - first:
+      213: 1698595613066963612
+    second: furniture_seating_indoor_02_37
+  - first:
+      213: -4808042150097937147
+    second: furniture_seating_indoor_02_38
+  - first:
+      213: 1873062138268773103
+    second: furniture_seating_indoor_02_39
+  - first:
+      213: -7021634290160214716
+    second: furniture_seating_indoor_02_40
+  - first:
+      213: -7729372136278986583
+    second: furniture_seating_indoor_02_41
+  - first:
+      213: -8482447810155395448
+    second: furniture_seating_indoor_02_42
+  - first:
+      213: 1599323051103027533
+    second: furniture_seating_indoor_02_43
+  - first:
+      213: -4530821469840859653
+    second: furniture_seating_indoor_02_44
+  - first:
+      213: -1526760335921366903
+    second: furniture_seating_indoor_02_45
+  - first:
+      213: 2791518880599933793
+    second: furniture_seating_indoor_02_46
+  - first:
+      213: 8929704623398336512
+    second: furniture_seating_indoor_02_47
+  - first:
+      213: 8441450103725562192
+    second: furniture_seating_indoor_02_48
+  - first:
+      213: 6033619037202218672
+    second: furniture_seating_indoor_02_49
+  - first:
+      213: 2100437765905864671
+    second: furniture_seating_indoor_02_50
+  - first:
+      213: -7059217903530516712
+    second: furniture_seating_indoor_02_51
+  - first:
+      213: 2404309107083628875
+    second: furniture_seating_indoor_02_52
+  - first:
+      213: 4782752318326125548
+    second: furniture_seating_indoor_02_53
+  - first:
+      213: -1463018612584395799
+    second: furniture_seating_indoor_02_54
+  - first:
+      213: -6374193773686761887
+    second: furniture_seating_indoor_02_55
+  - first:
+      213: 1731462683359212861
+    second: furniture_seating_indoor_02_56
+  - first:
+      213: -5925814171250539753
+    second: furniture_seating_indoor_02_57
+  - first:
+      213: -106477434506428964
+    second: furniture_seating_indoor_02_58
+  - first:
+      213: -8613621106995914569
+    second: furniture_seating_indoor_02_59
+  - first:
+      213: -275550086716736593
+    second: furniture_seating_indoor_02_60
+  - first:
+      213: -3317485115470943013
+    second: furniture_seating_indoor_02_61
+  - first:
+      213: 4271303399328147027
+    second: furniture_seating_indoor_02_62
+  - first:
+      213: 4514136793036904260
+    second: furniture_seating_indoor_02_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_0
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 1800
+        width: 74
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 098e38ee659a21e20800000000000000
+      internalID: 3319902066159380624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_1
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 1802
+        width: 74
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a76c776b86316ce50800000000000000
+      internalID: 6829167225412765306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_2
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1803
+        width: 74
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8864e3a02009920800000000000000
+      internalID: 2994895995219118247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_3
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 1803
+        width: 74
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f97e3640e2e1be00800000000000000
+      internalID: 1058876840287828467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_4
+      rect:
+        serializedVersion: 2
+        x: 540
+        y: 1803
+        width: 74
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b292dc3f8bd0050800000000000000
+      internalID: 5768470054990064500
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_5
+      rect:
+        serializedVersion: 2
+        x: 668
+        y: 1804
+        width: 74
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a312e7b1b05afaab0800000000000000
+      internalID: -4994591994606116550
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_6
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1805
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 564aea1d4f0636f10800000000000000
+      internalID: 2261758042476291173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_7
+      rect:
+        serializedVersion: 2
+        x: 920
+        y: 1804
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3dadaa214701420800000000000000
+      internalID: 2598704608517477357
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_8
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 1547
+        width: 74
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd1d102c73e1dd210800000000000000
+      internalID: 1359275887362691548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_9
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 1548
+        width: 74
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aadb3ddba664dca0800000000000000
+      internalID: -5993052315786159449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_10
+      rect:
+        serializedVersion: 2
+        x: 284
+        y: 1549
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b5071fdef9a8ebd0800000000000000
+      internalID: -2600641872676846157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_11
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 1548
+        width: 74
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65686966f257aef0800000000000000
+      internalID: -97017648681294482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_12
+      rect:
+        serializedVersion: 2
+        x: 543
+        y: 1547
+        width: 66
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 081790333efad6980800000000000000
+      internalID: -8543979527703268992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_13
+      rect:
+        serializedVersion: 2
+        x: 671
+        y: 1548
+        width: 66
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41c598741dea16f40800000000000000
+      internalID: 5720045215608822804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_14
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 1551
+        width: 66
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54c612ec69d3dafa0800000000000000
+      internalID: -5787902228188533691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_15
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1550
+        width: 66
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e65dffe9e4d2fea70800000000000000
+      internalID: 8858348807759320430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_16
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1286
+        width: 112
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a571c8bb8049edb10800000000000000
+      internalID: 2008205249080989530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_17
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1286
+        width: 108
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2106313b77590820800000000000000
+      internalID: 2884933222925730093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_18
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1287
+        width: 106
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b6b5cedeec6bfc0800000000000000
+      internalID: -3479366140829144212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_19
+      rect:
+        serializedVersion: 2
+        x: 398
+        y: 1287
+        width: 116
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ff9754003e1b4a50800000000000000
+      internalID: 6506327278246928373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_20
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 1282
+        width: 118
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e43695ffc660100800000000000000
+      internalID: 73866287870332560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_21
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1282
+        width: 120
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b02c7eb64237ca10800000000000000
+      internalID: 1929566244776452274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_22
+      rect:
+        serializedVersion: 2
+        x: 770
+        y: 1281
+        width: 126
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eb61a19ca28cdd90800000000000000
+      internalID: -7071633637189260319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_23
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 1281
+        width: 118
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 359684f59f38de250800000000000000
+      internalID: 5975577387659192659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_24
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 1025
+        width: 111
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10f746ceb8139e730800000000000000
+      internalID: 4028805818695843585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_25
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 1030
+        width: 114
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3094d8cc825fa770800000000000000
+      internalID: 8624202576056062012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_26
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 1031
+        width: 112
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb4906be3e5dd5a60800000000000000
+      internalID: 7664517315737719999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_27
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 1025
+        width: 111
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6b3086762998b7a0800000000000000
+      internalID: -6361166083184903313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_28
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1028
+        width: 115
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6934e112a98230bc0800000000000000
+      internalID: -3818163416634342506
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_29
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 1024
+        width: 114
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee527522af74eada0800000000000000
+      internalID: -5931724519556831762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_30
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 1023
+        width: 114
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a8e5c0fd51272e50800000000000000
+      internalID: 6784428051012118692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_31
+      rect:
+        serializedVersion: 2
+        x: 895
+        y: 1027
+        width: 115
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e4e7543d4a2550a0800000000000000
+      internalID: -6893557143541652255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_32
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 776
+        width: 115
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 27dbf1b988dda2910800000000000000
+      internalID: 1813505378757885298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_33
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 769
+        width: 113
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c1e4efa194429d0800000000000000
+      internalID: -2800032688033096588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_34
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 770
+        width: 112
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d25523fcf88a7100800000000000000
+      internalID: 106548161189073621
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_35
+      rect:
+        serializedVersion: 2
+        x: 382
+        y: 777
+        width: 116
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 719e5e994f68c6840800000000000000
+      internalID: 5218694453327685911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_36
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 777
+        width: 109
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6398b38678ec00770800000000000000
+      internalID: 8575080771478063414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_37
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 769
+        width: 114
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9aa4e5e5bf929710800000000000000
+      internalID: 1698595613066963612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_38
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 769
+        width: 111
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50d9e4a7327664db0800000000000000
+      internalID: -4808042150097937147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_39
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 776
+        width: 112
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea6eb147147ef910800000000000000
+      internalID: 1873062138268773103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_40
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 515
+        width: 120
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d5c48b0d42e8e90800000000000000
+      internalID: -7021634290160214716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_41
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 515
+        width: 123
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a0f9487ef0cbb490800000000000000
+      internalID: -7729372136278986583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_42
+      rect:
+        serializedVersion: 2
+        x: 260
+        y: 515
+        width: 126
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 886c5e998aa484a80800000000000000
+      internalID: -8482447810155395448
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_43
+      rect:
+        serializedVersion: 2
+        x: 389
+        y: 515
+        width: 118
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d41071667dfe13610800000000000000
+      internalID: 1599323051103027533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_44
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 515
+        width: 123
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfd1c65e0e94f11c0800000000000000
+      internalID: -4530821469840859653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_45
+      rect:
+        serializedVersion: 2
+        x: 644
+        y: 515
+        width: 120
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9883048409bdfcae0800000000000000
+      internalID: -1526760335921366903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_46
+      rect:
+        serializedVersion: 2
+        x: 771
+        y: 514
+        width: 125
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16384fdb1a77db620800000000000000
+      internalID: 2791518880599933793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_47
+      rect:
+        serializedVersion: 2
+        x: 897
+        y: 514
+        width: 118
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00832da1b0faceb70800000000000000
+      internalID: 8929704623398336512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_48
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 257
+        width: 110
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0591fb5052e062570800000000000000
+      internalID: 8441450103725562192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_49
+      rect:
+        serializedVersion: 2
+        x: 129
+        y: 262
+        width: 114
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bef87efb88bbb350800000000000000
+      internalID: 6033619037202218672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_50
+      rect:
+        serializedVersion: 2
+        x: 269
+        y: 263
+        width: 112
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd752adf401462d10800000000000000
+      internalID: 2100437765905864671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_51
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 257
+        width: 111
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81f5cf3d7be980e90800000000000000
+      internalID: -7059217903530516712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_52
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 260
+        width: 115
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b41d4f1f462dd5120800000000000000
+      internalID: 2404309107083628875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_53
+      rect:
+        serializedVersion: 2
+        x: 645
+        y: 256
+        width: 114
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce33186b4efbf5240800000000000000
+      internalID: 4782752318326125548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_54
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 255
+        width: 114
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eb4f11c25052bbe0800000000000000
+      internalID: -1463018612584395799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_55
+      rect:
+        serializedVersion: 2
+        x: 896
+        y: 260
+        width: 115
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166d4e5e8805a87a0800000000000000
+      internalID: -6374193773686761887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_56
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 11
+        width: 74
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3578770324670810800000000000000
+      internalID: 1731462683359212861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_57
+      rect:
+        serializedVersion: 2
+        x: 158
+        y: 13
+        width: 74
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 713c2a5586743cda0800000000000000
+      internalID: -5925814171250539753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_58
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 14
+        width: 74
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdd36a36657b58ef0800000000000000
+      internalID: -106477434506428964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_59
+      rect:
+        serializedVersion: 2
+        x: 411
+        y: 14
+        width: 74
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b893b77d35467880800000000000000
+      internalID: -8613621106995914569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_60
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 5
+        width: 100
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fabbb63f7ac0d2cf0800000000000000
+      internalID: -275550086716736593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_61
+      rect:
+        serializedVersion: 2
+        x: 650
+        y: 7
+        width: 99
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdc65b04ddce5f1d0800000000000000
+      internalID: -3317485115470943013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_62
+      rect:
+        serializedVersion: 2
+        x: 787
+        y: 7
+        width: 99
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3566fd4bfc7b64b30800000000000000
+      internalID: 4271303399328147027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_seating_indoor_02_63
+      rect:
+        serializedVersion: 2
+        x: 912
+        y: 4
+        width: 98
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4475c701f7f65ae30800000000000000
+      internalID: 4514136793036904260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      furniture_seating_indoor_02_0: 3319902066159380624
+      furniture_seating_indoor_02_1: 6829167225412765306
+      furniture_seating_indoor_02_10: -2600641872676846157
+      furniture_seating_indoor_02_11: -97017648681294482
+      furniture_seating_indoor_02_12: -8543979527703268992
+      furniture_seating_indoor_02_13: 5720045215608822804
+      furniture_seating_indoor_02_14: -5787902228188533691
+      furniture_seating_indoor_02_15: 8858348807759320430
+      furniture_seating_indoor_02_16: 2008205249080989530
+      furniture_seating_indoor_02_17: 2884933222925730093
+      furniture_seating_indoor_02_18: -3479366140829144212
+      furniture_seating_indoor_02_19: 6506327278246928373
+      furniture_seating_indoor_02_2: 2994895995219118247
+      furniture_seating_indoor_02_20: 73866287870332560
+      furniture_seating_indoor_02_21: 1929566244776452274
+      furniture_seating_indoor_02_22: -7071633637189260319
+      furniture_seating_indoor_02_23: 5975577387659192659
+      furniture_seating_indoor_02_24: 4028805818695843585
+      furniture_seating_indoor_02_25: 8624202576056062012
+      furniture_seating_indoor_02_26: 7664517315737719999
+      furniture_seating_indoor_02_27: -6361166083184903313
+      furniture_seating_indoor_02_28: -3818163416634342506
+      furniture_seating_indoor_02_29: -5931724519556831762
+      furniture_seating_indoor_02_3: 1058876840287828467
+      furniture_seating_indoor_02_30: 6784428051012118692
+      furniture_seating_indoor_02_31: -6893557143541652255
+      furniture_seating_indoor_02_32: 1813505378757885298
+      furniture_seating_indoor_02_33: -2800032688033096588
+      furniture_seating_indoor_02_34: 106548161189073621
+      furniture_seating_indoor_02_35: 5218694453327685911
+      furniture_seating_indoor_02_36: 8575080771478063414
+      furniture_seating_indoor_02_37: 1698595613066963612
+      furniture_seating_indoor_02_38: -4808042150097937147
+      furniture_seating_indoor_02_39: 1873062138268773103
+      furniture_seating_indoor_02_4: 5768470054990064500
+      furniture_seating_indoor_02_40: -7021634290160214716
+      furniture_seating_indoor_02_41: -7729372136278986583
+      furniture_seating_indoor_02_42: -8482447810155395448
+      furniture_seating_indoor_02_43: 1599323051103027533
+      furniture_seating_indoor_02_44: -4530821469840859653
+      furniture_seating_indoor_02_45: -1526760335921366903
+      furniture_seating_indoor_02_46: 2791518880599933793
+      furniture_seating_indoor_02_47: 8929704623398336512
+      furniture_seating_indoor_02_48: 8441450103725562192
+      furniture_seating_indoor_02_49: 6033619037202218672
+      furniture_seating_indoor_02_5: -4994591994606116550
+      furniture_seating_indoor_02_50: 2100437765905864671
+      furniture_seating_indoor_02_51: -7059217903530516712
+      furniture_seating_indoor_02_52: 2404309107083628875
+      furniture_seating_indoor_02_53: 4782752318326125548
+      furniture_seating_indoor_02_54: -1463018612584395799
+      furniture_seating_indoor_02_55: -6374193773686761887
+      furniture_seating_indoor_02_56: 1731462683359212861
+      furniture_seating_indoor_02_57: -5925814171250539753
+      furniture_seating_indoor_02_58: -106477434506428964
+      furniture_seating_indoor_02_59: -8613621106995914569
+      furniture_seating_indoor_02_6: 2261758042476291173
+      furniture_seating_indoor_02_60: -275550086716736593
+      furniture_seating_indoor_02_61: -3317485115470943013
+      furniture_seating_indoor_02_62: 4271303399328147027
+      furniture_seating_indoor_02_63: 4514136793036904260
+      furniture_seating_indoor_02_7: 2598704608517477357
+      furniture_seating_indoor_02_8: 1359275887362691548
+      furniture_seating_indoor_02_9: -5993052315786159449
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

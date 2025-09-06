@@ -1,0 +1,689 @@
+fileFormatVersion: 2
+guid: 5a199771ff4e22d4d9a1a3e231b848fa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 3082516790797968961
+    second: furniture_tables_low_01_0
+  - first:
+      213: -7667852074878102219
+    second: furniture_tables_low_01_1
+  - first:
+      213: -3307146665139980829
+    second: furniture_tables_low_01_2
+  - first:
+      213: 8805707060810530056
+    second: furniture_tables_low_01_3
+  - first:
+      213: 616279982216161479
+    second: furniture_tables_low_01_4
+  - first:
+      213: 4367345961269997194
+    second: furniture_tables_low_01_5
+  - first:
+      213: 7416457069622104213
+    second: furniture_tables_low_01_6
+  - first:
+      213: -7573438334011697976
+    second: furniture_tables_low_01_7
+  - first:
+      213: -7618462532934690238
+    second: furniture_tables_low_01_8
+  - first:
+      213: 1353627400683355175
+    second: furniture_tables_low_01_9
+  - first:
+      213: -1040909225179793281
+    second: furniture_tables_low_01_10
+  - first:
+      213: 4388897011972409546
+    second: furniture_tables_low_01_11
+  - first:
+      213: 5745608348958372259
+    second: furniture_tables_low_01_12
+  - first:
+      213: 5990362035911311699
+    second: furniture_tables_low_01_13
+  - first:
+      213: 8932401117575042703
+    second: furniture_tables_low_01_14
+  - first:
+      213: 4356999107801929369
+    second: furniture_tables_low_01_15
+  - first:
+      213: -2403027556617901595
+    second: furniture_tables_low_01_16
+  - first:
+      213: 7731028643952596927
+    second: furniture_tables_low_01_17
+  - first:
+      213: -2948906416648906333
+    second: furniture_tables_low_01_18
+  - first:
+      213: -7304695036844087438
+    second: furniture_tables_low_01_19
+  - first:
+      213: 1385798385872045432
+    second: furniture_tables_low_01_20
+  - first:
+      213: -3377668684779369237
+    second: furniture_tables_low_01_21
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 64
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: furniture_tables_low_01_0
+      rect:
+        serializedVersion: 2
+        x: 17
+        y: 1799
+        width: 107
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 146a0b970bc47ca20800000000000000
+      internalID: 3082516790797968961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_tables_low_01_1
+      rect:
+        serializedVersion: 2
+        x: 135
+        y: 1794
+        width: 104
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53516a6f921569590800000000000000
+      internalID: -7667852074878102219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_tables_low_01_2
+      rect:
+        serializedVersion: 2
+        x: 283
+        y: 1803
+        width: 78
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e5b63c41a7aa12d0800000000000000
+      internalID: -3307146665139980829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_tables_low_01_3
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 1803
+        width: 90
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80db2cbcae7243a70800000000000000
+      internalID: 8805707060810530056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_tables_low_01_4
+      rect:
+        serializedVersion: 2
+        x: 551
+        y: 1799
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8ad2ee0677d8800800000000000000
+      internalID: 616279982216161479
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_tables_low_01_5
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1809
+        width: 76
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e2cb8330eeb9c30800000000000000
+      internalID: 4367345961269997194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_tables_low_01_6
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 1809
+        width: 76
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59092c6296c8ce660800000000000000
+      internalID: 7416457069622104213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_tables_low_01_7
+      rect:
+        serializedVersion: 2
+        x: 911
+        y: 1799
+        width: 72
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c418e406fdb5e690800000000000000
+      internalID: -7573438334011697976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_tables_low_01_8
+      rect:
+        serializedVersion: 2
+        x: 40
+        y: 1544
+        width: 89
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24a1ecdc0b8c54690800000000000000
+      internalID: -7618462532934690238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_tables_low_01_9
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 1551
+        width: 88
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72c77f7f2fc09c210800000000000000
+      internalID: 1353627400683355175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_tables_low_01_10
+      rect:
+        serializedVersion: 2
+        x: 281
+        y: 1551
+        width: 88
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f783bbd1392fd81f0800000000000000
+      internalID: -1040909225179793281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_tables_low_01_11
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 1544
+        width: 87
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac8836a349e78ec30800000000000000
+      internalID: 4388897011972409546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_tables_low_01_12
+      rect:
+        serializedVersion: 2
+        x: 525
+        y: 1541
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1be221a508cbf40800000000000000
+      internalID: 5745608348958372259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_tables_low_01_13
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 1542
+        width: 100
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 351ca7a888a022350800000000000000
+      internalID: 5990362035911311699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_tables_low_01_14
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 1538
+        width: 104
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f86dc549d7346fb70800000000000000
+      internalID: 8932401117575042703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_tables_low_01_15
+      rect:
+        serializedVersion: 2
+        x: 898
+        y: 1543
+        width: 110
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9965a3baa9b277c30800000000000000
+      internalID: 4356999107801929369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_tables_low_01_16
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 1286
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e9a0564b2bb6aed0800000000000000
+      internalID: -2403027556617901595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_tables_low_01_17
+      rect:
+        serializedVersion: 2
+        x: 142
+        y: 1286
+        width: 100
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb71a2747912a4b60800000000000000
+      internalID: 7731028643952596927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_tables_low_01_18
+      rect:
+        serializedVersion: 2
+        x: 270
+        y: 1285
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a995cfec316317d0800000000000000
+      internalID: -2948906416648906333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_tables_low_01_19
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 1285
+        width: 100
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2776950e09280aa90800000000000000
+      internalID: -7304695036844087438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_tables_low_01_20
+      rect:
+        serializedVersion: 2
+        x: 524
+        y: 1285
+        width: 106
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87586382a485b3310800000000000000
+      internalID: 1385798385872045432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: furniture_tables_low_01_21
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 1286
+        width: 103
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: becc3c21a3c1021d0800000000000000
+      internalID: -3377668684779369237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      furniture_tables_low_01_0: 3082516790797968961
+      furniture_tables_low_01_1: -7667852074878102219
+      furniture_tables_low_01_10: -1040909225179793281
+      furniture_tables_low_01_11: 4388897011972409546
+      furniture_tables_low_01_12: 5745608348958372259
+      furniture_tables_low_01_13: 5990362035911311699
+      furniture_tables_low_01_14: 8932401117575042703
+      furniture_tables_low_01_15: 4356999107801929369
+      furniture_tables_low_01_16: -2403027556617901595
+      furniture_tables_low_01_17: 7731028643952596927
+      furniture_tables_low_01_18: -2948906416648906333
+      furniture_tables_low_01_19: -7304695036844087438
+      furniture_tables_low_01_2: -3307146665139980829
+      furniture_tables_low_01_20: 1385798385872045432
+      furniture_tables_low_01_21: -3377668684779369237
+      furniture_tables_low_01_3: 8805707060810530056
+      furniture_tables_low_01_4: 616279982216161479
+      furniture_tables_low_01_5: 4367345961269997194
+      furniture_tables_low_01_6: 7416457069622104213
+      furniture_tables_low_01_7: -7573438334011697976
+      furniture_tables_low_01_8: -7618462532934690238
+      furniture_tables_low_01_9: 1353627400683355175
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
