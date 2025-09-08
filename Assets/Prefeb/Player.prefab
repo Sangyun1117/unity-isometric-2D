@@ -174,7 +174,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   direction: {x: 0, y: 0}
   lastMoveDir: {x: 0, y: 0}
-  actionState: 0
+  actionState: 3
   isShootAnim: 0
 --- !u!95 &5899641553358105060
 Animator:
