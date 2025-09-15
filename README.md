@@ -42,19 +42,10 @@
 <img width="1261" height="512" alt="Image" src="https://github.com/user-attachments/assets/20f935c5-1611-4a3f-8f52-22b1169d04c7" />
 
 ## 🚀 향후 계획
-- 세이브 기능
-
-- 무한맵 기능
-
-- 아이템 제작
-
-- 더 다양한 아이템과 몬스터 추가
-
-- 몬스터 이동 알고리즘 변경 (A* 알고리즘 등)
-
-- 미니맵
-
-- 맵 에디터 기능
+- 맵 추가
+- 아이템 추가
+- 적 캐릭터 추가
+- 스킬 추가
 
 ## 📄 프로젝트 문서 (Notion)
 [🔗 노션 페이지](https://www.notion.so/2383bd2b36e280428f70fc335e0b2c46)
