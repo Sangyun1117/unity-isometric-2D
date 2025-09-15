@@ -8,7 +8,7 @@
 ---
 
 ## 🖼️ 데모 / 스크린샷
-
+<img width="1123" height="658" alt="Image" src="https://github.com/user-attachments/assets/f862eebc-8ea8-4970-a775-90bca29be3dd" />
 ---
 
 ## ⚙️ 개발 환경
